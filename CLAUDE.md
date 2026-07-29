@@ -28,7 +28,15 @@ data/
       images/NNN.jpg       # local full-size photos — every lot has at least one
 thomaston-scrape.php       # the scraper that built data/ (probe/run/status/report modes)
 cacert.pem                 # CA bundle for the scraper, not project data
+
+tools/parse_lots.py        # data/ -> build/lots.json + build/titles-{day}.txt
+tools/build_page.py        # lots.json + analysis/ -> summer-grandeur-2026.html
+analysis/verdicts-day*.json  # hand-written verdicts, one file per day (append here)
+build/                     # generated intermediates, safe to delete and rebuild
+summer-grandeur-2026.html  # THE DELIVERABLE — single-file, mobile-first
 ```
+
+**Rebuild the page with:** `python3 tools/parse_lots.py && python3 tools/build_page.py`
 
 **`meta.json` fields:** `url`, `slug`, `lot_number` (string), `title`, `estimate_low`,
 `estimate_high`, `current_bid`, `bid_count`, `description`, `image_count`, `images`
@@ -46,10 +54,10 @@ no separate index, so build one when parsing.
   session could not see any photograph; you can. Use them (see §7).
 - `lots.csv` has a few rows with empty titles — fall back to `meta.json` or the slug.
 - Bid data (`current_bid`, `bid_count`) is a snapshot from scrape time, not live.
-- **No analysis output is in the repo yet.** The HTML page described in §11
-  (`summer-grandeur-day1-lots-1001-1181.html`) was *not* uploaded — build it fresh to
-  that spec. The 71 existing verdicts from the chat session are likewise not on disk;
-  only the conclusions carried in this file survive.
+- **The prior session's HTML page was never uploaded**, so the deliverable was rebuilt
+  fresh to the §11 spec as `summer-grandeur-2026.html`. The 71 chat-session verdicts are
+  likewise not on disk; only the conclusions carried in this file survive, and several
+  have since been overturned by the photographs (see §10).
 
 ---
 
@@ -298,22 +306,23 @@ portraits.
 
 ## 10. Open questions on already-analysed lots
 
-These verdicts are provisional pending answers. **Check the images first — several may
-now be resolvable.** (Full descriptions are not on disk — see §1 — so anything the
-photos can't settle needs the live lot page or preview.)
+The images have now been read against every question below. Four are **closed**; the rest
+need a scale, a scale-pan or a loupe and therefore need preview. (Full descriptions are
+not on disk — see §1 — so anything the photos can't settle needs the live lot page or the
+15–27 August preview.)
 
-| Lot | Question | Why it matters |
+| Lot | Question | Status |
 |---|---|---|
-| 1164 | Collotype or collagraph? Edition size? Pencil-signed? | Swings between ~$75 and $2,000+ |
-| 1033 | Height of the Alvin vase | 12–14" examples ask $3,000+; 4.5" is a couple hundred |
-| 1115 | Net silver weight, less glass liners | Melt is $93 at 2ozt, $231 at 5ozt |
-| 1066 | Confirm sterling throughout, get weight | Melt band $139–231 |
-| 1121 | Actual weight and fineness | "Quarter-pound" is marketing, not an assay |
-| 1088 | What's actually in the watchmaker's tools? | Lathe or staking set changes everything |
-| 1181 | Postcard contents — Maine RPPCs? | Midcoast real-photo cards sell $10–50 *each* |
-| 1017 | Period Federal or Colonial Revival candlestand? | 130-year spread on the same object |
-| 1110 | Woodbury — oil, watercolour, or etching? | $200 vs $3,000 |
-| 1069/1070 | Currier originals or later facsimiles? | Most-reproduced images in American printmaking |
+| 1164 | Collotype or collagraph? | **CLOSED — neither.** The sheet carries a printed trademark banner "A COLLOGRAPH Print" plus "© 1993 Aaron Ashley Inc., Yonkers, N.Y." and "Made in U.S.A." No pencil signature, no edition. A 1990s commercial reproduction worth $50–100. **The collotype hypothesis was wrong** and the $1,000–2,000 comps do not apply. |
+| 1121 | Actual weight and fineness | **CLOSED — trap confirmed.** Gilt silver Washington Mint Sacagawea novelty in its box and capsule. Quarter pound ≈ 3.6 ozt ≈ $182, and the plating makes a refiner discount it further. Estimate is ~3× melt. |
+| 1115 | Net silver weight, less glass liners | **CLOSED enough to act.** Five small pieces — salt, pepper, lidded mustard, two spoons — with a cobalt liner clearly visible. Edwardian-to-George-V weights, so melt sits at the **bottom** of the $93–231 band. Buy as a cased set, not as metal. |
+| 1033 | Height of the Alvin vase | **Partly closed.** Base is marked with pattern number V1084C and the overlay is genuine engraved period work over seeded glass — authenticity is settled, **height is not**. Shot on seamless white with no scale. Measure at preview. |
+| 1066 | Confirm sterling throughout, get weight | Open — needs the scale. Mid-century, so melt-plus-a-little at best. |
+| 1088 | What's actually in the watchmaker's tools? | Open — photos show a general scatter, no lathe or staking set visible. Count at preview. |
+| 1181 | Postcard contents — Maine RPPCs? | Open — both photos show the albums **closed**. Must be opened at preview; the most preview-dependent lot in Day 1. |
+| 1017 | Period Federal or Colonial Revival? | Open — photos don't show the underside. Look for circular saw marks. |
+| 1110 | Woodbury — oil, watercolour, or etching? | Open — medium still unstated. Note **3467 is a second Woodbury question** ("attributed to", $300–400); resolve both in one visit. |
+| 1069/1070 | Currier originals or later facsimiles? | Open — needs a loupe on the sheet for dot rosette vs. continuous litho tone. |
 
 ---
 
@@ -344,18 +353,34 @@ files to a structured intermediate file, then work in batches and append. Keep a
 manifest of which lot ranges are analysed so gaps stay visible rather than silently
 missing.
 
-**Coverage so far:** lots 1001–1141 and 1162–1181 analysed (71 lots, from the chat
-session — conclusions only; the write-ups are not on disk). **Gap at 1142–1161.** Not
-started: 1182–1503, all of Day 2, all of Day 3.
+**Coverage: all 1,500 lots across all three days have been triaged. No gaps.**
 
-### Priorities
+- **127 lots written up in full** (9 STRONG BUY, 49 BUY, 1 STRETCH-WORTHY, 33 BUY IF
+  CHEAP, 15 CHECK FIRST, 20 PASS). Every one carries all nine required fields.
+- **1,373 lots screened in bulk** into 24 reasoned groups, every lot accounted for.
+  The largest are: above the budget band (272), general no-fit (177), Maine artists
+  reviewed but not pursued (156), listed painters (118), Chinese/Asian decorative (112),
+  fine jewellery and watches (98).
+- The old 1142–1161 gap is closed; those lots are triaged.
 
-1. Fill the 1142–1161 gap
-2. Finish Day 1
-3. Day 2 — marine/Nantucket, likely rich for the Maine coastal brief
-4. Day 3 — bronzes and trade signs
-5. **Revisit the §10 questions using the images.** Higher value than raw coverage — a
-   resolved CHECK FIRST is worth more than fifty new triaged lots
+### Where the value landed
+
+The strongest finds, all inside band: **2300** George III sterling mug by William Cripps
+(melt sits close under the estimate), **3347–3350** four Carroll Thayer Berry colour
+woodblocks (3347 confirmed pencil-signed and artist-printed, "imp"), **2068** 18th-c. pine
+sea chest at $300–500, **2139** C.F. Hopf Kennebunk grain-painted stand, **2118** Maine
+redware attributed to Norcross, **2093** Rockland-identified ship model, **2295** 17th-c.
+carved oak bible box, **2243** 1652 Anatomy of Melancholy, **3487** unsigned late-19th-c.
+Maine watercolour.
+
+### Priorities from here
+
+1. **Preview is now the bottleneck, not analysis.** Six of the ten §10 questions need a
+   scale, a loupe or an opened album — book the 15–27 August preview or a virtual one.
+2. Deepen the bulk-screened groups if wanted — the marine fittings (42) and Maine
+   artists (156) buckets are the two most likely to hide something.
+3. Re-check `current_bid` before the sale: the figures in `data/` are a scrape-time
+   snapshot, not live.
 
 ---
 
