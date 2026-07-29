@@ -38,6 +38,12 @@ summer-grandeur-2026.html  # THE DELIVERABLE — single-file, mobile-first
 
 **Rebuild the page with:** `python3 tools/parse_lots.py && python3 tools/build_page.py`
 
+Add `--embed` for a copy with thumbnails inlined as data URIs, or `--artifact` for a publishable
+fragment (inlined fonts and images, no document wrapper, no `<html>`/`<head>`/`<body>`). Both take
+a few minutes — they encode 1,500 thumbnails, so run them in the background.
+`assets/fonts-embedded.css` holds Oswald/Spectral/JetBrains Mono as woff2 data URIs, because a
+published artifact's CSP blocks font CDNs and the type would otherwise silently fall back.
+
 **`meta.json` fields:** `url`, `slug`, `lot_number` (string), `title`, `estimate_low`,
 `estimate_high`, `current_bid`, `bid_count`, `description`, `image_count`, `images`
 (Invaluable CDN URLs), `image_variants`. Lot number → slug mapping lives here; there is
@@ -335,11 +341,21 @@ The prior session's page (`summer-grandeur-day1-lots-1001-1181.html`) is **not i
 repo**, so build fresh to the same spec:
 
 - Sticky filter bar: verdict chips, age chips, free-text search, ★ starred list
-- Per-lot card: linked thumbnail, title, dateline with evidence class, criteria tags,
-  analysis, problems block, **bid bar** (visual track showing estimate band, current bid,
-  target, walk-away), numbers grid, patience line, link to the lot page
-- A "screened out in bulk" section — lots reviewed and set aside with a one-line reason,
-  so the noise is visible but compressed
+- Per-lot card: linked thumbnail, title, dateline with evidence class, criteria + category +
+  period tags, analysis, problems block, **my market estimate, resale value and margin at
+  target**, a **metal and stones block** on precious-metal lots (weight basis, melt range,
+  refiner net at 87%, gem resale), **bid bar** (estimate band, current bid, target,
+  walk-away), numbers grid, patience line, link to the lot page
+- **All 1,500 lots live in one list.** The 1,373 bulk-screened lots are compact rows in the
+  same list as the write-ups — thumbnail, lot number, day, estimate, category, period and
+  screening reason — and answer to every filter and sort. They were *not* collapsed into an
+  accordion at the bottom; that earlier arrangement made the page read as 127 lots and was
+  the one substantive complaint about it. The group reasons sit in a reference legend below.
+- **All value figures are mine, not the house's.** Melt weights are estimates from form and
+  photographs — the scrape has no descriptions, so none is catalogued. Margin at target is
+  deliberately blank where my market range spans more than 3×: that width is unresolved
+  uncertainty (a medium, a period, a print process), not value, and averaging it floats the
+  least-known lots to the top of the ranking.
 - Header strip with working metal prices and per-gram rates
 
 Palette is oyster/spruce/verdigris/oxblood/brass; type is Oswald + Spectral + JetBrains
@@ -357,7 +373,8 @@ missing.
 
 - **127 lots written up in full** (9 STRONG BUY, 49 BUY, 1 STRETCH-WORTHY, 33 BUY IF
   CHEAP, 15 CHECK FIRST, 20 PASS). Every one carries all nine required fields.
-- **1,373 lots screened in bulk** into 24 reasoned groups, every lot accounted for.
+- **1,373 lots screened in bulk** into 23 reasoned groups, every lot accounted for, all of them
+  browsable as rows in the main list (see §11).
   The largest are: above the budget band (272), general no-fit (177), Maine artists
   reviewed but not pursued (156), listed painters (118), Chinese/Asian decorative (112),
   fine jewellery and watches (98).
