@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/large-group-of-pre-1865-martime-ships-papers_b852744274",
+    "slug": "large-group-of-pre-1865-martime-ships-papers_b852744274",
+    "lot_number": "2095",
+    "title": "LARGE GROUP OF PRE-1865 MARTIME SHIP'S PAPERS",
+    "estimate_low": 600,
+    "estimate_high": 800,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LlE0eiUgYXCrPb_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LM3JkIta7wKwq9_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LkzPXeiTWCCDyA": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LkzPXeiTWCCDyA_thz.JPG"
+        },
+        "H0134-LaH0n0GNumnJSw": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LaH0n0GNumnJSw_thz.JPG"
+        },
+        "H0134-LlE0eiUgYXCrPb": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LlE0eiUgYXCrPb_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LlE0eiUgYXCrPb_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LlE0eiUgYXCrPb.JPG"
+        },
+        "H0134-LM3JkIta7wKwq9": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LM3JkIta7wKwq9_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LM3JkIta7wKwq9_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LM3JkIta7wKwq9.JPG"
+        }
+    }
+}

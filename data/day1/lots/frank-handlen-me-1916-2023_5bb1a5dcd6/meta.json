@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/frank-handlen-me-1916-2023_5bb1a5dcd6",
+    "slug": "frank-handlen-me-1916-2023_5bb1a5dcd6",
+    "lot_number": "1460",
+    "title": "FRANK HANDLEN (ME, 1916-2023)",
+    "estimate_low": 300,
+    "estimate_high": 400,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LNhPsqdSPMdLAf_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LTFkjMcgKEcnd5_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lt8oa0X0OFux3L_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LL1IdqmLKtc7Q1": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LL1IdqmLKtc7Q1_thz.JPG"
+        },
+        "H0134-Lbdjvqv71S9zFZ": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lbdjvqv71S9zFZ_thz.JPG"
+        },
+        "H0134-LNhPsqdSPMdLAf": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LNhPsqdSPMdLAf_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LNhPsqdSPMdLAf_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LNhPsqdSPMdLAf.JPG"
+        },
+        "H0134-LTFkjMcgKEcnd5": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LTFkjMcgKEcnd5_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LTFkjMcgKEcnd5_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LTFkjMcgKEcnd5.JPG"
+        },
+        "H0134-Lt8oa0X0OFux3L": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lt8oa0X0OFux3L_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lt8oa0X0OFux3L_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lt8oa0X0OFux3L.JPG"
+        }
+    }
+}

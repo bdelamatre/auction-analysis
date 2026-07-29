@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/f-michael-wood-contemporary-ca_3bf825073c",
+    "slug": "f-michael-wood-contemporary-ca_3bf825073c",
+    "lot_number": "1044",
+    "title": "F. MICHAEL WOOD (CONTEMPORARY CA)",
+    "estimate_low": 400,
+    "estimate_high": 600,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LxahMENHsyH1Fh_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Li051ElHITqG9J_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LgqTKraUpfylsF_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LpUSRCUwtqCABq": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LpUSRCUwtqCABq_thz.JPG"
+        },
+        "H0134-Lif53XEiRW66wG": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lif53XEiRW66wG_thz.JPG"
+        },
+        "H0134-LxahMENHsyH1Fh": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LxahMENHsyH1Fh_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LxahMENHsyH1Fh_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LxahMENHsyH1Fh.JPG"
+        },
+        "H0134-Li051ElHITqG9J": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Li051ElHITqG9J_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Li051ElHITqG9J_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Li051ElHITqG9J.JPG"
+        },
+        "H0134-LgqTKraUpfylsF": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LgqTKraUpfylsF_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LgqTKraUpfylsF_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LgqTKraUpfylsF.JPG"
+        }
+    }
+}

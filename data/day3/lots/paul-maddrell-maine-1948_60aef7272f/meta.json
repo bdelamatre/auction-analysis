@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/paul-maddrell-maine-1948_60aef7272f",
+    "slug": "paul-maddrell-maine-1948_60aef7272f",
+    "lot_number": "3287",
+    "title": "PAUL MADDRELL (MAINE, 1948 - )",
+    "estimate_low": 800,
+    "estimate_high": 1200,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LorqmaZn79bk6T_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LBy0MjHCuYMXJ2_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LeralxxJiaAWLK_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L3ZouQxVZENiX4_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LFoyLqjX7S73mS": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LFoyLqjX7S73mS_thz.JPG"
+        },
+        "H0134-L7x7M3WJUYPh2S": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L7x7M3WJUYPh2S_thz.JPG"
+        },
+        "H0134-LorqmaZn79bk6T": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LorqmaZn79bk6T_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LorqmaZn79bk6T_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LorqmaZn79bk6T.JPG"
+        },
+        "H0134-LBy0MjHCuYMXJ2": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LBy0MjHCuYMXJ2_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LBy0MjHCuYMXJ2_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LBy0MjHCuYMXJ2.JPG"
+        },
+        "H0134-LeralxxJiaAWLK": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LeralxxJiaAWLK_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LeralxxJiaAWLK_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LeralxxJiaAWLK.JPG"
+        },
+        "H0134-L3ZouQxVZENiX4": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L3ZouQxVZENiX4_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L3ZouQxVZENiX4_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L3ZouQxVZENiX4.JPG"
+        }
+    }
+}

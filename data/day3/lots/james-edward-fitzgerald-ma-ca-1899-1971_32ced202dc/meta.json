@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/james-edward-fitzgerald-ma-ca-1899-1971_32ced202dc",
+    "slug": "james-edward-fitzgerald-ma-ca-1899-1971_32ced202dc",
+    "lot_number": "3376",
+    "title": "JAMES EDWARD FITZGERALD (MA/CA, 1899-1971)",
+    "estimate_low": 8000,
+    "estimate_high": 12000,
+    "current_bid": 4000,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LNWGckr4UMd0yy_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LnbtMkDcKAXNdo_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LE9sZUEAWtfW5R_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LrmsYXydpEQ5Sc": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LrmsYXydpEQ5Sc_thz.JPG"
+        },
+        "H0134-Lfl9G6EKPkk5GP": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lfl9G6EKPkk5GP_thz.JPG"
+        },
+        "H0134-LNWGckr4UMd0yy": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LNWGckr4UMd0yy_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LNWGckr4UMd0yy_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LNWGckr4UMd0yy.JPG"
+        },
+        "H0134-LnbtMkDcKAXNdo": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LnbtMkDcKAXNdo_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LnbtMkDcKAXNdo_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LnbtMkDcKAXNdo.JPG"
+        },
+        "H0134-LE9sZUEAWtfW5R": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LE9sZUEAWtfW5R_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LE9sZUEAWtfW5R_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LE9sZUEAWtfW5R.JPG"
+        }
+    }
+}

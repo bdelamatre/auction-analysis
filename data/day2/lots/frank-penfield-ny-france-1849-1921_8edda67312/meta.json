@@ -1,0 +1,52 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/frank-penfield-ny-france-1849-1921_8edda67312",
+    "slug": "frank-penfield-ny-france-1849-1921_8edda67312",
+    "lot_number": "2250",
+    "title": "FRANK PENFIELD (NY/FRANCE, 1849-1921)",
+    "estimate_low": 600,
+    "estimate_high": 800,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 5,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L0M2FI217UHKNs_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L3wVxJrNLWNKRV_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L38Kjadbxm8EpE_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LnJnPAWdQJsliO_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LzzxBf8sYcw3Th_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LsH6fTUPge3Giu": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LsH6fTUPge3Giu_thz.JPG"
+        },
+        "H0134-L1POjWy0LGP5A8": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L1POjWy0LGP5A8_thz.JPG"
+        },
+        "H0134-L0M2FI217UHKNs": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L0M2FI217UHKNs_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L0M2FI217UHKNs_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L0M2FI217UHKNs.JPG"
+        },
+        "H0134-L3wVxJrNLWNKRV": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L3wVxJrNLWNKRV_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L3wVxJrNLWNKRV_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L3wVxJrNLWNKRV.JPG"
+        },
+        "H0134-L38Kjadbxm8EpE": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L38Kjadbxm8EpE_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L38Kjadbxm8EpE_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L38Kjadbxm8EpE.JPG"
+        },
+        "H0134-LnJnPAWdQJsliO": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LnJnPAWdQJsliO_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LnJnPAWdQJsliO_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LnJnPAWdQJsliO.JPG"
+        },
+        "H0134-LzzxBf8sYcw3Th": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LzzxBf8sYcw3Th_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LzzxBf8sYcw3Th_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LzzxBf8sYcw3Th.JPG"
+        }
+    }
+}

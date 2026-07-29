@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/leo-villareal-ny-1967_29f66d8955",
+    "slug": "leo-villareal-ny-1967_29f66d8955",
+    "lot_number": "3281",
+    "title": "LEO VILLAREAL (NY, 1967 - )",
+    "estimate_low": 40000,
+    "estimate_high": 60000,
+    "current_bid": 20000,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LYirv2cci2B9BR_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Ljo87wdbgloRYK_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LCiNLNtUYqgjFW_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lmr1VTfQSwTmF3_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LjN5kS7mXfAfb5": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LjN5kS7mXfAfb5_thz.JPG"
+        },
+        "H0134-LvV33gNKUm9WeO": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LvV33gNKUm9WeO_thz.JPG"
+        },
+        "H0134-LYirv2cci2B9BR": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LYirv2cci2B9BR_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LYirv2cci2B9BR_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LYirv2cci2B9BR.JPG"
+        },
+        "H0134-Ljo87wdbgloRYK": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Ljo87wdbgloRYK_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Ljo87wdbgloRYK_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Ljo87wdbgloRYK.JPG"
+        },
+        "H0134-LCiNLNtUYqgjFW": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LCiNLNtUYqgjFW_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LCiNLNtUYqgjFW_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LCiNLNtUYqgjFW.JPG"
+        },
+        "H0134-Lmr1VTfQSwTmF3": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lmr1VTfQSwTmF3_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lmr1VTfQSwTmF3_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lmr1VTfQSwTmF3.JPG"
+        }
+    }
+}

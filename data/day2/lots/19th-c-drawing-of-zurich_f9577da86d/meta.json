@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/19th-c-drawing-of-zurich_f9577da86d",
+    "slug": "19th-c-drawing-of-zurich_f9577da86d",
+    "lot_number": "2419",
+    "title": "19TH C. DRAWING OF ZURICH",
+    "estimate_low": 300,
+    "estimate_high": 500,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LgpThNRJ23aMKS_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LyQPjkEPDNbiLj_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LqqUWbpYa4y8WM": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LqqUWbpYa4y8WM_thz.JPG"
+        },
+        "H0134-Loobt2417Id4RH": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Loobt2417Id4RH_thz.JPG"
+        },
+        "H0134-LgpThNRJ23aMKS": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LgpThNRJ23aMKS_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LgpThNRJ23aMKS_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LgpThNRJ23aMKS.JPG"
+        },
+        "H0134-LyQPjkEPDNbiLj": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LyQPjkEPDNbiLj_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LyQPjkEPDNbiLj_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LyQPjkEPDNbiLj.JPG"
+        }
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/wendell-thompson-perkins-ma-fl-1927-1997_a182e623d4",
+    "slug": "wendell-thompson-perkins-ma-fl-1927-1997_a182e623d4",
+    "lot_number": "2089",
+    "title": "WENDELL THOMPSON PERKINS (MA/FL 1927-1997)",
+    "estimate_low": 800,
+    "estimate_high": 1200,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 5,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LNqJXJbrO2QhDw_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L0kAxgsCJiixYc_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LS8p8Q9F6t1x6C_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LYDcVo55hxAqb3_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lxk8C6UQP8x3mc_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LWgmJByq88F8ph": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LWgmJByq88F8ph_thz.JPG"
+        },
+        "H0134-L2t31ptdCqALaK": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L2t31ptdCqALaK_thz.JPG"
+        },
+        "H0134-LNqJXJbrO2QhDw": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LNqJXJbrO2QhDw_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LNqJXJbrO2QhDw_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LNqJXJbrO2QhDw.JPG"
+        },
+        "H0134-L0kAxgsCJiixYc": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L0kAxgsCJiixYc_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L0kAxgsCJiixYc_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L0kAxgsCJiixYc.JPG"
+        },
+        "H0134-LS8p8Q9F6t1x6C": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LS8p8Q9F6t1x6C_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LS8p8Q9F6t1x6C_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LS8p8Q9F6t1x6C.JPG"
+        },
+        "H0134-LYDcVo55hxAqb3": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LYDcVo55hxAqb3_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LYDcVo55hxAqb3_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LYDcVo55hxAqb3.JPG"
+        },
+        "H0134-Lxk8C6UQP8x3mc": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lxk8C6UQP8x3mc_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lxk8C6UQP8x3mc_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lxk8C6UQP8x3mc.JPG"
+        }
+    }
+}

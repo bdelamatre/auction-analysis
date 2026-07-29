@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/foster-campos-aaron-willard-style-banjo-clock_cbffe45752",
+    "slug": "foster-campos-aaron-willard-style-banjo-clock_cbffe45752",
+    "lot_number": "3218",
+    "title": "FOSTER CAMPOS AARON WILLARD STYLE BANJO CLOCK",
+    "estimate_low": 1000,
+    "estimate_high": 1500,
+    "current_bid": 500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lgn2iDL9rEkhYp_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LG8eNmIqHk4Lhf_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LtM0URu9ZWwxPb_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lw0e8TEBUpzUdt_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LVnQQHXH89rl3Z": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LVnQQHXH89rl3Z_thz.JPG"
+        },
+        "H0134-L92zxl7eLMCLPj": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L92zxl7eLMCLPj_thz.JPG"
+        },
+        "H0134-Lgn2iDL9rEkhYp": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lgn2iDL9rEkhYp_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lgn2iDL9rEkhYp_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lgn2iDL9rEkhYp.JPG"
+        },
+        "H0134-LG8eNmIqHk4Lhf": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LG8eNmIqHk4Lhf_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LG8eNmIqHk4Lhf_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LG8eNmIqHk4Lhf.JPG"
+        },
+        "H0134-LtM0URu9ZWwxPb": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LtM0URu9ZWwxPb_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LtM0URu9ZWwxPb_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LtM0URu9ZWwxPb.JPG"
+        },
+        "H0134-Lw0e8TEBUpzUdt": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lw0e8TEBUpzUdt_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lw0e8TEBUpzUdt_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lw0e8TEBUpzUdt.JPG"
+        }
+    }
+}

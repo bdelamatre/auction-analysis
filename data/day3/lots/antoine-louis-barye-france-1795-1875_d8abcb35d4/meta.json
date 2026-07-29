@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/antoine-louis-barye-france-1795-1875_d8abcb35d4",
+    "slug": "antoine-louis-barye-france-1795-1875_d8abcb35d4",
+    "lot_number": "3011",
+    "title": "ANTOINE-LOUIS BARYE (FRANCE, 1795-1875)",
+    "estimate_low": 1000,
+    "estimate_high": 2000,
+    "current_bid": 500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L8jCA2y0lioCFn_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LvPRUKkHMGALeO_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LpGOpDU7JpmU8d_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LZnHUgfsykHHBz_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LZdDroDonJ7oNE": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LZdDroDonJ7oNE_thz.JPG"
+        },
+        "H0134-LsbP5MrkDovdIZ": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LsbP5MrkDovdIZ_thz.JPG"
+        },
+        "H0134-L8jCA2y0lioCFn": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L8jCA2y0lioCFn_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L8jCA2y0lioCFn_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L8jCA2y0lioCFn.JPG"
+        },
+        "H0134-LvPRUKkHMGALeO": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LvPRUKkHMGALeO_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LvPRUKkHMGALeO_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LvPRUKkHMGALeO.JPG"
+        },
+        "H0134-LpGOpDU7JpmU8d": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LpGOpDU7JpmU8d_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LpGOpDU7JpmU8d_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LpGOpDU7JpmU8d.JPG"
+        },
+        "H0134-LZnHUgfsykHHBz": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LZnHUgfsykHHBz_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LZnHUgfsykHHBz_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LZnHUgfsykHHBz.JPG"
+        }
+    }
+}

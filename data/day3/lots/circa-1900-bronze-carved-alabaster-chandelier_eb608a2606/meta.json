@@ -1,0 +1,27 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/circa-1900-bronze-carved-alabaster-chandelier_eb608a2606",
+    "slug": "circa-1900-bronze-carved-alabaster-chandelier_eb608a2606",
+    "lot_number": "3100",
+    "title": "CIRCA 1900 BRONZE & CARVED ALABASTER CHANDELIER",
+    "estimate_low": 800,
+    "estimate_high": 1200,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 1,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LQcPYiJdYe7Mwh_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LHn4JobP1ZKSOj": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LHn4JobP1ZKSOj_thz.JPG"
+        },
+        "H0134-L3K0HR9MnUSM3T": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L3K0HR9MnUSM3T_thz.JPG"
+        },
+        "H0134-LQcPYiJdYe7Mwh": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LQcPYiJdYe7Mwh_original.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LQcPYiJdYe7Mwh.JPG"
+        }
+    }
+}

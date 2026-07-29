@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/vintage-14k-gold-diamond-solitaire-ring_61b1052d59",
+    "slug": "vintage-14k-gold-diamond-solitaire-ring_61b1052d59",
+    "lot_number": "3184",
+    "title": "VINTAGE 14K GOLD DIAMOND SOLITAIRE RING",
+    "estimate_low": 1000,
+    "estimate_high": 2000,
+    "current_bid": 500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LUNKeQyXWz2ej5_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L6TzOo0alXVX8B_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LyjphjS4Ju4Klu_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-Lgml8S2nclS0nu": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lgml8S2nclS0nu_thz.JPG"
+        },
+        "H0134-Lwbqe6FBl7DXLK": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lwbqe6FBl7DXLK_thz.JPG"
+        },
+        "H0134-LUNKeQyXWz2ej5": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LUNKeQyXWz2ej5_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LUNKeQyXWz2ej5_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LUNKeQyXWz2ej5.JPG"
+        },
+        "H0134-L6TzOo0alXVX8B": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L6TzOo0alXVX8B_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L6TzOo0alXVX8B_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L6TzOo0alXVX8B.JPG"
+        },
+        "H0134-LyjphjS4Ju4Klu": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LyjphjS4Ju4Klu_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LyjphjS4Ju4Klu_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LyjphjS4Ju4Klu.JPG"
+        }
+    }
+}

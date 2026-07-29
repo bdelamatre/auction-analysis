@@ -1,0 +1,52 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/thompson-lehnert-pa-oh-1931-2020_68171a9c2b",
+    "slug": "thompson-lehnert-pa-oh-1931-2020_68171a9c2b",
+    "lot_number": "1368",
+    "title": "THOMPSON LEHNERT (PA/OH, 1931-2020)",
+    "estimate_low": 300,
+    "estimate_high": 400,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 5,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LKstpenN5KaEVL_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LG0T4NjnMux1rg_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LXQIMSRCpQGE1r_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LkHSMu00J0H81o_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LyCddDhVrkqPf1_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LfJe9qkQcJCslw": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LfJe9qkQcJCslw_thz.JPG"
+        },
+        "H0134-Lva20vVLHPbqXt": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lva20vVLHPbqXt_thz.JPG"
+        },
+        "H0134-LKstpenN5KaEVL": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LKstpenN5KaEVL_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LKstpenN5KaEVL_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LKstpenN5KaEVL.JPG"
+        },
+        "H0134-LG0T4NjnMux1rg": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LG0T4NjnMux1rg_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LG0T4NjnMux1rg_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LG0T4NjnMux1rg.JPG"
+        },
+        "H0134-LXQIMSRCpQGE1r": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LXQIMSRCpQGE1r_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LXQIMSRCpQGE1r_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LXQIMSRCpQGE1r.JPG"
+        },
+        "H0134-LkHSMu00J0H81o": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LkHSMu00J0H81o_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LkHSMu00J0H81o_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LkHSMu00J0H81o.JPG"
+        },
+        "H0134-LyCddDhVrkqPf1": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LyCddDhVrkqPf1_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LyCddDhVrkqPf1_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LyCddDhVrkqPf1.JPG"
+        }
+    }
+}

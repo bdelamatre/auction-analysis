@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/marlin-model-golden-39a-w-scope-22-lr_4b942b7cb2",
+    "slug": "marlin-model-golden-39a-w-scope-22-lr_4b942b7cb2",
+    "lot_number": "1242",
+    "title": "MARLIN MODEL GOLDEN-39A W/ SCOPE, .22 LR",
+    "estimate_low": 400,
+    "estimate_high": 600,
+    "current_bid": 175,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LAgAWo0RUWj2j3_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LEpp9pjrxXsxMf_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LwtewfT2Kcygrv_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LPVs0ZDtUAhPcp_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LRsbgEvtR8lc9c": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LRsbgEvtR8lc9c_thz.JPG"
+        },
+        "H0134-LpslmoOF3eqXB0": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LpslmoOF3eqXB0_thz.JPG"
+        },
+        "H0134-LAgAWo0RUWj2j3": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LAgAWo0RUWj2j3_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LAgAWo0RUWj2j3_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LAgAWo0RUWj2j3.JPG"
+        },
+        "H0134-LEpp9pjrxXsxMf": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LEpp9pjrxXsxMf_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LEpp9pjrxXsxMf_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LEpp9pjrxXsxMf.JPG"
+        },
+        "H0134-LwtewfT2Kcygrv": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LwtewfT2Kcygrv_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LwtewfT2Kcygrv_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LwtewfT2Kcygrv.JPG"
+        },
+        "H0134-LPVs0ZDtUAhPcp": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LPVs0ZDtUAhPcp_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LPVs0ZDtUAhPcp_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LPVs0ZDtUAhPcp.JPG"
+        }
+    }
+}

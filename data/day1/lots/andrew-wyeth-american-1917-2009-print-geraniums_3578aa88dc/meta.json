@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/andrew-wyeth-american-1917-2009-print-geraniums_3578aa88dc",
+    "slug": "andrew-wyeth-american-1917-2009-print-geraniums_3578aa88dc",
+    "lot_number": "1165",
+    "title": "ANDREW WYETH (AMERICAN, 1917–2009), PRINT, \"GERANIUMS\"",
+    "estimate_low": 300,
+    "estimate_high": 400,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LhHb36Uzj6zcN8_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lh1FPkooyQZV6e_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L84myClg6BmHUg_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L8J7HtCUyCRhkR_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LcPmfBCPIgTvnR": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LcPmfBCPIgTvnR_thz.JPG"
+        },
+        "H0134-LM4YVUKfK1qC35": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LM4YVUKfK1qC35_thz.JPG"
+        },
+        "H0134-LhHb36Uzj6zcN8": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LhHb36Uzj6zcN8_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LhHb36Uzj6zcN8_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LhHb36Uzj6zcN8.JPG"
+        },
+        "H0134-Lh1FPkooyQZV6e": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lh1FPkooyQZV6e_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lh1FPkooyQZV6e_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lh1FPkooyQZV6e.JPG"
+        },
+        "H0134-L84myClg6BmHUg": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L84myClg6BmHUg_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L84myClg6BmHUg_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L84myClg6BmHUg.JPG"
+        },
+        "H0134-L8J7HtCUyCRhkR": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L8J7HtCUyCRhkR_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L8J7HtCUyCRhkR_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L8J7HtCUyCRhkR.JPG"
+        }
+    }
+}

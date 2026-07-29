@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/carl-sprinchorn-ny-me-swedeen-1887-1971_8fa2a9a100",
+    "slug": "carl-sprinchorn-ny-me-swedeen-1887-1971_8fa2a9a100",
+    "lot_number": "3443",
+    "title": "CARL SPRINCHORN (NY/ME/SWEDEEN, 1887-1971)",
+    "estimate_low": 1500,
+    "estimate_high": 2000,
+    "current_bid": 750,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LgrjgHNjAkMTiG_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LHQJr4CW64Ov7m_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LAM0O41GKa37yR_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LFetnhJdgimvHe": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LFetnhJdgimvHe_thz.JPG"
+        },
+        "H0134-LJfpmibkI2Bnr5": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LJfpmibkI2Bnr5_thz.JPG"
+        },
+        "H0134-LgrjgHNjAkMTiG": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LgrjgHNjAkMTiG_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LgrjgHNjAkMTiG_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LgrjgHNjAkMTiG.JPG"
+        },
+        "H0134-LHQJr4CW64Ov7m": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LHQJr4CW64Ov7m_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LHQJr4CW64Ov7m_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LHQJr4CW64Ov7m.JPG"
+        },
+        "H0134-LAM0O41GKa37yR": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LAM0O41GKa37yR_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LAM0O41GKa37yR_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LAM0O41GKa37yR.JPG"
+        }
+    }
+}

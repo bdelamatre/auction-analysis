@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/indo-persian-miniature-visionary-painting_e7f8015fc7",
+    "slug": "indo-persian-miniature-visionary-painting_e7f8015fc7",
+    "lot_number": "2445",
+    "title": "INDO-PERSIAN MINIATURE VISIONARY PAINTING",
+    "estimate_low": 500,
+    "estimate_high": 700,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L7H59Rsvcy9LaK_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L77VijGfo9GRcl_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LuUHsCovjObP0C": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LuUHsCovjObP0C_thz.JPG"
+        },
+        "H0134-Lqf0VeHfcl3ajz": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lqf0VeHfcl3ajz_thz.JPG"
+        },
+        "H0134-L7H59Rsvcy9LaK": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L7H59Rsvcy9LaK_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L7H59Rsvcy9LaK_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L7H59Rsvcy9LaK.JPG"
+        },
+        "H0134-L77VijGfo9GRcl": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L77VijGfo9GRcl_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L77VijGfo9GRcl_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L77VijGfo9GRcl.JPG"
+        }
+    }
+}

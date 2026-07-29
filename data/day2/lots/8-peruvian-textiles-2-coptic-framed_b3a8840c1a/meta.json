@@ -1,0 +1,58 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/8-peruvian-textiles-2-coptic-framed_b3a8840c1a",
+    "slug": "8-peruvian-textiles-2-coptic-framed_b3a8840c1a",
+    "lot_number": "2463",
+    "title": "(8) PERUVIAN TEXTILES & (2) COPTIC, FRAMED",
+    "estimate_low": 1500,
+    "estimate_high": 2000,
+    "current_bid": 750,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 6,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lk34JuDUK9oLkg_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LWIP1jE8DlOUFc_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LBEsVKabcZxtC8_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LpI2y80HprvAKB_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LmmaiWn75KLjX2_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LQ0O2EshFwOZC2_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-Lc1h0muXiUbTo0": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lc1h0muXiUbTo0_thz.JPG"
+        },
+        "H0134-LxZZLwnNiOICcp": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LxZZLwnNiOICcp_thz.JPG"
+        },
+        "H0134-Lk34JuDUK9oLkg": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lk34JuDUK9oLkg_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lk34JuDUK9oLkg_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lk34JuDUK9oLkg.JPG"
+        },
+        "H0134-LWIP1jE8DlOUFc": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LWIP1jE8DlOUFc_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LWIP1jE8DlOUFc_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LWIP1jE8DlOUFc.JPG"
+        },
+        "H0134-LBEsVKabcZxtC8": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LBEsVKabcZxtC8_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LBEsVKabcZxtC8_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LBEsVKabcZxtC8.JPG"
+        },
+        "H0134-LpI2y80HprvAKB": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LpI2y80HprvAKB_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LpI2y80HprvAKB_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LpI2y80HprvAKB.JPG"
+        },
+        "H0134-LmmaiWn75KLjX2": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LmmaiWn75KLjX2_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LmmaiWn75KLjX2_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LmmaiWn75KLjX2.JPG"
+        },
+        "H0134-LQ0O2EshFwOZC2": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LQ0O2EshFwOZC2_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LQ0O2EshFwOZC2_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LQ0O2EshFwOZC2.JPG"
+        }
+    }
+}

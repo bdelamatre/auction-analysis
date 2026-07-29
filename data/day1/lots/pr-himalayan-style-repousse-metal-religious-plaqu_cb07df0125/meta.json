@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/pr-himalayan-style-repousse-metal-religious-plaqu_cb07df0125",
+    "slug": "pr-himalayan-style-repousse-metal-religious-plaqu_cb07df0125",
+    "lot_number": "1392",
+    "title": "PR HIMALAYAN STYLE REPOUSSÉ METAL RELIGIOUS PLAQUES",
+    "estimate_low": 400,
+    "estimate_high": 600,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LIYpfvakuhPsdm_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LhU6FzoQpKFZNo_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LlC2DFHMYdnp3c_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Laiorz1kQBS1Kv_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LWVv2mXQmT5T4f": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LWVv2mXQmT5T4f_thz.JPG"
+        },
+        "H0134-LVxqi2lMvg2gdI": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LVxqi2lMvg2gdI_thz.JPG"
+        },
+        "H0134-LIYpfvakuhPsdm": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LIYpfvakuhPsdm_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LIYpfvakuhPsdm_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LIYpfvakuhPsdm.JPG"
+        },
+        "H0134-LhU6FzoQpKFZNo": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LhU6FzoQpKFZNo_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LhU6FzoQpKFZNo_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LhU6FzoQpKFZNo.JPG"
+        },
+        "H0134-LlC2DFHMYdnp3c": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LlC2DFHMYdnp3c_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LlC2DFHMYdnp3c_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LlC2DFHMYdnp3c.JPG"
+        },
+        "H0134-Laiorz1kQBS1Kv": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Laiorz1kQBS1Kv_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Laiorz1kQBS1Kv_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Laiorz1kQBS1Kv.JPG"
+        }
+    }
+}

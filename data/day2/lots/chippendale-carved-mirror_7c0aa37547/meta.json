@@ -1,0 +1,27 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/chippendale-carved-mirror_7c0aa37547",
+    "slug": "chippendale-carved-mirror_7c0aa37547",
+    "lot_number": "2306",
+    "title": "CHIPPENDALE CARVED MIRROR",
+    "estimate_low": 1000,
+    "estimate_high": 1500,
+    "current_bid": 500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 1,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L1LElau3ghjTik_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LRzF3gLdFoTqj1": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LRzF3gLdFoTqj1_thz.JPG"
+        },
+        "H0134-LSdyverGqa0Xk7": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LSdyverGqa0Xk7_thz.JPG"
+        },
+        "H0134-L1LElau3ghjTik": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L1LElau3ghjTik_original.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L1LElau3ghjTik.JPG"
+        }
+    }
+}

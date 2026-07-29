@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/marjorie-moore-me-1944_36d28dee90",
+    "slug": "marjorie-moore-me-1944_36d28dee90",
+    "lot_number": "3008",
+    "title": "MARJORIE MOORE (ME, 1944 - )",
+    "estimate_low": 300,
+    "estimate_high": 500,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LFqm5k0ZLLHv87_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LKQgo0Xp5ie8xH_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LOqAQrz5l16LJa_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-L4RmiFNy1iaHkS": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L4RmiFNy1iaHkS_thz.JPG"
+        },
+        "H0134-LFiX5AwE6bqP3M": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LFiX5AwE6bqP3M_thz.JPG"
+        },
+        "H0134-LFqm5k0ZLLHv87": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LFqm5k0ZLLHv87_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LFqm5k0ZLLHv87_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LFqm5k0ZLLHv87.JPG"
+        },
+        "H0134-LKQgo0Xp5ie8xH": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LKQgo0Xp5ie8xH_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LKQgo0Xp5ie8xH_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LKQgo0Xp5ie8xH.JPG"
+        },
+        "H0134-LOqAQrz5l16LJa": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LOqAQrz5l16LJa_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LOqAQrz5l16LJa_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LOqAQrz5l16LJa.JPG"
+        }
+    }
+}

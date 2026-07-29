@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/stow-wengenroth-american-1906-1978-maine-coast-se_ae2ae20e1c",
+    "slug": "stow-wengenroth-american-1906-1978-maine-coast-se_ae2ae20e1c",
+    "lot_number": "1316",
+    "title": "STOW WENGENROTH (AMERICAN, 1906-1978), MAINE COAST SEAGULLS",
+    "estimate_low": 600,
+    "estimate_high": 800,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LeS90I5kfSFUKd_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LfmCDRgCyEcHpE_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LxcbysetOr9JsY_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LHaQrgiY0PlpnV_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LLexL9DQoZkXoH": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LLexL9DQoZkXoH_thz.JPG"
+        },
+        "H0134-LilSbJ5prbfd7T": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LilSbJ5prbfd7T_thz.JPG"
+        },
+        "H0134-LeS90I5kfSFUKd": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LeS90I5kfSFUKd_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LeS90I5kfSFUKd_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LeS90I5kfSFUKd.JPG"
+        },
+        "H0134-LfmCDRgCyEcHpE": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LfmCDRgCyEcHpE_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LfmCDRgCyEcHpE_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LfmCDRgCyEcHpE.JPG"
+        },
+        "H0134-LxcbysetOr9JsY": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LxcbysetOr9JsY_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LxcbysetOr9JsY_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LxcbysetOr9JsY.JPG"
+        },
+        "H0134-LHaQrgiY0PlpnV": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LHaQrgiY0PlpnV_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LHaQrgiY0PlpnV_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LHaQrgiY0PlpnV.JPG"
+        }
+    }
+}

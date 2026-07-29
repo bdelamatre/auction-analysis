@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/6-handpainted-school-posters-racial-types-circa-1_ba08f8ff96",
+    "slug": "6-handpainted-school-posters-racial-types-circa-1_ba08f8ff96",
+    "lot_number": "1482",
+    "title": "(6) HANDPAINTED SCHOOL POSTERS RACIAL TYPES, CIRCA 1880",
+    "estimate_low": 400,
+    "estimate_high": 600,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LD9Tm5aFPaFahp_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L38IjSUOf1QO1w_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L3iK3La2h50H34_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LWD2YDjx3Qxp9i_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-L6pqBo1iqJ4Ula": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L6pqBo1iqJ4Ula_thz.JPG"
+        },
+        "H0134-LAMiSNp2AHkRhw": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LAMiSNp2AHkRhw_thz.JPG"
+        },
+        "H0134-LD9Tm5aFPaFahp": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LD9Tm5aFPaFahp_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LD9Tm5aFPaFahp_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LD9Tm5aFPaFahp.JPG"
+        },
+        "H0134-L38IjSUOf1QO1w": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L38IjSUOf1QO1w_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L38IjSUOf1QO1w_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L38IjSUOf1QO1w.JPG"
+        },
+        "H0134-L3iK3La2h50H34": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L3iK3La2h50H34_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L3iK3La2h50H34_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L3iK3La2h50H34.JPG"
+        },
+        "H0134-LWD2YDjx3Qxp9i": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LWD2YDjx3Qxp9i_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LWD2YDjx3Qxp9i_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LWD2YDjx3Qxp9i.JPG"
+        }
+    }
+}

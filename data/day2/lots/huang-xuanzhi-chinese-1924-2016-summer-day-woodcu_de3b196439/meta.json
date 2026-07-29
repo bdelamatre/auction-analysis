@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/huang-xuanzhi-chinese-1924-2016-summer-day-woodcu_de3b196439",
+    "slug": "huang-xuanzhi-chinese-1924-2016-summer-day-woodcu_de3b196439",
+    "lot_number": "2483",
+    "title": "HUANG XUANZHI (CHINESE, 1924-2016) \"SUMMER DAY,\" WOODCUT PRINT, 1962",
+    "estimate_low": 300,
+    "estimate_high": 500,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LzRMzig0XTO1r5_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L8X2DSOJCZkUYt_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L356KY0icnGWhs_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LqjyU6WWLfxnY4_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LUDZIWblKwhapp": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LUDZIWblKwhapp_thz.JPG"
+        },
+        "H0134-Ldfz8TDML0AMGD": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Ldfz8TDML0AMGD_thz.JPG"
+        },
+        "H0134-LzRMzig0XTO1r5": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LzRMzig0XTO1r5_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LzRMzig0XTO1r5_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LzRMzig0XTO1r5.JPG"
+        },
+        "H0134-L8X2DSOJCZkUYt": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L8X2DSOJCZkUYt_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L8X2DSOJCZkUYt_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L8X2DSOJCZkUYt.JPG"
+        },
+        "H0134-L356KY0icnGWhs": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L356KY0icnGWhs_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L356KY0icnGWhs_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L356KY0icnGWhs.JPG"
+        },
+        "H0134-LqjyU6WWLfxnY4": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LqjyU6WWLfxnY4_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LqjyU6WWLfxnY4_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LqjyU6WWLfxnY4.JPG"
+        }
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/possible-seymour-bowfront-hepplewhite-chest_39ff75e9aa",
+    "slug": "possible-seymour-bowfront-hepplewhite-chest_39ff75e9aa",
+    "lot_number": "2179",
+    "title": "POSSIBLE SEYMOUR BOWFRONT HEPPLEWHITE CHEST",
+    "estimate_low": 1000,
+    "estimate_high": 1500,
+    "current_bid": 500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 5,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LOUIUG9pLmvv3N_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L2w0lmVqDFMccA_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LM6oXl8ub5K8n9_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L7uHSMuKIy4xxX_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LD1QsjY3l8AUb1_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LitQnB5FSRMne3": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LitQnB5FSRMne3_thz.JPG"
+        },
+        "H0134-LolYW95FDNpK9A": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LolYW95FDNpK9A_thz.JPG"
+        },
+        "H0134-LOUIUG9pLmvv3N": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LOUIUG9pLmvv3N_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LOUIUG9pLmvv3N_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LOUIUG9pLmvv3N.JPG"
+        },
+        "H0134-L2w0lmVqDFMccA": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L2w0lmVqDFMccA_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L2w0lmVqDFMccA_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L2w0lmVqDFMccA.JPG"
+        },
+        "H0134-LM6oXl8ub5K8n9": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LM6oXl8ub5K8n9_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LM6oXl8ub5K8n9_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LM6oXl8ub5K8n9.JPG"
+        },
+        "H0134-L7uHSMuKIy4xxX": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L7uHSMuKIy4xxX_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L7uHSMuKIy4xxX_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L7uHSMuKIy4xxX.JPG"
+        },
+        "H0134-LD1QsjY3l8AUb1": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LD1QsjY3l8AUb1_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LD1QsjY3l8AUb1_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LD1QsjY3l8AUb1.JPG"
+        }
+    }
+}

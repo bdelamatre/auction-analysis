@@ -1,0 +1,27 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/andrew-wyeth-pa-me-1917-2009_7b0312d579",
+    "slug": "andrew-wyeth-pa-me-1917-2009_7b0312d579",
+    "lot_number": "1431",
+    "title": "ANDREW WYETH (PA/ME, 1917-2009)",
+    "estimate_low": 200,
+    "estimate_high": 300,
+    "current_bid": 50,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 1,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Ld3J9J473oIggj_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LtykQDnrkLEpSU": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LtykQDnrkLEpSU_thz.JPG"
+        },
+        "H0134-L0vvhRmgrFu6mL": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L0vvhRmgrFu6mL_thz.JPG"
+        },
+        "H0134-Ld3J9J473oIggj": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Ld3J9J473oIggj_original.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Ld3J9J473oIggj.JPG"
+        }
+    }
+}

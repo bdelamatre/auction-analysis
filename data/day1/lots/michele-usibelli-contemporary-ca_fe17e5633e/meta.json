@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/michele-usibelli-contemporary-ca_fe17e5633e",
+    "slug": "michele-usibelli-contemporary-ca_fe17e5633e",
+    "lot_number": "1418",
+    "title": "MICHELE USIBELLI (CONTEMPORARY CA)",
+    "estimate_low": 250,
+    "estimate_high": 350,
+    "current_bid": 50,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LtVJZ9xGcGq4vw_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LMEeRoia93NGeO_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lub4pGrK20OLVB_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LTVltrVDF3KPuz_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LIJw4gx0KnHKFU": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LIJw4gx0KnHKFU_thz.JPG"
+        },
+        "H0134-LWwZNkj1WhLyE0": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LWwZNkj1WhLyE0_thz.JPG"
+        },
+        "H0134-LtVJZ9xGcGq4vw": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LtVJZ9xGcGq4vw_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LtVJZ9xGcGq4vw_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LtVJZ9xGcGq4vw.JPG"
+        },
+        "H0134-LMEeRoia93NGeO": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LMEeRoia93NGeO_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LMEeRoia93NGeO_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LMEeRoia93NGeO.JPG"
+        },
+        "H0134-Lub4pGrK20OLVB": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lub4pGrK20OLVB_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lub4pGrK20OLVB_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lub4pGrK20OLVB.JPG"
+        },
+        "H0134-LTVltrVDF3KPuz": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LTVltrVDF3KPuz_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LTVltrVDF3KPuz_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LTVltrVDF3KPuz.JPG"
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/elvis-presley-scarf-unused-8-18-77-portland-me-co_5918cd9f1a",
+    "slug": "elvis-presley-scarf-unused-8-18-77-portland-me-co_5918cd9f1a",
+    "lot_number": "1120",
+    "title": "ELVIS PRESLEY SCARF & UNUSED 8/18/77 PORTLAND ME CONCERT TICKET",
+    "estimate_low": 300,
+    "estimate_high": 500,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L54xJztYxu4mBn_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L388IAVraGQQL6_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L5HjdmrGObdwSb_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LlcE3e3k1dCa4j": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LlcE3e3k1dCa4j_thz.JPG"
+        },
+        "H0134-L4ah0tGbRjtwYi": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L4ah0tGbRjtwYi_thz.JPG"
+        },
+        "H0134-L54xJztYxu4mBn": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L54xJztYxu4mBn_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L54xJztYxu4mBn_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L54xJztYxu4mBn.JPG"
+        },
+        "H0134-L388IAVraGQQL6": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L388IAVraGQQL6_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L388IAVraGQQL6_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L388IAVraGQQL6.JPG"
+        },
+        "H0134-L5HjdmrGObdwSb": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L5HjdmrGObdwSb_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L5HjdmrGObdwSb_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L5HjdmrGObdwSb.JPG"
+        }
+    }
+}

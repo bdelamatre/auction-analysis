@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/hand-painted-porcelain-wall-plaque-signed-h-catel_8d929194dd",
+    "slug": "hand-painted-porcelain-wall-plaque-signed-h-catel_8d929194dd",
+    "lot_number": "1153",
+    "title": "HAND-PAINTED PORCELAIN WALL PLAQUE SIGNED H. CATELIN, BOULENGER & CIE, MONTEREAU",
+    "estimate_low": 300,
+    "estimate_high": 500,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L9C3RGGFiIgwzH_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LaRhgyGWk2EUi9_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LxmfgvCtWH4oNl_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LxJjdqIblC9gCL": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LxJjdqIblC9gCL_thz.JPG"
+        },
+        "H0134-LCbjADUYij4Vr2": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LCbjADUYij4Vr2_thz.JPG"
+        },
+        "H0134-L9C3RGGFiIgwzH": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L9C3RGGFiIgwzH_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L9C3RGGFiIgwzH_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L9C3RGGFiIgwzH.JPG"
+        },
+        "H0134-LaRhgyGWk2EUi9": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LaRhgyGWk2EUi9_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LaRhgyGWk2EUi9_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LaRhgyGWk2EUi9.JPG"
+        },
+        "H0134-LxmfgvCtWH4oNl": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LxmfgvCtWH4oNl_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LxmfgvCtWH4oNl_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LxmfgvCtWH4oNl.JPG"
+        }
+    }
+}

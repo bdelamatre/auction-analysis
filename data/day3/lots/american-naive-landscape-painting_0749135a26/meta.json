@@ -1,0 +1,43 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/american-naive-landscape-painting_0749135a26",
+    "slug": "american-naive-landscape-painting_0749135a26",
+    "lot_number": "3488",
+    "title": "AMERICAN NAIVE LANDSCAPE PAINTING",
+    "estimate_low": 300,
+    "estimate_high": 400,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LNd0aWDSByw2r3_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LSBFt6NX1VDa5r_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LM9uwIUBbBTyW6_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LF26BJYOGJfsuP_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LXZhnxuMqhZ3QM": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LXZhnxuMqhZ3QM_thz.JPG"
+        },
+        "H0134-LNd0aWDSByw2r3": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LNd0aWDSByw2r3_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LNd0aWDSByw2r3_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LNd0aWDSByw2r3.JPG"
+        },
+        "H0134-LSBFt6NX1VDa5r": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LSBFt6NX1VDa5r_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LSBFt6NX1VDa5r_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LSBFt6NX1VDa5r.JPG"
+        },
+        "H0134-LM9uwIUBbBTyW6": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LM9uwIUBbBTyW6_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LM9uwIUBbBTyW6_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LM9uwIUBbBTyW6.JPG"
+        },
+        "H0134-LF26BJYOGJfsuP": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LF26BJYOGJfsuP_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LF26BJYOGJfsuP_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LF26BJYOGJfsuP.JPG"
+        }
+    }
+}

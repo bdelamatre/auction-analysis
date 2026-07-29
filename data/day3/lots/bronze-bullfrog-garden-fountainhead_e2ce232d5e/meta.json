@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/bronze-bullfrog-garden-fountainhead_e2ce232d5e",
+    "slug": "bronze-bullfrog-garden-fountainhead_e2ce232d5e",
+    "lot_number": "3018",
+    "title": "BRONZE BULLFROG GARDEN FOUNTAINHEAD",
+    "estimate_low": 1000,
+    "estimate_high": 1500,
+    "current_bid": 500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LdsnD6KmpjgEGT_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LHBg6S3voKftgN_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LqX5fMkFw9x4RR": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LqX5fMkFw9x4RR_thz.JPG"
+        },
+        "H0134-L5ewSF9rM9fSGp": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L5ewSF9rM9fSGp_thz.JPG"
+        },
+        "H0134-LdsnD6KmpjgEGT": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LdsnD6KmpjgEGT_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LdsnD6KmpjgEGT_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LdsnD6KmpjgEGT.JPG"
+        },
+        "H0134-LHBg6S3voKftgN": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LHBg6S3voKftgN_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LHBg6S3voKftgN_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LHBg6S3voKftgN.JPG"
+        }
+    }
+}

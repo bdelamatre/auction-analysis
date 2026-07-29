@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/portrait-of-clarissa-brown-kellogg-ct-1794-1867_23c0576c30",
+    "slug": "portrait-of-clarissa-brown-kellogg-ct-1794-1867_23c0576c30",
+    "lot_number": "2245",
+    "title": "PORTRAIT OF CLARISSA BROWN KELLOGG (CT, 1794-1867)",
+    "estimate_low": 1500,
+    "estimate_high": 2500,
+    "current_bid": 750,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LGquogoOiNuCT9_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L6Hvqi3KYvBnjT_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LdqrMXoBkjhEsA_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LkbHdTPusPj8MQ": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LkbHdTPusPj8MQ_thz.JPG"
+        },
+        "H0134-LSWsSanGOgzkGc": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LSWsSanGOgzkGc_thz.JPG"
+        },
+        "H0134-LGquogoOiNuCT9": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LGquogoOiNuCT9_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LGquogoOiNuCT9_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LGquogoOiNuCT9.JPG"
+        },
+        "H0134-L6Hvqi3KYvBnjT": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L6Hvqi3KYvBnjT_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L6Hvqi3KYvBnjT_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L6Hvqi3KYvBnjT.JPG"
+        },
+        "H0134-LdqrMXoBkjhEsA": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LdqrMXoBkjhEsA_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LdqrMXoBkjhEsA_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LdqrMXoBkjhEsA.JPG"
+        }
+    }
+}

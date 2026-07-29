@@ -1,0 +1,52 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/german-folk-art-musical-instrument-circa-1900_51a170e5e1",
+    "slug": "german-folk-art-musical-instrument-circa-1900_51a170e5e1",
+    "lot_number": "1227",
+    "title": "GERMAN FOLK ART MUSICAL INSTRUMENT, CA. 1900",
+    "estimate_low": 400,
+    "estimate_high": 600,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 5,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LkzOL2yUsnAkyJ_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lxhl6J6Rj5qe0X_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LJBAzSBySnMmRt_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L8TvuUjP90aAu2_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LUSHB6BPqAO9P1_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-L0tRFufeeXZAR7": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L0tRFufeeXZAR7_thz.JPG"
+        },
+        "H0134-L0va56al3fHGX9": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L0va56al3fHGX9_thz.JPG"
+        },
+        "H0134-LkzOL2yUsnAkyJ": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LkzOL2yUsnAkyJ_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LkzOL2yUsnAkyJ_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LkzOL2yUsnAkyJ.JPG"
+        },
+        "H0134-Lxhl6J6Rj5qe0X": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lxhl6J6Rj5qe0X_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lxhl6J6Rj5qe0X_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lxhl6J6Rj5qe0X.JPG"
+        },
+        "H0134-LJBAzSBySnMmRt": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LJBAzSBySnMmRt_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LJBAzSBySnMmRt_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LJBAzSBySnMmRt.JPG"
+        },
+        "H0134-L8TvuUjP90aAu2": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L8TvuUjP90aAu2_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L8TvuUjP90aAu2_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L8TvuUjP90aAu2.JPG"
+        },
+        "H0134-LUSHB6BPqAO9P1": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LUSHB6BPqAO9P1_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LUSHB6BPqAO9P1_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LUSHB6BPqAO9P1.JPG"
+        }
+    }
+}

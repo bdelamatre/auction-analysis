@@ -1,0 +1,27 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/john-bisbee-american-maine-b-1965-leaf_cd06802b80",
+    "slug": "john-bisbee-american-maine-b-1965-leaf_cd06802b80",
+    "lot_number": "3291",
+    "title": "JOHN BISBEE (AMERICAN/MAINE, B. 1965), \"LEAF\"",
+    "estimate_low": 3000,
+    "estimate_high": 4500,
+    "current_bid": 1500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 1,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LJb6iu7y0Rs1wC_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LYUnG5Mc11OFq1": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LYUnG5Mc11OFq1_thz.JPG"
+        },
+        "H0134-LLC2VuaZ3B2PIA": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LLC2VuaZ3B2PIA_thz.JPG"
+        },
+        "H0134-LJb6iu7y0Rs1wC": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LJb6iu7y0Rs1wC_original.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LJb6iu7y0Rs1wC.JPG"
+        }
+    }
+}

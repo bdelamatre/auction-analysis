@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/bernard-corey-ma-1914-2000_29a95feb48",
+    "slug": "bernard-corey-ma-1914-2000_29a95feb48",
+    "lot_number": "3176",
+    "title": "BERNARD COREY (MA, 1914-2000)",
+    "estimate_low": 1000,
+    "estimate_high": 1500,
+    "current_bid": 500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LSgXRCBO8HAgdD_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lnr3ahGPD6fDSe_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LgWfJrnEXbs2aa_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LHKhBVN8ShPAYb_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LFyvJhLPhC0nFZ": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LFyvJhLPhC0nFZ_thz.JPG"
+        },
+        "H0134-LA2TAGFnFGj4z5": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LA2TAGFnFGj4z5_thz.JPG"
+        },
+        "H0134-LSgXRCBO8HAgdD": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LSgXRCBO8HAgdD_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LSgXRCBO8HAgdD_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LSgXRCBO8HAgdD.JPG"
+        },
+        "H0134-Lnr3ahGPD6fDSe": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lnr3ahGPD6fDSe_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lnr3ahGPD6fDSe_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lnr3ahGPD6fDSe.JPG"
+        },
+        "H0134-LgWfJrnEXbs2aa": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LgWfJrnEXbs2aa_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LgWfJrnEXbs2aa_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LgWfJrnEXbs2aa.JPG"
+        },
+        "H0134-LHKhBVN8ShPAYb": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LHKhBVN8ShPAYb_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LHKhBVN8ShPAYb_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LHKhBVN8ShPAYb.JPG"
+        }
+    }
+}

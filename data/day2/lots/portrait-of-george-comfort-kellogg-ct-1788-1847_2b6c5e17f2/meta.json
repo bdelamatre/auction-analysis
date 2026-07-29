@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/portrait-of-george-comfort-kellogg-ct-1788-1847_2b6c5e17f2",
+    "slug": "portrait-of-george-comfort-kellogg-ct-1788-1847_2b6c5e17f2",
+    "lot_number": "2244",
+    "title": "PORTRAIT OF GEORGE COMFORT KELLOGG (CT, 1788-1847)",
+    "estimate_low": 1500,
+    "estimate_high": 2500,
+    "current_bid": 750,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LkbHdTPusPj8MQ_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LupWd69K6kDIPn_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LXY6l7NM7nW0T0_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LHPoPZzzcuzwvH": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LHPoPZzzcuzwvH_thz.JPG"
+        },
+        "H0134-LGquogoOiNuCT9": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LGquogoOiNuCT9_thz.JPG"
+        },
+        "H0134-LkbHdTPusPj8MQ": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LkbHdTPusPj8MQ_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LkbHdTPusPj8MQ_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LkbHdTPusPj8MQ.JPG"
+        },
+        "H0134-LupWd69K6kDIPn": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LupWd69K6kDIPn_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LupWd69K6kDIPn_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LupWd69K6kDIPn.JPG"
+        },
+        "H0134-LXY6l7NM7nW0T0": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LXY6l7NM7nW0T0_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LXY6l7NM7nW0T0_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LXY6l7NM7nW0T0.JPG"
+        }
+    }
+}

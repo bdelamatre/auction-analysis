@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/steven-hileman-american-comtemporary_ae2a97d3a0",
+    "slug": "steven-hileman-american-comtemporary_ae2a97d3a0",
+    "lot_number": "1077",
+    "title": "STEVEN HILEMAN (AMERICAN, COMTEMPORARY)",
+    "estimate_low": 500,
+    "estimate_high": 700,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LqVLoR0GdO4vTr_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LbAOVPqK1XytZj_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L1ZE1oxz1K3kJo_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LzMM1di0pNUt70_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LKTIPBnT72OPX8": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LKTIPBnT72OPX8_thz.JPG"
+        },
+        "H0134-LOfODoZITm3XZ8": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LOfODoZITm3XZ8_thz.JPG"
+        },
+        "H0134-LqVLoR0GdO4vTr": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LqVLoR0GdO4vTr_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LqVLoR0GdO4vTr_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LqVLoR0GdO4vTr.JPG"
+        },
+        "H0134-LbAOVPqK1XytZj": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LbAOVPqK1XytZj_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LbAOVPqK1XytZj_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LbAOVPqK1XytZj.JPG"
+        },
+        "H0134-L1ZE1oxz1K3kJo": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L1ZE1oxz1K3kJo_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L1ZE1oxz1K3kJo_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L1ZE1oxz1K3kJo.JPG"
+        },
+        "H0134-LzMM1di0pNUt70": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LzMM1di0pNUt70_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LzMM1di0pNUt70_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LzMM1di0pNUt70.JPG"
+        }
+    }
+}

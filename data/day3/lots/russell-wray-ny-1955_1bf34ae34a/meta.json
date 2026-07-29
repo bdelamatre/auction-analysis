@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/russell-wray-ny-1955_1bf34ae34a",
+    "slug": "russell-wray-ny-1955_1bf34ae34a",
+    "lot_number": "3085",
+    "title": "RUSSELL WRAY (NY, 1955 - )",
+    "estimate_low": 4000,
+    "estimate_high": 6000,
+    "current_bid": 2000,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LnUdxjl9qhUPq5_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L8TgW9xz35D8Uq_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LX3XMt2nsGoBdv": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LX3XMt2nsGoBdv_thz.JPG"
+        },
+        "H0134-LVKABCLWO2Zrgv": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LVKABCLWO2Zrgv_thz.JPG"
+        },
+        "H0134-LnUdxjl9qhUPq5": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LnUdxjl9qhUPq5_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LnUdxjl9qhUPq5_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LnUdxjl9qhUPq5.JPG"
+        },
+        "H0134-L8TgW9xz35D8Uq": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L8TgW9xz35D8Uq_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L8TgW9xz35D8Uq_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L8TgW9xz35D8Uq.JPG"
+        }
+    }
+}

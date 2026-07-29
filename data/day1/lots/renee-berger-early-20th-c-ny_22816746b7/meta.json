@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/renee-berger-early-20th-c-ny_22816746b7",
+    "slug": "renee-berger-early-20th-c-ny_22816746b7",
+    "lot_number": "1426",
+    "title": "RENEE BERGER (EARLY 20TH C. NY)",
+    "estimate_low": 300,
+    "estimate_high": 500,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LzIoSfrKss8ml6_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L96RwrBjM3PiYB_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LrA6YJAVt4HbVw_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L0oSiUEJu2hWxQ_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LMJ1QmsP9gkTDo": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LMJ1QmsP9gkTDo_thz.JPG"
+        },
+        "H0134-LZTDyrc4IYIKOZ": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LZTDyrc4IYIKOZ_thz.JPG"
+        },
+        "H0134-LzIoSfrKss8ml6": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LzIoSfrKss8ml6_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LzIoSfrKss8ml6_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LzIoSfrKss8ml6.JPG"
+        },
+        "H0134-L96RwrBjM3PiYB": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L96RwrBjM3PiYB_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L96RwrBjM3PiYB_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L96RwrBjM3PiYB.JPG"
+        },
+        "H0134-LrA6YJAVt4HbVw": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LrA6YJAVt4HbVw_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LrA6YJAVt4HbVw_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LrA6YJAVt4HbVw.JPG"
+        },
+        "H0134-L0oSiUEJu2hWxQ": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L0oSiUEJu2hWxQ_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L0oSiUEJu2hWxQ_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L0oSiUEJu2hWxQ.JPG"
+        }
+    }
+}

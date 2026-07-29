@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/after-jean-jacques-henner-france-1829-1905_3834977729",
+    "slug": "after-jean-jacques-henner-france-1829-1905_3834977729",
+    "lot_number": "1446",
+    "title": "AFTER JEAN-JACQUES HENNER (FRANCE, 1829-1905)",
+    "estimate_low": 500,
+    "estimate_high": 700,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LN7hFwMYBwU4et_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lq2S9LGJEKTd1i_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LsckcPnjMiKfdo_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-L2KCDBr2ILJO8L": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L2KCDBr2ILJO8L_thz.JPG"
+        },
+        "H0134-LaDFJvwu1BbL1v": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LaDFJvwu1BbL1v_thz.JPG"
+        },
+        "H0134-LN7hFwMYBwU4et": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LN7hFwMYBwU4et_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LN7hFwMYBwU4et_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LN7hFwMYBwU4et.JPG"
+        },
+        "H0134-Lq2S9LGJEKTd1i": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lq2S9LGJEKTd1i_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lq2S9LGJEKTd1i_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lq2S9LGJEKTd1i.JPG"
+        },
+        "H0134-LsckcPnjMiKfdo": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LsckcPnjMiKfdo_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LsckcPnjMiKfdo_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LsckcPnjMiKfdo.JPG"
+        }
+    }
+}

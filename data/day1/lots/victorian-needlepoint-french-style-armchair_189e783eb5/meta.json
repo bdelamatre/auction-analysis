@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/victorian-needlepoint-french-style-armchair_189e783eb5",
+    "slug": "victorian-needlepoint-french-style-armchair_189e783eb5",
+    "lot_number": "1021",
+    "title": "VICTORIAN NEEDLEPOINT FRENCH STYLE ARMCHAIR",
+    "estimate_low": 300,
+    "estimate_high": 500,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LRfJ9qewWYz6Ko_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LL3ypvgCcOXXqt_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lr7PIB2B06dKm1_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lo0t77YdpeO8rt_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LpNDtBqj5Nclc6": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LpNDtBqj5Nclc6_thz.JPG"
+        },
+        "H0134-LKSntNZE0OEJgG": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LKSntNZE0OEJgG_thz.JPG"
+        },
+        "H0134-LRfJ9qewWYz6Ko": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LRfJ9qewWYz6Ko_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LRfJ9qewWYz6Ko_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LRfJ9qewWYz6Ko.JPG"
+        },
+        "H0134-LL3ypvgCcOXXqt": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LL3ypvgCcOXXqt_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LL3ypvgCcOXXqt_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LL3ypvgCcOXXqt.JPG"
+        },
+        "H0134-Lr7PIB2B06dKm1": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lr7PIB2B06dKm1_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lr7PIB2B06dKm1_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lr7PIB2B06dKm1.JPG"
+        },
+        "H0134-Lo0t77YdpeO8rt": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lo0t77YdpeO8rt_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lo0t77YdpeO8rt_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lo0t77YdpeO8rt.JPG"
+        }
+    }
+}

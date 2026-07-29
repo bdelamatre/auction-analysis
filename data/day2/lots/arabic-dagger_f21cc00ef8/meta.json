@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/arabic-dagger_f21cc00ef8",
+    "slug": "arabic-dagger_f21cc00ef8",
+    "lot_number": "2442",
+    "title": "ARABIC DAGGER",
+    "estimate_low": 500,
+    "estimate_high": 700,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LUywK3SmoSzATi_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LbJ2I2vMyXwxyF_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LfDjrQiFsiySSa": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LfDjrQiFsiySSa_thz.JPG"
+        },
+        "H0134-LMsLGuFWD3d6y5": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LMsLGuFWD3d6y5_thz.JPG"
+        },
+        "H0134-LUywK3SmoSzATi": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LUywK3SmoSzATi_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LUywK3SmoSzATi_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LUywK3SmoSzATi.JPG"
+        },
+        "H0134-LbJ2I2vMyXwxyF": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LbJ2I2vMyXwxyF_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LbJ2I2vMyXwxyF_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LbJ2I2vMyXwxyF.JPG"
+        }
+    }
+}

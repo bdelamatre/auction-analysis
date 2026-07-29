@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/bronze-art-nouveau-pitcher_2302bb10ef",
+    "slug": "bronze-art-nouveau-pitcher_2302bb10ef",
+    "lot_number": "3165",
+    "title": "BRONZE ART NOUVEAU PITCHER",
+    "estimate_low": 2000,
+    "estimate_high": 3000,
+    "current_bid": 1000,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LhOX0KNDwrEuja_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LeKIAwykhanLsl_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LDDV87EyyujYj5_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LqC5fF1QmBuzAv_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LNUdunpxJFqlZd": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LNUdunpxJFqlZd_thz.JPG"
+        },
+        "H0134-LAAYKogB9bDMLp": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LAAYKogB9bDMLp_thz.JPG"
+        },
+        "H0134-LhOX0KNDwrEuja": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LhOX0KNDwrEuja_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LhOX0KNDwrEuja_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LhOX0KNDwrEuja.JPG"
+        },
+        "H0134-LeKIAwykhanLsl": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LeKIAwykhanLsl_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LeKIAwykhanLsl_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LeKIAwykhanLsl.JPG"
+        },
+        "H0134-LDDV87EyyujYj5": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LDDV87EyyujYj5_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LDDV87EyyujYj5_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LDDV87EyyujYj5.JPG"
+        },
+        "H0134-LqC5fF1QmBuzAv": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LqC5fF1QmBuzAv_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LqC5fF1QmBuzAv_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LqC5fF1QmBuzAv.JPG"
+        }
+    }
+}

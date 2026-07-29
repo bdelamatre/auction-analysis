@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/william-gwynn-of-ludlow-uk-circa-1795-1838_945aa63b41",
+    "slug": "william-gwynn-of-ludlow-uk-circa-1795-1838_945aa63b41",
+    "lot_number": "2307",
+    "title": "WILLIAM GWYNN OF LUDLOW (UK, CIRCA 1795-1838)",
+    "estimate_low": 600,
+    "estimate_high": 800,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LSdyverGqa0Xk7_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LgYNUo7Z7OZyj5_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LUUKdmmTpMRgje_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-L1LElau3ghjTik": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L1LElau3ghjTik_thz.JPG"
+        },
+        "H0134-LkfKSXwUOKkolQ": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LkfKSXwUOKkolQ_thz.JPG"
+        },
+        "H0134-LSdyverGqa0Xk7": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LSdyverGqa0Xk7_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LSdyverGqa0Xk7_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LSdyverGqa0Xk7.JPG"
+        },
+        "H0134-LgYNUo7Z7OZyj5": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LgYNUo7Z7OZyj5_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LgYNUo7Z7OZyj5_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LgYNUo7Z7OZyj5.JPG"
+        },
+        "H0134-LUUKdmmTpMRgje": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LUUKdmmTpMRgje_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LUUKdmmTpMRgje_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LUUKdmmTpMRgje.JPG"
+        }
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/14k-gold-e-howard-pocket-watch-wwi-presentation_0c03094e55",
+    "slug": "14k-gold-e-howard-pocket-watch-wwi-presentation_0c03094e55",
+    "lot_number": "3194",
+    "title": "14K GOLD E. HOWARD POCKET WATCH WWI PRESENTATION",
+    "estimate_low": 1500,
+    "estimate_high": 3000,
+    "current_bid": 750,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 6,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LPaGiDTD1nQ1Wd_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lk88kgwt5owpqR_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LMKGbpSHklVIBy_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LrdkjF2BWSz6v7_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L1rJvmpKrRKtcV_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L15kXOonNJ2e40_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-Lo7b0sP9C8Abza": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lo7b0sP9C8Abza_thz.JPG"
+        },
+        "H0134-LweLAfKgMR7SYw": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LweLAfKgMR7SYw_thz.JPG"
+        },
+        "H0134-LPaGiDTD1nQ1Wd": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LPaGiDTD1nQ1Wd_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LPaGiDTD1nQ1Wd_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LPaGiDTD1nQ1Wd.JPG"
+        },
+        "H0134-Lk88kgwt5owpqR": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lk88kgwt5owpqR_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lk88kgwt5owpqR_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lk88kgwt5owpqR.JPG"
+        },
+        "H0134-LMKGbpSHklVIBy": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LMKGbpSHklVIBy_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LMKGbpSHklVIBy_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LMKGbpSHklVIBy.JPG"
+        },
+        "H0134-LrdkjF2BWSz6v7": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LrdkjF2BWSz6v7_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LrdkjF2BWSz6v7_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LrdkjF2BWSz6v7.JPG"
+        },
+        "H0134-L1rJvmpKrRKtcV": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L1rJvmpKrRKtcV_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L1rJvmpKrRKtcV_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L1rJvmpKrRKtcV.JPG"
+        },
+        "H0134-L15kXOonNJ2e40": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L15kXOonNJ2e40_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L15kXOonNJ2e40_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L15kXOonNJ2e40.JPG"
+        }
+    }
+}

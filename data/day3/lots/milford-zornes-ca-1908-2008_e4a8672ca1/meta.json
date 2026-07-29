@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/milford-zornes-ca-1908-2008_e4a8672ca1",
+    "slug": "milford-zornes-ca-1908-2008_e4a8672ca1",
+    "lot_number": "3125",
+    "title": "MILFORD ZORNES (CA, 1908-2008)",
+    "estimate_low": 800,
+    "estimate_high": 1200,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LhI6VZL6lrOytQ_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LQ1n7viVoMtULL_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LsmhJEkHpRrm6d_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LmWDe79Q9JCdon": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LmWDe79Q9JCdon_thz.JPG"
+        },
+        "H0134-L3TJXyqZ0qjkDr": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L3TJXyqZ0qjkDr_thz.JPG"
+        },
+        "H0134-LhI6VZL6lrOytQ": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LhI6VZL6lrOytQ_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LhI6VZL6lrOytQ_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LhI6VZL6lrOytQ.JPG"
+        },
+        "H0134-LQ1n7viVoMtULL": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LQ1n7viVoMtULL_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LQ1n7viVoMtULL_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LQ1n7viVoMtULL.JPG"
+        },
+        "H0134-LsmhJEkHpRrm6d": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LsmhJEkHpRrm6d_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LsmhJEkHpRrm6d_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LsmhJEkHpRrm6d.JPG"
+        }
+    }
+}

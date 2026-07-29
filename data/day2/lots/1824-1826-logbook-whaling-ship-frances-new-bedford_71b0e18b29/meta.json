@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/1824-1826-logbook-whaling-ship-frances-new-bedford_71b0e18b29",
+    "slug": "1824-1826-logbook-whaling-ship-frances-new-bedford_71b0e18b29",
+    "lot_number": "2008",
+    "title": "1824-1826 LOGBOOK WHALING SHIP \"FRANCES\" NEW BEDFORD",
+    "estimate_low": 2000,
+    "estimate_high": 3000,
+    "current_bid": 1000,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LoeK8TTeyaTuNm_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LCrzK9dLZCUVg6_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LKL9pJ2e2Z8Jda_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L6c0qNjjPIwmaq_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-Lhh2YUR0mkNBuv": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lhh2YUR0mkNBuv_thz.JPG"
+        },
+        "H0134-L9jQXh4zoAGP9a": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L9jQXh4zoAGP9a_thz.JPG"
+        },
+        "H0134-LoeK8TTeyaTuNm": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LoeK8TTeyaTuNm_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LoeK8TTeyaTuNm_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LoeK8TTeyaTuNm.JPG"
+        },
+        "H0134-LCrzK9dLZCUVg6": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LCrzK9dLZCUVg6_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LCrzK9dLZCUVg6_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LCrzK9dLZCUVg6.JPG"
+        },
+        "H0134-LKL9pJ2e2Z8Jda": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LKL9pJ2e2Z8Jda_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LKL9pJ2e2Z8Jda_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LKL9pJ2e2Z8Jda.JPG"
+        },
+        "H0134-L6c0qNjjPIwmaq": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L6c0qNjjPIwmaq_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L6c0qNjjPIwmaq_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L6c0qNjjPIwmaq.JPG"
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/18k-white-gold-south-sea-pearl-and-diamond-ring_932c141a68",
+    "slug": "18k-white-gold-south-sea-pearl-and-diamond-ring_932c141a68",
+    "lot_number": "3240",
+    "title": "18K WHITE GOLD SOUTH SEA PEARL AND DIAMOND RING",
+    "estimate_low": 1500,
+    "estimate_high": 1800,
+    "current_bid": 750,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LoDhMNDUTQ7HvP_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lavx4zbeBOzFiD_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-L7diMeRvnbbcrL": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L7diMeRvnbbcrL_thz.JPG"
+        },
+        "H0134-LnL4PMXaXYCbhw": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LnL4PMXaXYCbhw_thz.JPG"
+        },
+        "H0134-LoDhMNDUTQ7HvP": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LoDhMNDUTQ7HvP_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LoDhMNDUTQ7HvP_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LoDhMNDUTQ7HvP.JPG"
+        },
+        "H0134-Lavx4zbeBOzFiD": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lavx4zbeBOzFiD_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lavx4zbeBOzFiD_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lavx4zbeBOzFiD.JPG"
+        }
+    }
+}

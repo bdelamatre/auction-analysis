@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/carl-gustaf-simon-nelson-ma-me-sweden-1898-1988_a5990e88c8",
+    "slug": "carl-gustaf-simon-nelson-ma-me-sweden-1898-1988_a5990e88c8",
+    "lot_number": "1114",
+    "title": "CARL GUSTAF SIMON NELSON (MA/ME/SWEDEN, 1898-1988)",
+    "estimate_low": 800,
+    "estimate_high": 1200,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LRRbcE5hnRl7ud_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LY14Hg7WjPSmxM_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LnEBqD5z1o58mR_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lhi5dCZl9oi7XE_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LrKsXV15aFI2gB": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LrKsXV15aFI2gB_thz.JPG"
+        },
+        "H0134-LzoWd3d7h1FGj9": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LzoWd3d7h1FGj9_thz.JPG"
+        },
+        "H0134-LRRbcE5hnRl7ud": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LRRbcE5hnRl7ud_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LRRbcE5hnRl7ud_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LRRbcE5hnRl7ud.JPG"
+        },
+        "H0134-LY14Hg7WjPSmxM": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LY14Hg7WjPSmxM_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LY14Hg7WjPSmxM_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LY14Hg7WjPSmxM.JPG"
+        },
+        "H0134-LnEBqD5z1o58mR": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LnEBqD5z1o58mR_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LnEBqD5z1o58mR_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LnEBqD5z1o58mR.JPG"
+        },
+        "H0134-Lhi5dCZl9oi7XE": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lhi5dCZl9oi7XE_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lhi5dCZl9oi7XE_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lhi5dCZl9oi7XE.JPG"
+        }
+    }
+}

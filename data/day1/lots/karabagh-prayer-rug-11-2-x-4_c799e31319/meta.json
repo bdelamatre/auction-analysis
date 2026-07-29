@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/karabagh-prayer-rug-11-2-x-4_c799e31319",
+    "slug": "karabagh-prayer-rug-11-2-x-4_c799e31319",
+    "lot_number": "1378",
+    "title": "KARABAGH PRAYER RUG (11' 2\" x 4')",
+    "estimate_low": 500,
+    "estimate_high": 700,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lp6hAkyaEiOw2D_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LfhneRQfvchbOW_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LQO2c7vGZm02R1_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LlbkFOEZwXG4ze_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-L4dtcUBZYQccLj": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L4dtcUBZYQccLj_thz.JPG"
+        },
+        "H0134-L8X2YudMhr08NX": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L8X2YudMhr08NX_thz.JPG"
+        },
+        "H0134-Lp6hAkyaEiOw2D": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lp6hAkyaEiOw2D_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lp6hAkyaEiOw2D_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lp6hAkyaEiOw2D.JPG"
+        },
+        "H0134-LfhneRQfvchbOW": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LfhneRQfvchbOW_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LfhneRQfvchbOW_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LfhneRQfvchbOW.JPG"
+        },
+        "H0134-LQO2c7vGZm02R1": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LQO2c7vGZm02R1_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LQO2c7vGZm02R1_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LQO2c7vGZm02R1.JPG"
+        },
+        "H0134-LlbkFOEZwXG4ze": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LlbkFOEZwXG4ze_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LlbkFOEZwXG4ze_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LlbkFOEZwXG4ze.JPG"
+        }
+    }
+}

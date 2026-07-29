@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/amedee-joullin-ma-ca-1862-1917_b37316ac10",
+    "slug": "amedee-joullin-ma-ca-1862-1917_b37316ac10",
+    "lot_number": "2223",
+    "title": "AMEDEE JOULLIN (MA/CA, 1862-1917)",
+    "estimate_low": 2000,
+    "estimate_high": 3000,
+    "current_bid": 1000,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L3toJt4joea2RU_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lfq3XokYgvimJ7_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LCTzLSQPEEcLMY_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LPT8YTwwsriSmA_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LmUpQaEv7GmMk5": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LmUpQaEv7GmMk5_thz.JPG"
+        },
+        "H0134-L9wkRoA8Q0OPea": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L9wkRoA8Q0OPea_thz.JPG"
+        },
+        "H0134-L3toJt4joea2RU": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L3toJt4joea2RU_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L3toJt4joea2RU_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L3toJt4joea2RU.JPG"
+        },
+        "H0134-Lfq3XokYgvimJ7": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lfq3XokYgvimJ7_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lfq3XokYgvimJ7_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lfq3XokYgvimJ7.JPG"
+        },
+        "H0134-LCTzLSQPEEcLMY": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LCTzLSQPEEcLMY_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LCTzLSQPEEcLMY_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LCTzLSQPEEcLMY.JPG"
+        },
+        "H0134-LPT8YTwwsriSmA": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LPT8YTwwsriSmA_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LPT8YTwwsriSmA_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LPT8YTwwsriSmA.JPG"
+        }
+    }
+}

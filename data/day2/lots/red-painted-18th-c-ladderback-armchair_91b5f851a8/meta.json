@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/red-painted-18th-c-ladderback-armchair_91b5f851a8",
+    "slug": "red-painted-18th-c-ladderback-armchair_91b5f851a8",
+    "lot_number": "2154",
+    "title": "RED PAINTED 18TH C. LADDERBACK ARMCHAIR",
+    "estimate_low": 500,
+    "estimate_high": 700,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LyzRRhCLOFjVOe_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LNDqhcNj6p9ANC_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-L8t9D0WDbD8Vf9": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L8t9D0WDbD8Vf9_thz.JPG"
+        },
+        "H0134-LaTpgbgicnfLew": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LaTpgbgicnfLew_thz.JPG"
+        },
+        "H0134-LyzRRhCLOFjVOe": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LyzRRhCLOFjVOe_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LyzRRhCLOFjVOe_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LyzRRhCLOFjVOe.JPG"
+        },
+        "H0134-LNDqhcNj6p9ANC": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LNDqhcNj6p9ANC_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LNDqhcNj6p9ANC_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LNDqhcNj6p9ANC.JPG"
+        }
+    }
+}

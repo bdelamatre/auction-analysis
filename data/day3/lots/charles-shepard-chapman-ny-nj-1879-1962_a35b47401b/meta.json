@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/charles-shepard-chapman-ny-nj-1879-1962_a35b47401b",
+    "slug": "charles-shepard-chapman-ny-nj-1879-1962_a35b47401b",
+    "lot_number": "3113",
+    "title": "CHARLES SHEPARD CHAPMAN (NY/NJ, 1879-1962)",
+    "estimate_low": 2000,
+    "estimate_high": 3000,
+    "current_bid": 1000,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LxBFnGI02intcy_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LxqYwVjYqe1l1H_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LIZgwBMe3RiUAT_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L5JV6HM7MvtOYw_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-Lukb1Q9ARbORsJ": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lukb1Q9ARbORsJ_thz.JPG"
+        },
+        "H0134-LJKbAC6PGOjGO5": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LJKbAC6PGOjGO5_thz.JPG"
+        },
+        "H0134-LxBFnGI02intcy": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LxBFnGI02intcy_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LxBFnGI02intcy_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LxBFnGI02intcy.JPG"
+        },
+        "H0134-LxqYwVjYqe1l1H": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LxqYwVjYqe1l1H_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LxqYwVjYqe1l1H_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LxqYwVjYqe1l1H.JPG"
+        },
+        "H0134-LIZgwBMe3RiUAT": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LIZgwBMe3RiUAT_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LIZgwBMe3RiUAT_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LIZgwBMe3RiUAT.JPG"
+        },
+        "H0134-L5JV6HM7MvtOYw": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L5JV6HM7MvtOYw_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L5JV6HM7MvtOYw_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L5JV6HM7MvtOYw.JPG"
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/19th-c-bone-inlaid-rosewood-lap-desk_9bc20215c0",
+    "slug": "19th-c-bone-inlaid-rosewood-lap-desk_9bc20215c0",
+    "lot_number": "1107",
+    "title": "19TH C. BONE INLAID ROSEWOOD LAP DESK",
+    "estimate_low": 500,
+    "estimate_high": 700,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LirYOeJnEBgKRS_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LmgMBB7Fm90kk0_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L3AI7EkpwO21Ho_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LB6Uhcq6oHaCkC_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LP5GNQsCMF5hAy": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LP5GNQsCMF5hAy_thz.JPG"
+        },
+        "H0134-LZSTnzF7JZAgFP": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LZSTnzF7JZAgFP_thz.JPG"
+        },
+        "H0134-LirYOeJnEBgKRS": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LirYOeJnEBgKRS_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LirYOeJnEBgKRS_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LirYOeJnEBgKRS.JPG"
+        },
+        "H0134-LmgMBB7Fm90kk0": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LmgMBB7Fm90kk0_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LmgMBB7Fm90kk0_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LmgMBB7Fm90kk0.JPG"
+        },
+        "H0134-L3AI7EkpwO21Ho": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L3AI7EkpwO21Ho_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L3AI7EkpwO21Ho_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L3AI7EkpwO21Ho.JPG"
+        },
+        "H0134-LB6Uhcq6oHaCkC": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LB6Uhcq6oHaCkC_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LB6Uhcq6oHaCkC_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LB6Uhcq6oHaCkC.JPG"
+        }
+    }
+}

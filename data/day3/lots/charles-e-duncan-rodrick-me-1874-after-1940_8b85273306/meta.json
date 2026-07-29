@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/charles-e-duncan-rodrick-me-1874-after-1940_8b85273306",
+    "slug": "charles-e-duncan-rodrick-me-1874-after-1940_8b85273306",
+    "lot_number": "3437",
+    "title": "CHARLES E. DUNCAN RODRICK (ME, 1874-c.1940)",
+    "estimate_low": 300,
+    "estimate_high": 400,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LHUsaqPlpbOKGX_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LS4o8KRVHu0YYC_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LHF9xjw7sKPQ7g_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LPGWHu54WQ7Yw8_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LXFqIHb3Zr2fuz": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LXFqIHb3Zr2fuz_thz.JPG"
+        },
+        "H0134-LGfPDgUC8pyM6c": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LGfPDgUC8pyM6c_thz.JPG"
+        },
+        "H0134-LHUsaqPlpbOKGX": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LHUsaqPlpbOKGX_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LHUsaqPlpbOKGX_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LHUsaqPlpbOKGX.JPG"
+        },
+        "H0134-LS4o8KRVHu0YYC": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LS4o8KRVHu0YYC_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LS4o8KRVHu0YYC_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LS4o8KRVHu0YYC.JPG"
+        },
+        "H0134-LHF9xjw7sKPQ7g": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LHF9xjw7sKPQ7g_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LHF9xjw7sKPQ7g_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LHF9xjw7sKPQ7g.JPG"
+        },
+        "H0134-LPGWHu54WQ7Yw8": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LPGWHu54WQ7Yw8_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LPGWHu54WQ7Yw8_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LPGWHu54WQ7Yw8.JPG"
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/1930-era-painted-pine-figure_bd91dc85fe",
+    "slug": "1930-era-painted-pine-figure_bd91dc85fe",
+    "lot_number": "1090",
+    "title": "1930 ERA PAINTED PINE FIGURE",
+    "estimate_low": 600,
+    "estimate_high": 800,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LF4QkMkER6voVz_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LRLnkzUcoCy3Kl_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LL2CeJZh94OEx2_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LvtrUEzZHUk14X": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LvtrUEzZHUk14X_thz.JPG"
+        },
+        "H0134-LhODIQdwP2hK2S": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LhODIQdwP2hK2S_thz.JPG"
+        },
+        "H0134-LF4QkMkER6voVz": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LF4QkMkER6voVz_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LF4QkMkER6voVz_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LF4QkMkER6voVz.JPG"
+        },
+        "H0134-LRLnkzUcoCy3Kl": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LRLnkzUcoCy3Kl_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LRLnkzUcoCy3Kl_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LRLnkzUcoCy3Kl.JPG"
+        },
+        "H0134-LL2CeJZh94OEx2": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LL2CeJZh94OEx2_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LL2CeJZh94OEx2_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LL2CeJZh94OEx2.JPG"
+        }
+    }
+}

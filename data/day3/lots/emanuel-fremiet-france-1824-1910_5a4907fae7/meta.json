@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/emanuel-fremiet-france-1824-1910_5a4907fae7",
+    "slug": "emanuel-fremiet-france-1824-1910_5a4907fae7",
+    "lot_number": "3007",
+    "title": "EMANUEL FREMIET (FRANCE, 1824-1910)",
+    "estimate_low": 600,
+    "estimate_high": 800,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L4RmiFNy1iaHkS_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L8A4hqJKrYtsh9_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LHKFwuuGRpFqpo_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LZMmKajxEqussB": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LZMmKajxEqussB_thz.JPG"
+        },
+        "H0134-LFqm5k0ZLLHv87": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LFqm5k0ZLLHv87_thz.JPG"
+        },
+        "H0134-L4RmiFNy1iaHkS": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L4RmiFNy1iaHkS_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L4RmiFNy1iaHkS_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L4RmiFNy1iaHkS.JPG"
+        },
+        "H0134-L8A4hqJKrYtsh9": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L8A4hqJKrYtsh9_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L8A4hqJKrYtsh9_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L8A4hqJKrYtsh9.JPG"
+        },
+        "H0134-LHKFwuuGRpFqpo": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LHKFwuuGRpFqpo_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LHKFwuuGRpFqpo_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LHKFwuuGRpFqpo.JPG"
+        }
+    }
+}

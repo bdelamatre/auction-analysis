@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/2-turkoman-silver-carnelian-and-dangle-pendants_177df1f0c2",
+    "slug": "2-turkoman-silver-carnelian-and-dangle-pendants_177df1f0c2",
+    "lot_number": "2454",
+    "title": "(2) TURKOMAN SILVER, CARNELIAN, AND DANGLE PENDANTS",
+    "estimate_low": 300,
+    "estimate_high": 500,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LEUEMi2aDMBux5_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L3RWJ9Z7bMxTG7_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LI56UZWG8K21kP": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LI56UZWG8K21kP_thz.JPG"
+        },
+        "H0134-L94baHxXNptVlS": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L94baHxXNptVlS_thz.JPG"
+        },
+        "H0134-LEUEMi2aDMBux5": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LEUEMi2aDMBux5_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LEUEMi2aDMBux5_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LEUEMi2aDMBux5.JPG"
+        },
+        "H0134-L3RWJ9Z7bMxTG7": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L3RWJ9Z7bMxTG7_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L3RWJ9Z7bMxTG7_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L3RWJ9Z7bMxTG7.JPG"
+        }
+    }
+}

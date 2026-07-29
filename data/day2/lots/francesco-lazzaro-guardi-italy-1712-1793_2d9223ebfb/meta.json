@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/francesco-lazzaro-guardi-italy-1712-1793_2d9223ebfb",
+    "slug": "francesco-lazzaro-guardi-italy-1712-1793_2d9223ebfb",
+    "lot_number": "2385",
+    "title": "FRANCESCO LAZZARO GUARDI (ITALY, 1712-1793)",
+    "estimate_low": 2000,
+    "estimate_high": 3000,
+    "current_bid": 1000,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LlfrdrJMdfp1ix_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Le49SR7uQVqKet_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LfWCRHDSCzG2D9_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LzYTPBmxgFKTbu_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-Lm1x79eYv6lOQR": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lm1x79eYv6lOQR_thz.JPG"
+        },
+        "H0134-L87XnRpgcUB8uF": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L87XnRpgcUB8uF_thz.JPG"
+        },
+        "H0134-LlfrdrJMdfp1ix": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LlfrdrJMdfp1ix_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LlfrdrJMdfp1ix_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LlfrdrJMdfp1ix.JPG"
+        },
+        "H0134-Le49SR7uQVqKet": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Le49SR7uQVqKet_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Le49SR7uQVqKet_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Le49SR7uQVqKet.JPG"
+        },
+        "H0134-LfWCRHDSCzG2D9": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LfWCRHDSCzG2D9_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LfWCRHDSCzG2D9_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LfWCRHDSCzG2D9.JPG"
+        },
+        "H0134-LzYTPBmxgFKTbu": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LzYTPBmxgFKTbu_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LzYTPBmxgFKTbu_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LzYTPBmxgFKTbu.JPG"
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/wwii-german-u-boat-kriegsmarine-barometer_e5eae7e7c3",
+    "slug": "wwii-german-u-boat-kriegsmarine-barometer_e5eae7e7c3",
+    "lot_number": "1279",
+    "title": "WWII GERMAN U-BOAT KRIEGSMARINE BAROMETER",
+    "estimate_low": 800,
+    "estimate_high": 1200,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LoKxwSLvrTSWXQ_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lm9xeM9RDSskik_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LDwmOZDgQmxDMj_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-L1DkXyP4rdTfAG": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L1DkXyP4rdTfAG_thz.JPG"
+        },
+        "H0134-Lz6H11dze1RFpP": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lz6H11dze1RFpP_thz.JPG"
+        },
+        "H0134-LoKxwSLvrTSWXQ": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LoKxwSLvrTSWXQ_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LoKxwSLvrTSWXQ_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LoKxwSLvrTSWXQ.JPG"
+        },
+        "H0134-Lm9xeM9RDSskik": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lm9xeM9RDSskik_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lm9xeM9RDSskik_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lm9xeM9RDSskik.JPG"
+        },
+        "H0134-LDwmOZDgQmxDMj": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LDwmOZDgQmxDMj_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LDwmOZDgQmxDMj_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LDwmOZDgQmxDMj.JPG"
+        }
+    }
+}

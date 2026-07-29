@@ -1,0 +1,27 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/stow-wengenroth-american-1906-1978-the-fog-bell-1_73116afb18",
+    "slug": "stow-wengenroth-american-1906-1978-the-fog-bell-1_73116afb18",
+    "lot_number": "1315",
+    "title": "STOW WENGENROTH (AMERICAN, 1906-1978), THE FOG BELL, 1954",
+    "estimate_low": 600,
+    "estimate_high": 800,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 1,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LLexL9DQoZkXoH_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LX4gdDEOQ5axWt": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LX4gdDEOQ5axWt_thz.JPG"
+        },
+        "H0134-LeS90I5kfSFUKd": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LeS90I5kfSFUKd_thz.JPG"
+        },
+        "H0134-LLexL9DQoZkXoH": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LLexL9DQoZkXoH_original.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LLexL9DQoZkXoH.JPG"
+        }
+    }
+}

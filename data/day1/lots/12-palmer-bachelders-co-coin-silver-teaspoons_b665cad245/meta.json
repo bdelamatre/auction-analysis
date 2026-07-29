@@ -1,0 +1,27 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/12-palmer-bachelders-co-coin-silver-teaspoons_b665cad245",
+    "slug": "12-palmer-bachelders-co-coin-silver-teaspoons_b665cad245",
+    "lot_number": "1344",
+    "title": "(12) PALMER BACHELDERS & CO. COIN SILVER TEASPOONS",
+    "estimate_low": 300,
+    "estimate_high": 500,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 1,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LDQjJa4lBKkjqF_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-L5w2EDKJuqcI1t": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L5w2EDKJuqcI1t_thz.JPG"
+        },
+        "H0134-LbUb0wuwth0rdT": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LbUb0wuwth0rdT_thz.JPG"
+        },
+        "H0134-LDQjJa4lBKkjqF": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LDQjJa4lBKkjqF_original.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LDQjJa4lBKkjqF.JPG"
+        }
+    }
+}

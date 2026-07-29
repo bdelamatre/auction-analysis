@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/19th-c-english-brass-telescope-j-p-cutts-sutton-s_c2ef1e79a9",
+    "slug": "19th-c-english-brass-telescope-j-p-cutts-sutton-s_c2ef1e79a9",
+    "lot_number": "2042",
+    "title": "19TH C. ENGLISH BRASS TELESCOPE, J.P. CUTTS, SUTTON & SON",
+    "estimate_low": 300,
+    "estimate_high": 500,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LJYUF4E0r9MMeZ_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LDLeFTplE1zWOE_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LMnita2HY3KznF_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LiBwasRB07tJij": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LiBwasRB07tJij_thz.JPG"
+        },
+        "H0134-LsQ0uyyeU7MTEs": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LsQ0uyyeU7MTEs_thz.JPG"
+        },
+        "H0134-LJYUF4E0r9MMeZ": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LJYUF4E0r9MMeZ_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LJYUF4E0r9MMeZ_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LJYUF4E0r9MMeZ.JPG"
+        },
+        "H0134-LDLeFTplE1zWOE": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LDLeFTplE1zWOE_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LDLeFTplE1zWOE_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LDLeFTplE1zWOE.JPG"
+        },
+        "H0134-LMnita2HY3KznF": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LMnita2HY3KznF_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LMnita2HY3KznF_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LMnita2HY3KznF.JPG"
+        }
+    }
+}

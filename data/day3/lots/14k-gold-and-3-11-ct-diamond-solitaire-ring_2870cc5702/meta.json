@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/14k-gold-and-3-11-ct-diamond-solitaire-ring_2870cc5702",
+    "slug": "14k-gold-and-3-11-ct-diamond-solitaire-ring_2870cc5702",
+    "lot_number": "3191",
+    "title": "14K GOLD AND 3.11 CT DIAMOND SOLITAIRE RING",
+    "estimate_low": 15000,
+    "estimate_high": 18000,
+    "current_bid": 7500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LFT4EVZpYh7PDC_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L2bq7A4R8DOHgI_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LoUPrvBxWJgbHe_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LJMEo90Rf6Dtbv_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LM9EtPhJT2PXdg": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LM9EtPhJT2PXdg_thz.JPG"
+        },
+        "H0134-LxIaDysbxKNQUu": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LxIaDysbxKNQUu_thz.JPG"
+        },
+        "H0134-LFT4EVZpYh7PDC": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LFT4EVZpYh7PDC_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LFT4EVZpYh7PDC_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LFT4EVZpYh7PDC.JPG"
+        },
+        "H0134-L2bq7A4R8DOHgI": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L2bq7A4R8DOHgI_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L2bq7A4R8DOHgI_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L2bq7A4R8DOHgI.JPG"
+        },
+        "H0134-LoUPrvBxWJgbHe": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LoUPrvBxWJgbHe_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LoUPrvBxWJgbHe_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LoUPrvBxWJgbHe.JPG"
+        },
+        "H0134-LJMEo90Rf6Dtbv": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LJMEo90Rf6Dtbv_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LJMEo90Rf6Dtbv_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LJMEo90Rf6Dtbv.JPG"
+        }
+    }
+}

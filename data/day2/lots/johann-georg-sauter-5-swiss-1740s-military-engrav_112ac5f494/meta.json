@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/johann-georg-sauter-5-swiss-1740s-military-engrav_112ac5f494",
+    "slug": "johann-georg-sauter-5-swiss-1740s-military-engrav_112ac5f494",
+    "lot_number": "2374",
+    "title": "JOHANN GEORG SAUTER (5) SWISS 1740'S MILITARY ENGRAVINGS",
+    "estimate_low": 300,
+    "estimate_high": 500,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lzwn5P1ZALoqu9_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LTibxdmuhmTc99_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L5yMs3PCj37bB3_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LkZMRnEVHZJ3sj_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LUrkwhjZW48MYM": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LUrkwhjZW48MYM_thz.JPG"
+        },
+        "H0134-LpDEFuAIPXQoLj": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LpDEFuAIPXQoLj_thz.JPG"
+        },
+        "H0134-Lzwn5P1ZALoqu9": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lzwn5P1ZALoqu9_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lzwn5P1ZALoqu9_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lzwn5P1ZALoqu9.JPG"
+        },
+        "H0134-LTibxdmuhmTc99": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LTibxdmuhmTc99_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LTibxdmuhmTc99_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LTibxdmuhmTc99.JPG"
+        },
+        "H0134-L5yMs3PCj37bB3": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L5yMs3PCj37bB3_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L5yMs3PCj37bB3_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L5yMs3PCj37bB3.JPG"
+        },
+        "H0134-LkZMRnEVHZJ3sj": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LkZMRnEVHZJ3sj_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LkZMRnEVHZJ3sj_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LkZMRnEVHZJ3sj.JPG"
+        }
+    }
+}

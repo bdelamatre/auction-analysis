@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/frederick-carder-for-steuben-strawberry-mansion-g_aa45b86b9b",
+    "slug": "frederick-carder-for-steuben-strawberry-mansion-g_aa45b86b9b",
+    "lot_number": "3106",
+    "title": "FREDERICK CARDER FOR STEUBEN \"STRAWBERRY MANSION\" GLASS URN",
+    "estimate_low": 800,
+    "estimate_high": 1200,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LlfBbUDkuQD64z_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lc44F5LWhbWzqi_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LGc56aXa9O3agY_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L332nOaJjU0Wxo_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LcNunZRCRHxNZn": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LcNunZRCRHxNZn_thz.JPG"
+        },
+        "H0134-LsKgEWEDIExXgA": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LsKgEWEDIExXgA_thz.JPG"
+        },
+        "H0134-LlfBbUDkuQD64z": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LlfBbUDkuQD64z_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LlfBbUDkuQD64z_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LlfBbUDkuQD64z.JPG"
+        },
+        "H0134-Lc44F5LWhbWzqi": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lc44F5LWhbWzqi_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lc44F5LWhbWzqi_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lc44F5LWhbWzqi.JPG"
+        },
+        "H0134-LGc56aXa9O3agY": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LGc56aXa9O3agY_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LGc56aXa9O3agY_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LGc56aXa9O3agY.JPG"
+        },
+        "H0134-L332nOaJjU0Wxo": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L332nOaJjU0Wxo_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L332nOaJjU0Wxo_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L332nOaJjU0Wxo.JPG"
+        }
+    }
+}

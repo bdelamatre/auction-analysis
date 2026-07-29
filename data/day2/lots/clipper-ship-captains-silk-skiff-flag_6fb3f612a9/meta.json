@@ -1,0 +1,52 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/clipper-ship-captains-silk-skiff-flag_6fb3f612a9",
+    "slug": "clipper-ship-captains-silk-skiff-flag_6fb3f612a9",
+    "lot_number": "2109",
+    "title": "CLIPPER SHIP CAPTAIN'S SILK SKIFF FLAG",
+    "estimate_low": 200,
+    "estimate_high": 300,
+    "current_bid": 50,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 5,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LGZ7SRDxb50NAH_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LlrESYYDp2DPXP_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LFB1DbuyVCqwiL_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L1nuZD0HTskrvi_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LqJ0N22OPrqhah_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-Lrvcidj1CWOK3F": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lrvcidj1CWOK3F_thz.JPG"
+        },
+        "H0134-LivulZbDckGDCk": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LivulZbDckGDCk_thz.JPG"
+        },
+        "H0134-LGZ7SRDxb50NAH": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LGZ7SRDxb50NAH_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LGZ7SRDxb50NAH_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LGZ7SRDxb50NAH.JPG"
+        },
+        "H0134-LlrESYYDp2DPXP": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LlrESYYDp2DPXP_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LlrESYYDp2DPXP_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LlrESYYDp2DPXP.JPG"
+        },
+        "H0134-LFB1DbuyVCqwiL": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LFB1DbuyVCqwiL_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LFB1DbuyVCqwiL_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LFB1DbuyVCqwiL.JPG"
+        },
+        "H0134-L1nuZD0HTskrvi": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L1nuZD0HTskrvi_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L1nuZD0HTskrvi_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L1nuZD0HTskrvi.JPG"
+        },
+        "H0134-LqJ0N22OPrqhah": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LqJ0N22OPrqhah_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LqJ0N22OPrqhah_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LqJ0N22OPrqhah.JPG"
+        }
+    }
+}

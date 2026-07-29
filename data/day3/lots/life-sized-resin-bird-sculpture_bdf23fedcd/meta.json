@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/life-sized-resin-bird-sculpture_bdf23fedcd",
+    "slug": "life-sized-resin-bird-sculpture_bdf23fedcd",
+    "lot_number": "3012",
+    "title": "LIFE SIZED RESIN BIRD SCULPTURE",
+    "estimate_low": 300,
+    "estimate_high": 500,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LsbP5MrkDovdIZ_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Ljo7po5giiSeS4_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LKiMgTdDikapcO_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-L8jCA2y0lioCFn": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L8jCA2y0lioCFn_thz.JPG"
+        },
+        "H0134-LlX3CuslDZ2L3Y": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LlX3CuslDZ2L3Y_thz.JPG"
+        },
+        "H0134-LsbP5MrkDovdIZ": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LsbP5MrkDovdIZ_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LsbP5MrkDovdIZ_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LsbP5MrkDovdIZ.JPG"
+        },
+        "H0134-Ljo7po5giiSeS4": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Ljo7po5giiSeS4_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Ljo7po5giiSeS4_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Ljo7po5giiSeS4.JPG"
+        },
+        "H0134-LKiMgTdDikapcO": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LKiMgTdDikapcO_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LKiMgTdDikapcO_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LKiMgTdDikapcO.JPG"
+        }
+    }
+}

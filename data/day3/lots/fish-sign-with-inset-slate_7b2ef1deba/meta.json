@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/fish-sign-with-inset-slate_7b2ef1deba",
+    "slug": "fish-sign-with-inset-slate_7b2ef1deba",
+    "lot_number": "3005",
+    "title": "FISH SIGN WITH INSET SLATE",
+    "estimate_low": 1500,
+    "estimate_high": 2500,
+    "current_bid": 750,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LXVfIjt1iRdErk_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LG8xiflPEi8ZAO_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LiYjVyZEMBH5Fp": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LiYjVyZEMBH5Fp_thz.JPG"
+        },
+        "H0134-LZMmKajxEqussB": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LZMmKajxEqussB_thz.JPG"
+        },
+        "H0134-LXVfIjt1iRdErk": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LXVfIjt1iRdErk_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LXVfIjt1iRdErk_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LXVfIjt1iRdErk.JPG"
+        },
+        "H0134-LG8xiflPEi8ZAO": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LG8xiflPEi8ZAO_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LG8xiflPEi8ZAO_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LG8xiflPEi8ZAO.JPG"
+        }
+    }
+}

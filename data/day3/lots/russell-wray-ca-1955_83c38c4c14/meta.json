@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/russell-wray-ca-1955_83c38c4c14",
+    "slug": "russell-wray-ca-1955_83c38c4c14",
+    "lot_number": "3089",
+    "title": "RUSSELL WRAY (CA, 1955 - )",
+    "estimate_low": 1200,
+    "estimate_high": 1600,
+    "current_bid": 600,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LozBTo1rZYNmoX_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lh1LNA7tB9SyAN_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LiehB320kRSAct_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lb6aUQIw1mm9dj_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LTyTKykZrZbKsl": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LTyTKykZrZbKsl_thz.JPG"
+        },
+        "H0134-LX0qHQJW9wp6LH": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LX0qHQJW9wp6LH_thz.JPG"
+        },
+        "H0134-LozBTo1rZYNmoX": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LozBTo1rZYNmoX_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LozBTo1rZYNmoX_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LozBTo1rZYNmoX.JPG"
+        },
+        "H0134-Lh1LNA7tB9SyAN": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lh1LNA7tB9SyAN_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lh1LNA7tB9SyAN_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lh1LNA7tB9SyAN.JPG"
+        },
+        "H0134-LiehB320kRSAct": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LiehB320kRSAct_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LiehB320kRSAct_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LiehB320kRSAct.JPG"
+        },
+        "H0134-Lb6aUQIw1mm9dj": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lb6aUQIw1mm9dj_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lb6aUQIw1mm9dj_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lb6aUQIw1mm9dj.JPG"
+        }
+    }
+}

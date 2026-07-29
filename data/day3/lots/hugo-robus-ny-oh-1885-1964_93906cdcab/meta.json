@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/hugo-robus-ny-oh-1885-1964_93906cdcab",
+    "slug": "hugo-robus-ny-oh-1885-1964_93906cdcab",
+    "lot_number": "3108",
+    "title": "HUGO ROBUS (NY/OH, 1885-1964)",
+    "estimate_low": 2000,
+    "estimate_high": 3000,
+    "current_bid": 1000,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lp6TFmfT0P2JR7_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lea9mOUfkaGptf_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LBrf7dEp2R1eIm_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LsKgEWEDIExXgA": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LsKgEWEDIExXgA_thz.JPG"
+        },
+        "H0134-Lewpk3T5FVWS6X": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lewpk3T5FVWS6X_thz.JPG"
+        },
+        "H0134-Lp6TFmfT0P2JR7": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lp6TFmfT0P2JR7_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lp6TFmfT0P2JR7_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lp6TFmfT0P2JR7.JPG"
+        },
+        "H0134-Lea9mOUfkaGptf": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lea9mOUfkaGptf_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lea9mOUfkaGptf_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lea9mOUfkaGptf.JPG"
+        },
+        "H0134-LBrf7dEp2R1eIm": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LBrf7dEp2R1eIm_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LBrf7dEp2R1eIm_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LBrf7dEp2R1eIm.JPG"
+        }
+    }
+}

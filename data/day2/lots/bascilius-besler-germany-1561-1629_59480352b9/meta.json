@@ -1,0 +1,52 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/bascilius-besler-germany-1561-1629_59480352b9",
+    "slug": "bascilius-besler-germany-1561-1629_59480352b9",
+    "lot_number": "2406",
+    "title": "BASCILIUS BESLER (GERMANY, 1561-1629)",
+    "estimate_low": 500,
+    "estimate_high": 600,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 5,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LtDJcdWfJVfbe0_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LzF5ZvMiqMU7tA_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LlLeKR1gd8gZVs_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L4KYtcbydeH82S_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LUbz8bgFwhn5fg_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LL1AqvBEaev5WY": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LL1AqvBEaev5WY_thz.JPG"
+        },
+        "H0134-Lk5FYG73D31Al8": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lk5FYG73D31Al8_thz.JPG"
+        },
+        "H0134-LtDJcdWfJVfbe0": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LtDJcdWfJVfbe0_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LtDJcdWfJVfbe0_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LtDJcdWfJVfbe0.JPG"
+        },
+        "H0134-LzF5ZvMiqMU7tA": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LzF5ZvMiqMU7tA_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LzF5ZvMiqMU7tA_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LzF5ZvMiqMU7tA.JPG"
+        },
+        "H0134-LlLeKR1gd8gZVs": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LlLeKR1gd8gZVs_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LlLeKR1gd8gZVs_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LlLeKR1gd8gZVs.JPG"
+        },
+        "H0134-L4KYtcbydeH82S": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L4KYtcbydeH82S_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L4KYtcbydeH82S_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L4KYtcbydeH82S.JPG"
+        },
+        "H0134-LUbz8bgFwhn5fg": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LUbz8bgFwhn5fg_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LUbz8bgFwhn5fg_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LUbz8bgFwhn5fg.JPG"
+        }
+    }
+}

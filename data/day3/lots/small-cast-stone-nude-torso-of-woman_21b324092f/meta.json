@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/small-cast-stone-nude-torso-of-woman_21b324092f",
+    "slug": "small-cast-stone-nude-torso-of-woman_21b324092f",
+    "lot_number": "3044",
+    "title": "SMALL CAST STONE NUDE TORSO OF WOMAN",
+    "estimate_low": 300,
+    "estimate_high": 400,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L5vgdnwCYcXVBd_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LYCu1dQiOxkML4_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LNK3ka759OZm64": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LNK3ka759OZm64_thz.JPG"
+        },
+        "H0134-LGWAqeBIFIfO8Y": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LGWAqeBIFIfO8Y_thz.JPG"
+        },
+        "H0134-L5vgdnwCYcXVBd": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L5vgdnwCYcXVBd_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L5vgdnwCYcXVBd_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L5vgdnwCYcXVBd.JPG"
+        },
+        "H0134-LYCu1dQiOxkML4": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LYCu1dQiOxkML4_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LYCu1dQiOxkML4_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LYCu1dQiOxkML4.JPG"
+        }
+    }
+}

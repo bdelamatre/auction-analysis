@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/chinese-celadon-jade-dragon-bangle-late-qing_07bd7c6516",
+    "slug": "chinese-celadon-jade-dragon-bangle-late-qing_07bd7c6516",
+    "lot_number": "2495",
+    "title": "CHINESE CELADON JADE DRAGON BANGLE, LATE QING",
+    "estimate_low": 500,
+    "estimate_high": 700,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LLaYsRzKZmB3rs_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LSq736W0O8RgvF_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LbjB6Zcf6Dyedl": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LbjB6Zcf6Dyedl_thz.JPG"
+        },
+        "H0134-L7IWSSkYmGqdmb": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L7IWSSkYmGqdmb_thz.JPG"
+        },
+        "H0134-LLaYsRzKZmB3rs": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LLaYsRzKZmB3rs_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LLaYsRzKZmB3rs_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LLaYsRzKZmB3rs.JPG"
+        },
+        "H0134-LSq736W0O8RgvF": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LSq736W0O8RgvF_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LSq736W0O8RgvF_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LSq736W0O8RgvF.JPG"
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/2-chinese-bronze-hand-mirrors_e95a01966d",
+    "slug": "2-chinese-bronze-hand-mirrors_e95a01966d",
+    "lot_number": "1413",
+    "title": "(2) CHINESE BRONZE HAND MIRRORS",
+    "estimate_low": 200,
+    "estimate_high": 300,
+    "current_bid": 50,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L2Lwv6LR1JWvYR_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LXFJnJ852Oo7Im_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LllmhuOjy2y79u": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LllmhuOjy2y79u_thz.JPG"
+        },
+        "H0134-LaRFHBJN5MowaS": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LaRFHBJN5MowaS_thz.JPG"
+        },
+        "H0134-L2Lwv6LR1JWvYR": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L2Lwv6LR1JWvYR_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L2Lwv6LR1JWvYR_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L2Lwv6LR1JWvYR.JPG"
+        },
+        "H0134-LXFJnJ852Oo7Im": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LXFJnJ852Oo7Im_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LXFJnJ852Oo7Im_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LXFJnJ852Oo7Im.JPG"
+        }
+    }
+}

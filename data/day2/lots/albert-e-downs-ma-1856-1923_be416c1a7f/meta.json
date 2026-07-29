@@ -1,0 +1,52 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/albert-e-downs-ma-1856-1923_be416c1a7f",
+    "slug": "albert-e-downs-ma-1856-1923_be416c1a7f",
+    "lot_number": "2069",
+    "title": "ALBERT E. DOWNS (MA, 1856-1923)",
+    "estimate_low": 1000,
+    "estimate_high": 1500,
+    "current_bid": 500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 5,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LlfedDDu1LaahO_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LMnRwBznKGhD5j_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L8cL1O6sxyacjO_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LiShVm6HSfPxeZ_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Liukoxbhxs63H3_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LuV6c6u3mKx0OB": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LuV6c6u3mKx0OB_thz.JPG"
+        },
+        "H0134-LR4PWXEHLP4Wue": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LR4PWXEHLP4Wue_thz.JPG"
+        },
+        "H0134-LlfedDDu1LaahO": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LlfedDDu1LaahO_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LlfedDDu1LaahO_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LlfedDDu1LaahO.JPG"
+        },
+        "H0134-LMnRwBznKGhD5j": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LMnRwBznKGhD5j_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LMnRwBznKGhD5j_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LMnRwBznKGhD5j.JPG"
+        },
+        "H0134-L8cL1O6sxyacjO": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L8cL1O6sxyacjO_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L8cL1O6sxyacjO_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L8cL1O6sxyacjO.JPG"
+        },
+        "H0134-LiShVm6HSfPxeZ": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LiShVm6HSfPxeZ_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LiShVm6HSfPxeZ_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LiShVm6HSfPxeZ.JPG"
+        },
+        "H0134-Liukoxbhxs63H3": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Liukoxbhxs63H3_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Liukoxbhxs63H3_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Liukoxbhxs63H3.JPG"
+        }
+    }
+}

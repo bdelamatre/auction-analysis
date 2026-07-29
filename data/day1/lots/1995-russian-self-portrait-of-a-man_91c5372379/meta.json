@@ -1,0 +1,52 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/1995-russian-self-portrait-of-a-man_91c5372379",
+    "slug": "1995-russian-self-portrait-of-a-man_91c5372379",
+    "lot_number": "1501",
+    "title": "1995 RUSSIAN SELF-PORTRAIT OF A MAN",
+    "estimate_low": 300,
+    "estimate_high": 400,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 5,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LrjbLUtDbelbFu_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LfasC0Yg96RAlQ_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LIdpBFlSQSaMCo_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LdUyWDskMritYO_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LXfk8SX8Ow2Jxx_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LRWBnigrp0E04A": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LRWBnigrp0E04A_thz.JPG"
+        },
+        "H0134-LQbnWfwGnzyjNf": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LQbnWfwGnzyjNf_thz.JPG"
+        },
+        "H0134-LrjbLUtDbelbFu": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LrjbLUtDbelbFu_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LrjbLUtDbelbFu_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LrjbLUtDbelbFu.JPG"
+        },
+        "H0134-LfasC0Yg96RAlQ": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LfasC0Yg96RAlQ_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LfasC0Yg96RAlQ_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LfasC0Yg96RAlQ.JPG"
+        },
+        "H0134-LIdpBFlSQSaMCo": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LIdpBFlSQSaMCo_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LIdpBFlSQSaMCo_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LIdpBFlSQSaMCo.JPG"
+        },
+        "H0134-LdUyWDskMritYO": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LdUyWDskMritYO_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LdUyWDskMritYO_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LdUyWDskMritYO.JPG"
+        },
+        "H0134-LXfk8SX8Ow2Jxx": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LXfk8SX8Ow2Jxx_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LXfk8SX8Ow2Jxx_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LXfk8SX8Ow2Jxx.JPG"
+        }
+    }
+}

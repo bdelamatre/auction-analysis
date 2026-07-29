@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/bronze-cow-sculpture_7efaaf8448",
+    "slug": "bronze-cow-sculpture_7efaaf8448",
+    "lot_number": "3023",
+    "title": "BRONZE COW SCULPTURE",
+    "estimate_low": 400,
+    "estimate_high": 600,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LmydSDp6PZl7IH_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LefqEhatFXPH8k_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LYNt2jJehH66Wz": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LYNt2jJehH66Wz_thz.JPG"
+        },
+        "H0134-LO8FvOqLrweJlo": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LO8FvOqLrweJlo_thz.JPG"
+        },
+        "H0134-LmydSDp6PZl7IH": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LmydSDp6PZl7IH_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LmydSDp6PZl7IH_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LmydSDp6PZl7IH.JPG"
+        },
+        "H0134-LefqEhatFXPH8k": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LefqEhatFXPH8k_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LefqEhatFXPH8k_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LefqEhatFXPH8k.JPG"
+        }
+    }
+}

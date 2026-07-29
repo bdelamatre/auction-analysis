@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/1834-framed-sampler-by-eliza-russell_f96bf6702b",
+    "slug": "1834-framed-sampler-by-eliza-russell_f96bf6702b",
+    "lot_number": "2131",
+    "title": "1834 FRAMED SAMPLER BY ELIZA RUSSELL",
+    "estimate_low": 600,
+    "estimate_high": 800,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LFvqbnzqMrhWLU_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lxo2Hc56t8yGh5_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L8glORC3OPT7bp_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-L47B3qT7ZdxTim": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L47B3qT7ZdxTim_thz.JPG"
+        },
+        "H0134-LiA8ycyD5frreO": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LiA8ycyD5frreO_thz.JPG"
+        },
+        "H0134-LFvqbnzqMrhWLU": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LFvqbnzqMrhWLU_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LFvqbnzqMrhWLU_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LFvqbnzqMrhWLU.JPG"
+        },
+        "H0134-Lxo2Hc56t8yGh5": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lxo2Hc56t8yGh5_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lxo2Hc56t8yGh5_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lxo2Hc56t8yGh5.JPG"
+        },
+        "H0134-L8glORC3OPT7bp": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L8glORC3OPT7bp_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L8glORC3OPT7bp_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L8glORC3OPT7bp.JPG"
+        }
+    }
+}

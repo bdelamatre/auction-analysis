@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/matched-pair-of-c1870-victorian-cast-iron-garden-_dbdd287106",
+    "slug": "matched-pair-of-c1870-victorian-cast-iron-garden-_dbdd287106",
+    "lot_number": "3041",
+    "title": "MATCHED PAIR OF C1870 VICTORIAN CAST IRON GARDEN BENCHES",
+    "estimate_low": 1500,
+    "estimate_high": 2000,
+    "current_bid": 750,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lr5kBz8PfOmUip_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LgzFXS6XI6Z5b3_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LA2o1BOrTZ4wjI": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LA2o1BOrTZ4wjI_thz.JPG"
+        },
+        "H0134-L1gKv42xPEZBiq": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L1gKv42xPEZBiq_thz.JPG"
+        },
+        "H0134-Lr5kBz8PfOmUip": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lr5kBz8PfOmUip_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lr5kBz8PfOmUip_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lr5kBz8PfOmUip.JPG"
+        },
+        "H0134-LgzFXS6XI6Z5b3": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LgzFXS6XI6Z5b3_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LgzFXS6XI6Z5b3_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LgzFXS6XI6Z5b3.JPG"
+        }
+    }
+}

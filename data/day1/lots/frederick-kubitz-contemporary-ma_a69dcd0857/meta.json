@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/frederick-kubitz-contemporary-ma_a69dcd0857",
+    "slug": "frederick-kubitz-contemporary-ma_a69dcd0857",
+    "lot_number": "1453",
+    "title": "FREDERICK KUBITZ (CONTEMPORARY MA)",
+    "estimate_low": 200,
+    "estimate_high": 300,
+    "current_bid": 50,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LZg7Mk4xq7JkqG_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LLdRNLWg1Sa80I_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LHCnVwkVZ3AFDS_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LaqXDk4F2VHccj": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LaqXDk4F2VHccj_thz.JPG"
+        },
+        "H0134-L9Fgd7vx6uj7f2": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L9Fgd7vx6uj7f2_thz.JPG"
+        },
+        "H0134-LZg7Mk4xq7JkqG": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LZg7Mk4xq7JkqG_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LZg7Mk4xq7JkqG_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LZg7Mk4xq7JkqG.JPG"
+        },
+        "H0134-LLdRNLWg1Sa80I": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LLdRNLWg1Sa80I_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LLdRNLWg1Sa80I_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LLdRNLWg1Sa80I.JPG"
+        },
+        "H0134-LHCnVwkVZ3AFDS": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LHCnVwkVZ3AFDS_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LHCnVwkVZ3AFDS_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LHCnVwkVZ3AFDS.JPG"
+        }
+    }
+}

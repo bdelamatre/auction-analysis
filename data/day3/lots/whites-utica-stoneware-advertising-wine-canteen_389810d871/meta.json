@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/whites-utica-stoneware-advertising-wine-canteen_389810d871",
+    "slug": "whites-utica-stoneware-advertising-wine-canteen_389810d871",
+    "lot_number": "3020",
+    "title": "WHITE'S UTICA STONEWARE ADVERTISING WINE CANTEEN",
+    "estimate_low": 200,
+    "estimate_high": 300,
+    "current_bid": 50,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LXQM4DviCPh1ns_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LyaB5uqiUEIiIw_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-L5ewSF9rM9fSGp": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L5ewSF9rM9fSGp_thz.JPG"
+        },
+        "H0134-LzDhbHIzs1f3u0": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LzDhbHIzs1f3u0_thz.JPG"
+        },
+        "H0134-LXQM4DviCPh1ns": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LXQM4DviCPh1ns_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LXQM4DviCPh1ns_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LXQM4DviCPh1ns.JPG"
+        },
+        "H0134-LyaB5uqiUEIiIw": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LyaB5uqiUEIiIw_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LyaB5uqiUEIiIw_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LyaB5uqiUEIiIw.JPG"
+        }
+    }
+}

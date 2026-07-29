@@ -1,0 +1,27 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/live-edge-redwood-burl-plank-coffee-table_cc648bd882",
+    "slug": "live-edge-redwood-burl-plank-coffee-table_cc648bd882",
+    "lot_number": "3257",
+    "title": "LIVE EDGE REDWOOD BURL PLANK COFFEE TABLE",
+    "estimate_low": 400,
+    "estimate_high": 600,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 1,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LtC2Bv8g229gtC_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LyhC3mGokV9kJf": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LyhC3mGokV9kJf_thz.JPG"
+        },
+        "H0134-LiOvGuODbHJhGU": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LiOvGuODbHJhGU_thz.JPG"
+        },
+        "H0134-LtC2Bv8g229gtC": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LtC2Bv8g229gtC_original.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LtC2Bv8g229gtC.JPG"
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/nat-lewis-aka-natalie-brush-me-1925-2015_eb79d7e603",
+    "slug": "nat-lewis-aka-natalie-brush-me-1925-2015_eb79d7e603",
+    "lot_number": "3396",
+    "title": "NAT LEWIS (AKA NATALIE BRUSH, ME, 1925-2015)",
+    "estimate_low": 1500,
+    "estimate_high": 2500,
+    "current_bid": 750,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LiNpkBWT0sUBxx_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LQBgYgSpYtWFKP_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L2LJRRQZBeRALh_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LUJXJNPXe7CJVp_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-Lcy2kgcF8oRxZU": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lcy2kgcF8oRxZU_thz.JPG"
+        },
+        "H0134-L7DabCZjl0yiTv": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L7DabCZjl0yiTv_thz.JPG"
+        },
+        "H0134-LiNpkBWT0sUBxx": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LiNpkBWT0sUBxx_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LiNpkBWT0sUBxx_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LiNpkBWT0sUBxx.JPG"
+        },
+        "H0134-LQBgYgSpYtWFKP": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LQBgYgSpYtWFKP_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LQBgYgSpYtWFKP_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LQBgYgSpYtWFKP.JPG"
+        },
+        "H0134-L2LJRRQZBeRALh": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L2LJRRQZBeRALh_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L2LJRRQZBeRALh_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L2LJRRQZBeRALh.JPG"
+        },
+        "H0134-LUJXJNPXe7CJVp": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LUJXJNPXe7CJVp_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LUJXJNPXe7CJVp_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LUJXJNPXe7CJVp.JPG"
+        }
+    }
+}

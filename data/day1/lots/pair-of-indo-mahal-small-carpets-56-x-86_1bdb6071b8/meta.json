@@ -1,0 +1,27 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/pair-of-indo-mahal-small-carpets-56-x-86_1bdb6071b8",
+    "slug": "pair-of-indo-mahal-small-carpets-56-x-86_1bdb6071b8",
+    "lot_number": "1382",
+    "title": "PAIR OF INDO-MAHAL SMALL CARPETS (5'6\" x 8'6\")",
+    "estimate_low": 1200,
+    "estimate_high": 1500,
+    "current_bid": 600,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 1,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L1YrvTcKSiIdfR_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LC43REBfUlYIOc": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LC43REBfUlYIOc_thz.JPG"
+        },
+        "H0134-L9jGtYynmHBruS": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L9jGtYynmHBruS_thz.JPG"
+        },
+        "H0134-L1YrvTcKSiIdfR": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L1YrvTcKSiIdfR_original.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L1YrvTcKSiIdfR.JPG"
+        }
+    }
+}

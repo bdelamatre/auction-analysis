@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/circa-1830-french-painted-hand-fan-nichols-family_b074451fc9",
+    "slug": "circa-1830-french-painted-hand-fan-nichols-family_b074451fc9",
+    "lot_number": "2340",
+    "title": "CIRCA 1830 FRENCH PAINTED HAND FAN, NICHOLS FAMILY",
+    "estimate_low": 300,
+    "estimate_high": 400,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LTcZf8TAP5PhS8_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LKlMJujwN40fBR_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L3T1pO1rZym0uI_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-Ll8GMKmOBuErEQ": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Ll8GMKmOBuErEQ_thz.JPG"
+        },
+        "H0134-LxFsSAfhyewOdc": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LxFsSAfhyewOdc_thz.JPG"
+        },
+        "H0134-LTcZf8TAP5PhS8": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LTcZf8TAP5PhS8_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LTcZf8TAP5PhS8_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LTcZf8TAP5PhS8.JPG"
+        },
+        "H0134-LKlMJujwN40fBR": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LKlMJujwN40fBR_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LKlMJujwN40fBR_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LKlMJujwN40fBR.JPG"
+        },
+        "H0134-L3T1pO1rZym0uI": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L3T1pO1rZym0uI_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L3T1pO1rZym0uI_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L3T1pO1rZym0uI.JPG"
+        }
+    }
+}

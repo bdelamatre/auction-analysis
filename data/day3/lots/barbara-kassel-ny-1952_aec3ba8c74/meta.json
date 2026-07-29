@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/barbara-kassel-ny-1952_aec3ba8c74",
+    "slug": "barbara-kassel-ny-1952_aec3ba8c74",
+    "lot_number": "3127",
+    "title": "BARBARA KASSEL (NY, 1952 - )",
+    "estimate_low": 1200,
+    "estimate_high": 1500,
+    "current_bid": 600,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LDLHvb6MGl1HXU_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L5jdbXaZ86PSJO_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LKS0wkNDFluBDt_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-L3TJXyqZ0qjkDr": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L3TJXyqZ0qjkDr_thz.JPG"
+        },
+        "H0134-LhcdCxrUlm6hnC": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LhcdCxrUlm6hnC_thz.JPG"
+        },
+        "H0134-LDLHvb6MGl1HXU": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LDLHvb6MGl1HXU_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LDLHvb6MGl1HXU_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LDLHvb6MGl1HXU.JPG"
+        },
+        "H0134-L5jdbXaZ86PSJO": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L5jdbXaZ86PSJO_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L5jdbXaZ86PSJO_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L5jdbXaZ86PSJO.JPG"
+        },
+        "H0134-LKS0wkNDFluBDt": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LKS0wkNDFluBDt_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LKS0wkNDFluBDt_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LKS0wkNDFluBDt.JPG"
+        }
+    }
+}

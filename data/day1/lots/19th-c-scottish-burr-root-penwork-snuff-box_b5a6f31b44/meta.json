@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/19th-c-scottish-burr-root-penwork-snuff-box_b5a6f31b44",
+    "slug": "19th-c-scottish-burr-root-penwork-snuff-box_b5a6f31b44",
+    "lot_number": "1078",
+    "title": "19TH C. SCOTTISH BURR ROOT & PENWORK SNUFF BOX",
+    "estimate_low": 300,
+    "estimate_high": 500,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LOfODoZITm3XZ8_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LfloTzm1UrQvla_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LES1vWhmnaKY1E_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LqVLoR0GdO4vTr": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LqVLoR0GdO4vTr_thz.JPG"
+        },
+        "H0134-LS91UoUChdKkGq": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LS91UoUChdKkGq_thz.JPG"
+        },
+        "H0134-LOfODoZITm3XZ8": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LOfODoZITm3XZ8_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LOfODoZITm3XZ8_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LOfODoZITm3XZ8.JPG"
+        },
+        "H0134-LfloTzm1UrQvla": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LfloTzm1UrQvla_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LfloTzm1UrQvla_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LfloTzm1UrQvla.JPG"
+        },
+        "H0134-LES1vWhmnaKY1E": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LES1vWhmnaKY1E_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LES1vWhmnaKY1E_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LES1vWhmnaKY1E.JPG"
+        }
+    }
+}

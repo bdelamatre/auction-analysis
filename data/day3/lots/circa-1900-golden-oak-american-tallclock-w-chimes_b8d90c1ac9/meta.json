@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/circa-1900-golden-oak-american-tallclock-w-chimes_b8d90c1ac9",
+    "slug": "circa-1900-golden-oak-american-tallclock-w-chimes_b8d90c1ac9",
+    "lot_number": "3076",
+    "title": "CIRCA 1900 GOLDEN OAK AMERICAN TALLCLOCK W/ CHIMES",
+    "estimate_low": 3000,
+    "estimate_high": 5000,
+    "current_bid": 1500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LHIk0PhGxs2yXz_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L9ixSyxjl19Fu7_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LA8bUlxJaKn3Uj_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LV2NW90scr7dl5": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LV2NW90scr7dl5_thz.JPG"
+        },
+        "H0134-LtumjvorXeQtY5": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LtumjvorXeQtY5_thz.JPG"
+        },
+        "H0134-LHIk0PhGxs2yXz": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LHIk0PhGxs2yXz_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LHIk0PhGxs2yXz_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LHIk0PhGxs2yXz.JPG"
+        },
+        "H0134-L9ixSyxjl19Fu7": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L9ixSyxjl19Fu7_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L9ixSyxjl19Fu7_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L9ixSyxjl19Fu7.JPG"
+        },
+        "H0134-LA8bUlxJaKn3Uj": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LA8bUlxJaKn3Uj_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LA8bUlxJaKn3Uj_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LA8bUlxJaKn3Uj.JPG"
+        }
+    }
+}

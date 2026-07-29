@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/vintage-jean-mahie-22k-gold-link-necklace_f8669fae5d",
+    "slug": "vintage-jean-mahie-22k-gold-link-necklace_f8669fae5d",
+    "lot_number": "3225",
+    "title": "VINTAGE JEAN MAHIE 22K GOLD LINK NECKLACE",
+    "estimate_low": 6000,
+    "estimate_high": 8000,
+    "current_bid": 3000,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LeomC2Y3Zpl7x5_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lzpk1RTyZRaHut_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LN3zVUjyu5uZQW_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LUb6r4pU8mbBch": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LUb6r4pU8mbBch_thz.JPG"
+        },
+        "H0134-L41YDXPprQXXmx": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L41YDXPprQXXmx_thz.JPG"
+        },
+        "H0134-LeomC2Y3Zpl7x5": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LeomC2Y3Zpl7x5_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LeomC2Y3Zpl7x5_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LeomC2Y3Zpl7x5.JPG"
+        },
+        "H0134-Lzpk1RTyZRaHut": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lzpk1RTyZRaHut_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lzpk1RTyZRaHut_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lzpk1RTyZRaHut.JPG"
+        },
+        "H0134-LN3zVUjyu5uZQW": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LN3zVUjyu5uZQW_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LN3zVUjyu5uZQW_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LN3zVUjyu5uZQW.JPG"
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/frederick-ed-ilsley-ma-me-1855-1933_c391de3e27",
+    "slug": "frederick-ed-ilsley-ma-me-1855-1933_c391de3e27",
+    "lot_number": "1201",
+    "title": "FREDERICK 'ED' ILSLEY (MA/ME, 1855-1933)",
+    "estimate_low": 600,
+    "estimate_high": 800,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lk5UkuxBu1B4cv_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LKzd8SdfDJFwCF_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LSplqOT9xojb2C_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LIKsXT9e9wNZuR": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LIKsXT9e9wNZuR_thz.JPG"
+        },
+        "H0134-L49SwWphnmaXE9": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L49SwWphnmaXE9_thz.JPG"
+        },
+        "H0134-Lk5UkuxBu1B4cv": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lk5UkuxBu1B4cv_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lk5UkuxBu1B4cv_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lk5UkuxBu1B4cv.JPG"
+        },
+        "H0134-LKzd8SdfDJFwCF": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LKzd8SdfDJFwCF_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LKzd8SdfDJFwCF_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LKzd8SdfDJFwCF.JPG"
+        },
+        "H0134-LSplqOT9xojb2C": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LSplqOT9xojb2C_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LSplqOT9xojb2C_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LSplqOT9xojb2C.JPG"
+        }
+    }
+}

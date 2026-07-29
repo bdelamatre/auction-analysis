@@ -1,0 +1,52 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/neoclassical-painting-signed-la-rose_3129d68a9b",
+    "slug": "neoclassical-painting-signed-la-rose_3129d68a9b",
+    "lot_number": "2397",
+    "title": "NEOCLASSICAL PAINTING SIGNED \"LA ROSE\"",
+    "estimate_low": 800,
+    "estimate_high": 1200,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 5,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LeGOai4JhdkzCM_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lw3issQ6DsST2P_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L6TqkPUtF8z6th_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LbQgJ7KCD9p9GB_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LVPT6gYJm6rFJw_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LxeMHJFDnuPeb0": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LxeMHJFDnuPeb0_thz.JPG"
+        },
+        "H0134-LOcVguOKapgtRs": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LOcVguOKapgtRs_thz.JPG"
+        },
+        "H0134-LeGOai4JhdkzCM": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LeGOai4JhdkzCM_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LeGOai4JhdkzCM_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LeGOai4JhdkzCM.JPG"
+        },
+        "H0134-Lw3issQ6DsST2P": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lw3issQ6DsST2P_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lw3issQ6DsST2P_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lw3issQ6DsST2P.JPG"
+        },
+        "H0134-L6TqkPUtF8z6th": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L6TqkPUtF8z6th_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L6TqkPUtF8z6th_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L6TqkPUtF8z6th.JPG"
+        },
+        "H0134-LbQgJ7KCD9p9GB": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LbQgJ7KCD9p9GB_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LbQgJ7KCD9p9GB_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LbQgJ7KCD9p9GB.JPG"
+        },
+        "H0134-LVPT6gYJm6rFJw": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LVPT6gYJm6rFJw_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LVPT6gYJm6rFJw_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LVPT6gYJm6rFJw.JPG"
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/austin-merrill-mecklem-ny-wa-1894-1951_a83834def1",
+    "slug": "austin-merrill-mecklem-ny-wa-1894-1951_a83834def1",
+    "lot_number": "1148",
+    "title": "AUSTIN MERRILL MECKLEM (NY/WA, 1894-1951)",
+    "estimate_low": 1200,
+    "estimate_high": 1500,
+    "current_bid": 600,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LVGpaiFc5kskfv_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LbUuaZPyUFgZtG_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LbCyXX7GX4rzyv_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LT4Spm0rOmr6vX": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LT4Spm0rOmr6vX_thz.JPG"
+        },
+        "H0134-LpdICxHYHpJWIy": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LpdICxHYHpJWIy_thz.JPG"
+        },
+        "H0134-LVGpaiFc5kskfv": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LVGpaiFc5kskfv_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LVGpaiFc5kskfv_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LVGpaiFc5kskfv.JPG"
+        },
+        "H0134-LbUuaZPyUFgZtG": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LbUuaZPyUFgZtG_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LbUuaZPyUFgZtG_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LbUuaZPyUFgZtG.JPG"
+        },
+        "H0134-LbCyXX7GX4rzyv": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LbCyXX7GX4rzyv_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LbCyXX7GX4rzyv_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LbCyXX7GX4rzyv.JPG"
+        }
+    }
+}

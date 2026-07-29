@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/maria-bertran-ca-contemporary_390c10bcab",
+    "slug": "maria-bertran-ca-contemporary_390c10bcab",
+    "lot_number": "3336",
+    "title": "MARIA BERTRAN (CA, CONTEMPORARY)",
+    "estimate_low": 3000,
+    "estimate_high": 4000,
+    "current_bid": 1500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LqUERkhQ2yskRd_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LVurGMhiTec2pi_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LyYDgigNqgjuo3_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LJFnTS4GVfxwEJ_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LYWP7q10m3hVQc": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LYWP7q10m3hVQc_thz.JPG"
+        },
+        "H0134-L3b7xqfoqUkV4d": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L3b7xqfoqUkV4d_thz.JPG"
+        },
+        "H0134-LqUERkhQ2yskRd": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LqUERkhQ2yskRd_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LqUERkhQ2yskRd_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LqUERkhQ2yskRd.JPG"
+        },
+        "H0134-LVurGMhiTec2pi": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LVurGMhiTec2pi_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LVurGMhiTec2pi_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LVurGMhiTec2pi.JPG"
+        },
+        "H0134-LyYDgigNqgjuo3": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LyYDgigNqgjuo3_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LyYDgigNqgjuo3_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LyYDgigNqgjuo3.JPG"
+        },
+        "H0134-LJFnTS4GVfxwEJ": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LJFnTS4GVfxwEJ_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LJFnTS4GVfxwEJ_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LJFnTS4GVfxwEJ.JPG"
+        }
+    }
+}

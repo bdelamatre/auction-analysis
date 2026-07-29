@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/heriz-rug-108-x-94_9a019b8364",
+    "slug": "heriz-rug-108-x-94_9a019b8364",
+    "lot_number": "2181",
+    "title": "HERIZ RUG (10'8\" x 9'4\")",
+    "estimate_low": 800,
+    "estimate_high": 1200,
+    "current_bid": 500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LMzfaoNb6oplaf_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L7nq9QxhX7JA20_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LGp8QdtUro1ZHO_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LjfoUfsTCQ5BVU_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LolYW95FDNpK9A": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LolYW95FDNpK9A_thz.JPG"
+        },
+        "H0134-LauOb8yDEtvRdh": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LauOb8yDEtvRdh_thz.JPG"
+        },
+        "H0134-LMzfaoNb6oplaf": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LMzfaoNb6oplaf_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LMzfaoNb6oplaf_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LMzfaoNb6oplaf.JPG"
+        },
+        "H0134-L7nq9QxhX7JA20": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L7nq9QxhX7JA20_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L7nq9QxhX7JA20_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L7nq9QxhX7JA20.JPG"
+        },
+        "H0134-LGp8QdtUro1ZHO": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LGp8QdtUro1ZHO_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LGp8QdtUro1ZHO_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LGp8QdtUro1ZHO.JPG"
+        },
+        "H0134-LjfoUfsTCQ5BVU": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LjfoUfsTCQ5BVU_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LjfoUfsTCQ5BVU_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LjfoUfsTCQ5BVU.JPG"
+        }
+    }
+}

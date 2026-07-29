@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/circa-1850-french-bronze-ladies-hand-barbidienne-_c916f09051",
+    "slug": "circa-1850-french-bronze-ladies-hand-barbidienne-_c916f09051",
+    "lot_number": "2365",
+    "title": "CIRCA 1850 FRENCH BRONZE LADIES HAND, BARBIDIENNE FOUNDRY",
+    "estimate_low": 500,
+    "estimate_high": 700,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LwD7WVPC3N1QRT_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LHFJDGDXA8TXAE_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LjQwOaXhcE2HW3_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-Lm3iMFJXsX6miv": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lm3iMFJXsX6miv_thz.JPG"
+        },
+        "H0134-Lc95pd6HE1ObKP": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lc95pd6HE1ObKP_thz.JPG"
+        },
+        "H0134-LwD7WVPC3N1QRT": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LwD7WVPC3N1QRT_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LwD7WVPC3N1QRT_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LwD7WVPC3N1QRT.JPG"
+        },
+        "H0134-LHFJDGDXA8TXAE": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LHFJDGDXA8TXAE_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LHFJDGDXA8TXAE_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LHFJDGDXA8TXAE.JPG"
+        },
+        "H0134-LjQwOaXhcE2HW3": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LjQwOaXhcE2HW3_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LjQwOaXhcE2HW3_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LjQwOaXhcE2HW3.JPG"
+        }
+    }
+}

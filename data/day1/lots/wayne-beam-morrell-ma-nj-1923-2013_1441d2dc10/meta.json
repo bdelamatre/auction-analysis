@@ -1,0 +1,52 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/wayne-beam-morrell-ma-nj-1923-2013_1441d2dc10",
+    "slug": "wayne-beam-morrell-ma-nj-1923-2013_1441d2dc10",
+    "lot_number": "1106",
+    "title": "WAYNE BEAM MORRELL (MA/NJ, 1923-2013)",
+    "estimate_low": 800,
+    "estimate_high": 1200,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 5,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LP5GNQsCMF5hAy_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LM2si4FxWqJVvC_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L4csHYxHLzEbTh_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L27ibzLm3uXs8V_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LLDop6Z5iCEaaF_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LcU7eoCIvod5DG": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LcU7eoCIvod5DG_thz.JPG"
+        },
+        "H0134-LirYOeJnEBgKRS": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LirYOeJnEBgKRS_thz.JPG"
+        },
+        "H0134-LP5GNQsCMF5hAy": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LP5GNQsCMF5hAy_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LP5GNQsCMF5hAy_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LP5GNQsCMF5hAy.JPG"
+        },
+        "H0134-LM2si4FxWqJVvC": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LM2si4FxWqJVvC_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LM2si4FxWqJVvC_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LM2si4FxWqJVvC.JPG"
+        },
+        "H0134-L4csHYxHLzEbTh": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L4csHYxHLzEbTh_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L4csHYxHLzEbTh_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L4csHYxHLzEbTh.JPG"
+        },
+        "H0134-L27ibzLm3uXs8V": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L27ibzLm3uXs8V_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L27ibzLm3uXs8V_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L27ibzLm3uXs8V.JPG"
+        },
+        "H0134-LLDop6Z5iCEaaF": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LLDop6Z5iCEaaF_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LLDop6Z5iCEaaF_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LLDop6Z5iCEaaF.JPG"
+        }
+    }
+}

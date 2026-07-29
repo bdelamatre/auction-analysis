@@ -1,0 +1,52 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/attributed-to-charles-francois-daubigny-france-18_2f1be6e120",
+    "slug": "attributed-to-charles-francois-daubigny-france-18_2f1be6e120",
+    "lot_number": "2371",
+    "title": "ATTRIBUTED TO CHARLES FRANCOIS DAUBIGNY (FRANCE, 1870-1878)",
+    "estimate_low": 1000,
+    "estimate_high": 1500,
+    "current_bid": 500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 5,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lc7kws6ii37L0k_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LekESbFXqMxcxt_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LwWaEzBcz1oM0j_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LaG7I0s5chon9C_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L201gUusToX8Qu_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LdgnEE0iw6UXyb": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LdgnEE0iw6UXyb_thz.JPG"
+        },
+        "H0134-LNnybXuogEwnHm": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LNnybXuogEwnHm_thz.JPG"
+        },
+        "H0134-Lc7kws6ii37L0k": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lc7kws6ii37L0k_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lc7kws6ii37L0k_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lc7kws6ii37L0k.JPG"
+        },
+        "H0134-LekESbFXqMxcxt": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LekESbFXqMxcxt_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LekESbFXqMxcxt_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LekESbFXqMxcxt.JPG"
+        },
+        "H0134-LwWaEzBcz1oM0j": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LwWaEzBcz1oM0j_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LwWaEzBcz1oM0j_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LwWaEzBcz1oM0j.JPG"
+        },
+        "H0134-LaG7I0s5chon9C": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LaG7I0s5chon9C_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LaG7I0s5chon9C_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LaG7I0s5chon9C.JPG"
+        },
+        "H0134-L201gUusToX8Qu": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L201gUusToX8Qu_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L201gUusToX8Qu_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L201gUusToX8Qu.JPG"
+        }
+    }
+}

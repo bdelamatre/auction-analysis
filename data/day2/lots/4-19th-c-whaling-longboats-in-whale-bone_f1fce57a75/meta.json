@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/4-19th-c-whaling-longboats-in-whale-bone_f1fce57a75",
+    "slug": "4-19th-c-whaling-longboats-in-whale-bone_f1fce57a75",
+    "lot_number": "2012",
+    "title": "(4) 19TH C. WHALING LONGBOATS IN WHALE BONE",
+    "estimate_low": 300,
+    "estimate_high": 500,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LyK8D6to8nPXHG_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LLAscsTToAVeDH_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L8hWab5m1EhxYS_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LZCAKJ2geSHTJj": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LZCAKJ2geSHTJj_thz.JPG"
+        },
+        "H0134-Lt2mfxXaqReS5e": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lt2mfxXaqReS5e_thz.JPG"
+        },
+        "H0134-LyK8D6to8nPXHG": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LyK8D6to8nPXHG_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LyK8D6to8nPXHG_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LyK8D6to8nPXHG.JPG"
+        },
+        "H0134-LLAscsTToAVeDH": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LLAscsTToAVeDH_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LLAscsTToAVeDH_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LLAscsTToAVeDH.JPG"
+        },
+        "H0134-L8hWab5m1EhxYS": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L8hWab5m1EhxYS_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L8hWab5m1EhxYS_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L8hWab5m1EhxYS.JPG"
+        }
+    }
+}

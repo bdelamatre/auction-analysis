@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/punched-tin-lantern-with-exterior-candle_821fe78c49",
+    "slug": "punched-tin-lantern-with-exterior-candle_821fe78c49",
+    "lot_number": "2130",
+    "title": "PUNCHED TIN LANTERN WITH EXTERIOR CANDLE",
+    "estimate_low": 200,
+    "estimate_high": 300,
+    "current_bid": 50,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L47B3qT7ZdxTim_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LaZcVWyLHkHUEm_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LmbEzysDxEtZsC": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LmbEzysDxEtZsC_thz.JPG"
+        },
+        "H0134-LFvqbnzqMrhWLU": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LFvqbnzqMrhWLU_thz.JPG"
+        },
+        "H0134-L47B3qT7ZdxTim": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L47B3qT7ZdxTim_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L47B3qT7ZdxTim_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L47B3qT7ZdxTim.JPG"
+        },
+        "H0134-LaZcVWyLHkHUEm": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LaZcVWyLHkHUEm_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LaZcVWyLHkHUEm_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LaZcVWyLHkHUEm.JPG"
+        }
+    }
+}

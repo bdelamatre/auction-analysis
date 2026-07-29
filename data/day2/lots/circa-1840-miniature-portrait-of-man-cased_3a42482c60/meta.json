@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/circa-1840-miniature-portrait-of-man-cased_3a42482c60",
+    "slug": "circa-1840-miniature-portrait-of-man-cased_3a42482c60",
+    "lot_number": "2227",
+    "title": "CIRCA 1840 MINIATURE PORTRAIT OF MAN, CASED",
+    "estimate_low": 500,
+    "estimate_high": 700,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LRY8AsZnMxJ5mz_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LSZfFczkKKRjzh_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lqm6qeZDs5BPkq_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LOnV5y88eh3VjE": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LOnV5y88eh3VjE_thz.JPG"
+        },
+        "H0134-LJfmIfC4EZ2doP": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LJfmIfC4EZ2doP_thz.JPG"
+        },
+        "H0134-LRY8AsZnMxJ5mz": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LRY8AsZnMxJ5mz_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LRY8AsZnMxJ5mz_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LRY8AsZnMxJ5mz.JPG"
+        },
+        "H0134-LSZfFczkKKRjzh": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LSZfFczkKKRjzh_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LSZfFczkKKRjzh_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LSZfFczkKKRjzh.JPG"
+        },
+        "H0134-Lqm6qeZDs5BPkq": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lqm6qeZDs5BPkq_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lqm6qeZDs5BPkq_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lqm6qeZDs5BPkq.JPG"
+        }
+    }
+}

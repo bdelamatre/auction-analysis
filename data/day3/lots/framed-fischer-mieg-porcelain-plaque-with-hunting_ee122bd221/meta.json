@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/framed-fischer-mieg-porcelain-plaque-with-hunting_ee122bd221",
+    "slug": "framed-fischer-mieg-porcelain-plaque-with-hunting_ee122bd221",
+    "lot_number": "3099",
+    "title": "FRAMED FISCHER & MIEG PORCELAIN PLAQUE WITH HUNTING SCENE",
+    "estimate_low": 1000,
+    "estimate_high": 1500,
+    "current_bid": 500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LHn4JobP1ZKSOj_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L0y44nJVF3MiNv_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L6EN5LxYZrWUAP_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LMiPviXN9hgdCn_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LhprG1RcgPbUJ3": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LhprG1RcgPbUJ3_thz.JPG"
+        },
+        "H0134-LQcPYiJdYe7Mwh": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LQcPYiJdYe7Mwh_thz.JPG"
+        },
+        "H0134-LHn4JobP1ZKSOj": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LHn4JobP1ZKSOj_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LHn4JobP1ZKSOj_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LHn4JobP1ZKSOj.JPG"
+        },
+        "H0134-L0y44nJVF3MiNv": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L0y44nJVF3MiNv_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L0y44nJVF3MiNv_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L0y44nJVF3MiNv.JPG"
+        },
+        "H0134-L6EN5LxYZrWUAP": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L6EN5LxYZrWUAP_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L6EN5LxYZrWUAP_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L6EN5LxYZrWUAP.JPG"
+        },
+        "H0134-LMiPviXN9hgdCn": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LMiPviXN9hgdCn_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LMiPviXN9hgdCn_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LMiPviXN9hgdCn.JPG"
+        }
+    }
+}

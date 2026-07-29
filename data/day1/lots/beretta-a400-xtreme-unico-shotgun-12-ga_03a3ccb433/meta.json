@@ -1,0 +1,52 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/beretta-a400-xtreme-unico-shotgun-12-ga_03a3ccb433",
+    "slug": "beretta-a400-xtreme-unico-shotgun-12-ga_03a3ccb433",
+    "lot_number": "1239",
+    "title": "BERETTA A400 XTREME UNICO SHOTGUN, 12 GA",
+    "estimate_low": 800,
+    "estimate_high": 1200,
+    "current_bid": 450,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 5,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LV8raK8eccWWJi_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LCgBVWz225zssH_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LUMDsfOPUn6gRr_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lu0SEaEBkewiu4_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LM6dQCLPKjFiJi_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LygGDwr4hkeAdP": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LygGDwr4hkeAdP_thz.JPG"
+        },
+        "H0134-Lhoh6Oxbm9MFBl": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lhoh6Oxbm9MFBl_thz.JPG"
+        },
+        "H0134-LV8raK8eccWWJi": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LV8raK8eccWWJi_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LV8raK8eccWWJi_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LV8raK8eccWWJi.JPG"
+        },
+        "H0134-LCgBVWz225zssH": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LCgBVWz225zssH_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LCgBVWz225zssH_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LCgBVWz225zssH.JPG"
+        },
+        "H0134-LUMDsfOPUn6gRr": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LUMDsfOPUn6gRr_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LUMDsfOPUn6gRr_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LUMDsfOPUn6gRr.JPG"
+        },
+        "H0134-Lu0SEaEBkewiu4": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lu0SEaEBkewiu4_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lu0SEaEBkewiu4_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lu0SEaEBkewiu4.JPG"
+        },
+        "H0134-LM6dQCLPKjFiJi": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LM6dQCLPKjFiJi_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LM6dQCLPKjFiJi_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LM6dQCLPKjFiJi.JPG"
+        }
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/wm-matthew-prior-1806-1873-sturtevant-hamblin-181_9bb69bad0a",
+    "slug": "wm-matthew-prior-1806-1873-sturtevant-hamblin-181_9bb69bad0a",
+    "lot_number": "2265",
+    "title": "WM MATTHEW PRIOR (1806-1873) & STURTEVANT HAMBLIN (1816-1884)",
+    "estimate_low": 10000,
+    "estimate_high": 20000,
+    "current_bid": 5000,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 5,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LdwdtODs4ogvVl_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LSC96n4KukjlMG_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lju9ZK3D62YjFp_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L161n30zQH2DZU_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LSyC59z4DUvLnX_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LvrSZ7GsGsCraC": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LvrSZ7GsGsCraC_thz.JPG"
+        },
+        "H0134-LaUIffrJsgKqEv": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LaUIffrJsgKqEv_thz.JPG"
+        },
+        "H0134-LdwdtODs4ogvVl": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LdwdtODs4ogvVl_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LdwdtODs4ogvVl_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LdwdtODs4ogvVl.JPG"
+        },
+        "H0134-LSC96n4KukjlMG": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LSC96n4KukjlMG_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LSC96n4KukjlMG_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LSC96n4KukjlMG.JPG"
+        },
+        "H0134-Lju9ZK3D62YjFp": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lju9ZK3D62YjFp_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lju9ZK3D62YjFp_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lju9ZK3D62YjFp.JPG"
+        },
+        "H0134-L161n30zQH2DZU": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L161n30zQH2DZU_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L161n30zQH2DZU_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L161n30zQH2DZU.JPG"
+        },
+        "H0134-LSyC59z4DUvLnX": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LSyC59z4DUvLnX_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LSyC59z4DUvLnX_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LSyC59z4DUvLnX.JPG"
+        }
+    }
+}

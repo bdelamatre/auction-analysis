@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/sequoia-miller-american-contemporary-studio-potte_81e068d088",
+    "slug": "sequoia-miller-american-contemporary-studio-potte_81e068d088",
+    "lot_number": "1141",
+    "title": "SEQUOIA MILLER (AMERICAN, CONTEMPORARY) STUDIO POTTERY TEAPOT",
+    "estimate_low": 250,
+    "estimate_high": 350,
+    "current_bid": 50,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L9CBiM8sONdZ0t_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LlavPXfeFXCxOW_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LMLoauCUPcSKhR": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LMLoauCUPcSKhR_thz.JPG"
+        },
+        "H0134-L2nCcuciMHzZLI": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L2nCcuciMHzZLI_thz.JPG"
+        },
+        "H0134-L9CBiM8sONdZ0t": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L9CBiM8sONdZ0t_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L9CBiM8sONdZ0t_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L9CBiM8sONdZ0t.JPG"
+        },
+        "H0134-LlavPXfeFXCxOW": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LlavPXfeFXCxOW_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LlavPXfeFXCxOW_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LlavPXfeFXCxOW.JPG"
+        }
+    }
+}

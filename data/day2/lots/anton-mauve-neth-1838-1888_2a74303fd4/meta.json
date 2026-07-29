@@ -1,0 +1,58 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/anton-mauve-neth-1838-1888_2a74303fd4",
+    "slug": "anton-mauve-neth-1838-1888_2a74303fd4",
+    "lot_number": "2412",
+    "title": "ANTON MAUVE (NETH, 1838-1888)",
+    "estimate_low": 1000,
+    "estimate_high": 1500,
+    "current_bid": 550,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 6,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LQ3eonNNDCrtCM_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LqvqcxRzyiH5O1_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LC3WOmAy4JeR6k_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Ll6P9Zw7jxwweN_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LjY50wgWDVkbbH_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LEz1ivh8qCTCyo_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LzctTUl3lHyamL": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LzctTUl3lHyamL_thz.JPG"
+        },
+        "H0134-LisTwRAj5HeeC8": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LisTwRAj5HeeC8_thz.JPG"
+        },
+        "H0134-LQ3eonNNDCrtCM": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LQ3eonNNDCrtCM_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LQ3eonNNDCrtCM_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LQ3eonNNDCrtCM.JPG"
+        },
+        "H0134-LqvqcxRzyiH5O1": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LqvqcxRzyiH5O1_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LqvqcxRzyiH5O1_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LqvqcxRzyiH5O1.JPG"
+        },
+        "H0134-LC3WOmAy4JeR6k": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LC3WOmAy4JeR6k_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LC3WOmAy4JeR6k_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LC3WOmAy4JeR6k.JPG"
+        },
+        "H0134-Ll6P9Zw7jxwweN": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Ll6P9Zw7jxwweN_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Ll6P9Zw7jxwweN_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Ll6P9Zw7jxwweN.JPG"
+        },
+        "H0134-LjY50wgWDVkbbH": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LjY50wgWDVkbbH_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LjY50wgWDVkbbH_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LjY50wgWDVkbbH.JPG"
+        },
+        "H0134-LEz1ivh8qCTCyo": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LEz1ivh8qCTCyo_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LEz1ivh8qCTCyo_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LEz1ivh8qCTCyo.JPG"
+        }
+    }
+}

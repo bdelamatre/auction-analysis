@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/nan-greacen-aka-favre-ny-fl-france-1909-1999_af88b882c2",
+    "slug": "nan-greacen-aka-favre-ny-fl-france-1909-1999_af88b882c2",
+    "lot_number": "1118",
+    "title": "NAN GREACEN (AKA FAVRE) (NY/FL/FRANCE, 1909-1999)",
+    "estimate_low": 600,
+    "estimate_high": 900,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LArQ3kknD6oHxw_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LefXFyC2Xr1afa_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LhxND473jNS6Kq_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LuHOLQoFoOqvHC": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LuHOLQoFoOqvHC_thz.JPG"
+        },
+        "H0134-LlcE3e3k1dCa4j": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LlcE3e3k1dCa4j_thz.JPG"
+        },
+        "H0134-LArQ3kknD6oHxw": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LArQ3kknD6oHxw_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LArQ3kknD6oHxw_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LArQ3kknD6oHxw.JPG"
+        },
+        "H0134-LefXFyC2Xr1afa": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LefXFyC2Xr1afa_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LefXFyC2Xr1afa_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LefXFyC2Xr1afa.JPG"
+        },
+        "H0134-LhxND473jNS6Kq": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LhxND473jNS6Kq_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LhxND473jNS6Kq_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LhxND473jNS6Kq.JPG"
+        }
+    }
+}

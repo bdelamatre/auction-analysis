@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/c-f-hopf-kennebunk-me-grain-painted-stand_bc9b8274ee",
+    "slug": "c-f-hopf-kennebunk-me-grain-painted-stand_bc9b8274ee",
+    "lot_number": "2139",
+    "title": "C.F. HOPF, KENNEBUNK, ME GRAIN PAINTED STAND",
+    "estimate_low": 300,
+    "estimate_high": 400,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LPGfnbpSPfQXYq_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LUGpNqotSvPWut_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L4Bzmqt3IOWFs2_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L8C1VWWOkyg3i1_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LLJr0bm9FBkar7": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LLJr0bm9FBkar7_thz.JPG"
+        },
+        "H0134-LrudHiX0lkYAeV": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LrudHiX0lkYAeV_thz.JPG"
+        },
+        "H0134-LPGfnbpSPfQXYq": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LPGfnbpSPfQXYq_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LPGfnbpSPfQXYq_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LPGfnbpSPfQXYq.JPG"
+        },
+        "H0134-LUGpNqotSvPWut": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LUGpNqotSvPWut_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LUGpNqotSvPWut_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LUGpNqotSvPWut.JPG"
+        },
+        "H0134-L4Bzmqt3IOWFs2": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L4Bzmqt3IOWFs2_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L4Bzmqt3IOWFs2_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L4Bzmqt3IOWFs2.JPG"
+        },
+        "H0134-L8C1VWWOkyg3i1": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L8C1VWWOkyg3i1_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L8C1VWWOkyg3i1_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L8C1VWWOkyg3i1.JPG"
+        }
+    }
+}

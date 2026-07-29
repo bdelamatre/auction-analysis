@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/a-d-greer-ny-tx-ok-1904-1998_13e8de6c6a",
+    "slug": "a-d-greer-ny-tx-ok-1904-1998_13e8de6c6a",
+    "lot_number": "1428",
+    "title": "A.D. GREER (NY/TX/OK, 1904-1998)",
+    "estimate_low": 500,
+    "estimate_high": 700,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LecxUCiXvmeLOC_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LezSkFJ0dRXr8R_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LNki3TKX4E3oFc_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LaJfjOJEUaMter_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LZTDyrc4IYIKOZ": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LZTDyrc4IYIKOZ_thz.JPG"
+        },
+        "H0134-LuzY3LQTvDOXzr": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LuzY3LQTvDOXzr_thz.JPG"
+        },
+        "H0134-LecxUCiXvmeLOC": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LecxUCiXvmeLOC_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LecxUCiXvmeLOC_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LecxUCiXvmeLOC.JPG"
+        },
+        "H0134-LezSkFJ0dRXr8R": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LezSkFJ0dRXr8R_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LezSkFJ0dRXr8R_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LezSkFJ0dRXr8R.JPG"
+        },
+        "H0134-LNki3TKX4E3oFc": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LNki3TKX4E3oFc_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LNki3TKX4E3oFc_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LNki3TKX4E3oFc.JPG"
+        },
+        "H0134-LaJfjOJEUaMter": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LaJfjOJEUaMter_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LaJfjOJEUaMter_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LaJfjOJEUaMter.JPG"
+        }
+    }
+}

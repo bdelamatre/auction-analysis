@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/john-sutton-uk-1935_60b060fd34",
+    "slug": "john-sutton-uk-1935_60b060fd34",
+    "lot_number": "2303",
+    "title": "JOHN SUTTON (UK, 1935 - )",
+    "estimate_low": 600,
+    "estimate_high": 800,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LVJakhXq0sNNyA_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Ly5IsvmwQNmCUd_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LBq9nqHnEZD7hF_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LabWmpFhRPaeJh": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LabWmpFhRPaeJh_thz.JPG"
+        },
+        "H0134-LAyenxolie4wVo": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LAyenxolie4wVo_thz.JPG"
+        },
+        "H0134-LVJakhXq0sNNyA": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LVJakhXq0sNNyA_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LVJakhXq0sNNyA_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LVJakhXq0sNNyA.JPG"
+        },
+        "H0134-Ly5IsvmwQNmCUd": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Ly5IsvmwQNmCUd_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Ly5IsvmwQNmCUd_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Ly5IsvmwQNmCUd.JPG"
+        },
+        "H0134-LBq9nqHnEZD7hF": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LBq9nqHnEZD7hF_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LBq9nqHnEZD7hF_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LBq9nqHnEZD7hF.JPG"
+        }
+    }
+}

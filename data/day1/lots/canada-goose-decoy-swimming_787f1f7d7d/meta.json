@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/canada-goose-decoy-swimming_787f1f7d7d",
+    "slug": "canada-goose-decoy-swimming_787f1f7d7d",
+    "lot_number": "1264",
+    "title": "CANADA GOOSE DECOY, SWIMMING",
+    "estimate_low": 300,
+    "estimate_high": 400,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LwvtlrCheqskXb_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LQiVOjFuSS6eDq_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LEt2btlN4mBrG1": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LEt2btlN4mBrG1_thz.JPG"
+        },
+        "H0134-LO9KwHfi955ht9": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LO9KwHfi955ht9_thz.JPG"
+        },
+        "H0134-LwvtlrCheqskXb": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LwvtlrCheqskXb_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LwvtlrCheqskXb_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LwvtlrCheqskXb.JPG"
+        },
+        "H0134-LQiVOjFuSS6eDq": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LQiVOjFuSS6eDq_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LQiVOjFuSS6eDq_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LQiVOjFuSS6eDq.JPG"
+        }
+    }
+}

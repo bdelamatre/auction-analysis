@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/1930-art-press-book-illus-by-marie-laurencin-1885_f8f0dffc10",
+    "slug": "1930-art-press-book-illus-by-marie-laurencin-1885_f8f0dffc10",
+    "lot_number": "3314",
+    "title": "1930 ART PRESS BOOK ILLUS BY MARIE LAURENCIN (1885-1956)",
+    "estimate_low": 1000,
+    "estimate_high": 2000,
+    "current_bid": 500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LnFs2jpisUtTHz_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lt9i3AZi5B86v6_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LDAICwvnNPINJh_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LYwz2x93CEvf2J_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LH9DCAnwV3qI4a": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LH9DCAnwV3qI4a_thz.JPG"
+        },
+        "H0134-LVuLiGZPeFjscB": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LVuLiGZPeFjscB_thz.JPG"
+        },
+        "H0134-LnFs2jpisUtTHz": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LnFs2jpisUtTHz_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LnFs2jpisUtTHz_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LnFs2jpisUtTHz.JPG"
+        },
+        "H0134-Lt9i3AZi5B86v6": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lt9i3AZi5B86v6_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lt9i3AZi5B86v6_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lt9i3AZi5B86v6.JPG"
+        },
+        "H0134-LDAICwvnNPINJh": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LDAICwvnNPINJh_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LDAICwvnNPINJh_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LDAICwvnNPINJh.JPG"
+        },
+        "H0134-LYwz2x93CEvf2J": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LYwz2x93CEvf2J_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LYwz2x93CEvf2J_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LYwz2x93CEvf2J.JPG"
+        }
+    }
+}

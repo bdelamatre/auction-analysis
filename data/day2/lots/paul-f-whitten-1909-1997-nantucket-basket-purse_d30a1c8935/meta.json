@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/paul-f-whitten-1909-1997-nantucket-basket-purse_d30a1c8935",
+    "slug": "paul-f-whitten-1909-1997-nantucket-basket-purse_d30a1c8935",
+    "lot_number": "2017",
+    "title": "PAUL F. WHITTEN (1909-1997) NANTUCKET BASKET PURSE",
+    "estimate_low": 1000,
+    "estimate_high": 1500,
+    "current_bid": 500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LDCvQQuVMgjXO0_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lv95Bu7vjFYoyU_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LD02keOpT7YQP6_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L7PBmn6JcwZfYD_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LK2KnIGUhfBGuo": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LK2KnIGUhfBGuo_thz.JPG"
+        },
+        "H0134-LVAwV6WL2eOdpx": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LVAwV6WL2eOdpx_thz.JPG"
+        },
+        "H0134-LDCvQQuVMgjXO0": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LDCvQQuVMgjXO0_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LDCvQQuVMgjXO0_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LDCvQQuVMgjXO0.JPG"
+        },
+        "H0134-Lv95Bu7vjFYoyU": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lv95Bu7vjFYoyU_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lv95Bu7vjFYoyU_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lv95Bu7vjFYoyU.JPG"
+        },
+        "H0134-LD02keOpT7YQP6": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LD02keOpT7YQP6_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LD02keOpT7YQP6_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LD02keOpT7YQP6.JPG"
+        },
+        "H0134-L7PBmn6JcwZfYD": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L7PBmn6JcwZfYD_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L7PBmn6JcwZfYD_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L7PBmn6JcwZfYD.JPG"
+        }
+    }
+}

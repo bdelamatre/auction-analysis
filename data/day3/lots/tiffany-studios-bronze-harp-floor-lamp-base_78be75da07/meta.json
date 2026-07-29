@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/tiffany-studios-bronze-harp-floor-lamp-base_78be75da07",
+    "slug": "tiffany-studios-bronze-harp-floor-lamp-base_78be75da07",
+    "lot_number": "3052",
+    "title": "TIFFANY STUDIOS BRONZE HARP FLOOR LAMP BASE",
+    "estimate_low": 2000,
+    "estimate_high": 3000,
+    "current_bid": 1000,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LKRQg9pssBxw2k_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L4MlatiWCgi9tx_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LMnkCsDg7pX3JR": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LMnkCsDg7pX3JR_thz.JPG"
+        },
+        "H0134-LUC0gl7gv3DOS4": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LUC0gl7gv3DOS4_thz.JPG"
+        },
+        "H0134-LKRQg9pssBxw2k": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LKRQg9pssBxw2k_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LKRQg9pssBxw2k_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LKRQg9pssBxw2k.JPG"
+        },
+        "H0134-L4MlatiWCgi9tx": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L4MlatiWCgi9tx_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L4MlatiWCgi9tx_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L4MlatiWCgi9tx.JPG"
+        }
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/5-vols-complete-masterpieces-of-french-art_85fa0f0d80",
+    "slug": "5-vols-complete-masterpieces-of-french-art_85fa0f0d80",
+    "lot_number": "1499",
+    "title": "(5 VOLS COMPLETE) MASTERPIECES OF FRENCH ART",
+    "estimate_low": 500,
+    "estimate_high": 700,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 5,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L77l39qAtfQFzj_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LOSYcGfztWbECw_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lxh0FdudZHsgOI_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Le2yCB4EmlHAhP_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LBz1hVUjvgGLkR_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LTMetyM32uGJfQ": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LTMetyM32uGJfQ_thz.JPG"
+        },
+        "H0134-LRWBnigrp0E04A": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LRWBnigrp0E04A_thz.JPG"
+        },
+        "H0134-L77l39qAtfQFzj": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L77l39qAtfQFzj_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L77l39qAtfQFzj_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L77l39qAtfQFzj.JPG"
+        },
+        "H0134-LOSYcGfztWbECw": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LOSYcGfztWbECw_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LOSYcGfztWbECw_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LOSYcGfztWbECw.JPG"
+        },
+        "H0134-Lxh0FdudZHsgOI": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lxh0FdudZHsgOI_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lxh0FdudZHsgOI_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lxh0FdudZHsgOI.JPG"
+        },
+        "H0134-Le2yCB4EmlHAhP": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Le2yCB4EmlHAhP_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Le2yCB4EmlHAhP_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Le2yCB4EmlHAhP.JPG"
+        },
+        "H0134-LBz1hVUjvgGLkR": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LBz1hVUjvgGLkR_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LBz1hVUjvgGLkR_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LBz1hVUjvgGLkR.JPG"
+        }
+    }
+}

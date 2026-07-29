@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/mary-brewster-hazelton-us-1868-1953_6247715769",
+    "slug": "mary-brewster-hazelton-us-1868-1953_6247715769",
+    "lot_number": "1079",
+    "title": "MARY BREWSTER HAZELTON (US 1868-1953)",
+    "estimate_low": 600,
+    "estimate_high": 800,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LS91UoUChdKkGq_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lj5Xl04RoRs1Hx_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LJdkrpm34j4Te6_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L3kSAzLzEFlXfW_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LOfODoZITm3XZ8": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LOfODoZITm3XZ8_thz.JPG"
+        },
+        "H0134-LTKFl0uq44PnGz": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LTKFl0uq44PnGz_thz.JPG"
+        },
+        "H0134-LS91UoUChdKkGq": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LS91UoUChdKkGq_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LS91UoUChdKkGq_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LS91UoUChdKkGq.JPG"
+        },
+        "H0134-Lj5Xl04RoRs1Hx": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lj5Xl04RoRs1Hx_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lj5Xl04RoRs1Hx_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lj5Xl04RoRs1Hx.JPG"
+        },
+        "H0134-LJdkrpm34j4Te6": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LJdkrpm34j4Te6_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LJdkrpm34j4Te6_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LJdkrpm34j4Te6.JPG"
+        },
+        "H0134-L3kSAzLzEFlXfW": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L3kSAzLzEFlXfW_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L3kSAzLzEFlXfW_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L3kSAzLzEFlXfW.JPG"
+        }
+    }
+}

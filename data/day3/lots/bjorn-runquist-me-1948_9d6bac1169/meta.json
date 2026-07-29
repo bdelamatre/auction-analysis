@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/bjorn-runquist-me-1948_9d6bac1169",
+    "slug": "bjorn-runquist-me-1948_9d6bac1169",
+    "lot_number": "3438",
+    "title": "BJORN RUNQUIST (ME, 1948 - )",
+    "estimate_low": 600,
+    "estimate_high": 800,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LGfPDgUC8pyM6c_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LqdqpG08rtep54_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L54Adsg8ZehqIv_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LHUsaqPlpbOKGX": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LHUsaqPlpbOKGX_thz.JPG"
+        },
+        "H0134-LLbY6XqXbrLfig": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LLbY6XqXbrLfig_thz.JPG"
+        },
+        "H0134-LGfPDgUC8pyM6c": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LGfPDgUC8pyM6c_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LGfPDgUC8pyM6c_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LGfPDgUC8pyM6c.JPG"
+        },
+        "H0134-LqdqpG08rtep54": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LqdqpG08rtep54_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LqdqpG08rtep54_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LqdqpG08rtep54.JPG"
+        },
+        "H0134-L54Adsg8ZehqIv": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L54Adsg8ZehqIv_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L54Adsg8ZehqIv_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L54Adsg8ZehqIv.JPG"
+        }
+    }
+}

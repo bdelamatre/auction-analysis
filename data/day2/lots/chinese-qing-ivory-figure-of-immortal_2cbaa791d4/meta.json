@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/chinese-qing-ivory-figure-of-immortal_2cbaa791d4",
+    "slug": "chinese-qing-ivory-figure-of-immortal_2cbaa791d4",
+    "lot_number": "2484",
+    "title": "CHINESE QING IVORY FIGURE OF IMMORTAL",
+    "estimate_low": 500,
+    "estimate_high": 700,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Ldfz8TDML0AMGD_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LiJJnk4fkZ8NKY_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LurIXUsmYn0CH4_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LzRMzig0XTO1r5": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LzRMzig0XTO1r5_thz.JPG"
+        },
+        "H0134-LbbvJEPnOXOpmR": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LbbvJEPnOXOpmR_thz.JPG"
+        },
+        "H0134-Ldfz8TDML0AMGD": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Ldfz8TDML0AMGD_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Ldfz8TDML0AMGD_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Ldfz8TDML0AMGD.JPG"
+        },
+        "H0134-LiJJnk4fkZ8NKY": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LiJJnk4fkZ8NKY_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LiJJnk4fkZ8NKY_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LiJJnk4fkZ8NKY.JPG"
+        },
+        "H0134-LurIXUsmYn0CH4": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LurIXUsmYn0CH4_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LurIXUsmYn0CH4_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LurIXUsmYn0CH4.JPG"
+        }
+    }
+}

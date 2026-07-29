@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/frederic-sackrider-remington-ny-ks-ct-1861-1909_ab2985a1f5",
+    "slug": "frederic-sackrider-remington-ny-ks-ct-1861-1909_ab2985a1f5",
+    "lot_number": "2216",
+    "title": "FREDERIC SACKRIDER REMINGTON (NY/KS/CT, 1861-1909)",
+    "estimate_low": 5000,
+    "estimate_high": 7000,
+    "current_bid": 2500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lpbk4ebq8ArSpW_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LwV7Y9SR3javLP_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lk5h2laLDv9yZz_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-L49KaQKgOsjNLg": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L49KaQKgOsjNLg_thz.JPG"
+        },
+        "H0134-LHADtpmaVeHcsV": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LHADtpmaVeHcsV_thz.JPG"
+        },
+        "H0134-Lpbk4ebq8ArSpW": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lpbk4ebq8ArSpW_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lpbk4ebq8ArSpW_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lpbk4ebq8ArSpW.JPG"
+        },
+        "H0134-LwV7Y9SR3javLP": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LwV7Y9SR3javLP_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LwV7Y9SR3javLP_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LwV7Y9SR3javLP.JPG"
+        },
+        "H0134-Lk5h2laLDv9yZz": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lk5h2laLDv9yZz_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lk5h2laLDv9yZz_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lk5h2laLDv9yZz.JPG"
+        }
+    }
+}

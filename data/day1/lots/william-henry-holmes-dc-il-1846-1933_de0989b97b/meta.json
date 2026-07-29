@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/william-henry-holmes-dc-il-1846-1933_de0989b97b",
+    "slug": "william-henry-holmes-dc-il-1846-1933_de0989b97b",
+    "lot_number": "1138",
+    "title": "WILLIAM HENRY HOLMES (DC/IL, 1846-1933)",
+    "estimate_low": 400,
+    "estimate_high": 600,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L2SrReljHAFilw_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LE461DlpH4fFJB_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LyEg7kErzSOOqH_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LaG5Cr3p4NreLY_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LNgJrWUikTV20o": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LNgJrWUikTV20o_thz.JPG"
+        },
+        "H0134-LKhKojwWl0sbZk": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LKhKojwWl0sbZk_thz.JPG"
+        },
+        "H0134-L2SrReljHAFilw": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L2SrReljHAFilw_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L2SrReljHAFilw_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L2SrReljHAFilw.JPG"
+        },
+        "H0134-LE461DlpH4fFJB": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LE461DlpH4fFJB_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LE461DlpH4fFJB_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LE461DlpH4fFJB.JPG"
+        },
+        "H0134-LyEg7kErzSOOqH": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LyEg7kErzSOOqH_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LyEg7kErzSOOqH_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LyEg7kErzSOOqH.JPG"
+        },
+        "H0134-LaG5Cr3p4NreLY": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LaG5Cr3p4NreLY_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LaG5Cr3p4NreLY_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LaG5Cr3p4NreLY.JPG"
+        }
+    }
+}

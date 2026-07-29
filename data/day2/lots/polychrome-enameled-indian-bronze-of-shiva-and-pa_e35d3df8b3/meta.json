@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/polychrome-enameled-indian-bronze-of-shiva-and-pa_e35d3df8b3",
+    "slug": "polychrome-enameled-indian-bronze-of-shiva-and-pa_e35d3df8b3",
+    "lot_number": "2452",
+    "title": "POLYCHROME ENAMELED INDIAN BRONZE OF SHIVA AND PARVATI",
+    "estimate_low": 1000,
+    "estimate_high": 1500,
+    "current_bid": 500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LYMlf7YiApACfy_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LFH0TY7ZbWKiPn_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LlNXwDhuHUwCaH_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LaAVqkGejwYQmA": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LaAVqkGejwYQmA_thz.JPG"
+        },
+        "H0134-LI56UZWG8K21kP": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LI56UZWG8K21kP_thz.JPG"
+        },
+        "H0134-LYMlf7YiApACfy": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LYMlf7YiApACfy_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LYMlf7YiApACfy_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LYMlf7YiApACfy.JPG"
+        },
+        "H0134-LFH0TY7ZbWKiPn": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LFH0TY7ZbWKiPn_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LFH0TY7ZbWKiPn_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LFH0TY7ZbWKiPn.JPG"
+        },
+        "H0134-LlNXwDhuHUwCaH": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LlNXwDhuHUwCaH_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LlNXwDhuHUwCaH_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LlNXwDhuHUwCaH.JPG"
+        }
+    }
+}

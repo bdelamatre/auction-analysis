@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/15-pc-copper-cookware-collection_f2527c6c69",
+    "slug": "15-pc-copper-cookware-collection_f2527c6c69",
+    "lot_number": "1063",
+    "title": "(15 PC) COPPER COOKWARE COLLECTION",
+    "estimate_low": 800,
+    "estimate_high": 1200,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LBhWyZfMMy1Y7q_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LK6zGA9cDiM32u_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LlDCVjavlQheXq_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LMPhuLS1ooSeJN": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LMPhuLS1ooSeJN_thz.JPG"
+        },
+        "H0134-LdrmkRbeuwgWFS": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LdrmkRbeuwgWFS_thz.JPG"
+        },
+        "H0134-LBhWyZfMMy1Y7q": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LBhWyZfMMy1Y7q_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LBhWyZfMMy1Y7q_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LBhWyZfMMy1Y7q.JPG"
+        },
+        "H0134-LK6zGA9cDiM32u": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LK6zGA9cDiM32u_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LK6zGA9cDiM32u_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LK6zGA9cDiM32u.JPG"
+        },
+        "H0134-LlDCVjavlQheXq": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LlDCVjavlQheXq_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LlDCVjavlQheXq_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LlDCVjavlQheXq.JPG"
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/live-edge-black-walnut-coffee-table_0a27f574d4",
+    "slug": "live-edge-black-walnut-coffee-table_0a27f574d4",
+    "lot_number": "3262",
+    "title": "LIVE EDGE BLACK WALNUT COFFEE TABLE",
+    "estimate_low": 500,
+    "estimate_high": 700,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LiHazlxCVpXV5v_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LcROtEAOhDTvxp_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-L9udcyeMua5Xql": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L9udcyeMua5Xql_thz.JPG"
+        },
+        "H0134-L7EiMbSgmUAGu2": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L7EiMbSgmUAGu2_thz.JPG"
+        },
+        "H0134-LiHazlxCVpXV5v": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LiHazlxCVpXV5v_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LiHazlxCVpXV5v_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LiHazlxCVpXV5v.JPG"
+        },
+        "H0134-LcROtEAOhDTvxp": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LcROtEAOhDTvxp_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LcROtEAOhDTvxp_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LcROtEAOhDTvxp.JPG"
+        }
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/george-ennis-mo-ny-1884-1936-idle-hours_ac209f8bb5",
+    "slug": "george-ennis-mo-ny-1884-1936-idle-hours_ac209f8bb5",
+    "lot_number": "3373",
+    "title": "GEORGE ENNIS (MO/NY 1884-1936) \"IDLE HOURS\"",
+    "estimate_low": 1000,
+    "estimate_high": 2000,
+    "current_bid": 500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 5,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L1vFZ1xsMig5CY_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lji806w0Vk1ToW_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LmPgL1tlGS7sOu_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LGDi6ThyyibOEo_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LOv3LlfUkM2Tqe_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LmD3jVyHDPq8Dy": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LmD3jVyHDPq8Dy_thz.JPG"
+        },
+        "H0134-LznW9vW1no79Nf": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LznW9vW1no79Nf_thz.JPG"
+        },
+        "H0134-L1vFZ1xsMig5CY": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L1vFZ1xsMig5CY_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L1vFZ1xsMig5CY_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L1vFZ1xsMig5CY.JPG"
+        },
+        "H0134-Lji806w0Vk1ToW": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lji806w0Vk1ToW_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lji806w0Vk1ToW_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lji806w0Vk1ToW.JPG"
+        },
+        "H0134-LmPgL1tlGS7sOu": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LmPgL1tlGS7sOu_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LmPgL1tlGS7sOu_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LmPgL1tlGS7sOu.JPG"
+        },
+        "H0134-LGDi6ThyyibOEo": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LGDi6ThyyibOEo_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LGDi6ThyyibOEo_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LGDi6ThyyibOEo.JPG"
+        },
+        "H0134-LOv3LlfUkM2Tqe": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LOv3LlfUkM2Tqe_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LOv3LlfUkM2Tqe_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LOv3LlfUkM2Tqe.JPG"
+        }
+    }
+}

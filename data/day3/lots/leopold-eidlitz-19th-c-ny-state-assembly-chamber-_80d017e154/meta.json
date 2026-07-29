@@ -1,0 +1,58 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/leopold-eidlitz-19th-c-ny-state-assembly-chamber-_80d017e154",
+    "slug": "leopold-eidlitz-19th-c-ny-state-assembly-chamber-_80d017e154",
+    "lot_number": "3135",
+    "title": "LEOPOLD EIDLITZ 19TH C. NY STATE ASSEMBLY CHAMBER DESK",
+    "estimate_low": 2000,
+    "estimate_high": 3000,
+    "current_bid": 1000,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 6,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LI3q5lfwCsBCQF_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Ld6w2D6zzmOoOG_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LyWOy1Ncn9SqnO_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LNxOq49b0ywE1k_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LaPFlfzKSnmVoV_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L3eebvszQvLpMX_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LY7L8oVeHidfBN": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LY7L8oVeHidfBN_thz.JPG"
+        },
+        "H0134-LABxS2BJiDXfQD": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LABxS2BJiDXfQD_thz.JPG"
+        },
+        "H0134-LI3q5lfwCsBCQF": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LI3q5lfwCsBCQF_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LI3q5lfwCsBCQF_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LI3q5lfwCsBCQF.JPG"
+        },
+        "H0134-Ld6w2D6zzmOoOG": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Ld6w2D6zzmOoOG_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Ld6w2D6zzmOoOG_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Ld6w2D6zzmOoOG.JPG"
+        },
+        "H0134-LyWOy1Ncn9SqnO": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LyWOy1Ncn9SqnO_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LyWOy1Ncn9SqnO_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LyWOy1Ncn9SqnO.JPG"
+        },
+        "H0134-LNxOq49b0ywE1k": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LNxOq49b0ywE1k_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LNxOq49b0ywE1k_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LNxOq49b0ywE1k.JPG"
+        },
+        "H0134-LaPFlfzKSnmVoV": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LaPFlfzKSnmVoV_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LaPFlfzKSnmVoV_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LaPFlfzKSnmVoV.JPG"
+        },
+        "H0134-L3eebvszQvLpMX": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L3eebvszQvLpMX_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L3eebvszQvLpMX_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L3eebvszQvLpMX.JPG"
+        }
+    }
+}

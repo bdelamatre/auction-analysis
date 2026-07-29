@@ -1,0 +1,52 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/johannes-adam-simon-oertel-nj-va-germany-1823-1909_9aa1cef99d",
+    "slug": "johannes-adam-simon-oertel-nj-va-germany-1823-1909_9aa1cef99d",
+    "lot_number": "2408",
+    "title": "JOHANNES ADAM SIMON OERTEL (NJ/VA/GERMANY, 1823-1909)",
+    "estimate_low": 500,
+    "estimate_high": 1000,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 5,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LLEw3WIGqSh4Ds_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LkZpNtXGj2cCCy_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LyHqRNSJVcgAHR_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LtaGoF4owRwcqq_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LCkhtXhC5Eu1F4_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-Lk5FYG73D31Al8": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lk5FYG73D31Al8_thz.JPG"
+        },
+        "H0134-LGAtyLcF9zIuTf": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LGAtyLcF9zIuTf_thz.JPG"
+        },
+        "H0134-LLEw3WIGqSh4Ds": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LLEw3WIGqSh4Ds_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LLEw3WIGqSh4Ds_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LLEw3WIGqSh4Ds.JPG"
+        },
+        "H0134-LkZpNtXGj2cCCy": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LkZpNtXGj2cCCy_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LkZpNtXGj2cCCy_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LkZpNtXGj2cCCy.JPG"
+        },
+        "H0134-LyHqRNSJVcgAHR": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LyHqRNSJVcgAHR_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LyHqRNSJVcgAHR_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LyHqRNSJVcgAHR.JPG"
+        },
+        "H0134-LtaGoF4owRwcqq": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LtaGoF4owRwcqq_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LtaGoF4owRwcqq_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LtaGoF4owRwcqq.JPG"
+        },
+        "H0134-LCkhtXhC5Eu1F4": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LCkhtXhC5Eu1F4_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LCkhtXhC5Eu1F4_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LCkhtXhC5Eu1F4.JPG"
+        }
+    }
+}

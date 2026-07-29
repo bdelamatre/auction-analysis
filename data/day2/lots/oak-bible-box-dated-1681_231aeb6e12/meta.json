@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/oak-bible-box-dated-1681_231aeb6e12",
+    "slug": "oak-bible-box-dated-1681_231aeb6e12",
+    "lot_number": "2302",
+    "title": "OAK BIBLE BOX DATED 1681",
+    "estimate_low": 400,
+    "estimate_high": 600,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LabWmpFhRPaeJh_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LdeiqLSgFQcbo6_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LLSCGvw7twZGia_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LTviuGGz3elTAG": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LTviuGGz3elTAG_thz.JPG"
+        },
+        "H0134-LVJakhXq0sNNyA": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LVJakhXq0sNNyA_thz.JPG"
+        },
+        "H0134-LabWmpFhRPaeJh": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LabWmpFhRPaeJh_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LabWmpFhRPaeJh_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LabWmpFhRPaeJh.JPG"
+        },
+        "H0134-LdeiqLSgFQcbo6": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LdeiqLSgFQcbo6_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LdeiqLSgFQcbo6_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LdeiqLSgFQcbo6.JPG"
+        },
+        "H0134-LLSCGvw7twZGia": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LLSCGvw7twZGia_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LLSCGvw7twZGia_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LLSCGvw7twZGia.JPG"
+        }
+    }
+}

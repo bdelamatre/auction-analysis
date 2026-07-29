@@ -1,0 +1,70 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/roger-eliot-gilson-20th-c-ma_39b1540644",
+    "slug": "roger-eliot-gilson-20th-c-ma_39b1540644",
+    "lot_number": "1395",
+    "title": "ROGER ELIOT GILSON (20TH C. MA)",
+    "estimate_low": 300,
+    "estimate_high": 400,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 8,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LCR26dXYxBUAtw_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LGdV91Ha5VOchw_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LzH3GihH1eWYHU_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LhI8BTaDqbAIA1_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LMpX6hnzJ1UQ60_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L2NVpc5sJtI3Jy_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LQyo2arHJrM5wj_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L7gpyBJaapTzCW_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LNjlhMvEUWIcNi": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LNjlhMvEUWIcNi_thz.JPG"
+        },
+        "H0134-LN6SSn4Vh0APf9": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LN6SSn4Vh0APf9_thz.JPG"
+        },
+        "H0134-LCR26dXYxBUAtw": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LCR26dXYxBUAtw_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LCR26dXYxBUAtw_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LCR26dXYxBUAtw.JPG"
+        },
+        "H0134-LGdV91Ha5VOchw": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LGdV91Ha5VOchw_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LGdV91Ha5VOchw_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LGdV91Ha5VOchw.JPG"
+        },
+        "H0134-LzH3GihH1eWYHU": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LzH3GihH1eWYHU_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LzH3GihH1eWYHU_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LzH3GihH1eWYHU.JPG"
+        },
+        "H0134-LhI8BTaDqbAIA1": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LhI8BTaDqbAIA1_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LhI8BTaDqbAIA1_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LhI8BTaDqbAIA1.JPG"
+        },
+        "H0134-LMpX6hnzJ1UQ60": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LMpX6hnzJ1UQ60_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LMpX6hnzJ1UQ60_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LMpX6hnzJ1UQ60.JPG"
+        },
+        "H0134-L2NVpc5sJtI3Jy": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L2NVpc5sJtI3Jy_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L2NVpc5sJtI3Jy_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L2NVpc5sJtI3Jy.JPG"
+        },
+        "H0134-LQyo2arHJrM5wj": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LQyo2arHJrM5wj_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LQyo2arHJrM5wj_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LQyo2arHJrM5wj.JPG"
+        },
+        "H0134-L7gpyBJaapTzCW": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L7gpyBJaapTzCW_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L7gpyBJaapTzCW_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L7gpyBJaapTzCW.JPG"
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/victorian-view-of-scottish-loch-watercolor_f175c67820",
+    "slug": "victorian-view-of-scottish-loch-watercolor_f175c67820",
+    "lot_number": "2334",
+    "title": "VICTORIAN VIEW OF SCOTTISH LOCH, WATERCOLOR",
+    "estimate_low": 400,
+    "estimate_high": 600,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LYSswreDAXDswp_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LCMjVwiwnJHebd_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LdBcqhwLfW7PS5_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LViZkXcvxr6YrV": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LViZkXcvxr6YrV_thz.JPG"
+        },
+        "H0134-LKF19DuIZHCU00": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LKF19DuIZHCU00_thz.JPG"
+        },
+        "H0134-LYSswreDAXDswp": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LYSswreDAXDswp_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LYSswreDAXDswp_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LYSswreDAXDswp.JPG"
+        },
+        "H0134-LCMjVwiwnJHebd": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LCMjVwiwnJHebd_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LCMjVwiwnJHebd_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LCMjVwiwnJHebd.JPG"
+        },
+        "H0134-LdBcqhwLfW7PS5": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LdBcqhwLfW7PS5_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LdBcqhwLfW7PS5_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LdBcqhwLfW7PS5.JPG"
+        }
+    }
+}

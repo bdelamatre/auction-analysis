@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/william-shayer-sr-uk-1787-8-1879_0281350169",
+    "slug": "william-shayer-sr-uk-1787-8-1879_0281350169",
+    "lot_number": "2299",
+    "title": "WILLIAM SHAYER, SR. (UK, 1787/8-1879)",
+    "estimate_low": 1000,
+    "estimate_high": 2000,
+    "current_bid": 500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lwi2Rh5w7ogvhH_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LMY4LUpIHcvjOJ_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LzrpC6PxAy1Ity_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LN0eOFZ9iyqy2T_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-Lm6fkkJFUMobLl": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lm6fkkJFUMobLl_thz.JPG"
+        },
+        "H0134-LQD1h29sqqOXr6": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LQD1h29sqqOXr6_thz.JPG"
+        },
+        "H0134-Lwi2Rh5w7ogvhH": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lwi2Rh5w7ogvhH_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lwi2Rh5w7ogvhH_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lwi2Rh5w7ogvhH.JPG"
+        },
+        "H0134-LMY4LUpIHcvjOJ": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LMY4LUpIHcvjOJ_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LMY4LUpIHcvjOJ_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LMY4LUpIHcvjOJ.JPG"
+        },
+        "H0134-LzrpC6PxAy1Ity": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LzrpC6PxAy1Ity_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LzrpC6PxAy1Ity_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LzrpC6PxAy1Ity.JPG"
+        },
+        "H0134-LN0eOFZ9iyqy2T": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LN0eOFZ9iyqy2T_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LN0eOFZ9iyqy2T_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LN0eOFZ9iyqy2T.JPG"
+        }
+    }
+}

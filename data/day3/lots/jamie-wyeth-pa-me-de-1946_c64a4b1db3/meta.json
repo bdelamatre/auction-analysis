@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/jamie-wyeth-pa-me-de-1946_c64a4b1db3",
+    "slug": "jamie-wyeth-pa-me-de-1946_c64a4b1db3",
+    "lot_number": "3468",
+    "title": "JAMIE WYETH (PA/ME/DE, 1946 - )",
+    "estimate_low": 800,
+    "estimate_high": 1200,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LBrGDFma0M8rB4_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lh9NbFV4OddNjt_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LSgiAlbrq00jlB_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LmccYKtrZz1RzL": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LmccYKtrZz1RzL_thz.JPG"
+        },
+        "H0134-LdREXMoc9SwQho": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LdREXMoc9SwQho_thz.JPG"
+        },
+        "H0134-LBrGDFma0M8rB4": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LBrGDFma0M8rB4_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LBrGDFma0M8rB4_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LBrGDFma0M8rB4.JPG"
+        },
+        "H0134-Lh9NbFV4OddNjt": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lh9NbFV4OddNjt_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lh9NbFV4OddNjt_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lh9NbFV4OddNjt.JPG"
+        },
+        "H0134-LSgiAlbrq00jlB": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LSgiAlbrq00jlB_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LSgiAlbrq00jlB_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LSgiAlbrq00jlB.JPG"
+        }
+    }
+}

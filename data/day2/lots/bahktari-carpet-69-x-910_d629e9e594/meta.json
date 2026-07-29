@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/bahktari-carpet-69-x-910_d629e9e594",
+    "slug": "bahktari-carpet-69-x-910_d629e9e594",
+    "lot_number": "2200",
+    "title": "BAHKTARI CARPET (6'9\" X 9'10\")",
+    "estimate_low": 1000,
+    "estimate_high": 1200,
+    "current_bid": 500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L1QiVb7b1B7de6_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LdkxjE0Lr0Fri1_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LhoKevKMW6XwiN_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LcN5dvOchWZaEj_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LbR6v0sX8Guvo3": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LbR6v0sX8Guvo3_thz.JPG"
+        },
+        "H0134-L4HxR4R9ZoOD5E": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L4HxR4R9ZoOD5E_thz.JPG"
+        },
+        "H0134-L1QiVb7b1B7de6": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L1QiVb7b1B7de6_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L1QiVb7b1B7de6_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L1QiVb7b1B7de6.JPG"
+        },
+        "H0134-LdkxjE0Lr0Fri1": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LdkxjE0Lr0Fri1_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LdkxjE0Lr0Fri1_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LdkxjE0Lr0Fri1.JPG"
+        },
+        "H0134-LhoKevKMW6XwiN": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LhoKevKMW6XwiN_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LhoKevKMW6XwiN_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LhoKevKMW6XwiN.JPG"
+        },
+        "H0134-LcN5dvOchWZaEj": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LcN5dvOchWZaEj_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LcN5dvOchWZaEj_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LcN5dvOchWZaEj.JPG"
+        }
+    }
+}

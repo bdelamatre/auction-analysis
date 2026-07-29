@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/19th-c-italian-empire-double-inkwell-desk-stand_bbefe8a56a",
+    "slug": "19th-c-italian-empire-double-inkwell-desk-stand_bbefe8a56a",
+    "lot_number": "2378",
+    "title": "19TH C. ITALIAN EMPIRE DOUBLE INKWELL DESK STAND",
+    "estimate_low": 1000,
+    "estimate_high": 1500,
+    "current_bid": 500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LPPFTMwSuSBGf0_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LtVxRD2Jq8kyEf_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LNsHY64dgIxWvq": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LNsHY64dgIxWvq_thz.JPG"
+        },
+        "H0134-LVmRxg4CCI3WVO": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LVmRxg4CCI3WVO_thz.JPG"
+        },
+        "H0134-LPPFTMwSuSBGf0": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LPPFTMwSuSBGf0_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LPPFTMwSuSBGf0_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LPPFTMwSuSBGf0.JPG"
+        },
+        "H0134-LtVxRD2Jq8kyEf": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LtVxRD2Jq8kyEf_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LtVxRD2Jq8kyEf_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LtVxRD2Jq8kyEf.JPG"
+        }
+    }
+}

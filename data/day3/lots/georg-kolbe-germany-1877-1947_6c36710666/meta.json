@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/georg-kolbe-germany-1877-1947_6c36710666",
+    "slug": "georg-kolbe-germany-1877-1947_6c36710666",
+    "lot_number": "3302",
+    "title": "GEORG KOLBE (GERMANY, 1877-1947)",
+    "estimate_low": 2000,
+    "estimate_high": 3000,
+    "current_bid": 1000,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LS33H6HsDWyH3W_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LOq8SlVvOGgWZD_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lts5BPxbO0k1zJ_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-L2j7OHhJrUinKb": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L2j7OHhJrUinKb_thz.JPG"
+        },
+        "H0134-LQorG07hb0eYVf": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LQorG07hb0eYVf_thz.JPG"
+        },
+        "H0134-LS33H6HsDWyH3W": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LS33H6HsDWyH3W_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LS33H6HsDWyH3W_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LS33H6HsDWyH3W.JPG"
+        },
+        "H0134-LOq8SlVvOGgWZD": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LOq8SlVvOGgWZD_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LOq8SlVvOGgWZD_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LOq8SlVvOGgWZD.JPG"
+        },
+        "H0134-Lts5BPxbO0k1zJ": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lts5BPxbO0k1zJ_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lts5BPxbO0k1zJ_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lts5BPxbO0k1zJ.JPG"
+        }
+    }
+}

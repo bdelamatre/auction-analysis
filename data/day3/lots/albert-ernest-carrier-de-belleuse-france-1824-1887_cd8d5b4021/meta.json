@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/albert-ernest-carrier-de-belleuse-france-1824-1887_cd8d5b4021",
+    "slug": "albert-ernest-carrier-de-belleuse-france-1824-1887_cd8d5b4021",
+    "lot_number": "3169",
+    "title": "ALBERT-ERNEST CARRIER DE BELLEUSE (FRANCE, 1824-1887)",
+    "estimate_low": 800,
+    "estimate_high": 1200,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LTwnQth8aZf1Lk_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LJ3bK0QNvrOZfS_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LEeTBiwJdy7fIc_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lpp1pqWrsJMp6H_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LOtdKYFoxQi5Ia": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LOtdKYFoxQi5Ia_thz.JPG"
+        },
+        "H0134-LiP0LWF3UiHc3d": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LiP0LWF3UiHc3d_thz.JPG"
+        },
+        "H0134-LTwnQth8aZf1Lk": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LTwnQth8aZf1Lk_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LTwnQth8aZf1Lk_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LTwnQth8aZf1Lk.JPG"
+        },
+        "H0134-LJ3bK0QNvrOZfS": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LJ3bK0QNvrOZfS_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LJ3bK0QNvrOZfS_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LJ3bK0QNvrOZfS.JPG"
+        },
+        "H0134-LEeTBiwJdy7fIc": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LEeTBiwJdy7fIc_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LEeTBiwJdy7fIc_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LEeTBiwJdy7fIc.JPG"
+        },
+        "H0134-Lpp1pqWrsJMp6H": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lpp1pqWrsJMp6H_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lpp1pqWrsJMp6H_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lpp1pqWrsJMp6H.JPG"
+        }
+    }
+}

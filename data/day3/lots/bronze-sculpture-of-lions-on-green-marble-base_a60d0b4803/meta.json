@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/bronze-sculpture-of-lions-on-green-marble-base_a60d0b4803",
+    "slug": "bronze-sculpture-of-lions-on-green-marble-base_a60d0b4803",
+    "lot_number": "3173",
+    "title": "BRONZE SCULPTURE OF LIONS ON GREEN MARBLE BASE",
+    "estimate_low": 800,
+    "estimate_high": 1200,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LfssqBPvjcLV4c_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LKdhtWVUDhhohR_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L1b3tv0MzBAJl3_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LnZnmLVxl3pZlu": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LnZnmLVxl3pZlu_thz.JPG"
+        },
+        "H0134-LE63XyZ6DfnSTt": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LE63XyZ6DfnSTt_thz.JPG"
+        },
+        "H0134-LfssqBPvjcLV4c": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LfssqBPvjcLV4c_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LfssqBPvjcLV4c_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LfssqBPvjcLV4c.JPG"
+        },
+        "H0134-LKdhtWVUDhhohR": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LKdhtWVUDhhohR_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LKdhtWVUDhhohR_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LKdhtWVUDhhohR.JPG"
+        },
+        "H0134-L1b3tv0MzBAJl3": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L1b3tv0MzBAJl3_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L1b3tv0MzBAJl3_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L1b3tv0MzBAJl3.JPG"
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/oblong-shaped-tilt-top-candlestand_7aff6ba9b9",
+    "slug": "oblong-shaped-tilt-top-candlestand_7aff6ba9b9",
+    "lot_number": "2213",
+    "title": "OBLONG SHAPED TILT TOP CANDLESTAND",
+    "estimate_low": 300,
+    "estimate_high": 400,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L7lwOFMBWR9IRj_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LK09A9dcEJ1JKl_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LYrsV8eywZo2aO_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LFGKXaDaCDZcTa": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LFGKXaDaCDZcTa_thz.JPG"
+        },
+        "H0134-LsYZzycPSJSsDl": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LsYZzycPSJSsDl_thz.JPG"
+        },
+        "H0134-L7lwOFMBWR9IRj": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L7lwOFMBWR9IRj_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L7lwOFMBWR9IRj_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L7lwOFMBWR9IRj.JPG"
+        },
+        "H0134-LK09A9dcEJ1JKl": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LK09A9dcEJ1JKl_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LK09A9dcEJ1JKl_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LK09A9dcEJ1JKl.JPG"
+        },
+        "H0134-LYrsV8eywZo2aO": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LYrsV8eywZo2aO_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LYrsV8eywZo2aO_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LYrsV8eywZo2aO.JPG"
+        }
+    }
+}

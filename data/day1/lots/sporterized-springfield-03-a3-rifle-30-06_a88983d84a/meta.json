@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/sporterized-springfield-03-a3-rifle-30-06_a88983d84a",
+    "slug": "sporterized-springfield-03-a3-rifle-30-06_a88983d84a",
+    "lot_number": "1256",
+    "title": "SPORTERIZED SPRINGFIELD 03-A3 RIFLE, .30-06",
+    "estimate_low": 300,
+    "estimate_high": 500,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LJEobFGCJULlPg_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L5EXDV6DKrnZXy_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LbvroK8cJPvwSN_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LyR80kpol6DfUS_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LNw4uxACaykqPI": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LNw4uxACaykqPI_thz.JPG"
+        },
+        "H0134-LEaOFM6Fwjr6wK": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LEaOFM6Fwjr6wK_thz.JPG"
+        },
+        "H0134-LJEobFGCJULlPg": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LJEobFGCJULlPg_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LJEobFGCJULlPg_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LJEobFGCJULlPg.JPG"
+        },
+        "H0134-L5EXDV6DKrnZXy": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L5EXDV6DKrnZXy_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L5EXDV6DKrnZXy_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L5EXDV6DKrnZXy.JPG"
+        },
+        "H0134-LbvroK8cJPvwSN": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LbvroK8cJPvwSN_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LbvroK8cJPvwSN_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LbvroK8cJPvwSN.JPG"
+        },
+        "H0134-LyR80kpol6DfUS": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LyR80kpol6DfUS_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LyR80kpol6DfUS_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LyR80kpol6DfUS.JPG"
+        }
+    }
+}

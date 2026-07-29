@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/scrimshaw-marine-ivory-by-althea-macy_ddc9284a80",
+    "slug": "scrimshaw-marine-ivory-by-althea-macy_ddc9284a80",
+    "lot_number": "2070",
+    "title": "SCRIMSHAW MARINE IVORY BY ALTHEA MACY",
+    "estimate_low": 700,
+    "estimate_high": 900,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LR4PWXEHLP4Wue_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LKQu15U6LkGAe2_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LlfedDDu1LaahO": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LlfedDDu1LaahO_thz.JPG"
+        },
+        "H0134-LpQK6HIJqEDzZ2": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LpQK6HIJqEDzZ2_thz.JPG"
+        },
+        "H0134-LR4PWXEHLP4Wue": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LR4PWXEHLP4Wue_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LR4PWXEHLP4Wue_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LR4PWXEHLP4Wue.JPG"
+        },
+        "H0134-LKQu15U6LkGAe2": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LKQu15U6LkGAe2_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LKQu15U6LkGAe2_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LKQu15U6LkGAe2.JPG"
+        }
+    }
+}

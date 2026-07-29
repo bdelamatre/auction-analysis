@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/pr-19th-c-limoges-polychrome-enamel-on-metal-cand_87dd30fb64",
+    "slug": "pr-19th-c-limoges-polychrome-enamel-on-metal-cand_87dd30fb64",
+    "lot_number": "2349",
+    "title": "PR 19TH C. LIMOGES POLYCHROME ENAMEL ON METAL CANDLESTICKS",
+    "estimate_low": 1400,
+    "estimate_high": 1800,
+    "current_bid": 700,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Le0Uqn24syu5s4_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LWsaf9ZPlD7q91_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LCZUc6FMU2se98": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LCZUc6FMU2se98_thz.JPG"
+        },
+        "H0134-LVtraohiJqF7iS": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LVtraohiJqF7iS_thz.JPG"
+        },
+        "H0134-Le0Uqn24syu5s4": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Le0Uqn24syu5s4_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Le0Uqn24syu5s4_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Le0Uqn24syu5s4.JPG"
+        },
+        "H0134-LWsaf9ZPlD7q91": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LWsaf9ZPlD7q91_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LWsaf9ZPlD7q91_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LWsaf9ZPlD7q91.JPG"
+        }
+    }
+}

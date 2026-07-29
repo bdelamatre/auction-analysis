@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/james-coignard-france-1925-2008_cf3511807a",
+    "slug": "james-coignard-france-1925-2008_cf3511807a",
+    "lot_number": "3295",
+    "title": "JAMES COIGNARD (FRANCE, 1925-2008)",
+    "estimate_low": 1000,
+    "estimate_high": 1500,
+    "current_bid": 500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LQokIFGIy27aIf_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L4lGtMCNVNGNtE_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LjVcOxgV2ENZJV_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LhZEP2U2Z7lBEX_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LKMo30K0xzIxwE": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LKMo30K0xzIxwE_thz.JPG"
+        },
+        "H0134-LqIiCJji1DdzOy": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LqIiCJji1DdzOy_thz.JPG"
+        },
+        "H0134-LQokIFGIy27aIf": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LQokIFGIy27aIf_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LQokIFGIy27aIf_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LQokIFGIy27aIf.JPG"
+        },
+        "H0134-L4lGtMCNVNGNtE": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L4lGtMCNVNGNtE_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L4lGtMCNVNGNtE_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L4lGtMCNVNGNtE.JPG"
+        },
+        "H0134-LjVcOxgV2ENZJV": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LjVcOxgV2ENZJV_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LjVcOxgV2ENZJV_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LjVcOxgV2ENZJV.JPG"
+        },
+        "H0134-LhZEP2U2Z7lBEX": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LhZEP2U2Z7lBEX_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LhZEP2U2Z7lBEX_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LhZEP2U2Z7lBEX.JPG"
+        }
+    }
+}

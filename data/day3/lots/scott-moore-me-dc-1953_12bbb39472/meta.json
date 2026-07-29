@@ -1,0 +1,52 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/scott-moore-me-dc-1953_12bbb39472",
+    "slug": "scott-moore-me-dc-1953_12bbb39472",
+    "lot_number": "3411",
+    "title": "SCOTT MOORE (ME/DC, 1953 - )",
+    "estimate_low": 750,
+    "estimate_high": 1000,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 5,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lix7JYsc6A3SDi_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LFSyJZhU4Cy8GO_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lt8jAq52zSaIE0_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LHculZY6tT69j0_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LLAjpyGS4LF5Kl_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LxXUaaQSHzH0ot": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LxXUaaQSHzH0ot_thz.JPG"
+        },
+        "H0134-LhYqpZyNG8t8jU": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LhYqpZyNG8t8jU_thz.JPG"
+        },
+        "H0134-Lix7JYsc6A3SDi": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lix7JYsc6A3SDi_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lix7JYsc6A3SDi_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lix7JYsc6A3SDi.JPG"
+        },
+        "H0134-LFSyJZhU4Cy8GO": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LFSyJZhU4Cy8GO_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LFSyJZhU4Cy8GO_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LFSyJZhU4Cy8GO.JPG"
+        },
+        "H0134-Lt8jAq52zSaIE0": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lt8jAq52zSaIE0_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lt8jAq52zSaIE0_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lt8jAq52zSaIE0.JPG"
+        },
+        "H0134-LHculZY6tT69j0": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LHculZY6tT69j0_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LHculZY6tT69j0_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LHculZY6tT69j0.JPG"
+        },
+        "H0134-LLAjpyGS4LF5Kl": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LLAjpyGS4LF5Kl_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LLAjpyGS4LF5Kl_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LLAjpyGS4LF5Kl.JPG"
+        }
+    }
+}

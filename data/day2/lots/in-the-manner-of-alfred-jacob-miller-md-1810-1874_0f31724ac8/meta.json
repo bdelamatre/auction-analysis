@@ -1,0 +1,52 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/in-the-manner-of-alfred-jacob-miller-md-1810-1874_0f31724ac8",
+    "slug": "in-the-manner-of-alfred-jacob-miller-md-1810-1874_0f31724ac8",
+    "lot_number": "2214",
+    "title": "IN THE MANNER OF ALFRED JACOB MILLER (MD, 1810-1874)",
+    "estimate_low": 10000,
+    "estimate_high": 20000,
+    "current_bid": 5000,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 5,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LsYZzycPSJSsDl_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LrGxcKC3CLO3I0_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LKEGK3j6UALrvk_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LVnILdJg2Sm9GR_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LzKxiXrTp5AP64_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-L7lwOFMBWR9IRj": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L7lwOFMBWR9IRj_thz.JPG"
+        },
+        "H0134-L49KaQKgOsjNLg": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L49KaQKgOsjNLg_thz.JPG"
+        },
+        "H0134-LsYZzycPSJSsDl": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LsYZzycPSJSsDl_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LsYZzycPSJSsDl_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LsYZzycPSJSsDl.JPG"
+        },
+        "H0134-LrGxcKC3CLO3I0": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LrGxcKC3CLO3I0_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LrGxcKC3CLO3I0_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LrGxcKC3CLO3I0.JPG"
+        },
+        "H0134-LKEGK3j6UALrvk": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LKEGK3j6UALrvk_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LKEGK3j6UALrvk_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LKEGK3j6UALrvk.JPG"
+        },
+        "H0134-LVnILdJg2Sm9GR": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LVnILdJg2Sm9GR_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LVnILdJg2Sm9GR_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LVnILdJg2Sm9GR.JPG"
+        },
+        "H0134-LzKxiXrTp5AP64": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LzKxiXrTp5AP64_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LzKxiXrTp5AP64_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LzKxiXrTp5AP64.JPG"
+        }
+    }
+}

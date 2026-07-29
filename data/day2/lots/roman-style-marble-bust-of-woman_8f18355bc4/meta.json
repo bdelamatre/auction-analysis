@@ -1,0 +1,52 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/roman-style-marble-bust-of-woman_8f18355bc4",
+    "slug": "roman-style-marble-bust-of-woman_8f18355bc4",
+    "lot_number": "2425",
+    "title": "ROMAN STYLE MARBLE BUST OF WOMAN",
+    "estimate_low": 500,
+    "estimate_high": 700,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 5,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lb3Z1a5vna35e0_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L4MC5V0e8cND7q_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L5gRBC8HhtLCP0_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LZibYbpFGwGzgy_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lz2R85hQ6bPg1k_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LYyDjZ4bCPLaPR": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LYyDjZ4bCPLaPR_thz.JPG"
+        },
+        "H0134-Luwe47ohBEwNMt": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Luwe47ohBEwNMt_thz.JPG"
+        },
+        "H0134-Lb3Z1a5vna35e0": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lb3Z1a5vna35e0_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lb3Z1a5vna35e0_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lb3Z1a5vna35e0.JPG"
+        },
+        "H0134-L4MC5V0e8cND7q": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L4MC5V0e8cND7q_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L4MC5V0e8cND7q_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L4MC5V0e8cND7q.JPG"
+        },
+        "H0134-L5gRBC8HhtLCP0": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L5gRBC8HhtLCP0_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L5gRBC8HhtLCP0_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L5gRBC8HhtLCP0.JPG"
+        },
+        "H0134-LZibYbpFGwGzgy": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LZibYbpFGwGzgy_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LZibYbpFGwGzgy_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LZibYbpFGwGzgy.JPG"
+        },
+        "H0134-Lz2R85hQ6bPg1k": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lz2R85hQ6bPg1k_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lz2R85hQ6bPg1k_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lz2R85hQ6bPg1k.JPG"
+        }
+    }
+}

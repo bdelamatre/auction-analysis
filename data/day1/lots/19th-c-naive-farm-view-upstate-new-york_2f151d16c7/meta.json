@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/19th-c-naive-farm-view-upstate-new-york_2f151d16c7",
+    "slug": "19th-c-naive-farm-view-upstate-new-york_2f151d16c7",
+    "lot_number": "1384",
+    "title": "19TH C. NAIVE FARM VIEW, UPSTATE NEW YORK",
+    "estimate_low": 300,
+    "estimate_high": 400,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LsgEbPekvHXPpN_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L9K53bI4KE9aCg_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LiGnFib9sDxGYC_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LjHLMsNSdXgZZN_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-L9jGtYynmHBruS": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L9jGtYynmHBruS_thz.JPG"
+        },
+        "H0134-LAp9UweuNI9bjb": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LAp9UweuNI9bjb_thz.JPG"
+        },
+        "H0134-LsgEbPekvHXPpN": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LsgEbPekvHXPpN_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LsgEbPekvHXPpN_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LsgEbPekvHXPpN.JPG"
+        },
+        "H0134-L9K53bI4KE9aCg": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L9K53bI4KE9aCg_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L9K53bI4KE9aCg_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L9K53bI4KE9aCg.JPG"
+        },
+        "H0134-LiGnFib9sDxGYC": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LiGnFib9sDxGYC_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LiGnFib9sDxGYC_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LiGnFib9sDxGYC.JPG"
+        },
+        "H0134-LjHLMsNSdXgZZN": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LjHLMsNSdXgZZN_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LjHLMsNSdXgZZN_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LjHLMsNSdXgZZN.JPG"
+        }
+    }
+}

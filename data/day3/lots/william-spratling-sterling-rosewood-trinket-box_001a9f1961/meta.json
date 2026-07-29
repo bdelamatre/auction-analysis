@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/william-spratling-sterling-rosewood-trinket-box_001a9f1961",
+    "slug": "william-spratling-sterling-rosewood-trinket-box_001a9f1961",
+    "lot_number": "3077",
+    "title": "WILLIAM SPRATLING STERLING & ROSEWOOD TRINKET BOX",
+    "estimate_low": 400,
+    "estimate_high": 600,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LtumjvorXeQtY5_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L8bVxPmtKvcIkP_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LMlonugWtl3n6q_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LHIk0PhGxs2yXz": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LHIk0PhGxs2yXz_thz.JPG"
+        },
+        "H0134-Ln4rDHcMsY0hew": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Ln4rDHcMsY0hew_thz.JPG"
+        },
+        "H0134-LtumjvorXeQtY5": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LtumjvorXeQtY5_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LtumjvorXeQtY5_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LtumjvorXeQtY5.JPG"
+        },
+        "H0134-L8bVxPmtKvcIkP": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L8bVxPmtKvcIkP_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L8bVxPmtKvcIkP_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L8bVxPmtKvcIkP.JPG"
+        },
+        "H0134-LMlonugWtl3n6q": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LMlonugWtl3n6q_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LMlonugWtl3n6q_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LMlonugWtl3n6q.JPG"
+        }
+    }
+}

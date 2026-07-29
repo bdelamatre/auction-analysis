@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/victorian-faux-book-form-tea-caddy_0e8ee0d7ab",
+    "slug": "victorian-faux-book-form-tea-caddy_0e8ee0d7ab",
+    "lot_number": "2280",
+    "title": "VICTORIAN FAUX BOOK FORM TEA CADDY",
+    "estimate_low": 600,
+    "estimate_high": 800,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-La1eh6vaFiYmMP_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L2f0eztriF3nta_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LrclFFy5ITqhww_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LNrBCxqobgMKeH": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LNrBCxqobgMKeH_thz.JPG"
+        },
+        "H0134-LDzxgReInEr7Al": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LDzxgReInEr7Al_thz.JPG"
+        },
+        "H0134-La1eh6vaFiYmMP": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-La1eh6vaFiYmMP_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-La1eh6vaFiYmMP_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-La1eh6vaFiYmMP.JPG"
+        },
+        "H0134-L2f0eztriF3nta": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L2f0eztriF3nta_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L2f0eztriF3nta_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L2f0eztriF3nta.JPG"
+        },
+        "H0134-LrclFFy5ITqhww": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LrclFFy5ITqhww_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LrclFFy5ITqhww_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LrclFFy5ITqhww.JPG"
+        }
+    }
+}

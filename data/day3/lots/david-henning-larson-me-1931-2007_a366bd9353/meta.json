@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/david-henning-larson-me-1931-2007_a366bd9353",
+    "slug": "david-henning-larson-me-1931-2007_a366bd9353",
+    "lot_number": "3326",
+    "title": "DAVID HENNING LARSON (ME, 1931-2007)",
+    "estimate_low": 700,
+    "estimate_high": 900,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L87HMO7BPpPbcZ_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LigpPZjtqk0dBj_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LSI9xo27AcKMV0_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LBHx0r7SR28IkU_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-Li9tPQxuc7vwsN": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Li9tPQxuc7vwsN_thz.JPG"
+        },
+        "H0134-LAh9D4JTdM5p6Z": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LAh9D4JTdM5p6Z_thz.JPG"
+        },
+        "H0134-L87HMO7BPpPbcZ": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L87HMO7BPpPbcZ_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L87HMO7BPpPbcZ_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L87HMO7BPpPbcZ.JPG"
+        },
+        "H0134-LigpPZjtqk0dBj": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LigpPZjtqk0dBj_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LigpPZjtqk0dBj_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LigpPZjtqk0dBj.JPG"
+        },
+        "H0134-LSI9xo27AcKMV0": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LSI9xo27AcKMV0_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LSI9xo27AcKMV0_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LSI9xo27AcKMV0.JPG"
+        },
+        "H0134-LBHx0r7SR28IkU": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LBHx0r7SR28IkU_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LBHx0r7SR28IkU_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LBHx0r7SR28IkU.JPG"
+        }
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/minature-portrait-of-madame-de-la-fayette_d886d6eb1d",
+    "slug": "minature-portrait-of-madame-de-la-fayette_d886d6eb1d",
+    "lot_number": "2339",
+    "title": "MINATURE PORTRAIT OF MADAME DE LA FAYETTE",
+    "estimate_low": 400,
+    "estimate_high": 600,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 5,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Ll8GMKmOBuErEQ_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L5qGQIb1xhgvat_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LmicaXaTC3dNar_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lj5awzwSvglymw_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L2IsvF6XmfhnM4_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LjD0Wzm4uyE4fC": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LjD0Wzm4uyE4fC_thz.JPG"
+        },
+        "H0134-LTcZf8TAP5PhS8": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LTcZf8TAP5PhS8_thz.JPG"
+        },
+        "H0134-Ll8GMKmOBuErEQ": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Ll8GMKmOBuErEQ_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Ll8GMKmOBuErEQ_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Ll8GMKmOBuErEQ.JPG"
+        },
+        "H0134-L5qGQIb1xhgvat": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L5qGQIb1xhgvat_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L5qGQIb1xhgvat_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L5qGQIb1xhgvat.JPG"
+        },
+        "H0134-LmicaXaTC3dNar": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LmicaXaTC3dNar_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LmicaXaTC3dNar_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LmicaXaTC3dNar.JPG"
+        },
+        "H0134-Lj5awzwSvglymw": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lj5awzwSvglymw_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lj5awzwSvglymw_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lj5awzwSvglymw.JPG"
+        },
+        "H0134-L2IsvF6XmfhnM4": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L2IsvF6XmfhnM4_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L2IsvF6XmfhnM4_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L2IsvF6XmfhnM4.JPG"
+        }
+    }
+}

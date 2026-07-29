@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/jack-gerber-pa-1927-2021_2ab74786e3",
+    "slug": "jack-gerber-pa-1927-2021_2ab74786e3",
+    "lot_number": "1370",
+    "title": "JACK GERBER (PA, 1927-2021)",
+    "estimate_low": 250,
+    "estimate_high": 350,
+    "current_bid": 50,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LlMNF440xENnf2_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LlDREtg2ROKPQi_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LlV9eQ8lMmsfcZ_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-Lva20vVLHPbqXt": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lva20vVLHPbqXt_thz.JPG"
+        },
+        "H0134-LFdrAdl3rm58Fx": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LFdrAdl3rm58Fx_thz.JPG"
+        },
+        "H0134-LlMNF440xENnf2": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LlMNF440xENnf2_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LlMNF440xENnf2_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LlMNF440xENnf2.JPG"
+        },
+        "H0134-LlDREtg2ROKPQi": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LlDREtg2ROKPQi_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LlDREtg2ROKPQi_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LlDREtg2ROKPQi.JPG"
+        },
+        "H0134-LlV9eQ8lMmsfcZ": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LlV9eQ8lMmsfcZ_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LlV9eQ8lMmsfcZ_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LlV9eQ8lMmsfcZ.JPG"
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/2-19th-c-carved-walking-sticks_83dfd17c3f",
+    "slug": "2-19th-c-carved-walking-sticks_83dfd17c3f",
+    "lot_number": "2050",
+    "title": "(2) 19TH C. CARVED WALKING STICKS",
+    "estimate_low": 300,
+    "estimate_high": 500,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LRYcyr4thMskKZ_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Ln30O10Djebv0q_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-Ldpzb2cVVyylnl": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Ldpzb2cVVyylnl_thz.JPG"
+        },
+        "H0134-LYstketNgwtf6x": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LYstketNgwtf6x_thz.JPG"
+        },
+        "H0134-LRYcyr4thMskKZ": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LRYcyr4thMskKZ_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LRYcyr4thMskKZ_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LRYcyr4thMskKZ.JPG"
+        },
+        "H0134-Ln30O10Djebv0q": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Ln30O10Djebv0q_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Ln30O10Djebv0q_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Ln30O10Djebv0q.JPG"
+        }
+    }
+}

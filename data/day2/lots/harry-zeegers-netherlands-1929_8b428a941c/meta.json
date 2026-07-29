@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/harry-zeegers-netherlands-1929_8b428a941c",
+    "slug": "harry-zeegers-netherlands-1929_8b428a941c",
+    "lot_number": "2407",
+    "title": "HARRY ZEEGERS (NETHERLANDS, 1929- )",
+    "estimate_low": 600,
+    "estimate_high": 800,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lk5FYG73D31Al8_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LnlFsjS0KuKQc6_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LCaUUC7rtmjByx_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LT9VsBwWPpsQgI_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LtDJcdWfJVfbe0": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LtDJcdWfJVfbe0_thz.JPG"
+        },
+        "H0134-LLEw3WIGqSh4Ds": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LLEw3WIGqSh4Ds_thz.JPG"
+        },
+        "H0134-Lk5FYG73D31Al8": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lk5FYG73D31Al8_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lk5FYG73D31Al8_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lk5FYG73D31Al8.JPG"
+        },
+        "H0134-LnlFsjS0KuKQc6": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LnlFsjS0KuKQc6_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LnlFsjS0KuKQc6_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LnlFsjS0KuKQc6.JPG"
+        },
+        "H0134-LCaUUC7rtmjByx": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LCaUUC7rtmjByx_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LCaUUC7rtmjByx_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LCaUUC7rtmjByx.JPG"
+        },
+        "H0134-LT9VsBwWPpsQgI": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LT9VsBwWPpsQgI_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LT9VsBwWPpsQgI_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LT9VsBwWPpsQgI.JPG"
+        }
+    }
+}

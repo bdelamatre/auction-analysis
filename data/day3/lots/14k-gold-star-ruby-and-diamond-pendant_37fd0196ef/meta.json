@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/14k-gold-star-ruby-and-diamond-pendant_37fd0196ef",
+    "slug": "14k-gold-star-ruby-and-diamond-pendant_37fd0196ef",
+    "lot_number": "3094",
+    "title": "14K GOLD STAR RUBY AND DIAMOND PENDANT",
+    "estimate_low": 800,
+    "estimate_high": 1200,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LQbHKydzJ8T5yQ_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lojfv1txriWLYh_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LDhlQ7wfxn1UKA": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LDhlQ7wfxn1UKA_thz.JPG"
+        },
+        "H0134-LrMoRfUK4YTYvg": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LrMoRfUK4YTYvg_thz.JPG"
+        },
+        "H0134-LQbHKydzJ8T5yQ": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LQbHKydzJ8T5yQ_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LQbHKydzJ8T5yQ_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LQbHKydzJ8T5yQ.JPG"
+        },
+        "H0134-Lojfv1txriWLYh": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lojfv1txriWLYh_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lojfv1txriWLYh_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lojfv1txriWLYh.JPG"
+        }
+    }
+}

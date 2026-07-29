@@ -1,0 +1,58 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/winchester-mdl-12-shotgun-engraved-by-pauline-mue_1dcc4b131f",
+    "slug": "winchester-mdl-12-shotgun-engraved-by-pauline-mue_1dcc4b131f",
+    "lot_number": "1253",
+    "title": "WINCHESTER MDL 12 SHOTGUN, ENGRAVED BY PAULINE MUERLLE",
+    "estimate_low": 1500,
+    "estimate_high": 2000,
+    "current_bid": 750,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 6,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Ln5C0kzFcMiDB2_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LGVA1zoqFWy2a0_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L6N6CRqZa77XZr_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LmnmO9uxKTyXnC_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LCAH6R9gXcpXQu_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LqmXzco1B7pwUw_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-L4JXWVld2IX6kv": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L4JXWVld2IX6kv_thz.JPG"
+        },
+        "H0134-L5UlPAIPnQjiBK": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L5UlPAIPnQjiBK_thz.JPG"
+        },
+        "H0134-Ln5C0kzFcMiDB2": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Ln5C0kzFcMiDB2_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Ln5C0kzFcMiDB2_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Ln5C0kzFcMiDB2.JPG"
+        },
+        "H0134-LGVA1zoqFWy2a0": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LGVA1zoqFWy2a0_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LGVA1zoqFWy2a0_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LGVA1zoqFWy2a0.JPG"
+        },
+        "H0134-L6N6CRqZa77XZr": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L6N6CRqZa77XZr_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L6N6CRqZa77XZr_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L6N6CRqZa77XZr.JPG"
+        },
+        "H0134-LmnmO9uxKTyXnC": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LmnmO9uxKTyXnC_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LmnmO9uxKTyXnC_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LmnmO9uxKTyXnC.JPG"
+        },
+        "H0134-LCAH6R9gXcpXQu": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LCAH6R9gXcpXQu_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LCAH6R9gXcpXQu_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LCAH6R9gXcpXQu.JPG"
+        },
+        "H0134-LqmXzco1B7pwUw": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LqmXzco1B7pwUw_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LqmXzco1B7pwUw_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LqmXzco1B7pwUw.JPG"
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/4-pcs-19th-c-french-copper-cookware_fa6b9de127",
+    "slug": "4-pcs-19th-c-french-copper-cookware_fa6b9de127",
+    "lot_number": "1045",
+    "title": "(4 PCS) 19TH C. FRENCH COPPER COOKWARE",
+    "estimate_low": 300,
+    "estimate_high": 500,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lif53XEiRW66wG_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Le2lfBLEP29s0p_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LxahMENHsyH1Fh": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LxahMENHsyH1Fh_thz.JPG"
+        },
+        "H0134-L5sRxRJRRnJWmu": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L5sRxRJRRnJWmu_thz.JPG"
+        },
+        "H0134-Lif53XEiRW66wG": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lif53XEiRW66wG_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lif53XEiRW66wG_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lif53XEiRW66wG.JPG"
+        },
+        "H0134-Le2lfBLEP29s0p": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Le2lfBLEP29s0p_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Le2lfBLEP29s0p_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Le2lfBLEP29s0p.JPG"
+        }
+    }
+}

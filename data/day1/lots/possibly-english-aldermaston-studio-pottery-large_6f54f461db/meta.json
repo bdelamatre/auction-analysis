@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/possibly-english-aldermaston-studio-pottery-large_6f54f461db",
+    "slug": "possibly-english-aldermaston-studio-pottery-large_6f54f461db",
+    "lot_number": "1151",
+    "title": "POSSIBLY ENGLISH ALDERMASTON STUDIO POTTERY LARGE GLAZED DISH",
+    "estimate_low": 250,
+    "estimate_high": 350,
+    "current_bid": 50,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LkwKc74ACgNZXu_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L1x1OnPRG2CJUl_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LgBNjHfXmlEkjE": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LgBNjHfXmlEkjE_thz.JPG"
+        },
+        "H0134-LxJjdqIblC9gCL": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LxJjdqIblC9gCL_thz.JPG"
+        },
+        "H0134-LkwKc74ACgNZXu": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LkwKc74ACgNZXu_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LkwKc74ACgNZXu_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LkwKc74ACgNZXu.JPG"
+        },
+        "H0134-L1x1OnPRG2CJUl": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L1x1OnPRG2CJUl_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L1x1OnPRG2CJUl_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L1x1OnPRG2CJUl.JPG"
+        }
+    }
+}

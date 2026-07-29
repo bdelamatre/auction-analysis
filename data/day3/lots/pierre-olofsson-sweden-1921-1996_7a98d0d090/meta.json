@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/pierre-olofsson-sweden-1921-1996_7a98d0d090",
+    "slug": "pierre-olofsson-sweden-1921-1996_7a98d0d090",
+    "lot_number": "3340",
+    "title": "PIERRE OLOFSSON (SWEDEN, 1921-1996)",
+    "estimate_low": 600,
+    "estimate_high": 800,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L9pB7oHmAm75um_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LFobeDDZx0TnqF_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lh4aFw1XB9jfbT_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-Lj8kukcYR4GG1e": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lj8kukcYR4GG1e_thz.JPG"
+        },
+        "H0134-LW1Quv7WvRvWLl": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LW1Quv7WvRvWLl_thz.JPG"
+        },
+        "H0134-L9pB7oHmAm75um": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L9pB7oHmAm75um_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L9pB7oHmAm75um_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L9pB7oHmAm75um.JPG"
+        },
+        "H0134-LFobeDDZx0TnqF": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LFobeDDZx0TnqF_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LFobeDDZx0TnqF_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LFobeDDZx0TnqF.JPG"
+        },
+        "H0134-Lh4aFw1XB9jfbT": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lh4aFw1XB9jfbT_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lh4aFw1XB9jfbT_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lh4aFw1XB9jfbT.JPG"
+        }
+    }
+}

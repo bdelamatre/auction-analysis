@@ -1,0 +1,27 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/4-pc-antique-nautical-flag-collection_6123a3c7b4",
+    "slug": "4-pc-antique-nautical-flag-collection_6123a3c7b4",
+    "lot_number": "2066",
+    "title": "(4 PC) ANTIQUE NAUTICAL FLAG COLLECTiON",
+    "estimate_low": 600,
+    "estimate_high": 800,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 1,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LpWt1AiYX5HeZF_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-Lsjp5hh4XgUyXv": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lsjp5hh4XgUyXv_thz.JPG"
+        },
+        "H0134-Lxv1vIUjfEF5sI": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lxv1vIUjfEF5sI_thz.JPG"
+        },
+        "H0134-LpWt1AiYX5HeZF": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LpWt1AiYX5HeZF_original.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LpWt1AiYX5HeZF.JPG"
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/barbara-ernst-prey-me-1957_17156dc8bf",
+    "slug": "barbara-ernst-prey-me-1957_17156dc8bf",
+    "lot_number": "3431",
+    "title": "BARBARA ERNST PREY (ME, 1957 - )",
+    "estimate_low": 2000,
+    "estimate_high": 3000,
+    "current_bid": 1000,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lk2CKqedMs7C10_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LaUbR0UW9WhJ5G_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LqXS8Ipr8tNlRC_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-Ld43quFeePgYjz": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Ld43quFeePgYjz_thz.JPG"
+        },
+        "H0134-L49H8J8y0P2oKy": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L49H8J8y0P2oKy_thz.JPG"
+        },
+        "H0134-Lk2CKqedMs7C10": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lk2CKqedMs7C10_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lk2CKqedMs7C10_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lk2CKqedMs7C10.JPG"
+        },
+        "H0134-LaUbR0UW9WhJ5G": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LaUbR0UW9WhJ5G_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LaUbR0UW9WhJ5G_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LaUbR0UW9WhJ5G.JPG"
+        },
+        "H0134-LqXS8Ipr8tNlRC": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LqXS8Ipr8tNlRC_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LqXS8Ipr8tNlRC_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LqXS8Ipr8tNlRC.JPG"
+        }
+    }
+}

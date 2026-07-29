@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/platinum-and-diamond-three-stone-ring_789fe584fa",
+    "slug": "platinum-and-diamond-three-stone-ring_789fe584fa",
+    "lot_number": "3154",
+    "title": "PLATINUM AND DIAMOND THREE STONE RING",
+    "estimate_low": 2500,
+    "estimate_high": 3000,
+    "current_bid": 1200,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LcbCGisPa8XqDg_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LodNhZ3jVDt8My_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LelG1ORM6swOWw": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LelG1ORM6swOWw_thz.JPG"
+        },
+        "H0134-L35OH0swxCILoo": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L35OH0swxCILoo_thz.JPG"
+        },
+        "H0134-LcbCGisPa8XqDg": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LcbCGisPa8XqDg_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LcbCGisPa8XqDg_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LcbCGisPa8XqDg.JPG"
+        },
+        "H0134-LodNhZ3jVDt8My": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LodNhZ3jVDt8My_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LodNhZ3jVDt8My_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LodNhZ3jVDt8My.JPG"
+        }
+    }
+}

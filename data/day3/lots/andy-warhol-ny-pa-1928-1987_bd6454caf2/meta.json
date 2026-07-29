@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/andy-warhol-ny-pa-1928-1987_bd6454caf2",
+    "slug": "andy-warhol-ny-pa-1928-1987_bd6454caf2",
+    "lot_number": "3290",
+    "title": "ANDY WARHOL, (NY/PA, 1928-1987)",
+    "estimate_low": 4000,
+    "estimate_high": 5000,
+    "current_bid": 2000,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LYUnG5Mc11OFq1_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LFDykqo6g7Rblt_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LDhydlXAnlLUtx_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LScK0IJsclkOLA": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LScK0IJsclkOLA_thz.JPG"
+        },
+        "H0134-LJb6iu7y0Rs1wC": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LJb6iu7y0Rs1wC_thz.JPG"
+        },
+        "H0134-LYUnG5Mc11OFq1": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LYUnG5Mc11OFq1_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LYUnG5Mc11OFq1_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LYUnG5Mc11OFq1.JPG"
+        },
+        "H0134-LFDykqo6g7Rblt": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LFDykqo6g7Rblt_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LFDykqo6g7Rblt_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LFDykqo6g7Rblt.JPG"
+        },
+        "H0134-LDhydlXAnlLUtx": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LDhydlXAnlLUtx_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LDhydlXAnlLUtx_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LDhydlXAnlLUtx.JPG"
+        }
+    }
+}

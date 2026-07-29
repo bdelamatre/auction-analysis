@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/donald-sutherland-eastport-maine-pottery_d0996dccb6",
+    "slug": "donald-sutherland-eastport-maine-pottery_d0996dccb6",
+    "lot_number": "3309",
+    "title": "DONALD SUTHERLAND (EASTPORT, MAINE POTTERY)",
+    "estimate_low": 600,
+    "estimate_high": 800,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LDfcFrbmeL1A7y_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LVB34ZuYXUGpQc_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LSoLcOPO4FeuAg_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LFirwNhoIleAt9": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LFirwNhoIleAt9_thz.JPG"
+        },
+        "H0134-LYVJ0Gf19VHePI": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LYVJ0Gf19VHePI_thz.JPG"
+        },
+        "H0134-LDfcFrbmeL1A7y": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LDfcFrbmeL1A7y_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LDfcFrbmeL1A7y_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LDfcFrbmeL1A7y.JPG"
+        },
+        "H0134-LVB34ZuYXUGpQc": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LVB34ZuYXUGpQc_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LVB34ZuYXUGpQc_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LVB34ZuYXUGpQc.JPG"
+        },
+        "H0134-LSoLcOPO4FeuAg": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LSoLcOPO4FeuAg_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LSoLcOPO4FeuAg_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LSoLcOPO4FeuAg.JPG"
+        }
+    }
+}

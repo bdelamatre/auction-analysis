@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/3-pc-vintage-painted-wicker-furniture-set_881a053e2e",
+    "slug": "3-pc-vintage-painted-wicker-furniture-set_881a053e2e",
+    "lot_number": "1113",
+    "title": "(3 PC) VINTAGE PAINTED WICKER FURNITURE SET",
+    "estimate_low": 400,
+    "estimate_high": 600,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LrKsXV15aFI2gB_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lgg1OYxQODHQas_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lvr01WR6htYLfW_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LinkQJavSGiQmm": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LinkQJavSGiQmm_thz.JPG"
+        },
+        "H0134-LRRbcE5hnRl7ud": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LRRbcE5hnRl7ud_thz.JPG"
+        },
+        "H0134-LrKsXV15aFI2gB": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LrKsXV15aFI2gB_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LrKsXV15aFI2gB_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LrKsXV15aFI2gB.JPG"
+        },
+        "H0134-Lgg1OYxQODHQas": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lgg1OYxQODHQas_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lgg1OYxQODHQas_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lgg1OYxQODHQas.JPG"
+        },
+        "H0134-Lvr01WR6htYLfW": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lvr01WR6htYLfW_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lvr01WR6htYLfW_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lvr01WR6htYLfW.JPG"
+        }
+    }
+}

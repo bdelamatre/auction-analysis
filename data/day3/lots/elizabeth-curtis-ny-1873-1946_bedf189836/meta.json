@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/elizabeth-curtis-ny-1873-1946_bedf189836",
+    "slug": "elizabeth-curtis-ny-1873-1946_bedf189836",
+    "lot_number": "3177",
+    "title": "ELIZABETH CURTIS (NY, 1873-1946)",
+    "estimate_low": 1000,
+    "estimate_high": 1500,
+    "current_bid": 500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LA2TAGFnFGj4z5_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LTQDZcJeIHSoRl_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LvzgGdDwTlunml_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LliQmyWqQVDn53_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LSgXRCBO8HAgdD": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LSgXRCBO8HAgdD_thz.JPG"
+        },
+        "H0134-L9Ct4gerviEWAS": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L9Ct4gerviEWAS_thz.JPG"
+        },
+        "H0134-LA2TAGFnFGj4z5": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LA2TAGFnFGj4z5_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LA2TAGFnFGj4z5_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LA2TAGFnFGj4z5.JPG"
+        },
+        "H0134-LTQDZcJeIHSoRl": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LTQDZcJeIHSoRl_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LTQDZcJeIHSoRl_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LTQDZcJeIHSoRl.JPG"
+        },
+        "H0134-LvzgGdDwTlunml": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LvzgGdDwTlunml_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LvzgGdDwTlunml_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LvzgGdDwTlunml.JPG"
+        },
+        "H0134-LliQmyWqQVDn53": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LliQmyWqQVDn53_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LliQmyWqQVDn53_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LliQmyWqQVDn53.JPG"
+        }
+    }
+}

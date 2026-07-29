@@ -1,0 +1,27 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/19th-c-free-blown-glass-garden-cloche_f3446bd8e8",
+    "slug": "19th-c-free-blown-glass-garden-cloche_f3446bd8e8",
+    "lot_number": "1016",
+    "title": "19TH C. FREE BLOWN GLASS GARDEN CLOCHE",
+    "estimate_low": 300,
+    "estimate_high": 500,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 1,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LTcvJMf9BAMcuA_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LUSH27uflNiA0T": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LUSH27uflNiA0T_thz.JPG"
+        },
+        "H0134-LgFOZDHGlsGkQL": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LgFOZDHGlsGkQL_thz.JPG"
+        },
+        "H0134-LTcvJMf9BAMcuA": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LTcvJMf9BAMcuA_original.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LTcvJMf9BAMcuA.JPG"
+        }
+    }
+}

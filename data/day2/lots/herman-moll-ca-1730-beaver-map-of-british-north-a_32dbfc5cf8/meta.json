@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/herman-moll-ca-1730-beaver-map-of-british-north-a_32dbfc5cf8",
+    "slug": "herman-moll-ca-1730-beaver-map-of-british-north-a_32dbfc5cf8",
+    "lot_number": "2220",
+    "title": "HERMAN MOLL CA 1730 \"BEAVER MAP\" OF BRITISH NORTH AMERICA,",
+    "estimate_low": 6000,
+    "estimate_high": 8000,
+    "current_bid": 3000,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LIZQpRILQC9WZz_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lup6sVrrPprs8Z_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L8P0vIVc9aXYXx_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L68S1kSLGpkCGz_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LyIvWvFbes6ssI": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LyIvWvFbes6ssI_thz.JPG"
+        },
+        "H0134-LKafGPbKw1xYg6": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LKafGPbKw1xYg6_thz.JPG"
+        },
+        "H0134-LIZQpRILQC9WZz": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LIZQpRILQC9WZz_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LIZQpRILQC9WZz_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LIZQpRILQC9WZz.JPG"
+        },
+        "H0134-Lup6sVrrPprs8Z": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lup6sVrrPprs8Z_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lup6sVrrPprs8Z_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lup6sVrrPprs8Z.JPG"
+        },
+        "H0134-L8P0vIVc9aXYXx": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L8P0vIVc9aXYXx_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L8P0vIVc9aXYXx_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L8P0vIVc9aXYXx.JPG"
+        },
+        "H0134-L68S1kSLGpkCGz": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L68S1kSLGpkCGz_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L68S1kSLGpkCGz_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L68S1kSLGpkCGz.JPG"
+        }
+    }
+}

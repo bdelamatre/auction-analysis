@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/montague-dawson-uk-1890-1973_5eda99e1b2",
+    "slug": "montague-dawson-uk-1890-1973_5eda99e1b2",
+    "lot_number": "2024",
+    "title": "MONTAGUE DAWSON (UK, 1890-1973)",
+    "estimate_low": 5000,
+    "estimate_high": 7000,
+    "current_bid": 2500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LwWRqUx2HAvnXT_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LFeiBb4PhVWJBE_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LNSKbvUfwx5H18_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LtEQyaoZHLasvV_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LY5I75anADy6fI": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LY5I75anADy6fI_thz.JPG"
+        },
+        "H0134-LHSHjmry8lKLoi": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LHSHjmry8lKLoi_thz.JPG"
+        },
+        "H0134-LwWRqUx2HAvnXT": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LwWRqUx2HAvnXT_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LwWRqUx2HAvnXT_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LwWRqUx2HAvnXT.JPG"
+        },
+        "H0134-LFeiBb4PhVWJBE": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LFeiBb4PhVWJBE_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LFeiBb4PhVWJBE_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LFeiBb4PhVWJBE.JPG"
+        },
+        "H0134-LNSKbvUfwx5H18": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LNSKbvUfwx5H18_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LNSKbvUfwx5H18_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LNSKbvUfwx5H18.JPG"
+        },
+        "H0134-LtEQyaoZHLasvV": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LtEQyaoZHLasvV_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LtEQyaoZHLasvV_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LtEQyaoZHLasvV.JPG"
+        }
+    }
+}

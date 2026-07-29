@@ -1,0 +1,64 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/tom-paiement-bath-maine_f5a25f0e19",
+    "slug": "tom-paiement-bath-maine_f5a25f0e19",
+    "lot_number": "3303",
+    "title": "TOM PAIEMENT (BATH, MAINE)",
+    "estimate_low": 2000,
+    "estimate_high": 2500,
+    "current_bid": 1000,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 7,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LQorG07hb0eYVf_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LUUaVScY4DVqHa_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LYemXaVVWCB7Sd_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L2NQfHiBoss3nR_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L7yuMv0PeYTYxH_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LFrTTbwLIG9Z0E_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LUAjCA2dsKMUnS_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LS33H6HsDWyH3W": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LS33H6HsDWyH3W_thz.JPG"
+        },
+        "H0134-LUTPazVh5tIvlv": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LUTPazVh5tIvlv_thz.JPG"
+        },
+        "H0134-LQorG07hb0eYVf": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LQorG07hb0eYVf_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LQorG07hb0eYVf_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LQorG07hb0eYVf.JPG"
+        },
+        "H0134-LUUaVScY4DVqHa": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LUUaVScY4DVqHa_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LUUaVScY4DVqHa_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LUUaVScY4DVqHa.JPG"
+        },
+        "H0134-LYemXaVVWCB7Sd": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LYemXaVVWCB7Sd_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LYemXaVVWCB7Sd_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LYemXaVVWCB7Sd.JPG"
+        },
+        "H0134-L2NQfHiBoss3nR": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L2NQfHiBoss3nR_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L2NQfHiBoss3nR_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L2NQfHiBoss3nR.JPG"
+        },
+        "H0134-L7yuMv0PeYTYxH": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L7yuMv0PeYTYxH_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L7yuMv0PeYTYxH_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L7yuMv0PeYTYxH.JPG"
+        },
+        "H0134-LFrTTbwLIG9Z0E": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LFrTTbwLIG9Z0E_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LFrTTbwLIG9Z0E_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LFrTTbwLIG9Z0E.JPG"
+        },
+        "H0134-LUAjCA2dsKMUnS": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LUAjCA2dsKMUnS_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LUAjCA2dsKMUnS_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LUAjCA2dsKMUnS.JPG"
+        }
+    }
+}

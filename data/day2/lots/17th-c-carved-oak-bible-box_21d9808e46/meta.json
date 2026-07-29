@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/17th-c-carved-oak-bible-box_21d9808e46",
+    "slug": "17th-c-carved-oak-bible-box_21d9808e46",
+    "lot_number": "2295",
+    "title": "17TH C. CARVED OAK BIBLE BOX",
+    "estimate_low": 500,
+    "estimate_high": 700,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L5bJ70nZN9X5OW_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lv7xaV251dEyX0_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LZJHmck64SHgvI_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LXcFeVud68d4tF_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LfHGQk9MAozvy4": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LfHGQk9MAozvy4_thz.JPG"
+        },
+        "H0134-L5nJsjFiVe3BA5": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L5nJsjFiVe3BA5_thz.JPG"
+        },
+        "H0134-L5bJ70nZN9X5OW": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L5bJ70nZN9X5OW_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L5bJ70nZN9X5OW_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L5bJ70nZN9X5OW.JPG"
+        },
+        "H0134-Lv7xaV251dEyX0": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lv7xaV251dEyX0_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lv7xaV251dEyX0_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lv7xaV251dEyX0.JPG"
+        },
+        "H0134-LZJHmck64SHgvI": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LZJHmck64SHgvI_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LZJHmck64SHgvI_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LZJHmck64SHgvI.JPG"
+        },
+        "H0134-LXcFeVud68d4tF": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LXcFeVud68d4tF_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LXcFeVud68d4tF_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LXcFeVud68d4tF.JPG"
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/19-19th-c-carpenters-tools-possible-shipboard-use_41c8cf9de8",
+    "slug": "19-19th-c-carpenters-tools-possible-shipboard-use_41c8cf9de8",
+    "lot_number": "2096",
+    "title": "(19) 19TH C. CARPENTER'S TOOLS, POSSIBLE SHIPBOARD USE",
+    "estimate_low": 300,
+    "estimate_high": 500,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LaH0n0GNumnJSw_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Ly4lB2AfXIBIuF_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LlE0eiUgYXCrPb": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LlE0eiUgYXCrPb_thz.JPG"
+        },
+        "H0134-LYqKtPemsKsolg": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LYqKtPemsKsolg_thz.JPG"
+        },
+        "H0134-LaH0n0GNumnJSw": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LaH0n0GNumnJSw_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LaH0n0GNumnJSw_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LaH0n0GNumnJSw.JPG"
+        },
+        "H0134-Ly4lB2AfXIBIuF": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Ly4lB2AfXIBIuF_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Ly4lB2AfXIBIuF_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Ly4lB2AfXIBIuF.JPG"
+        }
+    }
+}

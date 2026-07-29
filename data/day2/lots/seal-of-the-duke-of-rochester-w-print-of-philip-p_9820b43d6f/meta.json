@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/seal-of-the-duke-of-rochester-w-print-of-philip-p_9820b43d6f",
+    "slug": "seal-of-the-duke-of-rochester-w-print-of-philip-p_9820b43d6f",
+    "lot_number": "2275",
+    "title": "SEAL OF THE DUKE OF ROCHESTER W/ PRINT OF PHILIP POWEL",
+    "estimate_low": 200,
+    "estimate_high": 300,
+    "current_bid": 50,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LX6cQyqfJMZOjS_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LSrZNAKsnzXzLW_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LANC7sIuZbzhhW": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LANC7sIuZbzhhW_thz.JPG"
+        },
+        "H0134-LBrQBLyZtnLAw0": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LBrQBLyZtnLAw0_thz.JPG"
+        },
+        "H0134-LX6cQyqfJMZOjS": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LX6cQyqfJMZOjS_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LX6cQyqfJMZOjS_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LX6cQyqfJMZOjS.JPG"
+        },
+        "H0134-LSrZNAKsnzXzLW": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LSrZNAKsnzXzLW_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LSrZNAKsnzXzLW_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LSrZNAKsnzXzLW.JPG"
+        }
+    }
+}

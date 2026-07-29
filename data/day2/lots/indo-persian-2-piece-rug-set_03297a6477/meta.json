@@ -1,0 +1,27 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/indo-persian-2-piece-rug-set_03297a6477",
+    "slug": "indo-persian-2-piece-rug-set_03297a6477",
+    "lot_number": "2271",
+    "title": "INDO PERSIAN 2 PIECE RUG SET",
+    "estimate_low": 300,
+    "estimate_high": 500,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 1,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LMWYXkWGxpmRSG_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LNqTtoMkXHv0DC": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LNqTtoMkXHv0DC_thz.JPG"
+        },
+        "H0134-L6ohdGgUQSGCLR": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L6ohdGgUQSGCLR_thz.JPG"
+        },
+        "H0134-LMWYXkWGxpmRSG": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LMWYXkWGxpmRSG_original.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LMWYXkWGxpmRSG.JPG"
+        }
+    }
+}

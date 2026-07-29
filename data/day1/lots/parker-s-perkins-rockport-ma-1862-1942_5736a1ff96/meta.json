@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/parker-s-perkins-rockport-ma-1862-1942_5736a1ff96",
+    "slug": "parker-s-perkins-rockport-ma-1862-1942_5736a1ff96",
+    "lot_number": "1464",
+    "title": "PARKER S. PERKINS (ROCKPORT, MA, 1862-1942)",
+    "estimate_low": 400,
+    "estimate_high": 600,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L7yF3dCVYXCoKF_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LUUHoo7dY8hGYg_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LTqbhRDGGWE13P_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L8e5gHMN17bf4u_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LzQmQF5QpqrKi4": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LzQmQF5QpqrKi4_thz.JPG"
+        },
+        "H0134-Lzd7RWY9OZdlJg": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lzd7RWY9OZdlJg_thz.JPG"
+        },
+        "H0134-L7yF3dCVYXCoKF": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L7yF3dCVYXCoKF_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L7yF3dCVYXCoKF_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L7yF3dCVYXCoKF.JPG"
+        },
+        "H0134-LUUHoo7dY8hGYg": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LUUHoo7dY8hGYg_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LUUHoo7dY8hGYg_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LUUHoo7dY8hGYg.JPG"
+        },
+        "H0134-LTqbhRDGGWE13P": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LTqbhRDGGWE13P_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LTqbhRDGGWE13P_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LTqbhRDGGWE13P.JPG"
+        },
+        "H0134-L8e5gHMN17bf4u": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L8e5gHMN17bf4u_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L8e5gHMN17bf4u_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L8e5gHMN17bf4u.JPG"
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/dimitri-omersa-uk-leather-pig-ottoman_0935584022",
+    "slug": "dimitri-omersa-uk-leather-pig-ottoman_0935584022",
+    "lot_number": "3003",
+    "title": "DIMITRI OMERSA UK LEATHER PIG OTTOMAN",
+    "estimate_low": 700,
+    "estimate_high": 900,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LBCVw9jGcuaAmk_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Luoktc7v1md1QR_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Ldh48AbIs0V7vh_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LI9QNeI1F6GUMx": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LI9QNeI1F6GUMx_thz.JPG"
+        },
+        "H0134-LiYjVyZEMBH5Fp": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LiYjVyZEMBH5Fp_thz.JPG"
+        },
+        "H0134-LBCVw9jGcuaAmk": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LBCVw9jGcuaAmk_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LBCVw9jGcuaAmk_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LBCVw9jGcuaAmk.JPG"
+        },
+        "H0134-Luoktc7v1md1QR": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Luoktc7v1md1QR_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Luoktc7v1md1QR_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Luoktc7v1md1QR.JPG"
+        },
+        "H0134-Ldh48AbIs0V7vh": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Ldh48AbIs0V7vh_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Ldh48AbIs0V7vh_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Ldh48AbIs0V7vh.JPG"
+        }
+    }
+}

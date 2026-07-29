@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/walt-francis-walter-kuhn-ny-ca-1877-1949_9d01a11bc6",
+    "slug": "walt-francis-walter-kuhn-ny-ca-1877-1949_9d01a11bc6",
+    "lot_number": "1455",
+    "title": "WALT FRANCIS (WALTER) KUHN (NY/CA, 1877-1949)",
+    "estimate_low": 400,
+    "estimate_high": 500,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LkPfycR108TG2F_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LUBbQPvvNFdIt2_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LFtSwk7MTvF8eU_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LBqV3xDaDOTezd_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-L9Fgd7vx6uj7f2": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L9Fgd7vx6uj7f2_thz.JPG"
+        },
+        "H0134-L6uRgAuHogZnMR": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L6uRgAuHogZnMR_thz.JPG"
+        },
+        "H0134-LkPfycR108TG2F": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LkPfycR108TG2F_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LkPfycR108TG2F_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LkPfycR108TG2F.JPG"
+        },
+        "H0134-LUBbQPvvNFdIt2": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LUBbQPvvNFdIt2_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LUBbQPvvNFdIt2_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LUBbQPvvNFdIt2.JPG"
+        },
+        "H0134-LFtSwk7MTvF8eU": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LFtSwk7MTvF8eU_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LFtSwk7MTvF8eU_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LFtSwk7MTvF8eU.JPG"
+        },
+        "H0134-LBqV3xDaDOTezd": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LBqV3xDaDOTezd_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LBqV3xDaDOTezd_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LBqV3xDaDOTezd.JPG"
+        }
+    }
+}

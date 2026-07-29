@@ -1,0 +1,27 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/pr-italian-gilded-wood-pricket-candlesticks_504ba52daa",
+    "slug": "pr-italian-gilded-wood-pricket-candlesticks_504ba52daa",
+    "lot_number": "2387",
+    "title": "PR ITALIAN GILDED WOOD PRICKET CANDLESTICKS",
+    "estimate_low": 600,
+    "estimate_high": 800,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 1,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L1iIEuVqLzlr4p_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-L87XnRpgcUB8uF": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L87XnRpgcUB8uF_thz.JPG"
+        },
+        "H0134-LbtuFOYanj1o4N": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LbtuFOYanj1o4N_thz.JPG"
+        },
+        "H0134-L1iIEuVqLzlr4p": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L1iIEuVqLzlr4p_original.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L1iIEuVqLzlr4p.JPG"
+        }
+    }
+}

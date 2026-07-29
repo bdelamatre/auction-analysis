@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/avinash-chandra-uk-india-1931-1991_3cf0e3970f",
+    "slug": "avinash-chandra-uk-india-1931-1991_3cf0e3970f",
+    "lot_number": "3267",
+    "title": "AVINASH CHANDRA (UK/INDIA, 1931-1991)",
+    "estimate_low": 3000,
+    "estimate_high": 5000,
+    "current_bid": 1500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LHxN9FVZMXEQz5_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LkYVwkHy7eUvBK_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LqVclZjxJy6Ixj_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lx4nhGevv0R4yp_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LrNVeVX0Ol3nsB": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LrNVeVX0Ol3nsB_thz.JPG"
+        },
+        "H0134-LNdbOJ1RGVuGnm": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LNdbOJ1RGVuGnm_thz.JPG"
+        },
+        "H0134-LHxN9FVZMXEQz5": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LHxN9FVZMXEQz5_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LHxN9FVZMXEQz5_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LHxN9FVZMXEQz5.JPG"
+        },
+        "H0134-LkYVwkHy7eUvBK": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LkYVwkHy7eUvBK_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LkYVwkHy7eUvBK_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LkYVwkHy7eUvBK.JPG"
+        },
+        "H0134-LqVclZjxJy6Ixj": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LqVclZjxJy6Ixj_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LqVclZjxJy6Ixj_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LqVclZjxJy6Ixj.JPG"
+        },
+        "H0134-Lx4nhGevv0R4yp": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lx4nhGevv0R4yp_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lx4nhGevv0R4yp_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lx4nhGevv0R4yp.JPG"
+        }
+    }
+}

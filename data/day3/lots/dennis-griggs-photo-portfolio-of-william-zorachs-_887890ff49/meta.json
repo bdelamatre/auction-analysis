@@ -1,0 +1,52 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/dennis-griggs-photo-portfolio-of-william-zorachs-_887890ff49",
+    "slug": "dennis-griggs-photo-portfolio-of-william-zorachs-_887890ff49",
+    "lot_number": "3485",
+    "title": "DENNIS GRIGGS PHOTO PORTFOLIO OF WILLIAM ZORACH'S MAINE STUDIO",
+    "estimate_low": 2500,
+    "estimate_high": 5000,
+    "current_bid": 1200,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 5,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LwOK3l6MWMMSAz_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Ly6xLOqs2XaWpj_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LtFGbNUiAeRFse_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L3ZrCSj1Yd39wr_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LaFLWcxwTqFT3a_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LhMvtfSy3OaZO0": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LhMvtfSy3OaZO0_thz.JPG"
+        },
+        "H0134-LQYf932CbmIQbp": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LQYf932CbmIQbp_thz.JPG"
+        },
+        "H0134-LwOK3l6MWMMSAz": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LwOK3l6MWMMSAz_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LwOK3l6MWMMSAz_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LwOK3l6MWMMSAz.JPG"
+        },
+        "H0134-Ly6xLOqs2XaWpj": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Ly6xLOqs2XaWpj_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Ly6xLOqs2XaWpj_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Ly6xLOqs2XaWpj.JPG"
+        },
+        "H0134-LtFGbNUiAeRFse": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LtFGbNUiAeRFse_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LtFGbNUiAeRFse_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LtFGbNUiAeRFse.JPG"
+        },
+        "H0134-L3ZrCSj1Yd39wr": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L3ZrCSj1Yd39wr_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L3ZrCSj1Yd39wr_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L3ZrCSj1Yd39wr.JPG"
+        },
+        "H0134-LaFLWcxwTqFT3a": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LaFLWcxwTqFT3a_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LaFLWcxwTqFT3a_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LaFLWcxwTqFT3a.JPG"
+        }
+    }
+}

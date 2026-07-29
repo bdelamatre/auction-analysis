@@ -1,0 +1,52 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/kris-johnson-contemporary-maine_ba689c847b",
+    "slug": "kris-johnson-contemporary-maine_ba689c847b",
+    "lot_number": "3389",
+    "title": "KRIS JOHNSON (CONTEMPORARY MAINE)",
+    "estimate_low": 300,
+    "estimate_high": 400,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 5,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LzlXpm49PajI32_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LPUHXFQhjxHWrS_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L3AsPz29QjGsbS_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LbABxpaopS2yji_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LbNwbXRQS03iuL_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LMcd5s2f1e7Uwr": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LMcd5s2f1e7Uwr_thz.JPG"
+        },
+        "H0134-LAREKQKVK4Klrm": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LAREKQKVK4Klrm_thz.JPG"
+        },
+        "H0134-LzlXpm49PajI32": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LzlXpm49PajI32_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LzlXpm49PajI32_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LzlXpm49PajI32.JPG"
+        },
+        "H0134-LPUHXFQhjxHWrS": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LPUHXFQhjxHWrS_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LPUHXFQhjxHWrS_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LPUHXFQhjxHWrS.JPG"
+        },
+        "H0134-L3AsPz29QjGsbS": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L3AsPz29QjGsbS_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L3AsPz29QjGsbS_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L3AsPz29QjGsbS.JPG"
+        },
+        "H0134-LbABxpaopS2yji": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LbABxpaopS2yji_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LbABxpaopS2yji_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LbABxpaopS2yji.JPG"
+        },
+        "H0134-LbNwbXRQS03iuL": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LbNwbXRQS03iuL_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LbNwbXRQS03iuL_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LbNwbXRQS03iuL.JPG"
+        }
+    }
+}

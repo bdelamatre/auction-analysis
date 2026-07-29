@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/fabric-print-of-william-penn-framed_345907a638",
+    "slug": "fabric-print-of-william-penn-framed_345907a638",
+    "lot_number": "2164",
+    "title": "FABRIC PRINT OF WILLIAM PENN, FRAMED",
+    "estimate_low": 600,
+    "estimate_high": 800,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LuvI421dXOY3ol_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LplNVLKv6QpU0U_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LYoHOPsGPde87o": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LYoHOPsGPde87o_thz.JPG"
+        },
+        "H0134-L8GI1qHa9budPh": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L8GI1qHa9budPh_thz.JPG"
+        },
+        "H0134-LuvI421dXOY3ol": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LuvI421dXOY3ol_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LuvI421dXOY3ol_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LuvI421dXOY3ol.JPG"
+        },
+        "H0134-LplNVLKv6QpU0U": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LplNVLKv6QpU0U_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LplNVLKv6QpU0U_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LplNVLKv6QpU0U.JPG"
+        }
+    }
+}

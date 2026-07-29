@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/19th-c-mexican-santos_65dc589a36",
+    "slug": "19th-c-mexican-santos_65dc589a36",
+    "lot_number": "1187",
+    "title": "19TH C. MEXICAN SANTOS",
+    "estimate_low": 300,
+    "estimate_high": 500,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LVVPomxuEzY6Fu_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LQ3M6x6mtf2Or0_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LSBWE6jEFVlX9d_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LeU99UnukHU9hI": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LeU99UnukHU9hI_thz.JPG"
+        },
+        "H0134-Lckyqhz57by4Tj": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lckyqhz57by4Tj_thz.JPG"
+        },
+        "H0134-LVVPomxuEzY6Fu": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LVVPomxuEzY6Fu_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LVVPomxuEzY6Fu_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LVVPomxuEzY6Fu.JPG"
+        },
+        "H0134-LQ3M6x6mtf2Or0": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LQ3M6x6mtf2Or0_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LQ3M6x6mtf2Or0_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LQ3M6x6mtf2Or0.JPG"
+        },
+        "H0134-LSBWE6jEFVlX9d": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LSBWE6jEFVlX9d_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LSBWE6jEFVlX9d_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LSBWE6jEFVlX9d.JPG"
+        }
+    }
+}

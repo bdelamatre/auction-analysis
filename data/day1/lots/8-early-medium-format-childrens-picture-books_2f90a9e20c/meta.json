@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/8-early-medium-format-childrens-picture-books_2f90a9e20c",
+    "slug": "8-early-medium-format-childrens-picture-books_2f90a9e20c",
+    "lot_number": "1179",
+    "title": "(8) EARLY MEDIUM FORMAT CHILDREN'S PICTURE BOOKS",
+    "estimate_low": 250,
+    "estimate_high": 350,
+    "current_bid": 50,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LK10v8B7HYBxQp_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L4feDuEeWgfVT1_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L6VdvbV1LP9eXD_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LbWyI7To4UuSmN": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LbWyI7To4UuSmN_thz.JPG"
+        },
+        "H0134-LQXPshR92i3vyH": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LQXPshR92i3vyH_thz.JPG"
+        },
+        "H0134-LK10v8B7HYBxQp": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LK10v8B7HYBxQp_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LK10v8B7HYBxQp_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LK10v8B7HYBxQp.JPG"
+        },
+        "H0134-L4feDuEeWgfVT1": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L4feDuEeWgfVT1_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L4feDuEeWgfVT1_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L4feDuEeWgfVT1.JPG"
+        },
+        "H0134-L6VdvbV1LP9eXD": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L6VdvbV1LP9eXD_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L6VdvbV1LP9eXD_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L6VdvbV1LP9eXD.JPG"
+        }
+    }
+}

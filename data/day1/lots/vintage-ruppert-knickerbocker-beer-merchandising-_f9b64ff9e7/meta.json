@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/vintage-ruppert-knickerbocker-beer-merchandising-_f9b64ff9e7",
+    "slug": "vintage-ruppert-knickerbocker-beer-merchandising-_f9b64ff9e7",
+    "lot_number": "1123",
+    "title": "VINTAGE RUPPERT KNICKERBOCKER BEER MERCHANDISING SIGN",
+    "estimate_low": 600,
+    "estimate_high": 800,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lxs4jUID6SL6vq_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LlENtjU5DTjPZV_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LcMSGGA4a8zrxW_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LiHhYgLV8avz6c_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LG9Wi0v2Icovm5": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LG9Wi0v2Icovm5_thz.JPG"
+        },
+        "H0134-L4frMrWke41QNB": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L4frMrWke41QNB_thz.JPG"
+        },
+        "H0134-Lxs4jUID6SL6vq": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lxs4jUID6SL6vq_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lxs4jUID6SL6vq_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lxs4jUID6SL6vq.JPG"
+        },
+        "H0134-LlENtjU5DTjPZV": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LlENtjU5DTjPZV_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LlENtjU5DTjPZV_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LlENtjU5DTjPZV.JPG"
+        },
+        "H0134-LcMSGGA4a8zrxW": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LcMSGGA4a8zrxW_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LcMSGGA4a8zrxW_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LcMSGGA4a8zrxW.JPG"
+        },
+        "H0134-LiHhYgLV8avz6c": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LiHhYgLV8avz6c_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LiHhYgLV8avz6c_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LiHhYgLV8avz6c.JPG"
+        }
+    }
+}

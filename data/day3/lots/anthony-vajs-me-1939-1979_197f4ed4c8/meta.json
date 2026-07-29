@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/anthony-vajs-me-1939-1979_197f4ed4c8",
+    "slug": "anthony-vajs-me-1939-1979_197f4ed4c8",
+    "lot_number": "3456",
+    "title": "ANTHONY VAJS (ME, 1939-1979)",
+    "estimate_low": 400,
+    "estimate_high": 600,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lhnsn7UVVnPTxC_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LaZClOO0Xd4yTh_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L8kOxVO4vDVf1w_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LbdQaENyZKJJeP_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LXvLeeuxOjIjhE": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LXvLeeuxOjIjhE_thz.JPG"
+        },
+        "H0134-LyFgOXcugFZtcc": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LyFgOXcugFZtcc_thz.JPG"
+        },
+        "H0134-Lhnsn7UVVnPTxC": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lhnsn7UVVnPTxC_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lhnsn7UVVnPTxC_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lhnsn7UVVnPTxC.JPG"
+        },
+        "H0134-LaZClOO0Xd4yTh": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LaZClOO0Xd4yTh_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LaZClOO0Xd4yTh_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LaZClOO0Xd4yTh.JPG"
+        },
+        "H0134-L8kOxVO4vDVf1w": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L8kOxVO4vDVf1w_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L8kOxVO4vDVf1w_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L8kOxVO4vDVf1w.JPG"
+        },
+        "H0134-LbdQaENyZKJJeP": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LbdQaENyZKJJeP_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LbdQaENyZKJJeP_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LbdQaENyZKJJeP.JPG"
+        }
+    }
+}

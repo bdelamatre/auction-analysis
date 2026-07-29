@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/portrait-of-a-wealthy-federal-period-american-gent_bb019987be",
+    "slug": "portrait-of-a-wealthy-federal-period-american-gent_bb019987be",
+    "lot_number": "2253",
+    "title": "PORTRAIT OF A WEALTHY FEDERAL PERIOD AMERICAN GENT",
+    "estimate_low": 1000,
+    "estimate_high": 1500,
+    "current_bid": 500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lrw5Qpi36uHbOu_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LJlioOigpNbYox_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LnKWKoS9cJ6ZJU_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LstAryAXYzCobY": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LstAryAXYzCobY_thz.JPG"
+        },
+        "H0134-LqaXkPaqV44Sm6": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LqaXkPaqV44Sm6_thz.JPG"
+        },
+        "H0134-Lrw5Qpi36uHbOu": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lrw5Qpi36uHbOu_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lrw5Qpi36uHbOu_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lrw5Qpi36uHbOu.JPG"
+        },
+        "H0134-LJlioOigpNbYox": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LJlioOigpNbYox_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LJlioOigpNbYox_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LJlioOigpNbYox.JPG"
+        },
+        "H0134-LnKWKoS9cJ6ZJU": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LnKWKoS9cJ6ZJU_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LnKWKoS9cJ6ZJU_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LnKWKoS9cJ6ZJU.JPG"
+        }
+    }
+}

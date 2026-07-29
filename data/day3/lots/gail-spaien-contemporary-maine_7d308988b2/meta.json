@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/gail-spaien-contemporary-maine_7d308988b2",
+    "slug": "gail-spaien-contemporary-maine_7d308988b2",
+    "lot_number": "3442",
+    "title": "GAIL SPAIEN (CONTEMPORARY MAINE)",
+    "estimate_low": 300,
+    "estimate_high": 500,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LFetnhJdgimvHe_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LuXAGEfSuCAFHZ_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LbVSQrKAUNLTOJ": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LbVSQrKAUNLTOJ_thz.JPG"
+        },
+        "H0134-LgrjgHNjAkMTiG": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LgrjgHNjAkMTiG_thz.JPG"
+        },
+        "H0134-LFetnhJdgimvHe": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LFetnhJdgimvHe_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LFetnhJdgimvHe_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LFetnhJdgimvHe.JPG"
+        },
+        "H0134-LuXAGEfSuCAFHZ": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LuXAGEfSuCAFHZ_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LuXAGEfSuCAFHZ_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LuXAGEfSuCAFHZ.JPG"
+        }
+    }
+}

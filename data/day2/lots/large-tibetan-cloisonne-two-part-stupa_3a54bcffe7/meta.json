@@ -1,0 +1,43 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/large-tibetan-cloisonne-two-part-stupa_3a54bcffe7",
+    "slug": "large-tibetan-cloisonne-two-part-stupa_3a54bcffe7",
+    "lot_number": "2509",
+    "title": "LARGE TIBETAN CLOISONNE TWO-PART STUPA",
+    "estimate_low": 3500,
+    "estimate_high": 4500,
+    "current_bid": 1700,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Ln1dY1UXxFQdS2_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lu6VppQH4Czjsk_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LCp4a87IcP9eZ7_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lf69EnlO9q7PvB_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LvQRveAYXUr376": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LvQRveAYXUr376_thz.JPG"
+        },
+        "H0134-Ln1dY1UXxFQdS2": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Ln1dY1UXxFQdS2_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Ln1dY1UXxFQdS2_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Ln1dY1UXxFQdS2.JPG"
+        },
+        "H0134-Lu6VppQH4Czjsk": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lu6VppQH4Czjsk_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lu6VppQH4Czjsk_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lu6VppQH4Czjsk.JPG"
+        },
+        "H0134-LCp4a87IcP9eZ7": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LCp4a87IcP9eZ7_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LCp4a87IcP9eZ7_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LCp4a87IcP9eZ7.JPG"
+        },
+        "H0134-Lf69EnlO9q7PvB": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lf69EnlO9q7PvB_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lf69EnlO9q7PvB_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lf69EnlO9q7PvB.JPG"
+        }
+    }
+}

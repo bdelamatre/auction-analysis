@@ -1,0 +1,52 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/sally-caldwell-fisher-me-mi-1951_a99b6a2d7f",
+    "slug": "sally-caldwell-fisher-me-mi-1951_a99b6a2d7f",
+    "lot_number": "3375",
+    "title": "SALLY CALDWELL FISHER (ME/MI, 1951 - )",
+    "estimate_low": 1500,
+    "estimate_high": 2500,
+    "current_bid": 750,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 5,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LrmsYXydpEQ5Sc_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L1IF9k1oB3fBQS_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LYUqGu5onlS0LD_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LOLhmg1GDqVSfk_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L3w4f8pZPgEPHO_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LznW9vW1no79Nf": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LznW9vW1no79Nf_thz.JPG"
+        },
+        "H0134-LNWGckr4UMd0yy": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LNWGckr4UMd0yy_thz.JPG"
+        },
+        "H0134-LrmsYXydpEQ5Sc": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LrmsYXydpEQ5Sc_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LrmsYXydpEQ5Sc_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LrmsYXydpEQ5Sc.JPG"
+        },
+        "H0134-L1IF9k1oB3fBQS": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L1IF9k1oB3fBQS_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L1IF9k1oB3fBQS_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L1IF9k1oB3fBQS.JPG"
+        },
+        "H0134-LYUqGu5onlS0LD": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LYUqGu5onlS0LD_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LYUqGu5onlS0LD_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LYUqGu5onlS0LD.JPG"
+        },
+        "H0134-LOLhmg1GDqVSfk": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LOLhmg1GDqVSfk_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LOLhmg1GDqVSfk_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LOLhmg1GDqVSfk.JPG"
+        },
+        "H0134-L3w4f8pZPgEPHO": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L3w4f8pZPgEPHO_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L3w4f8pZPgEPHO_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L3w4f8pZPgEPHO.JPG"
+        }
+    }
+}

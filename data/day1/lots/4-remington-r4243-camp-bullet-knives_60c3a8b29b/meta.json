@@ -1,0 +1,27 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/4-remington-r4243-camp-bullet-knives_60c3a8b29b",
+    "slug": "4-remington-r4243-camp-bullet-knives_60c3a8b29b",
+    "lot_number": "1252",
+    "title": "(4) REMINGTON R4243 \"CAMP\" BULLET KNIVES",
+    "estimate_low": 200,
+    "estimate_high": 400,
+    "current_bid": 125,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 1,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L4JXWVld2IX6kv_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LrMEycwJonTXZh": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LrMEycwJonTXZh_thz.JPG"
+        },
+        "H0134-Ln5C0kzFcMiDB2": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Ln5C0kzFcMiDB2_thz.JPG"
+        },
+        "H0134-L4JXWVld2IX6kv": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L4JXWVld2IX6kv_original.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L4JXWVld2IX6kv.JPG"
+        }
+    }
+}

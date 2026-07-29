@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/federal-cherry-wood-cookie-corner-stand_925e73a963",
+    "slug": "federal-cherry-wood-cookie-corner-stand_925e73a963",
+    "lot_number": "2222",
+    "title": "FEDERAL CHERRY WOOD COOKIE CORNER STAND",
+    "estimate_low": 600,
+    "estimate_high": 800,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LmUpQaEv7GmMk5_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LKHq5Vr8KcTlj5_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lp7KZ1gKOlHCbS_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LKafGPbKw1xYg6": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LKafGPbKw1xYg6_thz.JPG"
+        },
+        "H0134-L3toJt4joea2RU": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L3toJt4joea2RU_thz.JPG"
+        },
+        "H0134-LmUpQaEv7GmMk5": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LmUpQaEv7GmMk5_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LmUpQaEv7GmMk5_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LmUpQaEv7GmMk5.JPG"
+        },
+        "H0134-LKHq5Vr8KcTlj5": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LKHq5Vr8KcTlj5_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LKHq5Vr8KcTlj5_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LKHq5Vr8KcTlj5.JPG"
+        },
+        "H0134-Lp7KZ1gKOlHCbS": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lp7KZ1gKOlHCbS_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lp7KZ1gKOlHCbS_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lp7KZ1gKOlHCbS.JPG"
+        }
+    }
+}

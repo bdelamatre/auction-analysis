@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/fredrik-michael-wood-ca-1944_b0e6a4118d",
+    "slug": "fredrik-michael-wood-ca-1944_b0e6a4118d",
+    "lot_number": "1087",
+    "title": "FREDRIK MICHAEL WOOD (CA, 1944 - )",
+    "estimate_low": 2000,
+    "estimate_high": 3000,
+    "current_bid": 1000,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LfyLWZ1TLC3i4p_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LVx7yZWVB3qNxG_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L1rean8nSKeB7V_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LWfSnjDahihnj1_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LD5FfcUW8An6En": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LD5FfcUW8An6En_thz.JPG"
+        },
+        "H0134-LxLyjsFdhUkgZM": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LxLyjsFdhUkgZM_thz.JPG"
+        },
+        "H0134-LfyLWZ1TLC3i4p": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LfyLWZ1TLC3i4p_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LfyLWZ1TLC3i4p_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LfyLWZ1TLC3i4p.JPG"
+        },
+        "H0134-LVx7yZWVB3qNxG": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LVx7yZWVB3qNxG_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LVx7yZWVB3qNxG_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LVx7yZWVB3qNxG.JPG"
+        },
+        "H0134-L1rean8nSKeB7V": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L1rean8nSKeB7V_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L1rean8nSKeB7V_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L1rean8nSKeB7V.JPG"
+        },
+        "H0134-LWfSnjDahihnj1": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LWfSnjDahihnj1_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LWfSnjDahihnj1_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LWfSnjDahihnj1.JPG"
+        }
+    }
+}

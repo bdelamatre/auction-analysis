@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/ray-corbone-stone-and-wood-table_28b8561f9f",
+    "slug": "ray-corbone-stone-and-wood-table_28b8561f9f",
+    "lot_number": "3304",
+    "title": "RAY CORBONE STONE AND WOOD TABLE",
+    "estimate_low": 700,
+    "estimate_high": 1000,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LUTPazVh5tIvlv_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Ly1U6M2UrWXgjw_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LQorG07hb0eYVf": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LQorG07hb0eYVf_thz.JPG"
+        },
+        "H0134-LDX0khJx4htg3v": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LDX0khJx4htg3v_thz.JPG"
+        },
+        "H0134-LUTPazVh5tIvlv": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LUTPazVh5tIvlv_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LUTPazVh5tIvlv_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LUTPazVh5tIvlv.JPG"
+        },
+        "H0134-Ly1U6M2UrWXgjw": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Ly1U6M2UrWXgjw_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Ly1U6M2UrWXgjw_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Ly1U6M2UrWXgjw.JPG"
+        }
+    }
+}

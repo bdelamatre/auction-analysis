@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/rebecca-goodale-maine-american-b-1965-bear-2003_d268c74116",
+    "slug": "rebecca-goodale-maine-american-b-1965-bear-2003_d268c74116",
+    "lot_number": "1462",
+    "title": "REBECCA GOODALE (MAINE/AMERICAN, B. 1965) \"BEAR\", 2003",
+    "estimate_low": 300,
+    "estimate_high": 400,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LjzNErBLFN4VxR_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LjpTr1VUHRCk8x_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LtPtY27qnPVuvo_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-Lbdjvqv71S9zFZ": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lbdjvqv71S9zFZ_thz.JPG"
+        },
+        "H0134-LzQmQF5QpqrKi4": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LzQmQF5QpqrKi4_thz.JPG"
+        },
+        "H0134-LjzNErBLFN4VxR": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LjzNErBLFN4VxR_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LjzNErBLFN4VxR_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LjzNErBLFN4VxR.JPG"
+        },
+        "H0134-LjpTr1VUHRCk8x": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LjpTr1VUHRCk8x_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LjpTr1VUHRCk8x_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LjpTr1VUHRCk8x.JPG"
+        },
+        "H0134-LtPtY27qnPVuvo": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LtPtY27qnPVuvo_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LtPtY27qnPVuvo_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LtPtY27qnPVuvo.JPG"
+        }
+    }
+}

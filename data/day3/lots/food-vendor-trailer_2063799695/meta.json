@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/food-vendor-trailer_2063799695",
+    "slug": "food-vendor-trailer_2063799695",
+    "lot_number": "3032",
+    "title": "FOOD VENDOR TRAILER",
+    "estimate_low": 5000,
+    "estimate_high": 10000,
+    "current_bid": 2500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LODCq3uao80oSj_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L6QZwxVV12G8Tr_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LCNEVqYjS2rw0A_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LjoMiRR8Et56WF_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LFYOOtZD44jYS8": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LFYOOtZD44jYS8_thz.JPG"
+        },
+        "H0134-LVFbgi0mlzgj72": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LVFbgi0mlzgj72_thz.JPG"
+        },
+        "H0134-LODCq3uao80oSj": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LODCq3uao80oSj_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LODCq3uao80oSj_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LODCq3uao80oSj.JPG"
+        },
+        "H0134-L6QZwxVV12G8Tr": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L6QZwxVV12G8Tr_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L6QZwxVV12G8Tr_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L6QZwxVV12G8Tr.JPG"
+        },
+        "H0134-LCNEVqYjS2rw0A": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LCNEVqYjS2rw0A_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LCNEVqYjS2rw0A_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LCNEVqYjS2rw0A.JPG"
+        },
+        "H0134-LjoMiRR8Et56WF": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LjoMiRR8Et56WF_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LjoMiRR8Et56WF_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LjoMiRR8Et56WF.JPG"
+        }
+    }
+}

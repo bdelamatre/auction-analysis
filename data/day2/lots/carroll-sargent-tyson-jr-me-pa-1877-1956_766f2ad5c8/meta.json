@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/carroll-sargent-tyson-jr-me-pa-1877-1956_766f2ad5c8",
+    "slug": "carroll-sargent-tyson-jr-me-pa-1877-1956_766f2ad5c8",
+    "lot_number": "2190",
+    "title": "CARROLL SARGENT TYSON JR. (ME/PA, 1877-1956)",
+    "estimate_low": 3000,
+    "estimate_high": 5000,
+    "current_bid": 1500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Ldr4zKjE3kNBjj_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LnsjaW7LC2oGmO_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LPi9GGZCHcj5PO": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LPi9GGZCHcj5PO_thz.JPG"
+        },
+        "H0134-LkaUBZMX5qMObs": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LkaUBZMX5qMObs_thz.JPG"
+        },
+        "H0134-Ldr4zKjE3kNBjj": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Ldr4zKjE3kNBjj_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Ldr4zKjE3kNBjj_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Ldr4zKjE3kNBjj.JPG"
+        },
+        "H0134-LnsjaW7LC2oGmO": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LnsjaW7LC2oGmO_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LnsjaW7LC2oGmO_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LnsjaW7LC2oGmO.JPG"
+        }
+    }
+}

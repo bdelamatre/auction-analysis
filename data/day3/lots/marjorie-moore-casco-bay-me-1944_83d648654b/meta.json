@@ -1,0 +1,27 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/marjorie-moore-casco-bay-me-1944_83d648654b",
+    "slug": "marjorie-moore-casco-bay-me-1944_83d648654b",
+    "lot_number": "3329",
+    "title": "MARJORIE MOORE (CASCO BAY, ME, 1944 - )",
+    "estimate_low": 700,
+    "estimate_high": 900,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 1,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LiCrYT9JIDKBac_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LFrGOjS6hSRT3E": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LFrGOjS6hSRT3E_thz.JPG"
+        },
+        "H0134-L8iuWIt2dDd8Bq": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L8iuWIt2dDd8Bq_thz.JPG"
+        },
+        "H0134-LiCrYT9JIDKBac": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LiCrYT9JIDKBac_original.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LiCrYT9JIDKBac.JPG"
+        }
+    }
+}

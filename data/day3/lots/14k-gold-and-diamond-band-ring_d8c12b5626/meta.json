@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/14k-gold-and-diamond-band-ring_d8c12b5626",
+    "slug": "14k-gold-and-diamond-band-ring_d8c12b5626",
+    "lot_number": "3093",
+    "title": "14K GOLD AND DIAMOND BAND RING",
+    "estimate_low": 1200,
+    "estimate_high": 1800,
+    "current_bid": 600,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LDhlQ7wfxn1UKA_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LpknrHxli41tXo_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LFbyIk1lGnrqQi": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LFbyIk1lGnrqQi_thz.JPG"
+        },
+        "H0134-LQbHKydzJ8T5yQ": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LQbHKydzJ8T5yQ_thz.JPG"
+        },
+        "H0134-LDhlQ7wfxn1UKA": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LDhlQ7wfxn1UKA_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LDhlQ7wfxn1UKA_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LDhlQ7wfxn1UKA.JPG"
+        },
+        "H0134-LpknrHxli41tXo": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LpknrHxli41tXo_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LpknrHxli41tXo_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LpknrHxli41tXo.JPG"
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/early-19th-c-portrait-of-a-new-england-gentleman_c346879c14",
+    "slug": "early-19th-c-portrait-of-a-new-england-gentleman_c346879c14",
+    "lot_number": "2063",
+    "title": "EARLY 19TH C. PORTRAIT OF A NEW ENGLAND GENTLEMAN",
+    "estimate_low": 800,
+    "estimate_high": 1000,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LdFIDZzhLmuwK5_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L3mBIcZIm4QCQX_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LjY06LFYJLRMue": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LjY06LFYJLRMue_thz.JPG"
+        },
+        "H0134-Ln3E9qflVXlCNr": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Ln3E9qflVXlCNr_thz.JPG"
+        },
+        "H0134-LdFIDZzhLmuwK5": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LdFIDZzhLmuwK5_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LdFIDZzhLmuwK5_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LdFIDZzhLmuwK5.JPG"
+        },
+        "H0134-L3mBIcZIm4QCQX": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L3mBIcZIm4QCQX_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L3mBIcZIm4QCQX_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L3mBIcZIm4QCQX.JPG"
+        }
+    }
+}

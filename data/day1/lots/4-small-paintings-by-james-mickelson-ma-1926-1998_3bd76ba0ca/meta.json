@@ -1,0 +1,58 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/4-small-paintings-by-james-mickelson-ma-1926-1998_3bd76ba0ca",
+    "slug": "4-small-paintings-by-james-mickelson-ma-1926-1998_3bd76ba0ca",
+    "lot_number": "1406",
+    "title": "(4) SMALL PAINTINGS BY JAMES MICKELSON (MA, 1926-1998)",
+    "estimate_low": 500,
+    "estimate_high": 700,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 6,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L6ftvftLh2ddrS_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L3uY82Q9m0pzBJ_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lb52tOFMQYRVG0_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LStasRKyehMfvZ_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LJBKKyaaE0HUZm_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LF4GSopvcWfBaj_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-L2YuZv9qlhQpEb": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L2YuZv9qlhQpEb_thz.JPG"
+        },
+        "H0134-LbGI8HWM0OIBBC": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LbGI8HWM0OIBBC_thz.JPG"
+        },
+        "H0134-L6ftvftLh2ddrS": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L6ftvftLh2ddrS_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L6ftvftLh2ddrS_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L6ftvftLh2ddrS.JPG"
+        },
+        "H0134-L3uY82Q9m0pzBJ": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L3uY82Q9m0pzBJ_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L3uY82Q9m0pzBJ_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L3uY82Q9m0pzBJ.JPG"
+        },
+        "H0134-Lb52tOFMQYRVG0": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lb52tOFMQYRVG0_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lb52tOFMQYRVG0_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lb52tOFMQYRVG0.JPG"
+        },
+        "H0134-LStasRKyehMfvZ": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LStasRKyehMfvZ_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LStasRKyehMfvZ_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LStasRKyehMfvZ.JPG"
+        },
+        "H0134-LJBKKyaaE0HUZm": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LJBKKyaaE0HUZm_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LJBKKyaaE0HUZm_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LJBKKyaaE0HUZm.JPG"
+        },
+        "H0134-LF4GSopvcWfBaj": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LF4GSopvcWfBaj_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LF4GSopvcWfBaj_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LF4GSopvcWfBaj.JPG"
+        }
+    }
+}

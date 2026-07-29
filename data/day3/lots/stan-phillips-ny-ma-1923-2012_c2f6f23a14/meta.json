@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/stan-phillips-ny-ma-1923-2012_c2f6f23a14",
+    "slug": "stan-phillips-ny-ma-1923-2012_c2f6f23a14",
+    "lot_number": "3111",
+    "title": "STAN PHILLIPS (NY/MA, 1923-2012)",
+    "estimate_low": 2000,
+    "estimate_high": 3000,
+    "current_bid": 1000,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LLSEyXlYm8rddk_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L4c7budJESWA4Q_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LWxpOnyLgeIymM_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LWNeASNjqP7c9l_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-L0H454Itzxo6C1": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L0H454Itzxo6C1_thz.JPG"
+        },
+        "H0134-Lukb1Q9ARbORsJ": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lukb1Q9ARbORsJ_thz.JPG"
+        },
+        "H0134-LLSEyXlYm8rddk": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LLSEyXlYm8rddk_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LLSEyXlYm8rddk_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LLSEyXlYm8rddk.JPG"
+        },
+        "H0134-L4c7budJESWA4Q": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L4c7budJESWA4Q_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L4c7budJESWA4Q_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L4c7budJESWA4Q.JPG"
+        },
+        "H0134-LWxpOnyLgeIymM": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LWxpOnyLgeIymM_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LWxpOnyLgeIymM_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LWxpOnyLgeIymM.JPG"
+        },
+        "H0134-LWNeASNjqP7c9l": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LWNeASNjqP7c9l_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LWNeASNjqP7c9l_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LWNeASNjqP7c9l.JPG"
+        }
+    }
+}

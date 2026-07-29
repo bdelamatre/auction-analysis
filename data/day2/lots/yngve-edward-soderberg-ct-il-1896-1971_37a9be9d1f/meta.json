@@ -1,0 +1,27 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/yngve-edward-soderberg-ct-il-1896-1971_37a9be9d1f",
+    "slug": "yngve-edward-soderberg-ct-il-1896-1971_37a9be9d1f",
+    "lot_number": "2092",
+    "title": "YNGVE EDWARD SODERBERG (CT/IL, 1896-1971)",
+    "estimate_low": 600,
+    "estimate_high": 800,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 1,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lj5UO9V5QzI01N_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LSwApu0IxMsyHB": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LSwApu0IxMsyHB_thz.JPG"
+        },
+        "H0134-LQiKFyHoJuOZDj": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LQiKFyHoJuOZDj_thz.JPG"
+        },
+        "H0134-Lj5UO9V5QzI01N": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lj5UO9V5QzI01N_original.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lj5UO9V5QzI01N.JPG"
+        }
+    }
+}

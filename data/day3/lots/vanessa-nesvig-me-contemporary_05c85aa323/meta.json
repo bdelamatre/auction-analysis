@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/vanessa-nesvig-me-contemporary_05c85aa323",
+    "slug": "vanessa-nesvig-me-contemporary_05c85aa323",
+    "lot_number": "3417",
+    "title": "VANESSA NESVIG (ME, CONTEMPORARY)",
+    "estimate_low": 300,
+    "estimate_high": 500,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lm07k3dqBTh7We_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LNFhhyyA1mkNvw_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LaMYNrQeer64Uf_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LFIrFeq7X0RiFa_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-L6NcSkU7fP5cAE": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L6NcSkU7fP5cAE_thz.JPG"
+        },
+        "H0134-LtmPdCQCeSrlQQ": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LtmPdCQCeSrlQQ_thz.JPG"
+        },
+        "H0134-Lm07k3dqBTh7We": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lm07k3dqBTh7We_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lm07k3dqBTh7We_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lm07k3dqBTh7We.JPG"
+        },
+        "H0134-LNFhhyyA1mkNvw": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LNFhhyyA1mkNvw_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LNFhhyyA1mkNvw_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LNFhhyyA1mkNvw.JPG"
+        },
+        "H0134-LaMYNrQeer64Uf": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LaMYNrQeer64Uf_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LaMYNrQeer64Uf_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LaMYNrQeer64Uf.JPG"
+        },
+        "H0134-LFIrFeq7X0RiFa": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LFIrFeq7X0RiFa_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LFIrFeq7X0RiFa_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LFIrFeq7X0RiFa.JPG"
+        }
+    }
+}

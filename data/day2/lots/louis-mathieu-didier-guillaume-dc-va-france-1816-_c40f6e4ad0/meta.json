@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/louis-mathieu-didier-guillaume-dc-va-france-1816-_c40f6e4ad0",
+    "slug": "louis-mathieu-didier-guillaume-dc-va-france-1816-_c40f6e4ad0",
+    "lot_number": "2373",
+    "title": "LOUIS MATHIEU DIDIER GUILLAUME (DC/VA/FRANCE, 1816-1892)",
+    "estimate_low": 500,
+    "estimate_high": 700,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LUrkwhjZW48MYM_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LC8RvhamAS6V2L_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L3M2Jip5LK6QNL_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LRHzoCnzijMSvM_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LNnybXuogEwnHm": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LNnybXuogEwnHm_thz.JPG"
+        },
+        "H0134-Lzwn5P1ZALoqu9": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lzwn5P1ZALoqu9_thz.JPG"
+        },
+        "H0134-LUrkwhjZW48MYM": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LUrkwhjZW48MYM_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LUrkwhjZW48MYM_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LUrkwhjZW48MYM.JPG"
+        },
+        "H0134-LC8RvhamAS6V2L": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LC8RvhamAS6V2L_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LC8RvhamAS6V2L_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LC8RvhamAS6V2L.JPG"
+        },
+        "H0134-L3M2Jip5LK6QNL": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L3M2Jip5LK6QNL_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L3M2Jip5LK6QNL_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L3M2Jip5LK6QNL.JPG"
+        },
+        "H0134-LRHzoCnzijMSvM": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LRHzoCnzijMSvM_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LRHzoCnzijMSvM_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LRHzoCnzijMSvM.JPG"
+        }
+    }
+}

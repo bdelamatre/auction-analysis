@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/portrait-of-maria-de-medici-queen-of-france-1575-_e36962b067",
+    "slug": "portrait-of-maria-de-medici-queen-of-france-1575-_e36962b067",
+    "lot_number": "2366",
+    "title": "PORTRAIT OF MARIA DE MEDICI, QUEEN OF FRANCE (1575-1642)",
+    "estimate_low": 3000,
+    "estimate_high": 5000,
+    "current_bid": 1500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lc95pd6HE1ObKP_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LxcweSmlmUqVB4_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LW2LzA5uHwvlHf_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LwD7WVPC3N1QRT": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LwD7WVPC3N1QRT_thz.JPG"
+        },
+        "H0134-LZyIwVc8OZVA1S": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LZyIwVc8OZVA1S_thz.JPG"
+        },
+        "H0134-Lc95pd6HE1ObKP": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lc95pd6HE1ObKP_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lc95pd6HE1ObKP_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lc95pd6HE1ObKP.JPG"
+        },
+        "H0134-LxcweSmlmUqVB4": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LxcweSmlmUqVB4_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LxcweSmlmUqVB4_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LxcweSmlmUqVB4.JPG"
+        },
+        "H0134-LW2LzA5uHwvlHf": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LW2LzA5uHwvlHf_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LW2LzA5uHwvlHf_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LW2LzA5uHwvlHf.JPG"
+        }
+    }
+}

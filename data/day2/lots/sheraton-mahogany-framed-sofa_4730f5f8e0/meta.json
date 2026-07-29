@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/sheraton-mahogany-framed-sofa_4730f5f8e0",
+    "slug": "sheraton-mahogany-framed-sofa_4730f5f8e0",
+    "lot_number": "2208",
+    "title": "SHERATON MAHOGANY FRAMED SOFA",
+    "estimate_low": 600,
+    "estimate_high": 800,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L0AuF7sstxK5gl_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LHNoYHGRI6xR1z_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-L0CSn4to9Sqgbu": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L0CSn4to9Sqgbu_thz.JPG"
+        },
+        "H0134-Ls46FFXPMe71hR": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Ls46FFXPMe71hR_thz.JPG"
+        },
+        "H0134-L0AuF7sstxK5gl": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L0AuF7sstxK5gl_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L0AuF7sstxK5gl_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L0AuF7sstxK5gl.JPG"
+        },
+        "H0134-LHNoYHGRI6xR1z": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LHNoYHGRI6xR1z_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LHNoYHGRI6xR1z_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LHNoYHGRI6xR1z.JPG"
+        }
+    }
+}

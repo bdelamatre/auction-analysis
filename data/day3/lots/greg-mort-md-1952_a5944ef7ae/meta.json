@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/greg-mort-md-1952_a5944ef7ae",
+    "slug": "greg-mort-md-1952_a5944ef7ae",
+    "lot_number": "3413",
+    "title": "GREG MORT (MD, 1952 - )",
+    "estimate_low": 600,
+    "estimate_high": 800,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LqcLhFQITGIskF_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LjbK80qhCW5Z1i_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LhYqpZyNG8t8jU": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LhYqpZyNG8t8jU_thz.JPG"
+        },
+        "H0134-LxEVuKQh6KZS1e": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LxEVuKQh6KZS1e_thz.JPG"
+        },
+        "H0134-LqcLhFQITGIskF": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LqcLhFQITGIskF_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LqcLhFQITGIskF_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LqcLhFQITGIskF.JPG"
+        },
+        "H0134-LjbK80qhCW5Z1i": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LjbK80qhCW5Z1i_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LjbK80qhCW5Z1i_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LjbK80qhCW5Z1i.JPG"
+        }
+    }
+}

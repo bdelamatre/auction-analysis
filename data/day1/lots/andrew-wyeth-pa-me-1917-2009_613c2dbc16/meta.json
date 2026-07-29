@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/andrew-wyeth-pa-me-1917-2009_613c2dbc16",
+    "slug": "andrew-wyeth-pa-me-1917-2009_613c2dbc16",
+    "lot_number": "1172",
+    "title": "ANDREW WYETH (PA/ME, 1917-2009)",
+    "estimate_low": 300,
+    "estimate_high": 500,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L3iiwy5B59qgho_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LDr24lVb4MO0KJ_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L1kzUDT9EvtrTV_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LDmOF1oKveo18Y_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LaIkLuO8L9d0bm": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LaIkLuO8L9d0bm_thz.JPG"
+        },
+        "H0134-LdwncHSXWt6dt1": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LdwncHSXWt6dt1_thz.JPG"
+        },
+        "H0134-L3iiwy5B59qgho": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L3iiwy5B59qgho_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L3iiwy5B59qgho_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L3iiwy5B59qgho.JPG"
+        },
+        "H0134-LDr24lVb4MO0KJ": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LDr24lVb4MO0KJ_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LDr24lVb4MO0KJ_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LDr24lVb4MO0KJ.JPG"
+        },
+        "H0134-L1kzUDT9EvtrTV": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L1kzUDT9EvtrTV_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L1kzUDT9EvtrTV_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L1kzUDT9EvtrTV.JPG"
+        },
+        "H0134-LDmOF1oKveo18Y": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LDmOF1oKveo18Y_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LDmOF1oKveo18Y_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LDmOF1oKveo18Y.JPG"
+        }
+    }
+}

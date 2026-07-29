@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/ragna-bruno-torkanowsky-20th-c-maine_3af6954012",
+    "slug": "ragna-bruno-torkanowsky-20th-c-maine_3af6954012",
+    "lot_number": "3361",
+    "title": "RAGNA BRUNO-TORKANOWSKY (20TH C. MAINE)",
+    "estimate_low": 1000,
+    "estimate_high": 1500,
+    "current_bid": 500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LxBxwwOHVYXux3_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L93iDwgiy38l5j_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LagaPFiMJnLxpx_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LNAedGN8cqtSmZ_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LNUqs7LQBorvnF": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LNUqs7LQBorvnF_thz.JPG"
+        },
+        "H0134-LSUXAbWxHV4bJP": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LSUXAbWxHV4bJP_thz.JPG"
+        },
+        "H0134-LxBxwwOHVYXux3": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LxBxwwOHVYXux3_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LxBxwwOHVYXux3_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LxBxwwOHVYXux3.JPG"
+        },
+        "H0134-L93iDwgiy38l5j": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L93iDwgiy38l5j_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L93iDwgiy38l5j_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L93iDwgiy38l5j.JPG"
+        },
+        "H0134-LagaPFiMJnLxpx": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LagaPFiMJnLxpx_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LagaPFiMJnLxpx_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LagaPFiMJnLxpx.JPG"
+        },
+        "H0134-LNAedGN8cqtSmZ": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LNAedGN8cqtSmZ_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LNAedGN8cqtSmZ_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LNAedGN8cqtSmZ.JPG"
+        }
+    }
+}

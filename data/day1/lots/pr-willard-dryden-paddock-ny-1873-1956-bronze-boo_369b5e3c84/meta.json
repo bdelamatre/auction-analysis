@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/pr-willard-dryden-paddock-ny-1873-1956-bronze-boo_369b5e3c84",
+    "slug": "pr-willard-dryden-paddock-ny-1873-1956-bronze-boo_369b5e3c84",
+    "lot_number": "1129",
+    "title": "PR WILLARD DRYDEN PADDOCK (NY, 1873-1956) BRONZE BOOKENDS",
+    "estimate_low": 600,
+    "estimate_high": 800,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LVcKfsLisJl1u3_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L6QxZC4wBEtHYF_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LihYa3Ydgdoxxw": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LihYa3Ydgdoxxw_thz.JPG"
+        },
+        "H0134-L6XNE87ltaq6Bz": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L6XNE87ltaq6Bz_thz.JPG"
+        },
+        "H0134-LVcKfsLisJl1u3": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LVcKfsLisJl1u3_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LVcKfsLisJl1u3_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LVcKfsLisJl1u3.JPG"
+        },
+        "H0134-L6QxZC4wBEtHYF": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L6QxZC4wBEtHYF_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L6QxZC4wBEtHYF_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L6QxZC4wBEtHYF.JPG"
+        }
+    }
+}

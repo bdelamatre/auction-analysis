@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/set-of-7-d-r-dimes-windsor-chairs-in-black-paint_30cc802de0",
+    "slug": "set-of-7-d-r-dimes-windsor-chairs-in-black-paint_30cc802de0",
+    "lot_number": "3215",
+    "title": "(SET OF 7) D.R. DIMES WINDSOR CHAIRS IN BLACK PAINT",
+    "estimate_low": 2000,
+    "estimate_high": 2500,
+    "current_bid": 1000,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L8mMVknqU6nfyl_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LFu2hRtW6QELYP_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LEqRriZAOjpnfh_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LPc5N6iCgH1akq": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LPc5N6iCgH1akq_thz.JPG"
+        },
+        "H0134-LeVrov8lopgMj4": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LeVrov8lopgMj4_thz.JPG"
+        },
+        "H0134-L8mMVknqU6nfyl": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L8mMVknqU6nfyl_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L8mMVknqU6nfyl_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L8mMVknqU6nfyl.JPG"
+        },
+        "H0134-LFu2hRtW6QELYP": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LFu2hRtW6QELYP_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LFu2hRtW6QELYP_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LFu2hRtW6QELYP.JPG"
+        },
+        "H0134-LEqRriZAOjpnfh": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LEqRriZAOjpnfh_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LEqRriZAOjpnfh_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LEqRriZAOjpnfh.JPG"
+        }
+    }
+}

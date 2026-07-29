@@ -1,0 +1,27 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/14-misc-vols-some-are-sets_23702dad38",
+    "slug": "14-misc-vols-some-are-sets_23702dad38",
+    "lot_number": "1496",
+    "title": "(14) MISC VOLS, SOME ARE SETS",
+    "estimate_low": 300,
+    "estimate_high": 400,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 1,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LepPZESivT0Sov_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LJRwzBJGomI1Qq": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LJRwzBJGomI1Qq_thz.JPG"
+        },
+        "H0134-LyG6k4m9fJqH2l": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LyG6k4m9fJqH2l_thz.JPG"
+        },
+        "H0134-LepPZESivT0Sov": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LepPZESivT0Sov_original.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LepPZESivT0Sov.JPG"
+        }
+    }
+}

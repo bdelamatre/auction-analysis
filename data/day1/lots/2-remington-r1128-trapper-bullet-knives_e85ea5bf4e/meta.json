@@ -1,0 +1,27 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/2-remington-r1128-trapper-bullet-knives_e85ea5bf4e",
+    "slug": "2-remington-r1128-trapper-bullet-knives_e85ea5bf4e",
+    "lot_number": "1262",
+    "title": "(2) REMINGTON R1128 \"TRAPPER\" BULLET KNIVES",
+    "estimate_low": 200,
+    "estimate_high": 300,
+    "current_bid": 50,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 1,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LZ2xUPZsrNfQ5V_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LaP9VVHu4Fd3Ek": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LaP9VVHu4Fd3Ek_thz.JPG"
+        },
+        "H0134-LEt2btlN4mBrG1": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LEt2btlN4mBrG1_thz.JPG"
+        },
+        "H0134-LZ2xUPZsrNfQ5V": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LZ2xUPZsrNfQ5V_original.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LZ2xUPZsrNfQ5V.JPG"
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/early-20th-c-chinese-ivory-doctors-doll_dc789c9505",
+    "slug": "early-20th-c-chinese-ivory-doctors-doll_dc789c9505",
+    "lot_number": "2489",
+    "title": "EARLY 20TH C. CHINESE IVORY DOCTOR'S DOLL",
+    "estimate_low": 300,
+    "estimate_high": 400,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LpqxB5DtE5UAdb_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LpagIs5REtjeSl_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LSR3fKo5KQ1A9O": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LSR3fKo5KQ1A9O_thz.JPG"
+        },
+        "H0134-LsoeBrBN3FENwL": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LsoeBrBN3FENwL_thz.JPG"
+        },
+        "H0134-LpqxB5DtE5UAdb": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LpqxB5DtE5UAdb_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LpqxB5DtE5UAdb_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LpqxB5DtE5UAdb.JPG"
+        },
+        "H0134-LpagIs5REtjeSl": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LpagIs5REtjeSl_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LpagIs5REtjeSl_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LpagIs5REtjeSl.JPG"
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/edward-henry-potthast-ny-oh-1857-1927_29164e9dd6",
+    "slug": "edward-henry-potthast-ny-oh-1857-1927_29164e9dd6",
+    "lot_number": "2235",
+    "title": "EDWARD HENRY POTTHAST (NY/OH, 1857-1927)",
+    "estimate_low": 3000,
+    "estimate_high": 5000,
+    "current_bid": 1500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LEOglQ5EzzQCyk_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L2pbG5QPegQvUt_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LijAqbqcU7nNVX_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LFH9hK9PxVYfrP_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LcuKBCxOP9tdm9": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LcuKBCxOP9tdm9_thz.JPG"
+        },
+        "H0134-L8iVw0urlhdhNk": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L8iVw0urlhdhNk_thz.JPG"
+        },
+        "H0134-LEOglQ5EzzQCyk": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LEOglQ5EzzQCyk_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LEOglQ5EzzQCyk_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LEOglQ5EzzQCyk.JPG"
+        },
+        "H0134-L2pbG5QPegQvUt": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L2pbG5QPegQvUt_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L2pbG5QPegQvUt_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L2pbG5QPegQvUt.JPG"
+        },
+        "H0134-LijAqbqcU7nNVX": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LijAqbqcU7nNVX_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LijAqbqcU7nNVX_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LijAqbqcU7nNVX.JPG"
+        },
+        "H0134-LFH9hK9PxVYfrP": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LFH9hK9PxVYfrP_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LFH9hK9PxVYfrP_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LFH9hK9PxVYfrP.JPG"
+        }
+    }
+}

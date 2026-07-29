@@ -1,0 +1,58 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/mary-bourke-contemporary-maine_9030ee7f42",
+    "slug": "mary-bourke-contemporary-maine_9030ee7f42",
+    "lot_number": "3353",
+    "title": "MARY BOURKE (CONTEMPORARY MAINE)",
+    "estimate_low": 1000,
+    "estimate_high": 1500,
+    "current_bid": 500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 6,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LjbjAG4dc41zMU_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LZF3D6r3cuGSug_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LEoWZRC1FpxJQE_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lrr9GQ1x6XBAXt_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LCtVtSQenJWSOV_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LdnB68DxFEvKah_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LdBjuiTAVxUBt5": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LdBjuiTAVxUBt5_thz.JPG"
+        },
+        "H0134-LfVVSV82QIC5im": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LfVVSV82QIC5im_thz.JPG"
+        },
+        "H0134-LjbjAG4dc41zMU": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LjbjAG4dc41zMU_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LjbjAG4dc41zMU_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LjbjAG4dc41zMU.JPG"
+        },
+        "H0134-LZF3D6r3cuGSug": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LZF3D6r3cuGSug_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LZF3D6r3cuGSug_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LZF3D6r3cuGSug.JPG"
+        },
+        "H0134-LEoWZRC1FpxJQE": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LEoWZRC1FpxJQE_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LEoWZRC1FpxJQE_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LEoWZRC1FpxJQE.JPG"
+        },
+        "H0134-Lrr9GQ1x6XBAXt": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lrr9GQ1x6XBAXt_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lrr9GQ1x6XBAXt_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lrr9GQ1x6XBAXt.JPG"
+        },
+        "H0134-LCtVtSQenJWSOV": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LCtVtSQenJWSOV_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LCtVtSQenJWSOV_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LCtVtSQenJWSOV.JPG"
+        },
+        "H0134-LdnB68DxFEvKah": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LdnB68DxFEvKah_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LdnB68DxFEvKah_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LdnB68DxFEvKah.JPG"
+        }
+    }
+}

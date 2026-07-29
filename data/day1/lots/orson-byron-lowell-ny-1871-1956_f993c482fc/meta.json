@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/orson-byron-lowell-ny-1871-1956_f993c482fc",
+    "slug": "orson-byron-lowell-ny-1871-1956_f993c482fc",
+    "lot_number": "1329",
+    "title": "ORSON BYRON LOWELL (NY, 1871-1956)",
+    "estimate_low": 350,
+    "estimate_high": 550,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LUSWv5F68OOh86_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LOCoj6fIKJDs4a_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LIAWYRmIosrXrf_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LZ1MEOvir92W8v_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LqQe3pCk3FFGFU": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LqQe3pCk3FFGFU_thz.JPG"
+        },
+        "H0134-LHyIsB8iRje6Ek": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LHyIsB8iRje6Ek_thz.JPG"
+        },
+        "H0134-LUSWv5F68OOh86": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LUSWv5F68OOh86_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LUSWv5F68OOh86_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LUSWv5F68OOh86.JPG"
+        },
+        "H0134-LOCoj6fIKJDs4a": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LOCoj6fIKJDs4a_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LOCoj6fIKJDs4a_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LOCoj6fIKJDs4a.JPG"
+        },
+        "H0134-LIAWYRmIosrXrf": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LIAWYRmIosrXrf_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LIAWYRmIosrXrf_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LIAWYRmIosrXrf.JPG"
+        },
+        "H0134-LZ1MEOvir92W8v": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LZ1MEOvir92W8v_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LZ1MEOvir92W8v_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LZ1MEOvir92W8v.JPG"
+        }
+    }
+}

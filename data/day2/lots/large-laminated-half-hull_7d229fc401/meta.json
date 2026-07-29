@@ -1,0 +1,27 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/large-laminated-half-hull_7d229fc401",
+    "slug": "large-laminated-half-hull_7d229fc401",
+    "lot_number": "2034",
+    "title": "LARGE LAMINATED HALF HULL",
+    "estimate_low": 600,
+    "estimate_high": 800,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 1,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L5qP6eDUDgXhow_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LpE3K4daBER9T9": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LpE3K4daBER9T9_thz.JPG"
+        },
+        "H0134-LOwQtujAis0z0W": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LOwQtujAis0z0W_thz.JPG"
+        },
+        "H0134-L5qP6eDUDgXhow": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L5qP6eDUDgXhow_original.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L5qP6eDUDgXhow.JPG"
+        }
+    }
+}

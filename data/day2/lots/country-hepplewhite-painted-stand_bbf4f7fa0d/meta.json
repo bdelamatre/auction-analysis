@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/country-hepplewhite-painted-stand_bbf4f7fa0d",
+    "slug": "country-hepplewhite-painted-stand_bbf4f7fa0d",
+    "lot_number": "2119",
+    "title": "COUNTRY HEPPLEWHITE PAINTED STAND",
+    "estimate_low": 300,
+    "estimate_high": 500,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LvPA7nhBFtWyrM_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LFp69rCQzLxmtL_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L3f37xR1RezKYa_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LSKCyQmOxSmZ1n": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LSKCyQmOxSmZ1n_thz.JPG"
+        },
+        "H0134-LPQIiVUtpSPQ2u": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LPQIiVUtpSPQ2u_thz.JPG"
+        },
+        "H0134-LvPA7nhBFtWyrM": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LvPA7nhBFtWyrM_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LvPA7nhBFtWyrM_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LvPA7nhBFtWyrM.JPG"
+        },
+        "H0134-LFp69rCQzLxmtL": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LFp69rCQzLxmtL_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LFp69rCQzLxmtL_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LFp69rCQzLxmtL.JPG"
+        },
+        "H0134-L3f37xR1RezKYa": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L3f37xR1RezKYa_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L3f37xR1RezKYa_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L3f37xR1RezKYa.JPG"
+        }
+    }
+}

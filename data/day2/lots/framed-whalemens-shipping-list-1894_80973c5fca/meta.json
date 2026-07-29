@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/framed-whalemens-shipping-list-1894_80973c5fca",
+    "slug": "framed-whalemens-shipping-list-1894_80973c5fca",
+    "lot_number": "2114",
+    "title": "FRAMED WHALEMEN'S SHIPPING LIST 1894",
+    "estimate_low": 200,
+    "estimate_high": 300,
+    "current_bid": 50,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Ljk4iPR99JdgOB_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L7Xrrz6dY2G3sC_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LX5Ryw1LD2pBpJ_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LesCjpuw8PayyD": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LesCjpuw8PayyD_thz.JPG"
+        },
+        "H0134-LXxheWgcLnJSAY": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LXxheWgcLnJSAY_thz.JPG"
+        },
+        "H0134-Ljk4iPR99JdgOB": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Ljk4iPR99JdgOB_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Ljk4iPR99JdgOB_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Ljk4iPR99JdgOB.JPG"
+        },
+        "H0134-L7Xrrz6dY2G3sC": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L7Xrrz6dY2G3sC_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L7Xrrz6dY2G3sC_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L7Xrrz6dY2G3sC.JPG"
+        },
+        "H0134-LX5Ryw1LD2pBpJ": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LX5Ryw1LD2pBpJ_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LX5Ryw1LD2pBpJ_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LX5Ryw1LD2pBpJ.JPG"
+        }
+    }
+}

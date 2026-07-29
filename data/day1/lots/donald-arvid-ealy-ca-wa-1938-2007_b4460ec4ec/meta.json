@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/donald-arvid-ealy-ca-wa-1938-2007_b4460ec4ec",
+    "slug": "donald-arvid-ealy-ca-wa-1938-2007_b4460ec4ec",
+    "lot_number": "1058",
+    "title": "DONALD ARVID EALY (CA/WA, 1938-2007)",
+    "estimate_low": 400,
+    "estimate_high": 600,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LZkDNXrjzSedrA_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L1x3GjcIK1rHje_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L92wRGlnB2IXai_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LOW5nCe1UFfkyW_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LVRtFUZwy9I9FJ": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LVRtFUZwy9I9FJ_thz.JPG"
+        },
+        "H0134-L5tC1wZf5ABBoD": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L5tC1wZf5ABBoD_thz.JPG"
+        },
+        "H0134-LZkDNXrjzSedrA": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LZkDNXrjzSedrA_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LZkDNXrjzSedrA_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LZkDNXrjzSedrA.JPG"
+        },
+        "H0134-L1x3GjcIK1rHje": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L1x3GjcIK1rHje_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L1x3GjcIK1rHje_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L1x3GjcIK1rHje.JPG"
+        },
+        "H0134-L92wRGlnB2IXai": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L92wRGlnB2IXai_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L92wRGlnB2IXai_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L92wRGlnB2IXai.JPG"
+        },
+        "H0134-LOW5nCe1UFfkyW": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LOW5nCe1UFfkyW_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LOW5nCe1UFfkyW_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LOW5nCe1UFfkyW.JPG"
+        }
+    }
+}

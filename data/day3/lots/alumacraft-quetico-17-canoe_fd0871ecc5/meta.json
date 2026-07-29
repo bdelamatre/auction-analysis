@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/alumacraft-quetico-17-canoe_fd0871ecc5",
+    "slug": "alumacraft-quetico-17-canoe_fd0871ecc5",
+    "lot_number": "3039",
+    "title": "ALUMACRAFT QUETICO 17 CANOE",
+    "estimate_low": 400,
+    "estimate_high": 600,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LHWZu1rZUIWrh8_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L3vKgf7wGA5aTp_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LP9cG237G75Mqh": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LP9cG237G75Mqh_thz.JPG"
+        },
+        "H0134-LXIpxPKdi2gmoi": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LXIpxPKdi2gmoi_thz.JPG"
+        },
+        "H0134-LHWZu1rZUIWrh8": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LHWZu1rZUIWrh8_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LHWZu1rZUIWrh8_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LHWZu1rZUIWrh8.JPG"
+        },
+        "H0134-L3vKgf7wGA5aTp": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L3vKgf7wGA5aTp_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L3vKgf7wGA5aTp_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L3vKgf7wGA5aTp.JPG"
+        }
+    }
+}

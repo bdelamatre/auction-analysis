@@ -1,0 +1,64 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/carroll-thayer-berry-me-1886-1978_6e0bea8743",
+    "slug": "carroll-thayer-berry-me-1886-1978_6e0bea8743",
+    "lot_number": "3351",
+    "title": "CARROLL THAYER BERRY (ME, 1886-1978)",
+    "estimate_low": 12000,
+    "estimate_high": 15000,
+    "current_bid": 6000,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 7,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LpMnICC12CpNKo_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LCZRTy0Yg2zoAb_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lo7LfuqV7BPDyO_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Li7faAH9IkXexf_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LaVJcBXC2wGzvt_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LdHzmZwiOobHdA_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LPu9X3aqRsOJOf_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LtVfkkz0JOCtjB": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LtVfkkz0JOCtjB_thz.JPG"
+        },
+        "H0134-LdBjuiTAVxUBt5": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LdBjuiTAVxUBt5_thz.JPG"
+        },
+        "H0134-LpMnICC12CpNKo": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LpMnICC12CpNKo_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LpMnICC12CpNKo_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LpMnICC12CpNKo.JPG"
+        },
+        "H0134-LCZRTy0Yg2zoAb": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LCZRTy0Yg2zoAb_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LCZRTy0Yg2zoAb_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LCZRTy0Yg2zoAb.JPG"
+        },
+        "H0134-Lo7LfuqV7BPDyO": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lo7LfuqV7BPDyO_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lo7LfuqV7BPDyO_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lo7LfuqV7BPDyO.JPG"
+        },
+        "H0134-Li7faAH9IkXexf": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Li7faAH9IkXexf_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Li7faAH9IkXexf_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Li7faAH9IkXexf.JPG"
+        },
+        "H0134-LaVJcBXC2wGzvt": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LaVJcBXC2wGzvt_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LaVJcBXC2wGzvt_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LaVJcBXC2wGzvt.JPG"
+        },
+        "H0134-LdHzmZwiOobHdA": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LdHzmZwiOobHdA_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LdHzmZwiOobHdA_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LdHzmZwiOobHdA.JPG"
+        },
+        "H0134-LPu9X3aqRsOJOf": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LPu9X3aqRsOJOf_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LPu9X3aqRsOJOf_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LPu9X3aqRsOJOf.JPG"
+        }
+    }
+}

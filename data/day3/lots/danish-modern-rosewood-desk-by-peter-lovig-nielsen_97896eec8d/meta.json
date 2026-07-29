@@ -1,0 +1,58 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/danish-modern-rosewood-desk-by-peter-lovig-nielsen_97896eec8d",
+    "slug": "danish-modern-rosewood-desk-by-peter-lovig-nielsen_97896eec8d",
+    "lot_number": "3252",
+    "title": "DANISH MODERN ROSEWOOD DESK BY PETER LOVIG NIELSEN",
+    "estimate_low": 2000,
+    "estimate_high": 2500,
+    "current_bid": 1000,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 6,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LlmRFi6O391YlK_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lv3K2zWYSASHwp_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L9bNGJHZgMBmDT_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LffsePBlOxJvOE_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LG76G179fWjNWi_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LrvYM4RRjlsHmz_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LcdhcGdYudsmBK": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LcdhcGdYudsmBK_thz.JPG"
+        },
+        "H0134-LM3tzOd9mIanvu": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LM3tzOd9mIanvu_thz.JPG"
+        },
+        "H0134-LlmRFi6O391YlK": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LlmRFi6O391YlK_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LlmRFi6O391YlK_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LlmRFi6O391YlK.JPG"
+        },
+        "H0134-Lv3K2zWYSASHwp": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lv3K2zWYSASHwp_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lv3K2zWYSASHwp_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lv3K2zWYSASHwp.JPG"
+        },
+        "H0134-L9bNGJHZgMBmDT": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L9bNGJHZgMBmDT_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L9bNGJHZgMBmDT_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L9bNGJHZgMBmDT.JPG"
+        },
+        "H0134-LffsePBlOxJvOE": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LffsePBlOxJvOE_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LffsePBlOxJvOE_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LffsePBlOxJvOE.JPG"
+        },
+        "H0134-LG76G179fWjNWi": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LG76G179fWjNWi_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LG76G179fWjNWi_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LG76G179fWjNWi.JPG"
+        },
+        "H0134-LrvYM4RRjlsHmz": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LrvYM4RRjlsHmz_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LrvYM4RRjlsHmz_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LrvYM4RRjlsHmz.JPG"
+        }
+    }
+}

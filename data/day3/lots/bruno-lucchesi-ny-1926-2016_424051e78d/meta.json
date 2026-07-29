@@ -1,0 +1,52 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/bruno-lucchesi-ny-1926-2016_424051e78d",
+    "slug": "bruno-lucchesi-ny-1926-2016_424051e78d",
+    "lot_number": "3289",
+    "title": "BRUNO LUCCHESI (NY, 1926-2016)",
+    "estimate_low": 1000,
+    "estimate_high": 1500,
+    "current_bid": 500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 5,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LScK0IJsclkOLA_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LxnZsO5RywSL0L_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L5JYXsHQAS6c4y_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lel6zEa6LjXJ6S_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LKsIx2aQhyaJK9_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-L7x7M3WJUYPh2S": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L7x7M3WJUYPh2S_thz.JPG"
+        },
+        "H0134-LYUnG5Mc11OFq1": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LYUnG5Mc11OFq1_thz.JPG"
+        },
+        "H0134-LScK0IJsclkOLA": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LScK0IJsclkOLA_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LScK0IJsclkOLA_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LScK0IJsclkOLA.JPG"
+        },
+        "H0134-LxnZsO5RywSL0L": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LxnZsO5RywSL0L_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LxnZsO5RywSL0L_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LxnZsO5RywSL0L.JPG"
+        },
+        "H0134-L5JYXsHQAS6c4y": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L5JYXsHQAS6c4y_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L5JYXsHQAS6c4y_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L5JYXsHQAS6c4y.JPG"
+        },
+        "H0134-Lel6zEa6LjXJ6S": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lel6zEa6LjXJ6S_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lel6zEa6LjXJ6S_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lel6zEa6LjXJ6S.JPG"
+        },
+        "H0134-LKsIx2aQhyaJK9": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LKsIx2aQhyaJK9_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LKsIx2aQhyaJK9_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LKsIx2aQhyaJK9.JPG"
+        }
+    }
+}

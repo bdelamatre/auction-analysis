@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/brass-bound-rosewood-writing-box_bb23797313",
+    "slug": "brass-bound-rosewood-writing-box_bb23797313",
+    "lot_number": "1039",
+    "title": "BRASS BOUND ROSEWOOD WRITING BOX",
+    "estimate_low": 200,
+    "estimate_high": 300,
+    "current_bid": 50,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lb4QpIpRQyRuVX_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L4mjgp9YEX7cyV_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LgUl0cvqXCvsQa_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-L1UL0VYB89o6Fq": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L1UL0VYB89o6Fq_thz.JPG"
+        },
+        "H0134-L5xUX87vLzJ6Sk": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L5xUX87vLzJ6Sk_thz.JPG"
+        },
+        "H0134-Lb4QpIpRQyRuVX": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lb4QpIpRQyRuVX_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lb4QpIpRQyRuVX_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lb4QpIpRQyRuVX.JPG"
+        },
+        "H0134-L4mjgp9YEX7cyV": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L4mjgp9YEX7cyV_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L4mjgp9YEX7cyV_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L4mjgp9YEX7cyV.JPG"
+        },
+        "H0134-LgUl0cvqXCvsQa": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LgUl0cvqXCvsQa_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LgUl0cvqXCvsQa_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LgUl0cvqXCvsQa.JPG"
+        }
+    }
+}

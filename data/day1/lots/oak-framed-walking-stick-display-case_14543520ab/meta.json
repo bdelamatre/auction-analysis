@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/oak-framed-walking-stick-display-case_14543520ab",
+    "slug": "oak-framed-walking-stick-display-case_14543520ab",
+    "lot_number": "1024",
+    "title": "OAK FRAMED WALKING STICK DISPLAY CASE",
+    "estimate_low": 600,
+    "estimate_high": 800,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LXLn4pADPXdjbO_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LvtWvOpT7jN4HS_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L0NrICBbPPFwg7_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LdMVIjpGXwLBdm": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LdMVIjpGXwLBdm_thz.JPG"
+        },
+        "H0134-LboV5lPFcXjUXX": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LboV5lPFcXjUXX_thz.jpg"
+        },
+        "H0134-LXLn4pADPXdjbO": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LXLn4pADPXdjbO_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LXLn4pADPXdjbO_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LXLn4pADPXdjbO.JPG"
+        },
+        "H0134-LvtWvOpT7jN4HS": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LvtWvOpT7jN4HS_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LvtWvOpT7jN4HS_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LvtWvOpT7jN4HS.JPG"
+        },
+        "H0134-L0NrICBbPPFwg7": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L0NrICBbPPFwg7_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L0NrICBbPPFwg7_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L0NrICBbPPFwg7.JPG"
+        }
+    }
+}

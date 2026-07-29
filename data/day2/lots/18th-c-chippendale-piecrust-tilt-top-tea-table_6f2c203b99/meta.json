@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/18th-c-chippendale-piecrust-tilt-top-tea-table_6f2c203b99",
+    "slug": "18th-c-chippendale-piecrust-tilt-top-tea-table_6f2c203b99",
+    "lot_number": "2205",
+    "title": "18TH C. CHIPPENDALE PIECRUST TILT-TOP TEA TABLE",
+    "estimate_low": 1000,
+    "estimate_high": 2000,
+    "current_bid": 500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LrVdVABFABPMXQ_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LVz9xADoFWcZpn_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LXtCKxcAxLxsbh": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LXtCKxcAxLxsbh_thz.JPG"
+        },
+        "H0134-Lro2nO3d1kPJgK": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lro2nO3d1kPJgK_thz.JPG"
+        },
+        "H0134-LrVdVABFABPMXQ": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LrVdVABFABPMXQ_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LrVdVABFABPMXQ_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LrVdVABFABPMXQ.JPG"
+        },
+        "H0134-LVz9xADoFWcZpn": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LVz9xADoFWcZpn_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LVz9xADoFWcZpn_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LVz9xADoFWcZpn.JPG"
+        }
+    }
+}

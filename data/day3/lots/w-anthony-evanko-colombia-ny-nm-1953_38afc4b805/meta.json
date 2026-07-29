@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/w-anthony-evanko-colombia-ny-nm-1953_38afc4b805",
+    "slug": "w-anthony-evanko-colombia-ny-nm-1953_38afc4b805",
+    "lot_number": "3341",
+    "title": "W. ANTHONY EVANKO (COLOMBIA/NY/NM, 1953 - )",
+    "estimate_low": 300,
+    "estimate_high": 400,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LW1Quv7WvRvWLl_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L7Mz5Z4bguOFcE_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-L9pB7oHmAm75um": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L9pB7oHmAm75um_thz.JPG"
+        },
+        "H0134-L84s4ZPD8ZXVWj": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L84s4ZPD8ZXVWj_thz.JPG"
+        },
+        "H0134-LW1Quv7WvRvWLl": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LW1Quv7WvRvWLl_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LW1Quv7WvRvWLl_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LW1Quv7WvRvWLl.JPG"
+        },
+        "H0134-L7Mz5Z4bguOFcE": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L7Mz5Z4bguOFcE_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L7Mz5Z4bguOFcE_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L7Mz5Z4bguOFcE.JPG"
+        }
+    }
+}

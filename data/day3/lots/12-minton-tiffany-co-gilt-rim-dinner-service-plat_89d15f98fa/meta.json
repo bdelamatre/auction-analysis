@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/12-minton-tiffany-co-gilt-rim-dinner-service-plat_89d15f98fa",
+    "slug": "12-minton-tiffany-co-gilt-rim-dinner-service-plat_89d15f98fa",
+    "lot_number": "3104",
+    "title": "(12) MINTON TIFFANY & CO. GILT RIM DINNER SERVICE PLATES",
+    "estimate_low": 500,
+    "estimate_high": 700,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LA3U6iwWqDE7uI_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LN1U8qOS8MSx7o_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LwpctEVcRt04yt_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LTXrCVtJGpVOec": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LTXrCVtJGpVOec_thz.JPG"
+        },
+        "H0134-LcNunZRCRHxNZn": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LcNunZRCRHxNZn_thz.JPG"
+        },
+        "H0134-LA3U6iwWqDE7uI": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LA3U6iwWqDE7uI_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LA3U6iwWqDE7uI_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LA3U6iwWqDE7uI.JPG"
+        },
+        "H0134-LN1U8qOS8MSx7o": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LN1U8qOS8MSx7o_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LN1U8qOS8MSx7o_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LN1U8qOS8MSx7o.JPG"
+        },
+        "H0134-LwpctEVcRt04yt": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LwpctEVcRt04yt_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LwpctEVcRt04yt_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LwpctEVcRt04yt.JPG"
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/paolo-soleri-italian-american-1919-2013-arcosanti_84f0be46d4",
+    "slug": "paolo-soleri-italian-american-1919-2013-arcosanti_84f0be46d4",
+    "lot_number": "3259",
+    "title": "PAOLO SOLERI (ITALIAN-AMERICAN, 1919-2013), ARCOSANTI BRONZE WINDBELL",
+    "estimate_low": 600,
+    "estimate_high": 800,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LmVjaegSXqEvNg_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L0z8GDT7Be8jNr_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L4Kb9wSobRwpHG_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LiOvGuODbHJhGU": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LiOvGuODbHJhGU_thz.JPG"
+        },
+        "H0134-L5odoS0TRItpwY": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L5odoS0TRItpwY_thz.JPG"
+        },
+        "H0134-LmVjaegSXqEvNg": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LmVjaegSXqEvNg_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LmVjaegSXqEvNg_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LmVjaegSXqEvNg.JPG"
+        },
+        "H0134-L0z8GDT7Be8jNr": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L0z8GDT7Be8jNr_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L0z8GDT7Be8jNr_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L0z8GDT7Be8jNr.JPG"
+        },
+        "H0134-L4Kb9wSobRwpHG": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L4Kb9wSobRwpHG_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L4Kb9wSobRwpHG_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L4Kb9wSobRwpHG.JPG"
+        }
+    }
+}

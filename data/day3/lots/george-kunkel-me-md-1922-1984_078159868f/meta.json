@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/george-kunkel-me-md-1922-1984_078159868f",
+    "slug": "george-kunkel-me-md-1922-1984_078159868f",
+    "lot_number": "3393",
+    "title": "GEORGE KUNKEL (ME/MD, 1922-1984)",
+    "estimate_low": 300,
+    "estimate_high": 500,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LIwvgnBcz5xg6f_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LaBiSx44CRVrcr_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lm22RM4dSzyp1S_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LinPBZarNO9wny_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LhF5nPD4WBaswS": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LhF5nPD4WBaswS_thz.JPG"
+        },
+        "H0134-LZcinBY967OnEq": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LZcinBY967OnEq_thz.JPG"
+        },
+        "H0134-LIwvgnBcz5xg6f": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LIwvgnBcz5xg6f_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LIwvgnBcz5xg6f_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LIwvgnBcz5xg6f.JPG"
+        },
+        "H0134-LaBiSx44CRVrcr": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LaBiSx44CRVrcr_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LaBiSx44CRVrcr_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LaBiSx44CRVrcr.JPG"
+        },
+        "H0134-Lm22RM4dSzyp1S": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lm22RM4dSzyp1S_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lm22RM4dSzyp1S_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lm22RM4dSzyp1S.JPG"
+        },
+        "H0134-LinPBZarNO9wny": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LinPBZarNO9wny_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LinPBZarNO9wny_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LinPBZarNO9wny.JPG"
+        }
+    }
+}

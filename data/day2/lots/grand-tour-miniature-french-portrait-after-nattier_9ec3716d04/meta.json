@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/grand-tour-miniature-french-portrait-after-nattier_9ec3716d04",
+    "slug": "grand-tour-miniature-french-portrait-after-nattier_9ec3716d04",
+    "lot_number": "2354",
+    "title": "GRAND TOUR MINIATURE FRENCH PORTRAIT AFTER NATTIER",
+    "estimate_low": 500,
+    "estimate_high": 700,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LhqVzsgowe9K2d_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LnxzGt6blB9sCS_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LxZ6xSRnH12608": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LxZ6xSRnH12608_thz.JPG"
+        },
+        "H0134-LNKI8zxvhqhNoG": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LNKI8zxvhqhNoG_thz.JPG"
+        },
+        "H0134-LhqVzsgowe9K2d": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LhqVzsgowe9K2d_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LhqVzsgowe9K2d_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LhqVzsgowe9K2d.JPG"
+        },
+        "H0134-LnxzGt6blB9sCS": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LnxzGt6blB9sCS_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LnxzGt6blB9sCS_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LnxzGt6blB9sCS.JPG"
+        }
+    }
+}

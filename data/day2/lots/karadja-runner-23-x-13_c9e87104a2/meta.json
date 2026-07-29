@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/karadja-runner-23-x-13_c9e87104a2",
+    "slug": "karadja-runner-23-x-13_c9e87104a2",
+    "lot_number": "2256",
+    "title": "KARADJA RUNNER (2'3\" X 13')",
+    "estimate_low": 600,
+    "estimate_high": 800,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LZqoMj7A9U6LFV_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LdSf88xi6A1R6L_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LCTfsCdiQfGQtI_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LczzRHE0DqktfY_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-Ll1r7Ty4vFhrgK": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Ll1r7Ty4vFhrgK_thz.JPG"
+        },
+        "H0134-LgqjN9fwDvd1Jm": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LgqjN9fwDvd1Jm_thz.JPG"
+        },
+        "H0134-LZqoMj7A9U6LFV": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LZqoMj7A9U6LFV_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LZqoMj7A9U6LFV_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LZqoMj7A9U6LFV.JPG"
+        },
+        "H0134-LdSf88xi6A1R6L": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LdSf88xi6A1R6L_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LdSf88xi6A1R6L_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LdSf88xi6A1R6L.JPG"
+        },
+        "H0134-LCTfsCdiQfGQtI": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LCTfsCdiQfGQtI_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LCTfsCdiQfGQtI_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LCTfsCdiQfGQtI.JPG"
+        },
+        "H0134-LczzRHE0DqktfY": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LczzRHE0DqktfY_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LczzRHE0DqktfY_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LczzRHE0DqktfY.JPG"
+        }
+    }
+}

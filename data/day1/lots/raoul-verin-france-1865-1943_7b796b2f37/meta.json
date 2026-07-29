@@ -1,0 +1,55 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/raoul-verin-france-1865-1943_7b796b2f37",
+    "slug": "raoul-verin-france-1865-1943_7b796b2f37",
+    "lot_number": "1503",
+    "title": "RAOUL VERIN (FRANCE, 1865-1943)",
+    "estimate_low": 300,
+    "estimate_high": 400,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 6,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lo1gi8lnkKl741_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L3Jl1nb3q7orwr_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LdpmOS2vlktnp2_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lh3JGVmhVHdeJy_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LqIFQA2vAYNdaL_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L9dzfWAqf6MQJ0_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LQbnWfwGnzyjNf": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LQbnWfwGnzyjNf_thz.JPG"
+        },
+        "H0134-Lo1gi8lnkKl741": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lo1gi8lnkKl741_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lo1gi8lnkKl741_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lo1gi8lnkKl741.JPG"
+        },
+        "H0134-L3Jl1nb3q7orwr": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L3Jl1nb3q7orwr_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L3Jl1nb3q7orwr_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L3Jl1nb3q7orwr.JPG"
+        },
+        "H0134-LdpmOS2vlktnp2": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LdpmOS2vlktnp2_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LdpmOS2vlktnp2_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LdpmOS2vlktnp2.JPG"
+        },
+        "H0134-Lh3JGVmhVHdeJy": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lh3JGVmhVHdeJy_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lh3JGVmhVHdeJy_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lh3JGVmhVHdeJy.JPG"
+        },
+        "H0134-LqIFQA2vAYNdaL": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LqIFQA2vAYNdaL_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LqIFQA2vAYNdaL_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LqIFQA2vAYNdaL.JPG"
+        },
+        "H0134-L9dzfWAqf6MQJ0": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L9dzfWAqf6MQJ0_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L9dzfWAqf6MQJ0_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L9dzfWAqf6MQJ0.JPG"
+        }
+    }
+}

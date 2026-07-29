@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/custom-cased-model-of-bluenose-schooner_f7b5924fb2",
+    "slug": "custom-cased-model-of-bluenose-schooner_f7b5924fb2",
+    "lot_number": "2108",
+    "title": "CUSTOM CASED MODEL OF BLUENOSE SCHOONER",
+    "estimate_low": 200,
+    "estimate_high": 300,
+    "current_bid": 50,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lrvcidj1CWOK3F_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LI3Pc08EIado1U_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LQnLKSNBLt1ARj_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-L4jN4YMdXP6kAE": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L4jN4YMdXP6kAE_thz.JPG"
+        },
+        "H0134-LGZ7SRDxb50NAH": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LGZ7SRDxb50NAH_thz.JPG"
+        },
+        "H0134-Lrvcidj1CWOK3F": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lrvcidj1CWOK3F_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lrvcidj1CWOK3F_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lrvcidj1CWOK3F.JPG"
+        },
+        "H0134-LI3Pc08EIado1U": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LI3Pc08EIado1U_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LI3Pc08EIado1U_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LI3Pc08EIado1U.JPG"
+        },
+        "H0134-LQnLKSNBLt1ARj": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LQnLKSNBLt1ARj_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LQnLKSNBLt1ARj_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LQnLKSNBLt1ARj.JPG"
+        }
+    }
+}

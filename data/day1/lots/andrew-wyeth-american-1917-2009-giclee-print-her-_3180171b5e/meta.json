@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/andrew-wyeth-american-1917-2009-giclee-print-her-_3180171b5e",
+    "slug": "andrew-wyeth-american-1917-2009-giclee-print-her-_3180171b5e",
+    "lot_number": "1163",
+    "title": "ANDREW WYETH (AMERICAN, 1917–2009), GICLEE PRINT, \"HER ROOM\"",
+    "estimate_low": 400,
+    "estimate_high": 600,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LuIxq0YrNgjhov_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L87Ts2wwmvfCuJ_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-Lu4w50biXQBESL": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lu4w50biXQBESL_thz.JPG"
+        },
+        "H0134-LcPmfBCPIgTvnR": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LcPmfBCPIgTvnR_thz.JPG"
+        },
+        "H0134-LuIxq0YrNgjhov": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LuIxq0YrNgjhov_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LuIxq0YrNgjhov_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LuIxq0YrNgjhov.JPG"
+        },
+        "H0134-L87Ts2wwmvfCuJ": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L87Ts2wwmvfCuJ_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L87Ts2wwmvfCuJ_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L87Ts2wwmvfCuJ.JPG"
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/4-18th-c-birdcage-windsor-side-chairs_c02300cb8e",
+    "slug": "4-18th-c-birdcage-windsor-side-chairs_c02300cb8e",
+    "lot_number": "2141",
+    "title": "(4) 18TH C. BIRDCAGE WINDSOR SIDE CHAIRS",
+    "estimate_low": 800,
+    "estimate_high": 1000,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LLpmxczUMnjCNo_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lr5BcaFihlgb3f_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LrudHiX0lkYAeV": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LrudHiX0lkYAeV_thz.JPG"
+        },
+        "H0134-LCICQv0meZAp5G": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LCICQv0meZAp5G_thz.JPG"
+        },
+        "H0134-LLpmxczUMnjCNo": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LLpmxczUMnjCNo_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LLpmxczUMnjCNo_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LLpmxczUMnjCNo.JPG"
+        },
+        "H0134-Lr5BcaFihlgb3f": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lr5BcaFihlgb3f_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lr5BcaFihlgb3f_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lr5BcaFihlgb3f.JPG"
+        }
+    }
+}

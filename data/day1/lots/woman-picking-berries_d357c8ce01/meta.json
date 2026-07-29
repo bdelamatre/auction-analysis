@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/woman-picking-berries_d357c8ce01",
+    "slug": "woman-picking-berries_d357c8ce01",
+    "lot_number": "1412",
+    "title": "WOMAN PICKING BERRIES",
+    "estimate_low": 300,
+    "estimate_high": 400,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LllmhuOjy2y79u_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LipnRU197ihhMy_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LjpERjbiPOAKhC_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lgria3nU7a8G3L_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-L4JMMZ4qMb5EwB": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L4JMMZ4qMb5EwB_thz.JPG"
+        },
+        "H0134-L2Lwv6LR1JWvYR": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L2Lwv6LR1JWvYR_thz.JPG"
+        },
+        "H0134-LllmhuOjy2y79u": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LllmhuOjy2y79u_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LllmhuOjy2y79u_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LllmhuOjy2y79u.JPG"
+        },
+        "H0134-LipnRU197ihhMy": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LipnRU197ihhMy_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LipnRU197ihhMy_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LipnRU197ihhMy.JPG"
+        },
+        "H0134-LjpERjbiPOAKhC": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LjpERjbiPOAKhC_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LjpERjbiPOAKhC_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LjpERjbiPOAKhC.JPG"
+        },
+        "H0134-Lgria3nU7a8G3L": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lgria3nU7a8G3L_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lgria3nU7a8G3L_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lgria3nU7a8G3L.JPG"
+        }
+    }
+}

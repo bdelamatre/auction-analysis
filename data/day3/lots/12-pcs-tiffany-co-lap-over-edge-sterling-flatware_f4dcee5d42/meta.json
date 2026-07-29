@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/12-pcs-tiffany-co-lap-over-edge-sterling-flatware_f4dcee5d42",
+    "slug": "12-pcs-tiffany-co-lap-over-edge-sterling-flatware_f4dcee5d42",
+    "lot_number": "3054",
+    "title": "(12 PCS) TIFFANY & CO. \"LAP OVER EDGE\" STERLING FLATWARE",
+    "estimate_low": 2000,
+    "estimate_high": 3000,
+    "current_bid": 1000,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LoVh411PcY42lu_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LOmhqJHgHfPcZ8_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LUC0gl7gv3DOS4": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LUC0gl7gv3DOS4_thz.JPG"
+        },
+        "H0134-LjqMer5N2x2jnF": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LjqMer5N2x2jnF_thz.JPG"
+        },
+        "H0134-LoVh411PcY42lu": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LoVh411PcY42lu_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LoVh411PcY42lu_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LoVh411PcY42lu.JPG"
+        },
+        "H0134-LOmhqJHgHfPcZ8": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LOmhqJHgHfPcZ8_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LOmhqJHgHfPcZ8_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LOmhqJHgHfPcZ8.JPG"
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/stow-wengenroth-american-1906-1978-tide-pool_88b4b941e6",
+    "slug": "stow-wengenroth-american-1906-1978-tide-pool_88b4b941e6",
+    "lot_number": "1314",
+    "title": "STOW WENGENROTH (AMERICAN, 1906-1978), TIDE POOL",
+    "estimate_low": 600,
+    "estimate_high": 800,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 1,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LX4gdDEOQ5axWt_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LswJMVf4BGTIQS": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LswJMVf4BGTIQS_thz.JPG"
+        },
+        "H0134-LLexL9DQoZkXoH": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LLexL9DQoZkXoH_thz.JPG"
+        },
+        "H0134-LX4gdDEOQ5axWt": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LX4gdDEOQ5axWt_original.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LX4gdDEOQ5axWt.JPG"
+        }
+    }
+}

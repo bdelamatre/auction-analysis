@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/leonardo-lasansky-ia-1946_967f12de23",
+    "slug": "leonardo-lasansky-ia-1946_967f12de23",
+    "lot_number": "3333",
+    "title": "LEONARDO LASANSKY (IA, 1946 - )",
+    "estimate_low": 600,
+    "estimate_high": 800,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L91d0XGh2kCytp_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LnG8HrG4raov99_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L8yD1kxACVie79_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LFX14iXfZxZRXP_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LgUYz8aknard1u": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LgUYz8aknard1u_thz.JPG"
+        },
+        "H0134-Lxn6Drh7imcHtp": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lxn6Drh7imcHtp_thz.JPG"
+        },
+        "H0134-L91d0XGh2kCytp": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L91d0XGh2kCytp_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L91d0XGh2kCytp_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L91d0XGh2kCytp.JPG"
+        },
+        "H0134-LnG8HrG4raov99": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LnG8HrG4raov99_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LnG8HrG4raov99_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LnG8HrG4raov99.JPG"
+        },
+        "H0134-L8yD1kxACVie79": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L8yD1kxACVie79_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L8yD1kxACVie79_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L8yD1kxACVie79.JPG"
+        },
+        "H0134-LFX14iXfZxZRXP": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LFX14iXfZxZRXP_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LFX14iXfZxZRXP_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LFX14iXfZxZRXP.JPG"
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/john-bisbee-me-1965_519be759c2",
+    "slug": "john-bisbee-me-1965_519be759c2",
+    "lot_number": "3300",
+    "title": "JOHN BISBEE (ME, 1965 - )",
+    "estimate_low": 3500,
+    "estimate_high": 5500,
+    "current_bid": 1700,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LUC43wGTfnHcDE_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L8gljcmbQ3GPex_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LvS8B9y5eWeIgc": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LvS8B9y5eWeIgc_thz.JPG"
+        },
+        "H0134-L2j7OHhJrUinKb": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L2j7OHhJrUinKb_thz.JPG"
+        },
+        "H0134-LUC43wGTfnHcDE": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LUC43wGTfnHcDE_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LUC43wGTfnHcDE_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LUC43wGTfnHcDE.JPG"
+        },
+        "H0134-L8gljcmbQ3GPex": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L8gljcmbQ3GPex_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L8gljcmbQ3GPex_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L8gljcmbQ3GPex.JPG"
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/jill-hoy-late-20th-early-21st-c-maine_5aaeec628e",
+    "slug": "jill-hoy-late-20th-early-21st-c-maine_5aaeec628e",
+    "lot_number": "3383",
+    "title": "JILL HOY (LATE 20TH - EARLY 21ST C. MAINE)",
+    "estimate_low": 4000,
+    "estimate_high": 5000,
+    "current_bid": 2000,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LqyjWq9gLdi3BX_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LYgrrvletA9CNE_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L7oWyGs8vxw0fC_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LBBe0vwLFudphe_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-L40xPh9zKsxzNK": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L40xPh9zKsxzNK_thz.JPG"
+        },
+        "H0134-Lh3xqTMvUXb0lM": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lh3xqTMvUXb0lM_thz.JPG"
+        },
+        "H0134-LqyjWq9gLdi3BX": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LqyjWq9gLdi3BX_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LqyjWq9gLdi3BX_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LqyjWq9gLdi3BX.JPG"
+        },
+        "H0134-LYgrrvletA9CNE": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LYgrrvletA9CNE_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LYgrrvletA9CNE_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LYgrrvletA9CNE.JPG"
+        },
+        "H0134-L7oWyGs8vxw0fC": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L7oWyGs8vxw0fC_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L7oWyGs8vxw0fC_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L7oWyGs8vxw0fC.JPG"
+        },
+        "H0134-LBBe0vwLFudphe": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LBBe0vwLFudphe_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LBBe0vwLFudphe_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LBBe0vwLFudphe.JPG"
+        }
+    }
+}

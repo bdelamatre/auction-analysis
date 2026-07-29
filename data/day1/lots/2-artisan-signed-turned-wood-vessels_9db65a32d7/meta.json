@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/2-artisan-signed-turned-wood-vessels_9db65a32d7",
+    "slug": "2-artisan-signed-turned-wood-vessels_9db65a32d7",
+    "lot_number": "1082",
+    "title": "(2) ARTISAN SIGNED TURNED WOOD VESSELS",
+    "estimate_low": 300,
+    "estimate_high": 500,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LmfT5aYVnE4G1T_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LOcPwbnXbs8XBP_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LbCzwgAgrKSyQM_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LuyNqgYu2Qhq28": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LuyNqgYu2Qhq28_thz.JPG"
+        },
+        "H0134-LRi9OvVDwekJxm": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LRi9OvVDwekJxm_thz.JPG"
+        },
+        "H0134-LmfT5aYVnE4G1T": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LmfT5aYVnE4G1T_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LmfT5aYVnE4G1T_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LmfT5aYVnE4G1T.JPG"
+        },
+        "H0134-LOcPwbnXbs8XBP": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LOcPwbnXbs8XBP_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LOcPwbnXbs8XBP_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LOcPwbnXbs8XBP.JPG"
+        },
+        "H0134-LbCzwgAgrKSyQM": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LbCzwgAgrKSyQM_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LbCzwgAgrKSyQM_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LbCzwgAgrKSyQM.JPG"
+        }
+    }
+}

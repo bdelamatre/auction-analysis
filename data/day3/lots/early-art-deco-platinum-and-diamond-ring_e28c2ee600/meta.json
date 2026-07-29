@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/early-art-deco-platinum-and-diamond-ring_e28c2ee600",
+    "slug": "early-art-deco-platinum-and-diamond-ring_e28c2ee600",
+    "lot_number": "3197",
+    "title": "EARLY ART DECO PLATINUM AND DIAMOND RING",
+    "estimate_low": 4000,
+    "estimate_high": 5000,
+    "current_bid": 2000,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LEgtellDJnUTst_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lpb262EPQHU9L4_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-L4cIigwbkhSgnx": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L4cIigwbkhSgnx_thz.JPG"
+        },
+        "H0134-LOBChSIza3lfNp": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LOBChSIza3lfNp_thz.JPG"
+        },
+        "H0134-LEgtellDJnUTst": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LEgtellDJnUTst_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LEgtellDJnUTst_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LEgtellDJnUTst.JPG"
+        },
+        "H0134-Lpb262EPQHU9L4": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lpb262EPQHU9L4_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lpb262EPQHU9L4_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lpb262EPQHU9L4.JPG"
+        }
+    }
+}

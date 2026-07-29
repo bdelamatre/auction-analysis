@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/marguerite-mackain-langlois-1886-1979-literary-pr_389452d415",
+    "slug": "marguerite-mackain-langlois-1886-1979-literary-pr_389452d415",
+    "lot_number": "1473",
+    "title": "MARGUERITE MACKAIN-LANGLOIS (1886-1979) LITERARY PRINT",
+    "estimate_low": 200,
+    "estimate_high": 300,
+    "current_bid": 50,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LHO6GGqQbQBoRh_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L1s9FOUrN55ooM_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LdSPouCVD3wmPi_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LmR20hNHhAksJz": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LmR20hNHhAksJz_thz.JPG"
+        },
+        "H0134-LP46VwOkyJs86k": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LP46VwOkyJs86k_thz.JPG"
+        },
+        "H0134-LHO6GGqQbQBoRh": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LHO6GGqQbQBoRh_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LHO6GGqQbQBoRh_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LHO6GGqQbQBoRh.JPG"
+        },
+        "H0134-L1s9FOUrN55ooM": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L1s9FOUrN55ooM_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L1s9FOUrN55ooM_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L1s9FOUrN55ooM.JPG"
+        },
+        "H0134-LdSPouCVD3wmPi": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LdSPouCVD3wmPi_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LdSPouCVD3wmPi_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LdSPouCVD3wmPi.JPG"
+        }
+    }
+}

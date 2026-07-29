@@ -1,0 +1,52 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/2-k-rasmussen-midcentury-reclining-lounge-chairs_244c6ab10a",
+    "slug": "2-k-rasmussen-midcentury-reclining-lounge-chairs_244c6ab10a",
+    "lot_number": "3250",
+    "title": "(2) K. RASMUSSEN MIDCENTURY RECLINING LOUNGE CHAIRS",
+    "estimate_low": 2000,
+    "estimate_high": 3000,
+    "current_bid": 1000,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 5,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LCjUa3c90fedcA_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L8zcv8a07fx4g8_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LscQ5aqzEPdV4L_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LFp6woqVys6eGj_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Ly04pbeg0Jghw3_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-L5XA4AIwIzJQkl": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L5XA4AIwIzJQkl_thz.JPG"
+        },
+        "H0134-LcdhcGdYudsmBK": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LcdhcGdYudsmBK_thz.JPG"
+        },
+        "H0134-LCjUa3c90fedcA": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LCjUa3c90fedcA_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LCjUa3c90fedcA_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LCjUa3c90fedcA.JPG"
+        },
+        "H0134-L8zcv8a07fx4g8": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L8zcv8a07fx4g8_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L8zcv8a07fx4g8_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L8zcv8a07fx4g8.JPG"
+        },
+        "H0134-LscQ5aqzEPdV4L": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LscQ5aqzEPdV4L_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LscQ5aqzEPdV4L_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LscQ5aqzEPdV4L.JPG"
+        },
+        "H0134-LFp6woqVys6eGj": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LFp6woqVys6eGj_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LFp6woqVys6eGj_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LFp6woqVys6eGj.JPG"
+        },
+        "H0134-Ly04pbeg0Jghw3": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Ly04pbeg0Jghw3_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Ly04pbeg0Jghw3_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Ly04pbeg0Jghw3.JPG"
+        }
+    }
+}

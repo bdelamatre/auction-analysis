@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/tiffany-co-hammered-sterling-japonesque-pitcher_8f413f34a4",
+    "slug": "tiffany-co-hammered-sterling-japonesque-pitcher_8f413f34a4",
+    "lot_number": "3053",
+    "title": "TIFFANY & CO. HAMMERED STERLING JAPONESQUE PITCHER",
+    "estimate_low": 3000,
+    "estimate_high": 5000,
+    "current_bid": 1500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LUC0gl7gv3DOS4_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LetBdapa35Rqel_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LWLgMIZ2vehTuE_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LKRQg9pssBxw2k": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LKRQg9pssBxw2k_thz.JPG"
+        },
+        "H0134-LoVh411PcY42lu": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LoVh411PcY42lu_thz.JPG"
+        },
+        "H0134-LUC0gl7gv3DOS4": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LUC0gl7gv3DOS4_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LUC0gl7gv3DOS4_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LUC0gl7gv3DOS4.JPG"
+        },
+        "H0134-LetBdapa35Rqel": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LetBdapa35Rqel_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LetBdapa35Rqel_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LetBdapa35Rqel.JPG"
+        },
+        "H0134-LWLgMIZ2vehTuE": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LWLgMIZ2vehTuE_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LWLgMIZ2vehTuE_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LWLgMIZ2vehTuE.JPG"
+        }
+    }
+}

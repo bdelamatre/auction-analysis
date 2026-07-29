@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/circa-1925-portrait-of-a-gypsy-girl-unsigned_aefafe7945",
+    "slug": "circa-1925-portrait-of-a-gypsy-girl-unsigned_aefafe7945",
+    "lot_number": "3170",
+    "title": "CIRCA 1925 PORTRAIT OF A GYPSY GIRL, UNSIGNED",
+    "estimate_low": 1500,
+    "estimate_high": 2500,
+    "current_bid": 750,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LiP0LWF3UiHc3d_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LVBF0h1gYtQpne_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LTwnQth8aZf1Lk": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LTwnQth8aZf1Lk_thz.JPG"
+        },
+        "H0134-LyuH0FFWc4juih": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LyuH0FFWc4juih_thz.JPG"
+        },
+        "H0134-LiP0LWF3UiHc3d": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LiP0LWF3UiHc3d_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LiP0LWF3UiHc3d_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LiP0LWF3UiHc3d.JPG"
+        },
+        "H0134-LVBF0h1gYtQpne": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LVBF0h1gYtQpne_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LVBF0h1gYtQpne_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LVBF0h1gYtQpne.JPG"
+        }
+    }
+}

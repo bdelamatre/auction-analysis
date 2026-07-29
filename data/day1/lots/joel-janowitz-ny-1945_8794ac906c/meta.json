@@ -1,0 +1,52 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/joel-janowitz-ny-1945_8794ac906c",
+    "slug": "joel-janowitz-ny-1945_8794ac906c",
+    "lot_number": "1189",
+    "title": "JOEL JANOWITZ (NY, 1945 - )",
+    "estimate_low": 500,
+    "estimate_high": 1000,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 5,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LzQBZURsHj4sJp_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lt96QM5WXvXyqW_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LjKDO5YCiBUOFF_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lu6foADRv0iDV7_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LLRpp7QzJe4xPP_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-Lckyqhz57by4Tj": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lckyqhz57by4Tj_thz.JPG"
+        },
+        "H0134-LLjVf6LV2vJyz1": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LLjVf6LV2vJyz1_thz.JPG"
+        },
+        "H0134-LzQBZURsHj4sJp": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LzQBZURsHj4sJp_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LzQBZURsHj4sJp_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LzQBZURsHj4sJp.JPG"
+        },
+        "H0134-Lt96QM5WXvXyqW": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lt96QM5WXvXyqW_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lt96QM5WXvXyqW_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lt96QM5WXvXyqW.JPG"
+        },
+        "H0134-LjKDO5YCiBUOFF": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LjKDO5YCiBUOFF_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LjKDO5YCiBUOFF_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LjKDO5YCiBUOFF.JPG"
+        },
+        "H0134-Lu6foADRv0iDV7": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lu6foADRv0iDV7_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lu6foADRv0iDV7_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lu6foADRv0iDV7.JPG"
+        },
+        "H0134-LLRpp7QzJe4xPP": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LLRpp7QzJe4xPP_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LLRpp7QzJe4xPP_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LLRpp7QzJe4xPP.JPG"
+        }
+    }
+}

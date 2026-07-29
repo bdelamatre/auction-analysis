@@ -1,0 +1,52 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/laura-d-stroud-ladd-pa-1864-1943_b2bd74b73d",
+    "slug": "laura-d-stroud-ladd-pa-1864-1943_b2bd74b73d",
+    "lot_number": "3172",
+    "title": "LAURA D. STROUD LADD (PA, 1864-1943)",
+    "estimate_low": 1500,
+    "estimate_high": 2000,
+    "current_bid": 750,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 5,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LnZnmLVxl3pZlu_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LIHKdKQWj4s5zA_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L3z1EYB39vLY35_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LbABD5VmsFOwgw_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LRDEJ5WJ6zB7Tf_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LyuH0FFWc4juih": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LyuH0FFWc4juih_thz.JPG"
+        },
+        "H0134-LfssqBPvjcLV4c": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LfssqBPvjcLV4c_thz.JPG"
+        },
+        "H0134-LnZnmLVxl3pZlu": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LnZnmLVxl3pZlu_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LnZnmLVxl3pZlu_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LnZnmLVxl3pZlu.JPG"
+        },
+        "H0134-LIHKdKQWj4s5zA": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LIHKdKQWj4s5zA_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LIHKdKQWj4s5zA_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LIHKdKQWj4s5zA.JPG"
+        },
+        "H0134-L3z1EYB39vLY35": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L3z1EYB39vLY35_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L3z1EYB39vLY35_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L3z1EYB39vLY35.JPG"
+        },
+        "H0134-LbABD5VmsFOwgw": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LbABD5VmsFOwgw_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LbABD5VmsFOwgw_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LbABD5VmsFOwgw.JPG"
+        },
+        "H0134-LRDEJ5WJ6zB7Tf": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LRDEJ5WJ6zB7Tf_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LRDEJ5WJ6zB7Tf_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LRDEJ5WJ6zB7Tf.JPG"
+        }
+    }
+}

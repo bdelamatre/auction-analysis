@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/cased-56-pcs-reed-barton-francis-i-pattern-flatwa_0c49d3cf7a",
+    "slug": "cased-56-pcs-reed-barton-francis-i-pattern-flatwa_0c49d3cf7a",
+    "lot_number": "3143",
+    "title": "CASED (56 PCS) REED & BARTON \"FRANCIS I\" PATTERN FLATWARE",
+    "estimate_low": 3000,
+    "estimate_high": 3500,
+    "current_bid": 1500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L1mcFAKYnrQmj0_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LIRtBf9Ac5AFqz_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LDK9eGXTJE3Q9R_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LX27qTNbWPZ6fT": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LX27qTNbWPZ6fT_thz.JPG"
+        },
+        "H0134-LY3fRwGYiFWYqI": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LY3fRwGYiFWYqI_thz.JPG"
+        },
+        "H0134-L1mcFAKYnrQmj0": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L1mcFAKYnrQmj0_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L1mcFAKYnrQmj0_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L1mcFAKYnrQmj0.JPG"
+        },
+        "H0134-LIRtBf9Ac5AFqz": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LIRtBf9Ac5AFqz_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LIRtBf9Ac5AFqz_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LIRtBf9Ac5AFqz.JPG"
+        },
+        "H0134-LDK9eGXTJE3Q9R": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LDK9eGXTJE3Q9R_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LDK9eGXTJE3Q9R_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LDK9eGXTJE3Q9R.JPG"
+        }
+    }
+}

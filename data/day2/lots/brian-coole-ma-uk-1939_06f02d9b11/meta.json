@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/brian-coole-ma-uk-1939_06f02d9b11",
+    "slug": "brian-coole-ma-uk-1939_06f02d9b11",
+    "lot_number": "2016",
+    "title": "BRIAN COOLE, (MA/UK, 1939 - )",
+    "estimate_low": 4000,
+    "estimate_high": 6000,
+    "current_bid": 2000,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LK2KnIGUhfBGuo_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L1T36BYVwCCSI6_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lr3FGOPSWXuLPU_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LAfabvPesVO8Vx": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LAfabvPesVO8Vx_thz.JPG"
+        },
+        "H0134-LDCvQQuVMgjXO0": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LDCvQQuVMgjXO0_thz.JPG"
+        },
+        "H0134-LK2KnIGUhfBGuo": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LK2KnIGUhfBGuo_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LK2KnIGUhfBGuo_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LK2KnIGUhfBGuo.JPG"
+        },
+        "H0134-L1T36BYVwCCSI6": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L1T36BYVwCCSI6_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L1T36BYVwCCSI6_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L1T36BYVwCCSI6.JPG"
+        },
+        "H0134-Lr3FGOPSWXuLPU": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lr3FGOPSWXuLPU_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lr3FGOPSWXuLPU_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lr3FGOPSWXuLPU.JPG"
+        }
+    }
+}

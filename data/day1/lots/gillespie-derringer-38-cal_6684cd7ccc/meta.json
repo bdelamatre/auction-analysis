@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/gillespie-derringer-38-cal_6684cd7ccc",
+    "slug": "gillespie-derringer-38-cal_6684cd7ccc",
+    "lot_number": "1228",
+    "title": "GILLESPIE DERRINGER, .38 CAL",
+    "estimate_low": 500,
+    "estimate_high": 700,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L0va56al3fHGX9_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lh0MXIRWxAuqXH_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LgQjHDHPD4zizM_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LkzOL2yUsnAkyJ": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LkzOL2yUsnAkyJ_thz.JPG"
+        },
+        "H0134-LQrMGaoS3Ud28u": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LQrMGaoS3Ud28u_thz.JPG"
+        },
+        "H0134-L0va56al3fHGX9": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L0va56al3fHGX9_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L0va56al3fHGX9_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L0va56al3fHGX9.JPG"
+        },
+        "H0134-Lh0MXIRWxAuqXH": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lh0MXIRWxAuqXH_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lh0MXIRWxAuqXH_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lh0MXIRWxAuqXH.JPG"
+        },
+        "H0134-LgQjHDHPD4zizM": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LgQjHDHPD4zizM_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LgQjHDHPD4zizM_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LgQjHDHPD4zizM.JPG"
+        }
+    }
+}

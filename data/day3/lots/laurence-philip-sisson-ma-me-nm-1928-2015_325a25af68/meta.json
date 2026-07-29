@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/laurence-philip-sisson-ma-me-nm-1928-2015_325a25af68",
+    "slug": "laurence-philip-sisson-ma-me-nm-1928-2015_325a25af68",
+    "lot_number": "3440",
+    "title": "LAURENCE PHILIP SISSON (MA/ME/NM, 1928-2015)",
+    "estimate_low": 500,
+    "estimate_high": 700,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LIbHfABrvvWvaA_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lp29OHLbynqhbl_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LnbVvM0ax2XAyj_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LLbY6XqXbrLfig": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LLbY6XqXbrLfig_thz.JPG"
+        },
+        "H0134-LbVSQrKAUNLTOJ": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LbVSQrKAUNLTOJ_thz.JPG"
+        },
+        "H0134-LIbHfABrvvWvaA": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LIbHfABrvvWvaA_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LIbHfABrvvWvaA_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LIbHfABrvvWvaA.JPG"
+        },
+        "H0134-Lp29OHLbynqhbl": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lp29OHLbynqhbl_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lp29OHLbynqhbl_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lp29OHLbynqhbl.JPG"
+        },
+        "H0134-LnbVvM0ax2XAyj": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LnbVvM0ax2XAyj_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LnbVvM0ax2XAyj_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LnbVvM0ax2XAyj.JPG"
+        }
+    }
+}

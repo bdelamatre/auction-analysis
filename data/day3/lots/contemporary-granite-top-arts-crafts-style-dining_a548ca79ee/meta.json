@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/contemporary-granite-top-arts-crafts-style-dining_a548ca79ee",
+    "slug": "contemporary-granite-top-arts-crafts-style-dining_a548ca79ee",
+    "lot_number": "3269",
+    "title": "CONTEMPORARY GRANITE TOP ARTS & CRAFTS STYLE DINING TABLE",
+    "estimate_low": 1000,
+    "estimate_high": 1500,
+    "current_bid": 500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LFCtfiVtj4cebz_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LzNMaNggoFSLy9_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LNdbOJ1RGVuGnm": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LNdbOJ1RGVuGnm_thz.JPG"
+        },
+        "H0134-L5jzVn55LwYC1y": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L5jzVn55LwYC1y_thz.JPG"
+        },
+        "H0134-LFCtfiVtj4cebz": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LFCtfiVtj4cebz_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LFCtfiVtj4cebz_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LFCtfiVtj4cebz.JPG"
+        },
+        "H0134-LzNMaNggoFSLy9": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LzNMaNggoFSLy9_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LzNMaNggoFSLy9_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LzNMaNggoFSLy9.JPG"
+        }
+    }
+}

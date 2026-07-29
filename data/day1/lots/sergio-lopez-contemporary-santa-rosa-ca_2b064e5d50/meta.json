@@ -1,0 +1,52 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/sergio-lopez-contemporary-santa-rosa-ca_2b064e5d50",
+    "slug": "sergio-lopez-contemporary-santa-rosa-ca_2b064e5d50",
+    "lot_number": "1095",
+    "title": "SERGIO LOPEZ (CONTEMPORARY SANTA ROSA, CA)",
+    "estimate_low": 600,
+    "estimate_high": 800,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 5,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LCdEssp6Q0ywcA_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lvrdqgw5hmUYyB_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lylvouq6wGbnz9_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LUeLS65J3TJMmO_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Ln3QOCfbN7XqAn_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LkGR4APRtGkEtn": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LkGR4APRtGkEtn_thz.JPG"
+        },
+        "H0134-Lv7JzOmLx4ZMNw": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lv7JzOmLx4ZMNw_thz.JPG"
+        },
+        "H0134-LCdEssp6Q0ywcA": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LCdEssp6Q0ywcA_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LCdEssp6Q0ywcA_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LCdEssp6Q0ywcA.JPG"
+        },
+        "H0134-Lvrdqgw5hmUYyB": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lvrdqgw5hmUYyB_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lvrdqgw5hmUYyB_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lvrdqgw5hmUYyB.JPG"
+        },
+        "H0134-Lylvouq6wGbnz9": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lylvouq6wGbnz9_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lylvouq6wGbnz9_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lylvouq6wGbnz9.JPG"
+        },
+        "H0134-LUeLS65J3TJMmO": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LUeLS65J3TJMmO_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LUeLS65J3TJMmO_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LUeLS65J3TJMmO.JPG"
+        },
+        "H0134-Ln3QOCfbN7XqAn": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Ln3QOCfbN7XqAn_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Ln3QOCfbN7XqAn_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Ln3QOCfbN7XqAn.JPG"
+        }
+    }
+}

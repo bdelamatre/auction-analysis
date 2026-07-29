@@ -1,0 +1,27 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/international-watch-co-18k-gold-automatic-de-luxe_91f9d04f66",
+    "slug": "international-watch-co-18k-gold-automatic-de-luxe_91f9d04f66",
+    "lot_number": "3198",
+    "title": "INTERNATIONAL WATCH CO. 18K GOLD AUTOMATIC DE LUXE WRISTWATCH",
+    "estimate_low": 800,
+    "estimate_high": 1500,
+    "current_bid": 275,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 1,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LOBChSIza3lfNp_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LEgtellDJnUTst": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LEgtellDJnUTst_thz.JPG"
+        },
+        "H0134-LZQ5eSD3pZobwv": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LZQ5eSD3pZobwv_thz.JPG"
+        },
+        "H0134-LOBChSIza3lfNp": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LOBChSIza3lfNp_original.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LOBChSIza3lfNp.JPG"
+        }
+    }
+}

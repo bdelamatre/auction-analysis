@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/3-chinese-export-pith-paper-paintings-of-figural-_2bb7fe7cf6",
+    "slug": "3-chinese-export-pith-paper-paintings-of-figural-_2bb7fe7cf6",
+    "lot_number": "2485",
+    "title": "(3) CHINESE EXPORT PITH PAPER PAINTINGS OF FIGURAL BOATS AND PROCESSIONAL SCENES",
+    "estimate_low": 600,
+    "estimate_high": 800,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LbbvJEPnOXOpmR_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LQvEZ290YkbY2K_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LPALUUG0fgjv1S_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LFGfXKJwvIKs69_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-Ldfz8TDML0AMGD": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Ldfz8TDML0AMGD_thz.JPG"
+        },
+        "H0134-LhQjK8kkmsyPPV": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LhQjK8kkmsyPPV_thz.JPG"
+        },
+        "H0134-LbbvJEPnOXOpmR": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LbbvJEPnOXOpmR_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LbbvJEPnOXOpmR_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LbbvJEPnOXOpmR.JPG"
+        },
+        "H0134-LQvEZ290YkbY2K": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LQvEZ290YkbY2K_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LQvEZ290YkbY2K_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LQvEZ290YkbY2K.JPG"
+        },
+        "H0134-LPALUUG0fgjv1S": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LPALUUG0fgjv1S_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LPALUUG0fgjv1S_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LPALUUG0fgjv1S.JPG"
+        },
+        "H0134-LFGfXKJwvIKs69": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LFGfXKJwvIKs69_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LFGfXKJwvIKs69_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LFGfXKJwvIKs69.JPG"
+        }
+    }
+}

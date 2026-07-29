@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/19th-c-english-tortoiseshell-tea-caddy_c2ca75de67",
+    "slug": "19th-c-english-tortoiseshell-tea-caddy_c2ca75de67",
+    "lot_number": "2272",
+    "title": "19TH C. ENGLISH TORTOISESHELL TEA CADDY",
+    "estimate_low": 1200,
+    "estimate_high": 1600,
+    "current_bid": 600,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L6ohdGgUQSGCLR_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LsbaQBGBAcn6Jr_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lbl9wq6DhvSo5h_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LMWYXkWGxpmRSG": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LMWYXkWGxpmRSG_thz.JPG"
+        },
+        "H0134-LBOh50zwKG9WqA": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LBOh50zwKG9WqA_thz.JPG"
+        },
+        "H0134-L6ohdGgUQSGCLR": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L6ohdGgUQSGCLR_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L6ohdGgUQSGCLR_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L6ohdGgUQSGCLR.JPG"
+        },
+        "H0134-LsbaQBGBAcn6Jr": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LsbaQBGBAcn6Jr_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LsbaQBGBAcn6Jr_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LsbaQBGBAcn6Jr.JPG"
+        },
+        "H0134-Lbl9wq6DhvSo5h": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lbl9wq6DhvSo5h_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lbl9wq6DhvSo5h_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lbl9wq6DhvSo5h.JPG"
+        }
+    }
+}

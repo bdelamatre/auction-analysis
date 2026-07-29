@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/victorian-walnut-etagere_2721fb5938",
+    "slug": "victorian-walnut-etagere_2721fb5938",
+    "lot_number": "3102",
+    "title": "VICTORIAN WALNUT ETAGERE",
+    "estimate_low": 800,
+    "estimate_high": 1200,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L5eE6d647Om6Yb_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L5AfZBt0LqfmZC_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LKOFwsxxNGaR1h_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-L3K0HR9MnUSM3T": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L3K0HR9MnUSM3T_thz.JPG"
+        },
+        "H0134-LTXrCVtJGpVOec": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LTXrCVtJGpVOec_thz.JPG"
+        },
+        "H0134-L5eE6d647Om6Yb": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L5eE6d647Om6Yb_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L5eE6d647Om6Yb_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L5eE6d647Om6Yb.JPG"
+        },
+        "H0134-L5AfZBt0LqfmZC": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L5AfZBt0LqfmZC_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L5AfZBt0LqfmZC_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L5AfZBt0LqfmZC.JPG"
+        },
+        "H0134-LKOFwsxxNGaR1h": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LKOFwsxxNGaR1h_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LKOFwsxxNGaR1h_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LKOFwsxxNGaR1h.JPG"
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/14k-rose-gold-and-diamond-ring_f8b0651a5c",
+    "slug": "14k-rose-gold-and-diamond-ring_f8b0651a5c",
+    "lot_number": "3091",
+    "title": "14K ROSE GOLD AND DIAMOND RING",
+    "estimate_low": 2000,
+    "estimate_high": 3000,
+    "current_bid": 1000,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 1,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LndHqvJRXHtSWm_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LX0qHQJW9wp6LH": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LX0qHQJW9wp6LH_thz.JPG"
+        },
+        "H0134-LFbyIk1lGnrqQi": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LFbyIk1lGnrqQi_thz.JPG"
+        },
+        "H0134-LndHqvJRXHtSWm": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LndHqvJRXHtSWm_original.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LndHqvJRXHtSWm.JPG"
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/vintage-18k-gold-emerald-and-diamond-ring_baf8c5a119",
+    "slug": "vintage-18k-gold-emerald-and-diamond-ring_baf8c5a119",
+    "lot_number": "3182",
+    "title": "VINTAGE 18K GOLD, EMERALD AND DIAMOND RING",
+    "estimate_low": 2000,
+    "estimate_high": 3000,
+    "current_bid": 1000,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LkEE2vBSjTXxY3_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L8WDgIadYuPhky_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LYxVd8nAwwAzRH_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LO1SLFiucyedXd": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LO1SLFiucyedXd_thz.JPG"
+        },
+        "H0134-Lgml8S2nclS0nu": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lgml8S2nclS0nu_thz.JPG"
+        },
+        "H0134-LkEE2vBSjTXxY3": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LkEE2vBSjTXxY3_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LkEE2vBSjTXxY3_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LkEE2vBSjTXxY3.JPG"
+        },
+        "H0134-L8WDgIadYuPhky": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L8WDgIadYuPhky_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L8WDgIadYuPhky_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L8WDgIadYuPhky.JPG"
+        },
+        "H0134-LYxVd8nAwwAzRH": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LYxVd8nAwwAzRH_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LYxVd8nAwwAzRH_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LYxVd8nAwwAzRH.JPG"
+        }
+    }
+}

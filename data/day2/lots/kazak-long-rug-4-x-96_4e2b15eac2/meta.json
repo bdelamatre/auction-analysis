@@ -1,0 +1,52 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/kazak-long-rug-4-x-96_4e2b15eac2",
+    "slug": "kazak-long-rug-4-x-96_4e2b15eac2",
+    "lot_number": "2187",
+    "title": "KAZAK LONG RUG (4\" X 9\"6\")",
+    "estimate_low": 1000,
+    "estimate_high": 1500,
+    "current_bid": 500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 5,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LA9RfsCo04PASS_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LwXGnTrTqsfobE_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lmiv0iBGRBxvOD_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LBc61JcAMqLn50_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LW59z97Xwo6l91_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-L0bXYwSSY3LR2t": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L0bXYwSSY3LR2t_thz.JPG"
+        },
+        "H0134-Lbg7aauVNh8G3S": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lbg7aauVNh8G3S_thz.JPG"
+        },
+        "H0134-LA9RfsCo04PASS": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LA9RfsCo04PASS_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LA9RfsCo04PASS_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LA9RfsCo04PASS.JPG"
+        },
+        "H0134-LwXGnTrTqsfobE": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LwXGnTrTqsfobE_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LwXGnTrTqsfobE_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LwXGnTrTqsfobE.JPG"
+        },
+        "H0134-Lmiv0iBGRBxvOD": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lmiv0iBGRBxvOD_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lmiv0iBGRBxvOD_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lmiv0iBGRBxvOD.JPG"
+        },
+        "H0134-LBc61JcAMqLn50": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LBc61JcAMqLn50_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LBc61JcAMqLn50_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LBc61JcAMqLn50.JPG"
+        },
+        "H0134-LW59z97Xwo6l91": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LW59z97Xwo6l91_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LW59z97Xwo6l91_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LW59z97Xwo6l91.JPG"
+        }
+    }
+}

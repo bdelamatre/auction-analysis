@@ -1,0 +1,52 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/lothar-burger-austria-1866-1943_3f635e2441",
+    "slug": "lothar-burger-austria-1866-1943_3f635e2441",
+    "lot_number": "1444",
+    "title": "LOTHAR BURGER (AUSTRIA, 1866-1943)",
+    "estimate_low": 300,
+    "estimate_high": 500,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 5,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LyQfWGHXaHNFUY_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LZrOQw00IgPpdg_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L85s4FipfsTWYc_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LuRgR0pFf8Ygip_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LJPv9QtaKWfbal_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-Lx33vDy4lDLTT9": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lx33vDy4lDLTT9_thz.JPG"
+        },
+        "H0134-L2KCDBr2ILJO8L": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L2KCDBr2ILJO8L_thz.JPG"
+        },
+        "H0134-LyQfWGHXaHNFUY": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LyQfWGHXaHNFUY_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LyQfWGHXaHNFUY_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LyQfWGHXaHNFUY.JPG"
+        },
+        "H0134-LZrOQw00IgPpdg": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LZrOQw00IgPpdg_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LZrOQw00IgPpdg_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LZrOQw00IgPpdg.JPG"
+        },
+        "H0134-L85s4FipfsTWYc": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L85s4FipfsTWYc_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L85s4FipfsTWYc_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L85s4FipfsTWYc.JPG"
+        },
+        "H0134-LuRgR0pFf8Ygip": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LuRgR0pFf8Ygip_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LuRgR0pFf8Ygip_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LuRgR0pFf8Ygip.JPG"
+        },
+        "H0134-LJPv9QtaKWfbal": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LJPv9QtaKWfbal_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LJPv9QtaKWfbal_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LJPv9QtaKWfbal.JPG"
+        }
+    }
+}

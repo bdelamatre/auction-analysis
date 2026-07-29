@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/vernon-george-broe-me-il-1930-2011_2ebace4a22",
+    "slug": "vernon-george-broe-me-il-1930-2011_2ebace4a22",
+    "lot_number": "3358",
+    "title": "VERNON GEORGE BROE (ME/IL, 1930-2011)",
+    "estimate_low": 800,
+    "estimate_high": 1200,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LiH7NleGWB3ur4_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L7zg2Dtak3Gdgr_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LnVNI1ZTDrL4Tj_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LZPXinU9R70aEt": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LZPXinU9R70aEt_thz.JPG"
+        },
+        "H0134-LexS8WGjySoWQC": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LexS8WGjySoWQC_thz.JPG"
+        },
+        "H0134-LiH7NleGWB3ur4": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LiH7NleGWB3ur4_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LiH7NleGWB3ur4_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LiH7NleGWB3ur4.JPG"
+        },
+        "H0134-L7zg2Dtak3Gdgr": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L7zg2Dtak3Gdgr_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L7zg2Dtak3Gdgr_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L7zg2Dtak3Gdgr.JPG"
+        },
+        "H0134-LnVNI1ZTDrL4Tj": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LnVNI1ZTDrL4Tj_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LnVNI1ZTDrL4Tj_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LnVNI1ZTDrL4Tj.JPG"
+        }
+    }
+}

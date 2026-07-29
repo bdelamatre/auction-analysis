@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/henrik-martin-meyer-nh-ct-me-1908-1972_6571b5229c",
+    "slug": "henrik-martin-meyer-nh-ct-me-1908-1972_6571b5229c",
+    "lot_number": "3404",
+    "title": "HENRIK MARTIN MEYER (NH/CT/ME, 1908-1972)",
+    "estimate_low": 1000,
+    "estimate_high": 1500,
+    "current_bid": 500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L3RNG78AXsM6LP_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LxEdNgebuXjHQG_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lm3ErxDZo0V1AR_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lbt46PeqlQv7Cu_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LOdp2PNCEBkJ1S": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LOdp2PNCEBkJ1S_thz.JPG"
+        },
+        "H0134-Lq7MpeZvrc7sPS": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lq7MpeZvrc7sPS_thz.JPG"
+        },
+        "H0134-L3RNG78AXsM6LP": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L3RNG78AXsM6LP_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L3RNG78AXsM6LP_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L3RNG78AXsM6LP.JPG"
+        },
+        "H0134-LxEdNgebuXjHQG": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LxEdNgebuXjHQG_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LxEdNgebuXjHQG_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LxEdNgebuXjHQG.JPG"
+        },
+        "H0134-Lm3ErxDZo0V1AR": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lm3ErxDZo0V1AR_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lm3ErxDZo0V1AR_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lm3ErxDZo0V1AR.JPG"
+        },
+        "H0134-Lbt46PeqlQv7Cu": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lbt46PeqlQv7Cu_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lbt46PeqlQv7Cu_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lbt46PeqlQv7Cu.JPG"
+        }
+    }
+}

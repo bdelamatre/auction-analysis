@@ -1,0 +1,52 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/2-richard-g-robertson-american-1943-2016-bizen-st_875a3b45f4",
+    "slug": "2-richard-g-robertson-american-1943-2016-bizen-st_875a3b45f4",
+    "lot_number": "1139",
+    "title": "(2) RICHARD G. ROBERTSON (AMERICAN, 1943-2016) BIZEN-STYLE STONEWARE",
+    "estimate_low": 300,
+    "estimate_high": 500,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 5,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LKhKojwWl0sbZk_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Ld0692O2XuSSJk_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LUVF8a4TVtBYTT_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LKZxtaIJhOOaBP_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LkAPnkDzHnbgVF_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-L2SrReljHAFilw": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L2SrReljHAFilw_thz.JPG"
+        },
+        "H0134-LMLoauCUPcSKhR": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LMLoauCUPcSKhR_thz.JPG"
+        },
+        "H0134-LKhKojwWl0sbZk": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LKhKojwWl0sbZk_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LKhKojwWl0sbZk_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LKhKojwWl0sbZk.JPG"
+        },
+        "H0134-Ld0692O2XuSSJk": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Ld0692O2XuSSJk_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Ld0692O2XuSSJk_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Ld0692O2XuSSJk.JPG"
+        },
+        "H0134-LUVF8a4TVtBYTT": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LUVF8a4TVtBYTT_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LUVF8a4TVtBYTT_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LUVF8a4TVtBYTT.JPG"
+        },
+        "H0134-LKZxtaIJhOOaBP": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LKZxtaIJhOOaBP_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LKZxtaIJhOOaBP_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LKZxtaIJhOOaBP.JPG"
+        },
+        "H0134-LkAPnkDzHnbgVF": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LkAPnkDzHnbgVF_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LkAPnkDzHnbgVF_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LkAPnkDzHnbgVF.JPG"
+        }
+    }
+}

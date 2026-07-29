@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/richard-a-vickerson-contemporary-canada_24faac79bb",
+    "slug": "richard-a-vickerson-contemporary-canada_24faac79bb",
+    "lot_number": "3458",
+    "title": "RICHARD A. VICKERSON (CONTEMPORARY CANADA)",
+    "estimate_low": 2000,
+    "estimate_high": 3000,
+    "current_bid": 1000,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L3RESMT3J1bglR_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LE3LMQGJFeGuO5_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LltgBVFoS1HJxb_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LyFgOXcugFZtcc": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LyFgOXcugFZtcc_thz.JPG"
+        },
+        "H0134-LvC9zd6kMwAQee": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LvC9zd6kMwAQee_thz.JPG"
+        },
+        "H0134-L3RESMT3J1bglR": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L3RESMT3J1bglR_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L3RESMT3J1bglR_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L3RESMT3J1bglR.JPG"
+        },
+        "H0134-LE3LMQGJFeGuO5": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LE3LMQGJFeGuO5_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LE3LMQGJFeGuO5_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LE3LMQGJFeGuO5.JPG"
+        },
+        "H0134-LltgBVFoS1HJxb": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LltgBVFoS1HJxb_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LltgBVFoS1HJxb_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LltgBVFoS1HJxb.JPG"
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/3-remington-r293-hunter-trader-trapper-knives_08dd9a66f8",
+    "slug": "3-remington-r293-hunter-trader-trapper-knives_08dd9a66f8",
+    "lot_number": "1248",
+    "title": "(3) REMINGTON R293 \"HUNTER-TRADER-TRAPPER\" KNIVES",
+    "estimate_low": 200,
+    "estimate_high": 400,
+    "current_bid": 50,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 1,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LJHYF6vCOpWAdE_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LAB6BtKm5e9dpr": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LAB6BtKm5e9dpr_thz.JPG"
+        },
+        "H0134-LYh8awo8zBek87": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LYh8awo8zBek87_thz.JPG"
+        },
+        "H0134-LJHYF6vCOpWAdE": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LJHYF6vCOpWAdE_original.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LJHYF6vCOpWAdE.JPG"
+        }
+    }
+}

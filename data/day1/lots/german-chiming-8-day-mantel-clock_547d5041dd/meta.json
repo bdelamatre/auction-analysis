@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/german-chiming-8-day-mantel-clock_547d5041dd",
+    "slug": "german-chiming-8-day-mantel-clock_547d5041dd",
+    "lot_number": "1126",
+    "title": "GERMAN CHIMING 8-DAY MANTEL CLOCK",
+    "estimate_low": 200,
+    "estimate_high": 300,
+    "current_bid": 50,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LbsrqfGMr5PS69_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LVqxhAJtPFPKjI_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LXzP17uECVrTEu_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-Lywf8HjdlZTmZJ": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lywf8HjdlZTmZJ_thz.JPG"
+        },
+        "H0134-LihYa3Ydgdoxxw": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LihYa3Ydgdoxxw_thz.JPG"
+        },
+        "H0134-LbsrqfGMr5PS69": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LbsrqfGMr5PS69_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LbsrqfGMr5PS69_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LbsrqfGMr5PS69.JPG"
+        },
+        "H0134-LVqxhAJtPFPKjI": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LVqxhAJtPFPKjI_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LVqxhAJtPFPKjI_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LVqxhAJtPFPKjI.JPG"
+        },
+        "H0134-LXzP17uECVrTEu": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LXzP17uECVrTEu_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LXzP17uECVrTEu_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LXzP17uECVrTEu.JPG"
+        }
+    }
+}

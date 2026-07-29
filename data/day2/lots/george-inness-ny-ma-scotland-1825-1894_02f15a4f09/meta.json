@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/george-inness-ny-ma-scotland-1825-1894_02f15a4f09",
+    "slug": "george-inness-ny-ma-scotland-1825-1894_02f15a4f09",
+    "lot_number": "2218",
+    "title": "GEORGE INNESS (NY/MA/SCOTLAND, 1825-1894)",
+    "estimate_low": 2000,
+    "estimate_high": 3000,
+    "current_bid": 1000,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lyi9HjZupHpHpQ_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LN3E04C0uO2WPq_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LmtKZlPl4EKtj7_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LtpR13ZaYrLjwm_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LHADtpmaVeHcsV": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LHADtpmaVeHcsV_thz.JPG"
+        },
+        "H0134-LyIvWvFbes6ssI": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LyIvWvFbes6ssI_thz.JPG"
+        },
+        "H0134-Lyi9HjZupHpHpQ": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lyi9HjZupHpHpQ_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lyi9HjZupHpHpQ_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lyi9HjZupHpHpQ.JPG"
+        },
+        "H0134-LN3E04C0uO2WPq": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LN3E04C0uO2WPq_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LN3E04C0uO2WPq_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LN3E04C0uO2WPq.JPG"
+        },
+        "H0134-LmtKZlPl4EKtj7": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LmtKZlPl4EKtj7_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LmtKZlPl4EKtj7_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LmtKZlPl4EKtj7.JPG"
+        },
+        "H0134-LtpR13ZaYrLjwm": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LtpR13ZaYrLjwm_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LtpR13ZaYrLjwm_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LtpR13ZaYrLjwm.JPG"
+        }
+    }
+}

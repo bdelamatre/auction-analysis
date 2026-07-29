@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/1836-jacquard-coverlet-john-brosey-manheim-pa_8350100bbb",
+    "slug": "1836-jacquard-coverlet-john-brosey-manheim-pa_8350100bbb",
+    "lot_number": "2124",
+    "title": "1836 JACQUARD COVERLET, JOHN BROSEY, MANHEIM, PA",
+    "estimate_low": 600,
+    "estimate_high": 800,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LxgTzZpnwcBn2c_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LmxN2tJhEWrQF9_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LwVSct7LH3ZWac_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LLvX42ISCWf4YK_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LTcl4CvtiEbcQY": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LTcl4CvtiEbcQY_thz.JPG"
+        },
+        "H0134-Lc8wVAWqyeymFw": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lc8wVAWqyeymFw_thz.JPG"
+        },
+        "H0134-LxgTzZpnwcBn2c": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LxgTzZpnwcBn2c_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LxgTzZpnwcBn2c_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LxgTzZpnwcBn2c.JPG"
+        },
+        "H0134-LmxN2tJhEWrQF9": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LmxN2tJhEWrQF9_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LmxN2tJhEWrQF9_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LmxN2tJhEWrQF9.JPG"
+        },
+        "H0134-LwVSct7LH3ZWac": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LwVSct7LH3ZWac_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LwVSct7LH3ZWac_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LwVSct7LH3ZWac.JPG"
+        },
+        "H0134-LLvX42ISCWf4YK": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LLvX42ISCWf4YK_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LLvX42ISCWf4YK_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LLvX42ISCWf4YK.JPG"
+        }
+    }
+}

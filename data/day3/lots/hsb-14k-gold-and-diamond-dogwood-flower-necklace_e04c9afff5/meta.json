@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/hsb-14k-gold-and-diamond-dogwood-flower-necklace_e04c9afff5",
+    "slug": "hsb-14k-gold-and-diamond-dogwood-flower-necklace_e04c9afff5",
+    "lot_number": "3071",
+    "title": "HSB 14K GOLD AND DIAMOND DOGWOOD FLOWER NECKLACE",
+    "estimate_low": 800,
+    "estimate_high": 1200,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LdY6gafZjZlNmf_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LISguMxhGY5Mi0_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L44bK7NebucikQ_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-L82grgeVJiGcPy": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L82grgeVJiGcPy_thz.JPG"
+        },
+        "H0134-LQsbQ6MMteJs15": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LQsbQ6MMteJs15_thz.JPG"
+        },
+        "H0134-LdY6gafZjZlNmf": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LdY6gafZjZlNmf_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LdY6gafZjZlNmf_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LdY6gafZjZlNmf.JPG"
+        },
+        "H0134-LISguMxhGY5Mi0": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LISguMxhGY5Mi0_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LISguMxhGY5Mi0_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LISguMxhGY5Mi0.JPG"
+        },
+        "H0134-L44bK7NebucikQ": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L44bK7NebucikQ_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L44bK7NebucikQ_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L44bK7NebucikQ.JPG"
+        }
+    }
+}

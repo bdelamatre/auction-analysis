@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/pauline-w-kruetzfeldt-ny-germany-1947_28d8ba960d",
+    "slug": "pauline-w-kruetzfeldt-ny-germany-1947_28d8ba960d",
+    "lot_number": "3342",
+    "title": "PAULINE W. KRUETZFELDT (NY/GERMANY, 1947 - )",
+    "estimate_low": 600,
+    "estimate_high": 800,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L84s4ZPD8ZXVWj_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lbs7LcVulPmp1n_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LpApp08RdzpEqW_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LxwY4E5ChqUmhg_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LW1Quv7WvRvWLl": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LW1Quv7WvRvWLl_thz.JPG"
+        },
+        "H0134-L36AM6h6BMDFxe": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L36AM6h6BMDFxe_thz.JPG"
+        },
+        "H0134-L84s4ZPD8ZXVWj": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L84s4ZPD8ZXVWj_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L84s4ZPD8ZXVWj_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L84s4ZPD8ZXVWj.JPG"
+        },
+        "H0134-Lbs7LcVulPmp1n": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lbs7LcVulPmp1n_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lbs7LcVulPmp1n_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lbs7LcVulPmp1n.JPG"
+        },
+        "H0134-LpApp08RdzpEqW": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LpApp08RdzpEqW_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LpApp08RdzpEqW_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LpApp08RdzpEqW.JPG"
+        },
+        "H0134-LxwY4E5ChqUmhg": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LxwY4E5ChqUmhg_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LxwY4E5ChqUmhg_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LxwY4E5ChqUmhg.JPG"
+        }
+    }
+}

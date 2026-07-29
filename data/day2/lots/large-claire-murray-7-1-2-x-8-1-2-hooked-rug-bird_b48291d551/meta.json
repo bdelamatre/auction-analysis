@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/large-claire-murray-7-1-2-x-8-1-2-hooked-rug-bird_b48291d551",
+    "slug": "large-claire-murray-7-1-2-x-8-1-2-hooked-rug-bird_b48291d551",
+    "lot_number": "2149",
+    "title": "LARGE CLAIRE MURRAY 7 1/2 x 8 1/2 HOOKED RUG, BIRD & FLOWERS, COTTAGE SQUARESS",
+    "estimate_low": 1000,
+    "estimate_high": 1500,
+    "current_bid": 500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LlvDfYP12Il62H_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LQnSqf6H8tmzLO_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LJPyOJFOzJZXnT": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LJPyOJFOzJZXnT_thz.JPG"
+        },
+        "H0134-LXLGdxnqeIgfmw": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LXLGdxnqeIgfmw_thz.JPG"
+        },
+        "H0134-LlvDfYP12Il62H": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LlvDfYP12Il62H_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LlvDfYP12Il62H_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LlvDfYP12Il62H.JPG"
+        },
+        "H0134-LQnSqf6H8tmzLO": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LQnSqf6H8tmzLO_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LQnSqf6H8tmzLO_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LQnSqf6H8tmzLO.JPG"
+        }
+    }
+}

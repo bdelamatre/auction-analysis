@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/chester-beach-ny-ca-italy-1881-1956_308d7230ef",
+    "slug": "chester-beach-ny-ca-italy-1881-1956_308d7230ef",
+    "lot_number": "3083",
+    "title": "CHESTER BEACH (NY/CA/ITALY. 1881-1956)",
+    "estimate_low": 1000,
+    "estimate_high": 1500,
+    "current_bid": 500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lj83v1V85aAD1p_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LzvhcxtWIgaZbX_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LgOUOLfvciw7TB_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LKg0bljCHNEsld": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LKg0bljCHNEsld_thz.JPG"
+        },
+        "H0134-LX3XMt2nsGoBdv": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LX3XMt2nsGoBdv_thz.JPG"
+        },
+        "H0134-Lj83v1V85aAD1p": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lj83v1V85aAD1p_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lj83v1V85aAD1p_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lj83v1V85aAD1p.JPG"
+        },
+        "H0134-LzvhcxtWIgaZbX": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LzvhcxtWIgaZbX_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LzvhcxtWIgaZbX_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LzvhcxtWIgaZbX.JPG"
+        },
+        "H0134-LgOUOLfvciw7TB": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LgOUOLfvciw7TB_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LgOUOLfvciw7TB_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LgOUOLfvciw7TB.JPG"
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/antique-old-town-canoe_febba29ab0",
+    "slug": "antique-old-town-canoe_febba29ab0",
+    "lot_number": "3038",
+    "title": "ANTIQUE OLD TOWN CANOE",
+    "estimate_low": 500,
+    "estimate_high": 700,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 1,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LP9cG237G75Mqh_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LnJ9PkpgPvIQ5t": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LnJ9PkpgPvIQ5t_thz.JPG"
+        },
+        "H0134-LHWZu1rZUIWrh8": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LHWZu1rZUIWrh8_thz.JPG"
+        },
+        "H0134-LP9cG237G75Mqh": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LP9cG237G75Mqh_original.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LP9cG237G75Mqh.JPG"
+        }
+    }
+}

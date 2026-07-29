@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/victorian-marble-top-center-table_3d2d4517fe",
+    "slug": "victorian-marble-top-center-table_3d2d4517fe",
+    "lot_number": "3219",
+    "title": "VICTORIAN MARBLE TOP CENTER TABLE",
+    "estimate_low": 800,
+    "estimate_high": 1000,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L92zxl7eLMCLPj_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L2fFjOgaAiw2cf_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LXWQJoQrDQER64_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-Lgn2iDL9rEkhYp": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lgn2iDL9rEkhYp_thz.JPG"
+        },
+        "H0134-LrhdgHsvDLwWct": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LrhdgHsvDLwWct_thz.JPG"
+        },
+        "H0134-L92zxl7eLMCLPj": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L92zxl7eLMCLPj_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L92zxl7eLMCLPj_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L92zxl7eLMCLPj.JPG"
+        },
+        "H0134-L2fFjOgaAiw2cf": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L2fFjOgaAiw2cf_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L2fFjOgaAiw2cf_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L2fFjOgaAiw2cf.JPG"
+        },
+        "H0134-LXWQJoQrDQER64": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LXWQJoQrDQER64_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LXWQJoQrDQER64_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LXWQJoQrDQER64.JPG"
+        }
+    }
+}

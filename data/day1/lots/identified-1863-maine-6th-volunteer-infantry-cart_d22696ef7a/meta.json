@@ -1,0 +1,58 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/identified-1863-maine-6th-volunteer-infantry-cart_d22696ef7a",
+    "slug": "identified-1863-maine-6th-volunteer-infantry-cart_d22696ef7a",
+    "lot_number": "1229",
+    "title": "IDENTIFIED 1863 MAINE 6TH VOLUNTEER INFANTRY CARTRIDGE BOX, CAP BOXES GETTYSBURG",
+    "estimate_low": 1000,
+    "estimate_high": 2000,
+    "current_bid": 500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 6,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LQrMGaoS3Ud28u_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LiacLTXUHmtLqH_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LcqIcjuBxVmdJd_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LCkreF87vFmVl8_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LyvT0a8EOp8161_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LnTcpGX7GAl88O_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-L0va56al3fHGX9": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L0va56al3fHGX9_thz.JPG"
+        },
+        "H0134-LpEEGnBCKOSg9g": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LpEEGnBCKOSg9g_thz.JPG"
+        },
+        "H0134-LQrMGaoS3Ud28u": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LQrMGaoS3Ud28u_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LQrMGaoS3Ud28u_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LQrMGaoS3Ud28u.JPG"
+        },
+        "H0134-LiacLTXUHmtLqH": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LiacLTXUHmtLqH_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LiacLTXUHmtLqH_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LiacLTXUHmtLqH.JPG"
+        },
+        "H0134-LcqIcjuBxVmdJd": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LcqIcjuBxVmdJd_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LcqIcjuBxVmdJd_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LcqIcjuBxVmdJd.JPG"
+        },
+        "H0134-LCkreF87vFmVl8": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LCkreF87vFmVl8_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LCkreF87vFmVl8_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LCkreF87vFmVl8.JPG"
+        },
+        "H0134-LyvT0a8EOp8161": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LyvT0a8EOp8161_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LyvT0a8EOp8161_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LyvT0a8EOp8161.JPG"
+        },
+        "H0134-LnTcpGX7GAl88O": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LnTcpGX7GAl88O_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LnTcpGX7GAl88O_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LnTcpGX7GAl88O.JPG"
+        }
+    }
+}

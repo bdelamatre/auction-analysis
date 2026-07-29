@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/lyman-all-american-perma-center-20x-scope_573f2298a8",
+    "slug": "lyman-all-american-perma-center-20x-scope_573f2298a8",
+    "lot_number": "1265",
+    "title": "LYMAN ALL-AMERICAN PERMA CENTER 20X SCOPE",
+    "estimate_low": 300,
+    "estimate_high": 500,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LO9KwHfi955ht9_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LZTrBZK8F8bQkW_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LwvtlrCheqskXb": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LwvtlrCheqskXb_thz.JPG"
+        },
+        "H0134-L8waI1fMf7s1xr": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L8waI1fMf7s1xr_thz.JPG"
+        },
+        "H0134-LO9KwHfi955ht9": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LO9KwHfi955ht9_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LO9KwHfi955ht9_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LO9KwHfi955ht9.JPG"
+        },
+        "H0134-LZTrBZK8F8bQkW": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LZTrBZK8F8bQkW_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LZTrBZK8F8bQkW_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LZTrBZK8F8bQkW.JPG"
+        }
+    }
+}

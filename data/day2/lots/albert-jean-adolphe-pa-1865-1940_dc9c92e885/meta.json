@@ -1,0 +1,52 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/albert-jean-adolphe-pa-1865-1940_dc9c92e885",
+    "slug": "albert-jean-adolphe-pa-1865-1940_dc9c92e885",
+    "lot_number": "2239",
+    "title": "ALBERT JEAN ADOLPHE (PA, 1865-1940)",
+    "estimate_low": 700,
+    "estimate_high": 900,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 5,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LT2MfUd2MTwluz_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LCCp6sfGuaQ5vq_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LbGe2265KpBzQB_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LYlRqwG5Y3OIvu_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L2tkoSwqzQnwG3_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LuG8qbtvGAvQBM": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LuG8qbtvGAvQBM_thz.JPG"
+        },
+        "H0134-Lqc7WY3quYQ81I": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lqc7WY3quYQ81I_thz.JPG"
+        },
+        "H0134-LT2MfUd2MTwluz": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LT2MfUd2MTwluz_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LT2MfUd2MTwluz_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LT2MfUd2MTwluz.JPG"
+        },
+        "H0134-LCCp6sfGuaQ5vq": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LCCp6sfGuaQ5vq_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LCCp6sfGuaQ5vq_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LCCp6sfGuaQ5vq.JPG"
+        },
+        "H0134-LbGe2265KpBzQB": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LbGe2265KpBzQB_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LbGe2265KpBzQB_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LbGe2265KpBzQB.JPG"
+        },
+        "H0134-LYlRqwG5Y3OIvu": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LYlRqwG5Y3OIvu_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LYlRqwG5Y3OIvu_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LYlRqwG5Y3OIvu.JPG"
+        },
+        "H0134-L2tkoSwqzQnwG3": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L2tkoSwqzQnwG3_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L2tkoSwqzQnwG3_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L2tkoSwqzQnwG3.JPG"
+        }
+    }
+}

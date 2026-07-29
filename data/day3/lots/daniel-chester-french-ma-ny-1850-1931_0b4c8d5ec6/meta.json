@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/daniel-chester-french-ma-ny-1850-1931_0b4c8d5ec6",
+    "slug": "daniel-chester-french-ma-ny-1850-1931_0b4c8d5ec6",
+    "lot_number": "3112",
+    "title": "DANIEL CHESTER FRENCH (MA/NY, 1850-1931)",
+    "estimate_low": 2500,
+    "estimate_high": 3500,
+    "current_bid": 1200,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lukb1Q9ARbORsJ_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LjKrluQWu6HPCO_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LHwyjPvbZMj7HK_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LGfEj6w2UE1ONO_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LLSEyXlYm8rddk": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LLSEyXlYm8rddk_thz.JPG"
+        },
+        "H0134-LxBFnGI02intcy": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LxBFnGI02intcy_thz.JPG"
+        },
+        "H0134-Lukb1Q9ARbORsJ": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lukb1Q9ARbORsJ_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lukb1Q9ARbORsJ_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lukb1Q9ARbORsJ.JPG"
+        },
+        "H0134-LjKrluQWu6HPCO": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LjKrluQWu6HPCO_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LjKrluQWu6HPCO_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LjKrluQWu6HPCO.JPG"
+        },
+        "H0134-LHwyjPvbZMj7HK": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LHwyjPvbZMj7HK_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LHwyjPvbZMj7HK_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LHwyjPvbZMj7HK.JPG"
+        },
+        "H0134-LGfEj6w2UE1ONO": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LGfEj6w2UE1ONO_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LGfEj6w2UE1ONO_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LGfEj6w2UE1ONO.JPG"
+        }
+    }
+}

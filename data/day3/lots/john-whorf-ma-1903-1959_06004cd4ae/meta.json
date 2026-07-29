@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/john-whorf-ma-1903-1959_06004cd4ae",
+    "slug": "john-whorf-ma-1903-1959_06004cd4ae",
+    "lot_number": "3129",
+    "title": "JOHN WHORF (MA, 1903-1959)",
+    "estimate_low": 800,
+    "estimate_high": 1000,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lt9sBsbpC59mmn_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LzoV5jmcYCVoFW_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LYRtvA3WDplJMM_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LhcdCxrUlm6hnC": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LhcdCxrUlm6hnC_thz.JPG"
+        },
+        "H0134-LkzxBB54kyJzgx": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LkzxBB54kyJzgx_thz.JPG"
+        },
+        "H0134-Lt9sBsbpC59mmn": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lt9sBsbpC59mmn_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lt9sBsbpC59mmn_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lt9sBsbpC59mmn.JPG"
+        },
+        "H0134-LzoV5jmcYCVoFW": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LzoV5jmcYCVoFW_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LzoV5jmcYCVoFW_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LzoV5jmcYCVoFW.JPG"
+        },
+        "H0134-LYRtvA3WDplJMM": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LYRtvA3WDplJMM_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LYRtvA3WDplJMM_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LYRtvA3WDplJMM.JPG"
+        }
+    }
+}

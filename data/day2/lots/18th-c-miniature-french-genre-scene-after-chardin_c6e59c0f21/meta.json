@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/18th-c-miniature-french-genre-scene-after-chardin_c6e59c0f21",
+    "slug": "18th-c-miniature-french-genre-scene-after-chardin_c6e59c0f21",
+    "lot_number": "2337",
+    "title": "18TH C. MINIATURE FRENCH GENRE SCENE AFTER CHARDIN",
+    "estimate_low": 300,
+    "estimate_high": 400,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LvlTJQii1Hs8mw_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lm6fybhr0FP1P9_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L0aG3uflZ6Cmdo_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LJcaQ7ERymWsfG": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LJcaQ7ERymWsfG_thz.JPG"
+        },
+        "H0134-LjD0Wzm4uyE4fC": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LjD0Wzm4uyE4fC_thz.JPG"
+        },
+        "H0134-LvlTJQii1Hs8mw": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LvlTJQii1Hs8mw_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LvlTJQii1Hs8mw_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LvlTJQii1Hs8mw.JPG"
+        },
+        "H0134-Lm6fybhr0FP1P9": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lm6fybhr0FP1P9_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lm6fybhr0FP1P9_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lm6fybhr0FP1P9.JPG"
+        },
+        "H0134-L0aG3uflZ6Cmdo": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L0aG3uflZ6Cmdo_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L0aG3uflZ6Cmdo_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L0aG3uflZ6Cmdo.JPG"
+        }
+    }
+}

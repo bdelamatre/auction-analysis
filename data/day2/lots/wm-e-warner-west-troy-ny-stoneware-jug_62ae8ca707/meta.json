@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/wm-e-warner-west-troy-ny-stoneware-jug_62ae8ca707",
+    "slug": "wm-e-warner-west-troy-ny-stoneware-jug_62ae8ca707",
+    "lot_number": "2150",
+    "title": "WM E. WARNER, WEST TROY, NY STONEWARE JUG",
+    "estimate_low": 200,
+    "estimate_high": 300,
+    "current_bid": 50,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LXLGdxnqeIgfmw_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LrGYQz28hkIwOE_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LrXj4Ki0fK91cx_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LlvDfYP12Il62H": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LlvDfYP12Il62H_thz.JPG"
+        },
+        "H0134-Liu1H7KMsxi29h": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Liu1H7KMsxi29h_thz.JPG"
+        },
+        "H0134-LXLGdxnqeIgfmw": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LXLGdxnqeIgfmw_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LXLGdxnqeIgfmw_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LXLGdxnqeIgfmw.JPG"
+        },
+        "H0134-LrGYQz28hkIwOE": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LrGYQz28hkIwOE_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LrGYQz28hkIwOE_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LrGYQz28hkIwOE.JPG"
+        },
+        "H0134-LrXj4Ki0fK91cx": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LrXj4Ki0fK91cx_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LrXj4Ki0fK91cx_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LrXj4Ki0fK91cx.JPG"
+        }
+    }
+}

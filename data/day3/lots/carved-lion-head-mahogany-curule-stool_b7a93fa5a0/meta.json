@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/carved-lion-head-mahogany-curule-stool_b7a93fa5a0",
+    "slug": "carved-lion-head-mahogany-curule-stool_b7a93fa5a0",
+    "lot_number": "3221",
+    "title": "CARVED LION HEAD MAHOGANY CURULE STOOL",
+    "estimate_low": 500,
+    "estimate_high": 700,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LagjJ3gg1Z1Jqv_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Li0GNq6uN4Uybu_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LW8PXo7Pi8E19l_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LrhdgHsvDLwWct": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LrhdgHsvDLwWct_thz.JPG"
+        },
+        "H0134-LjnAmYOHeXVj6l": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LjnAmYOHeXVj6l_thz.JPG"
+        },
+        "H0134-LagjJ3gg1Z1Jqv": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LagjJ3gg1Z1Jqv_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LagjJ3gg1Z1Jqv_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LagjJ3gg1Z1Jqv.JPG"
+        },
+        "H0134-Li0GNq6uN4Uybu": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Li0GNq6uN4Uybu_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Li0GNq6uN4Uybu_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Li0GNq6uN4Uybu.JPG"
+        },
+        "H0134-LW8PXo7Pi8E19l": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LW8PXo7Pi8E19l_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LW8PXo7Pi8E19l_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LW8PXo7Pi8E19l.JPG"
+        }
+    }
+}

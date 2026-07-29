@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/custom-model-of-coastal-schooner-circa-1910_82605d7c02",
+    "slug": "custom-model-of-coastal-schooner-circa-1910_82605d7c02",
+    "lot_number": "2087",
+    "title": "CUSTOM MODEL OF COASTAL SCHOONER CIRCA 1910",
+    "estimate_low": 500,
+    "estimate_high": 700,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L4muNDGvDChh8r_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lk6fBCDoC1Qhww_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LqEDLn7u4i6AET_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LJzKIbVLXQWEa3": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LJzKIbVLXQWEa3_thz.JPG"
+        },
+        "H0134-LWgmJByq88F8ph": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LWgmJByq88F8ph_thz.JPG"
+        },
+        "H0134-L4muNDGvDChh8r": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L4muNDGvDChh8r_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L4muNDGvDChh8r_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L4muNDGvDChh8r.JPG"
+        },
+        "H0134-Lk6fBCDoC1Qhww": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lk6fBCDoC1Qhww_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lk6fBCDoC1Qhww_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lk6fBCDoC1Qhww.JPG"
+        },
+        "H0134-LqEDLn7u4i6AET": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LqEDLn7u4i6AET_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LqEDLn7u4i6AET_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LqEDLn7u4i6AET.JPG"
+        }
+    }
+}

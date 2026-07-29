@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/chelsea-us-navy-24-hour-deck-clock_2a8751f67b",
+    "slug": "chelsea-us-navy-24-hour-deck-clock_2a8751f67b",
+    "lot_number": "2014",
+    "title": "CHELSEA US NAVY 24-HOUR DECK CLOCK",
+    "estimate_low": 500,
+    "estimate_high": 700,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LKbNOeaMEIMlyv_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LF1dgC2l1YpHry_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-Lt2mfxXaqReS5e": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lt2mfxXaqReS5e_thz.JPG"
+        },
+        "H0134-LAfabvPesVO8Vx": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LAfabvPesVO8Vx_thz.JPG"
+        },
+        "H0134-LKbNOeaMEIMlyv": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LKbNOeaMEIMlyv_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LKbNOeaMEIMlyv_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LKbNOeaMEIMlyv.JPG"
+        },
+        "H0134-LF1dgC2l1YpHry": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LF1dgC2l1YpHry_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LF1dgC2l1YpHry_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LF1dgC2l1YpHry.JPG"
+        }
+    }
+}

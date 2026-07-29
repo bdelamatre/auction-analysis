@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/19th-c-william-soutter-sons-copper-tea-kettle_73be251496",
+    "slug": "19th-c-william-soutter-sons-copper-tea-kettle_73be251496",
+    "lot_number": "2283",
+    "title": "19TH C. WILLIAM SOUTTER & SONS COPPER TEA KETTLE",
+    "estimate_low": 100,
+    "estimate_high": 150,
+    "current_bid": 50,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LfeaYUBbvA6eHv_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LRFAiZJA5nY9Gy_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LmgOEgw5oxFSuT_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LiH9VYPP64F8mb": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LiH9VYPP64F8mb_thz.JPG"
+        },
+        "H0134-LLLXQo82n155hi": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LLLXQo82n155hi_thz.JPG"
+        },
+        "H0134-LfeaYUBbvA6eHv": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LfeaYUBbvA6eHv_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LfeaYUBbvA6eHv_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LfeaYUBbvA6eHv.JPG"
+        },
+        "H0134-LRFAiZJA5nY9Gy": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LRFAiZJA5nY9Gy_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LRFAiZJA5nY9Gy_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LRFAiZJA5nY9Gy.JPG"
+        },
+        "H0134-LmgOEgw5oxFSuT": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LmgOEgw5oxFSuT_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LmgOEgw5oxFSuT_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LmgOEgw5oxFSuT.JPG"
+        }
+    }
+}

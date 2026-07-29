@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/greg-mort-md-1952_a50f386b10",
+    "slug": "greg-mort-md-1952_a50f386b10",
+    "lot_number": "3414",
+    "title": "GREG MORT (MD, 1952 - )",
+    "estimate_low": 1000,
+    "estimate_high": 1500,
+    "current_bid": 500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LxEVuKQh6KZS1e_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LdZFdIjejbSoly_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LhZUAjw60ucIQQ_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LqcLhFQITGIskF": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LqcLhFQITGIskF_thz.JPG"
+        },
+        "H0134-LgqDxDbCjtuRsw": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LgqDxDbCjtuRsw_thz.JPG"
+        },
+        "H0134-LxEVuKQh6KZS1e": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LxEVuKQh6KZS1e_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LxEVuKQh6KZS1e_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LxEVuKQh6KZS1e.JPG"
+        },
+        "H0134-LdZFdIjejbSoly": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LdZFdIjejbSoly_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LdZFdIjejbSoly_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LdZFdIjejbSoly.JPG"
+        },
+        "H0134-LhZUAjw60ucIQQ": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LhZUAjw60ucIQQ_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LhZUAjw60ucIQQ_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LhZUAjw60ucIQQ.JPG"
+        }
+    }
+}

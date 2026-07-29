@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/nancy-j-hill-prospect-harbor-me_cd789aa9b2",
+    "slug": "nancy-j-hill-prospect-harbor-me_cd789aa9b2",
+    "lot_number": "3381",
+    "title": "NANCY J. HILL (PROSPECT HARBOR, ME)",
+    "estimate_low": 250,
+    "estimate_high": 350,
+    "current_bid": 50,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LvLObWaUslaFcC_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lhfb6nrJprvuFg_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LShsZsG2wwHCz2_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L284qMy2TPSR0W_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LNMm6Kaigvh0om": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LNMm6Kaigvh0om_thz.JPG"
+        },
+        "H0134-L40xPh9zKsxzNK": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L40xPh9zKsxzNK_thz.JPG"
+        },
+        "H0134-LvLObWaUslaFcC": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LvLObWaUslaFcC_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LvLObWaUslaFcC_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LvLObWaUslaFcC.JPG"
+        },
+        "H0134-Lhfb6nrJprvuFg": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lhfb6nrJprvuFg_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lhfb6nrJprvuFg_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lhfb6nrJprvuFg.JPG"
+        },
+        "H0134-LShsZsG2wwHCz2": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LShsZsG2wwHCz2_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LShsZsG2wwHCz2_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LShsZsG2wwHCz2.JPG"
+        },
+        "H0134-L284qMy2TPSR0W": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L284qMy2TPSR0W_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L284qMy2TPSR0W_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L284qMy2TPSR0W.JPG"
+        }
+    }
+}

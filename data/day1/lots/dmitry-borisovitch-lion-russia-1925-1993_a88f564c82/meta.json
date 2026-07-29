@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/dmitry-borisovitch-lion-russia-1925-1993_a88f564c82",
+    "slug": "dmitry-borisovitch-lion-russia-1925-1993_a88f564c82",
+    "lot_number": "1336",
+    "title": "DMITRY BORISOVITCH LION (RUSSIA, 1925-1993)",
+    "estimate_low": 1000,
+    "estimate_high": 1500,
+    "current_bid": 500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LqJtcEr4UweOkA_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LL5gClL50vcRDZ_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L7OXGsNjIhuwUF_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LL7Vh5fO2A95uR": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LL7Vh5fO2A95uR_thz.JPG"
+        },
+        "H0134-LX5pltaeD9FutB": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LX5pltaeD9FutB_thz.JPG"
+        },
+        "H0134-LqJtcEr4UweOkA": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LqJtcEr4UweOkA_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LqJtcEr4UweOkA_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LqJtcEr4UweOkA.JPG"
+        },
+        "H0134-LL5gClL50vcRDZ": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LL5gClL50vcRDZ_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LL5gClL50vcRDZ_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LL5gClL50vcRDZ.JPG"
+        },
+        "H0134-L7OXGsNjIhuwUF": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L7OXGsNjIhuwUF_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L7OXGsNjIhuwUF_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L7OXGsNjIhuwUF.JPG"
+        }
+    }
+}

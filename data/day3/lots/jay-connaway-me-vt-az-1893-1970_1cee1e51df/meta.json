@@ -1,0 +1,52 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/jay-connaway-me-vt-az-1893-1970_1cee1e51df",
+    "slug": "jay-connaway-me-vt-az-1893-1970_1cee1e51df",
+    "lot_number": "3367",
+    "title": "JAY CONNAWAY (ME/VT/AZ, 1893-1970)",
+    "estimate_low": 2000,
+    "estimate_high": 3000,
+    "current_bid": 1000,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 5,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L4JE7EnhhHEc7r_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LVDDKzy5CNQcfV_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LUPjiR2wkccWne_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Ltc3Jgjj4yLmrz_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LNl5K870NLumhT_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LxGI88ANdLIw3L": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LxGI88ANdLIw3L_thz.JPG"
+        },
+        "H0134-LPSKcrl8qG8ECc": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LPSKcrl8qG8ECc_thz.JPG"
+        },
+        "H0134-L4JE7EnhhHEc7r": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L4JE7EnhhHEc7r_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L4JE7EnhhHEc7r_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L4JE7EnhhHEc7r.JPG"
+        },
+        "H0134-LVDDKzy5CNQcfV": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LVDDKzy5CNQcfV_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LVDDKzy5CNQcfV_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LVDDKzy5CNQcfV.JPG"
+        },
+        "H0134-LUPjiR2wkccWne": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LUPjiR2wkccWne_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LUPjiR2wkccWne_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LUPjiR2wkccWne.JPG"
+        },
+        "H0134-Ltc3Jgjj4yLmrz": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Ltc3Jgjj4yLmrz_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Ltc3Jgjj4yLmrz_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Ltc3Jgjj4yLmrz.JPG"
+        },
+        "H0134-LNl5K870NLumhT": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LNl5K870NLumhT_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LNl5K870NLumhT_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LNl5K870NLumhT.JPG"
+        }
+    }
+}

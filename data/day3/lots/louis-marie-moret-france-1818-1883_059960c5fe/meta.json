@@ -1,0 +1,52 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/louis-marie-moret-france-1818-1883_059960c5fe",
+    "slug": "louis-marie-moret-france-1818-1883_059960c5fe",
+    "lot_number": "3134",
+    "title": "LOUIS MARIE MORET (FRANCE, 1818-1883)",
+    "estimate_low": 2000,
+    "estimate_high": 3000,
+    "current_bid": 1000,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 5,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LY7L8oVeHidfBN_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LyzIjGPwp4D909_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lo68sFAg49geCM_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L4DuvMryURQWcX_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LxY496oRgoZTrR_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LBqaV251uGgafl": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LBqaV251uGgafl_thz.JPG"
+        },
+        "H0134-LI3q5lfwCsBCQF": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LI3q5lfwCsBCQF_thz.JPG"
+        },
+        "H0134-LY7L8oVeHidfBN": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LY7L8oVeHidfBN_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LY7L8oVeHidfBN_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LY7L8oVeHidfBN.JPG"
+        },
+        "H0134-LyzIjGPwp4D909": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LyzIjGPwp4D909_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LyzIjGPwp4D909_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LyzIjGPwp4D909.JPG"
+        },
+        "H0134-Lo68sFAg49geCM": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lo68sFAg49geCM_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lo68sFAg49geCM_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lo68sFAg49geCM.JPG"
+        },
+        "H0134-L4DuvMryURQWcX": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L4DuvMryURQWcX_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L4DuvMryURQWcX_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L4DuvMryURQWcX.JPG"
+        },
+        "H0134-LxY496oRgoZTrR": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LxY496oRgoZTrR_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LxY496oRgoZTrR_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LxY496oRgoZTrR.JPG"
+        }
+    }
+}

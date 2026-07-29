@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/18th-c-pine-settle-bench-w-game-board_98ec1096e4",
+    "slug": "18th-c-pine-settle-bench-w-game-board_98ec1096e4",
+    "lot_number": "2136",
+    "title": "18TH C. PINE SETTLE BENCH W/ GAME BOARD",
+    "estimate_low": 800,
+    "estimate_high": 1200,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L3ko2T2JhOgQ7N_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LCI71IGJr5i4aW_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LiSTqdMnatpIRf": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LiSTqdMnatpIRf_thz.JPG"
+        },
+        "H0134-L4CYcQL44nSMd0": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L4CYcQL44nSMd0_thz.JPG"
+        },
+        "H0134-L3ko2T2JhOgQ7N": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L3ko2T2JhOgQ7N_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L3ko2T2JhOgQ7N_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L3ko2T2JhOgQ7N.JPG"
+        },
+        "H0134-LCI71IGJr5i4aW": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LCI71IGJr5i4aW_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LCI71IGJr5i4aW_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LCI71IGJr5i4aW.JPG"
+        }
+    }
+}

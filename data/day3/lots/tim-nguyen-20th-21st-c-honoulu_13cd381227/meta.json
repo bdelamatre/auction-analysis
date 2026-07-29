@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/tim-nguyen-20th-21st-c-honoulu_13cd381227",
+    "slug": "tim-nguyen-20th-21st-c-honoulu_13cd381227",
+    "lot_number": "3297",
+    "title": "TIM NGUYEN (20TH-21ST C. HONOULU)",
+    "estimate_low": 400,
+    "estimate_high": 600,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LAk0ZleVlh5D8a_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L4fBJnDAXnZjdT_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LqIiCJji1DdzOy": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LqIiCJji1DdzOy_thz.JPG"
+        },
+        "H0134-LX4RFgh9CVXDwz": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LX4RFgh9CVXDwz_thz.JPG"
+        },
+        "H0134-LAk0ZleVlh5D8a": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LAk0ZleVlh5D8a_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LAk0ZleVlh5D8a_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LAk0ZleVlh5D8a.JPG"
+        },
+        "H0134-L4fBJnDAXnZjdT": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L4fBJnDAXnZjdT_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L4fBJnDAXnZjdT_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L4fBJnDAXnZjdT.JPG"
+        }
+    }
+}

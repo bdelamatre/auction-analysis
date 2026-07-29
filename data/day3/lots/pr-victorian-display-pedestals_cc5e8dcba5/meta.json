@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/pr-victorian-display-pedestals_cc5e8dcba5",
+    "slug": "pr-victorian-display-pedestals_cc5e8dcba5",
+    "lot_number": "3105",
+    "title": "PR VICTORIAN DISPLAY PEDESTALS",
+    "estimate_low": 600,
+    "estimate_high": 800,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LcNunZRCRHxNZn_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LvNnKjvgIFpWnT_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LrDWAIWiUE3uXQ_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LA3U6iwWqDE7uI": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LA3U6iwWqDE7uI_thz.JPG"
+        },
+        "H0134-LlfBbUDkuQD64z": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LlfBbUDkuQD64z_thz.JPG"
+        },
+        "H0134-LcNunZRCRHxNZn": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LcNunZRCRHxNZn_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LcNunZRCRHxNZn_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LcNunZRCRHxNZn.JPG"
+        },
+        "H0134-LvNnKjvgIFpWnT": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LvNnKjvgIFpWnT_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LvNnKjvgIFpWnT_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LvNnKjvgIFpWnT.JPG"
+        },
+        "H0134-LrDWAIWiUE3uXQ": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LrDWAIWiUE3uXQ_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LrDWAIWiUE3uXQ_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LrDWAIWiUE3uXQ.JPG"
+        }
+    }
+}

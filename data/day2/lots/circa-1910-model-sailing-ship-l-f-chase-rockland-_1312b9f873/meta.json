@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/circa-1910-model-sailing-ship-l-f-chase-rockland-_1312b9f873",
+    "slug": "circa-1910-model-sailing-ship-l-f-chase-rockland-_1312b9f873",
+    "lot_number": "2093",
+    "title": "CIRCA 1910 MODEL SAILING SHIP L.F. CHASE, ROCKLAND, MAINE",
+    "estimate_low": 600,
+    "estimate_high": 800,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LQiKFyHoJuOZDj_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LHo2nF1Nq5LN6P_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LTixCGLFXiXpj0_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-Lj5UO9V5QzI01N": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lj5UO9V5QzI01N_thz.JPG"
+        },
+        "H0134-LkzPXeiTWCCDyA": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LkzPXeiTWCCDyA_thz.JPG"
+        },
+        "H0134-LQiKFyHoJuOZDj": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LQiKFyHoJuOZDj_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LQiKFyHoJuOZDj_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LQiKFyHoJuOZDj.JPG"
+        },
+        "H0134-LHo2nF1Nq5LN6P": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LHo2nF1Nq5LN6P_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LHo2nF1Nq5LN6P_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LHo2nF1Nq5LN6P.JPG"
+        },
+        "H0134-LTixCGLFXiXpj0": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LTixCGLFXiXpj0_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LTixCGLFXiXpj0_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LTixCGLFXiXpj0.JPG"
+        }
+    }
+}

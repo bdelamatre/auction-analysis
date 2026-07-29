@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/antonio-ruiz-mexico-1897-1964_cffaeb8a40",
+    "slug": "antonio-ruiz-mexico-1897-1964_cffaeb8a40",
+    "lot_number": "1178",
+    "title": "ANTONIO RUIZ (MEXICO, 1897-1964)",
+    "estimate_low": 500,
+    "estimate_high": 700,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LbWyI7To4UuSmN_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LmG4ZCWNx1swfb_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L79Kp1VvgqKYWF_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LE8GGjvtJlZK13_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LiJ4oGZVcHgL75": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LiJ4oGZVcHgL75_thz.JPG"
+        },
+        "H0134-LK10v8B7HYBxQp": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LK10v8B7HYBxQp_thz.JPG"
+        },
+        "H0134-LbWyI7To4UuSmN": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LbWyI7To4UuSmN_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LbWyI7To4UuSmN_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LbWyI7To4UuSmN.JPG"
+        },
+        "H0134-LmG4ZCWNx1swfb": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LmG4ZCWNx1swfb_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LmG4ZCWNx1swfb_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LmG4ZCWNx1swfb.JPG"
+        },
+        "H0134-L79Kp1VvgqKYWF": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L79Kp1VvgqKYWF_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L79Kp1VvgqKYWF_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L79Kp1VvgqKYWF.JPG"
+        },
+        "H0134-LE8GGjvtJlZK13": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LE8GGjvtJlZK13_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LE8GGjvtJlZK13_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LE8GGjvtJlZK13.JPG"
+        }
+    }
+}

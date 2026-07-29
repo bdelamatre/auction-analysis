@@ -1,0 +1,52 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/moses-soyer-ny-1899-1974_57e6e430b0",
+    "slug": "moses-soyer-ny-1899-1974_57e6e430b0",
+    "lot_number": "3109",
+    "title": "MOSES SOYER (NY, 1899-1974)",
+    "estimate_low": 2000,
+    "estimate_high": 3000,
+    "current_bid": 1000,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 5,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lewpk3T5FVWS6X_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LMhMygItoBy1TW_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L4ycjVFc11C6wN_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LqcdJeLffmFsA5_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LAYz9CpdcGNTsn_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-Lp6TFmfT0P2JR7": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lp6TFmfT0P2JR7_thz.JPG"
+        },
+        "H0134-L0H454Itzxo6C1": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L0H454Itzxo6C1_thz.JPG"
+        },
+        "H0134-Lewpk3T5FVWS6X": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lewpk3T5FVWS6X_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lewpk3T5FVWS6X_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lewpk3T5FVWS6X.JPG"
+        },
+        "H0134-LMhMygItoBy1TW": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LMhMygItoBy1TW_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LMhMygItoBy1TW_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LMhMygItoBy1TW.JPG"
+        },
+        "H0134-L4ycjVFc11C6wN": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L4ycjVFc11C6wN_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L4ycjVFc11C6wN_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L4ycjVFc11C6wN.JPG"
+        },
+        "H0134-LqcdJeLffmFsA5": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LqcdJeLffmFsA5_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LqcdJeLffmFsA5_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LqcdJeLffmFsA5.JPG"
+        },
+        "H0134-LAYz9CpdcGNTsn": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LAYz9CpdcGNTsn_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LAYz9CpdcGNTsn_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LAYz9CpdcGNTsn.JPG"
+        }
+    }
+}

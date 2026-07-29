@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/pr-urban-archeology-cargo-pendant-lights_aa80a89903",
+    "slug": "pr-urban-archeology-cargo-pendant-lights_aa80a89903",
+    "lot_number": "3048",
+    "title": "PR URBAN ARCHEOLOGY CARGO PENDANT LIGHTS",
+    "estimate_low": 2000,
+    "estimate_high": 3000,
+    "current_bid": 1000,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LzMhQ8rN7DY3RB_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L0YUv3tvsAjGpV_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-L7sWNxoTwTtO1u": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L7sWNxoTwTtO1u_thz.JPG"
+        },
+        "H0134-LRHRIyaR1mGBLA": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LRHRIyaR1mGBLA_thz.JPG"
+        },
+        "H0134-LzMhQ8rN7DY3RB": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LzMhQ8rN7DY3RB_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LzMhQ8rN7DY3RB_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LzMhQ8rN7DY3RB.JPG"
+        },
+        "H0134-L0YUv3tvsAjGpV": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L0YUv3tvsAjGpV_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L0YUv3tvsAjGpV_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L0YUv3tvsAjGpV.JPG"
+        }
+    }
+}

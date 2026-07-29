@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/marguerite-kirmse-ct-uk-1885-1954_a2939f3121",
+    "slug": "marguerite-kirmse-ct-uk-1885-1954_a2939f3121",
+    "lot_number": "1007",
+    "title": "MARGUERITE KIRMSE (CT/UK, 1885-1954)",
+    "estimate_low": 800,
+    "estimate_high": 1200,
+    "current_bid": 300,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LjuXyOxBiskEdj_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LmpSCvzwHHSBJj_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LplkokDJlDjxsE_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LkWTUm46ykDNzF_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LUg8qTomuJOwYo": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LUg8qTomuJOwYo_thz.JPG"
+        },
+        "H0134-LyRSiNLOrTcE0J": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LyRSiNLOrTcE0J_thz.JPG"
+        },
+        "H0134-LjuXyOxBiskEdj": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LjuXyOxBiskEdj_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LjuXyOxBiskEdj_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LjuXyOxBiskEdj.JPG"
+        },
+        "H0134-LmpSCvzwHHSBJj": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LmpSCvzwHHSBJj_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LmpSCvzwHHSBJj_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LmpSCvzwHHSBJj.JPG"
+        },
+        "H0134-LplkokDJlDjxsE": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LplkokDJlDjxsE_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LplkokDJlDjxsE_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LplkokDJlDjxsE.JPG"
+        },
+        "H0134-LkWTUm46ykDNzF": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LkWTUm46ykDNzF_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LkWTUm46ykDNzF_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LkWTUm46ykDNzF.JPG"
+        }
+    }
+}

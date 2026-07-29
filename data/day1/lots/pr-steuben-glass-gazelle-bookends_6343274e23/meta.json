@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/pr-steuben-glass-gazelle-bookends_6343274e23",
+    "slug": "pr-steuben-glass-gazelle-bookends_6343274e23",
+    "lot_number": "1008",
+    "title": "PR STEUBEN GLASS GAZELLE BOOKENDS",
+    "estimate_low": 500,
+    "estimate_high": 700,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LyRSiNLOrTcE0J_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LBo0ehKyhi6gf8_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LjuXyOxBiskEdj": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LjuXyOxBiskEdj_thz.JPG"
+        },
+        "H0134-LRvzERissZzaie": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LRvzERissZzaie_thz.JPG"
+        },
+        "H0134-LyRSiNLOrTcE0J": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LyRSiNLOrTcE0J_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LyRSiNLOrTcE0J_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LyRSiNLOrTcE0J.JPG"
+        },
+        "H0134-LBo0ehKyhi6gf8": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LBo0ehKyhi6gf8_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LBo0ehKyhi6gf8_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LBo0ehKyhi6gf8.JPG"
+        }
+    }
+}

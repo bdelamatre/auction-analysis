@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/14k-gold-diamond-and-multi-strand-sapphire-bead-n_3dfb248032",
+    "slug": "14k-gold-diamond-and-multi-strand-sapphire-bead-n_3dfb248032",
+    "lot_number": "3238",
+    "title": "14K GOLD, DIAMOND, AND MULTI STRAND SAPPHIRE BEAD NECKLACE",
+    "estimate_low": 800,
+    "estimate_high": 1200,
+    "current_bid": 400,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lv4lr10eNltl5P_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LKET517yzLN5Go_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LsSdwsdaT1poyV_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lk93QJQEdxJJqg_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LSbTp8l5buABza": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LSbTp8l5buABza_thz.JPG"
+        },
+        "H0134-L7diMeRvnbbcrL": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L7diMeRvnbbcrL_thz.JPG"
+        },
+        "H0134-Lv4lr10eNltl5P": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lv4lr10eNltl5P_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lv4lr10eNltl5P_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lv4lr10eNltl5P.JPG"
+        },
+        "H0134-LKET517yzLN5Go": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LKET517yzLN5Go_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LKET517yzLN5Go_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LKET517yzLN5Go.JPG"
+        },
+        "H0134-LsSdwsdaT1poyV": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LsSdwsdaT1poyV_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LsSdwsdaT1poyV_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LsSdwsdaT1poyV.JPG"
+        },
+        "H0134-Lk93QJQEdxJJqg": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lk93QJQEdxJJqg_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lk93QJQEdxJJqg_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lk93QJQEdxJJqg.JPG"
+        }
+    }
+}

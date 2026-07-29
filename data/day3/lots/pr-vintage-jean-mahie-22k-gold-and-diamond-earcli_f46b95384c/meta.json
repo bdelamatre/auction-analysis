@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/pr-vintage-jean-mahie-22k-gold-and-diamond-earcli_f46b95384c",
+    "slug": "pr-vintage-jean-mahie-22k-gold-and-diamond-earcli_f46b95384c",
+    "lot_number": "3228",
+    "title": "PR VINTAGE JEAN MAHIE 22K GOLD AND DIAMOND EARCLIPS",
+    "estimate_low": 3500,
+    "estimate_high": 4500,
+    "current_bid": 1700,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LeY4ueykhbn8Bi_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LlqdpijTBId7pi_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-L33UWCfRxc2LFI": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L33UWCfRxc2LFI_thz.JPG"
+        },
+        "H0134-L1jIb0RIasuzVI": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L1jIb0RIasuzVI_thz.JPG"
+        },
+        "H0134-LeY4ueykhbn8Bi": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LeY4ueykhbn8Bi_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LeY4ueykhbn8Bi_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LeY4ueykhbn8Bi.JPG"
+        },
+        "H0134-LlqdpijTBId7pi": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LlqdpijTBId7pi_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LlqdpijTBId7pi_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LlqdpijTBId7pi.JPG"
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/tom-paiement-bath-maine_9ef146eef8",
+    "slug": "tom-paiement-bath-maine_9ef146eef8",
+    "lot_number": "3305",
+    "title": "TOM PAIEMENT (BATH, MAINE)",
+    "estimate_low": 800,
+    "estimate_high": 1000,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LDX0khJx4htg3v_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LkrMjIItzdO9qD_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LTMy1klWlexK1I_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LUTPazVh5tIvlv": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LUTPazVh5tIvlv_thz.JPG"
+        },
+        "H0134-Lik9XowuMCzXJ8": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lik9XowuMCzXJ8_thz.JPG"
+        },
+        "H0134-LDX0khJx4htg3v": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LDX0khJx4htg3v_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LDX0khJx4htg3v_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LDX0khJx4htg3v.JPG"
+        },
+        "H0134-LkrMjIItzdO9qD": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LkrMjIItzdO9qD_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LkrMjIItzdO9qD_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LkrMjIItzdO9qD.JPG"
+        },
+        "H0134-LTMy1klWlexK1I": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LTMy1klWlexK1I_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LTMy1klWlexK1I_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LTMy1klWlexK1I.JPG"
+        }
+    }
+}

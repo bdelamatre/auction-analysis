@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/art-deco-platinum-diamond-and-sapphire-ring_5e9b6d6ca9",
+    "slug": "art-deco-platinum-diamond-and-sapphire-ring_5e9b6d6ca9",
+    "lot_number": "3066",
+    "title": "ART DECO PLATINUM, DIAMOND, AND SAPPHIRE RING",
+    "estimate_low": 1500,
+    "estimate_high": 2000,
+    "current_bid": 750,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LXNtVicKXih734_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LbOdO5V8ef0VSO_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-L7U0acMBLyIZ59": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L7U0acMBLyIZ59_thz.JPG"
+        },
+        "H0134-LR543rQ2nXdCho": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LR543rQ2nXdCho_thz.JPG"
+        },
+        "H0134-LXNtVicKXih734": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LXNtVicKXih734_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LXNtVicKXih734_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LXNtVicKXih734.JPG"
+        },
+        "H0134-LbOdO5V8ef0VSO": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LbOdO5V8ef0VSO_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LbOdO5V8ef0VSO_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LbOdO5V8ef0VSO.JPG"
+        }
+    }
+}

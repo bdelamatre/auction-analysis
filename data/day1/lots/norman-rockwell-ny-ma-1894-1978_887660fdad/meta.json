@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/norman-rockwell-ny-ma-1894-1978_887660fdad",
+    "slug": "norman-rockwell-ny-ma-1894-1978_887660fdad",
+    "lot_number": "1211",
+    "title": "NORMAN ROCKWELL (NY/MA, 1894-1978)",
+    "estimate_low": 1000,
+    "estimate_high": 1500,
+    "current_bid": 500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LEhpjaiDGemOm2_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LQ27PYymKU1JsV_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L8szmnqSMzTTeh_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-L5cb0rmtEsJTlS": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L5cb0rmtEsJTlS_thz.JPG"
+        },
+        "H0134-LmDBRBKrqctNi9": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LmDBRBKrqctNi9_thz.JPG"
+        },
+        "H0134-LEhpjaiDGemOm2": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LEhpjaiDGemOm2_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LEhpjaiDGemOm2_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LEhpjaiDGemOm2.JPG"
+        },
+        "H0134-LQ27PYymKU1JsV": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LQ27PYymKU1JsV_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LQ27PYymKU1JsV_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LQ27PYymKU1JsV.JPG"
+        },
+        "H0134-L8szmnqSMzTTeh": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L8szmnqSMzTTeh_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L8szmnqSMzTTeh_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L8szmnqSMzTTeh.JPG"
+        }
+    }
+}

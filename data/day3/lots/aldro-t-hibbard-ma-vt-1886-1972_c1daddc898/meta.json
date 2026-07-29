@@ -1,0 +1,52 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/aldro-t-hibbard-ma-vt-1886-1972_c1daddc898",
+    "slug": "aldro-t-hibbard-ma-vt-1886-1972_c1daddc898",
+    "lot_number": "3082",
+    "title": "ALDRO T. HIBBARD (MA/VT, 1886-1972)",
+    "estimate_low": 6000,
+    "estimate_high": 8000,
+    "current_bid": 3000,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 5,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LKg0bljCHNEsld_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L3oTNPF3kywRVM_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LTsH4J5HtQzwSl_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lku4TNIQWiHQFd_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lz3gmgoQrf1boC_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LsHskaBrWJPL6C": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LsHskaBrWJPL6C_thz.JPG"
+        },
+        "H0134-Lj83v1V85aAD1p": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lj83v1V85aAD1p_thz.JPG"
+        },
+        "H0134-LKg0bljCHNEsld": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LKg0bljCHNEsld_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LKg0bljCHNEsld_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LKg0bljCHNEsld.JPG"
+        },
+        "H0134-L3oTNPF3kywRVM": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L3oTNPF3kywRVM_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L3oTNPF3kywRVM_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L3oTNPF3kywRVM.JPG"
+        },
+        "H0134-LTsH4J5HtQzwSl": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LTsH4J5HtQzwSl_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LTsH4J5HtQzwSl_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LTsH4J5HtQzwSl.JPG"
+        },
+        "H0134-Lku4TNIQWiHQFd": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lku4TNIQWiHQFd_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lku4TNIQWiHQFd_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lku4TNIQWiHQFd.JPG"
+        },
+        "H0134-Lz3gmgoQrf1boC": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lz3gmgoQrf1boC_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lz3gmgoQrf1boC_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lz3gmgoQrf1boC.JPG"
+        }
+    }
+}

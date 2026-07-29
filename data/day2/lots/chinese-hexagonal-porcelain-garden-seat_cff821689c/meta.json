@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/chinese-hexagonal-porcelain-garden-seat_cff821689c",
+    "slug": "chinese-hexagonal-porcelain-garden-seat_cff821689c",
+    "lot_number": "2182",
+    "title": "CHINESE HEXAGONAL PORCELAIN GARDEN SEAT",
+    "estimate_low": 600,
+    "estimate_high": 800,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LauOb8yDEtvRdh_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LEw25TJXDUMXW0_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LWkiVDdjvVODPW_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LMzfaoNb6oplaf": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LMzfaoNb6oplaf_thz.JPG"
+        },
+        "H0134-L1C88byp8USUSp": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L1C88byp8USUSp_thz.JPG"
+        },
+        "H0134-LauOb8yDEtvRdh": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LauOb8yDEtvRdh_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LauOb8yDEtvRdh_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LauOb8yDEtvRdh.JPG"
+        },
+        "H0134-LEw25TJXDUMXW0": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LEw25TJXDUMXW0_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LEw25TJXDUMXW0_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LEw25TJXDUMXW0.JPG"
+        },
+        "H0134-LWkiVDdjvVODPW": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LWkiVDdjvVODPW_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LWkiVDdjvVODPW_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LWkiVDdjvVODPW.JPG"
+        }
+    }
+}

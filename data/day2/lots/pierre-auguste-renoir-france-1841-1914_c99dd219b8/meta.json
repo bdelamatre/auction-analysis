@@ -1,0 +1,52 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/pierre-auguste-renoir-france-1841-1914_c99dd219b8",
+    "slug": "pierre-auguste-renoir-france-1841-1914_c99dd219b8",
+    "lot_number": "2353",
+    "title": "PIERRE-AUGUSTE RENOIR (FRANCE, 1841-1914)",
+    "estimate_low": 10000,
+    "estimate_high": 15000,
+    "current_bid": 5000,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 5,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LxZ6xSRnH12608_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LxSuzSy4xhjgL5_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LVTEq6PPqg9pbu_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L2ah0pspksJ7lz_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LU3MxlN42rohpD_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LoKFLxPlzgoML6": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LoKFLxPlzgoML6_thz.JPG"
+        },
+        "H0134-LhqVzsgowe9K2d": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LhqVzsgowe9K2d_thz.JPG"
+        },
+        "H0134-LxZ6xSRnH12608": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LxZ6xSRnH12608_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LxZ6xSRnH12608_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LxZ6xSRnH12608.JPG"
+        },
+        "H0134-LxSuzSy4xhjgL5": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LxSuzSy4xhjgL5_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LxSuzSy4xhjgL5_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LxSuzSy4xhjgL5.JPG"
+        },
+        "H0134-LVTEq6PPqg9pbu": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LVTEq6PPqg9pbu_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LVTEq6PPqg9pbu_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LVTEq6PPqg9pbu.JPG"
+        },
+        "H0134-L2ah0pspksJ7lz": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L2ah0pspksJ7lz_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L2ah0pspksJ7lz_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L2ah0pspksJ7lz.JPG"
+        },
+        "H0134-LU3MxlN42rohpD": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LU3MxlN42rohpD_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LU3MxlN42rohpD_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LU3MxlN42rohpD.JPG"
+        }
+    }
+}

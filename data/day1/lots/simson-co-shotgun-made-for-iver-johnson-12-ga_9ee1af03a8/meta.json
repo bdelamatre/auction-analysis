@@ -1,0 +1,52 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/simson-co-shotgun-made-for-iver-johnson-12-ga_9ee1af03a8",
+    "slug": "simson-co-shotgun-made-for-iver-johnson-12-ga_9ee1af03a8",
+    "lot_number": "1249",
+    "title": "SIMSON & CO. SHOTGUN MADE FOR IVER JOHNSON, 12 GA",
+    "estimate_low": 2000,
+    "estimate_high": 2500,
+    "current_bid": 1000,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 5,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LYh8awo8zBek87_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LAq0DphPeouClV_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LrdQIp1F5vpphs_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LcBbTAcwp8nO4Q_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LNYZJuquI4yI8R_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LJHYF6vCOpWAdE": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LJHYF6vCOpWAdE_thz.JPG"
+        },
+        "H0134-LIUqcL0UXcWlI0": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LIUqcL0UXcWlI0_thz.JPG"
+        },
+        "H0134-LYh8awo8zBek87": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LYh8awo8zBek87_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LYh8awo8zBek87_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LYh8awo8zBek87.JPG"
+        },
+        "H0134-LAq0DphPeouClV": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LAq0DphPeouClV_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LAq0DphPeouClV_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LAq0DphPeouClV.JPG"
+        },
+        "H0134-LrdQIp1F5vpphs": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LrdQIp1F5vpphs_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LrdQIp1F5vpphs_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LrdQIp1F5vpphs.JPG"
+        },
+        "H0134-LcBbTAcwp8nO4Q": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LcBbTAcwp8nO4Q_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LcBbTAcwp8nO4Q_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LcBbTAcwp8nO4Q.JPG"
+        },
+        "H0134-LNYZJuquI4yI8R": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LNYZJuquI4yI8R_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LNYZJuquI4yI8R_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LNYZJuquI4yI8R.JPG"
+        }
+    }
+}

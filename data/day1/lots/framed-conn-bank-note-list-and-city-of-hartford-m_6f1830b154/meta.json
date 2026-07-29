@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/framed-conn-bank-note-list-and-city-of-hartford-m_6f1830b154",
+    "slug": "framed-conn-bank-note-list-and-city-of-hartford-m_6f1830b154",
+    "lot_number": "1488",
+    "title": "FRAMED \"CONN. BANK NOTE LIST AND CITY OF HARTFORD MONTHLY ADVERTISER\"",
+    "estimate_low": 200,
+    "estimate_high": 300,
+    "current_bid": 50,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lpyefn7dJRHJed_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Ld84fQbNPpMA41_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LMCnpugImsOdpp_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LCHLzAJu2K5e9i": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LCHLzAJu2K5e9i_thz.JPG"
+        },
+        "H0134-LNBLOK2vjDQK8R": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LNBLOK2vjDQK8R_thz.JPG"
+        },
+        "H0134-Lpyefn7dJRHJed": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lpyefn7dJRHJed_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lpyefn7dJRHJed_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lpyefn7dJRHJed.JPG"
+        },
+        "H0134-Ld84fQbNPpMA41": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Ld84fQbNPpMA41_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Ld84fQbNPpMA41_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Ld84fQbNPpMA41.JPG"
+        },
+        "H0134-LMCnpugImsOdpp": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LMCnpugImsOdpp_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LMCnpugImsOdpp_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LMCnpugImsOdpp.JPG"
+        }
+    }
+}

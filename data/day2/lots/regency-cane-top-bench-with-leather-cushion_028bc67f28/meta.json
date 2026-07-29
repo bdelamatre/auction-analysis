@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/regency-cane-top-bench-with-leather-cushion_028bc67f28",
+    "slug": "regency-cane-top-bench-with-leather-cushion_028bc67f28",
+    "lot_number": "2278",
+    "title": "REGENCY CANE TOP BENCH WITH LEATHER CUSHION",
+    "estimate_low": 1200,
+    "estimate_high": 1500,
+    "current_bid": 600,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LiAf2IwOyQTKqU_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LYBISegpWMQ2z2_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LSzh0VTVbzStF3": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LSzh0VTVbzStF3_thz.JPG"
+        },
+        "H0134-LNrBCxqobgMKeH": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LNrBCxqobgMKeH_thz.JPG"
+        },
+        "H0134-LiAf2IwOyQTKqU": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LiAf2IwOyQTKqU_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LiAf2IwOyQTKqU_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LiAf2IwOyQTKqU.JPG"
+        },
+        "H0134-LYBISegpWMQ2z2": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LYBISegpWMQ2z2_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LYBISegpWMQ2z2_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LYBISegpWMQ2z2.JPG"
+        }
+    }
+}

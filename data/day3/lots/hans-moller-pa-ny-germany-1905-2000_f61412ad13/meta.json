@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/hans-moller-pa-ny-germany-1905-2000_f61412ad13",
+    "slug": "hans-moller-pa-ny-germany-1905-2000_f61412ad13",
+    "lot_number": "3286",
+    "title": "HANS MOLLER (PA/NY/GERMANY, 1905-2000)",
+    "estimate_low": 1500,
+    "estimate_high": 2000,
+    "current_bid": 750,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LFoyLqjX7S73mS_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LHcaVagS6foIZP_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LB9P9VEDNQ5Zi7_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LscruRgt0Bd4O3_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-L6FFHxX3Ws8wVH": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L6FFHxX3Ws8wVH_thz.JPG"
+        },
+        "H0134-LorqmaZn79bk6T": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LorqmaZn79bk6T_thz.JPG"
+        },
+        "H0134-LFoyLqjX7S73mS": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LFoyLqjX7S73mS_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LFoyLqjX7S73mS_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LFoyLqjX7S73mS.JPG"
+        },
+        "H0134-LHcaVagS6foIZP": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LHcaVagS6foIZP_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LHcaVagS6foIZP_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LHcaVagS6foIZP.JPG"
+        },
+        "H0134-LB9P9VEDNQ5Zi7": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LB9P9VEDNQ5Zi7_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LB9P9VEDNQ5Zi7_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LB9P9VEDNQ5Zi7.JPG"
+        },
+        "H0134-LscruRgt0Bd4O3": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LscruRgt0Bd4O3_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LscruRgt0Bd4O3_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LscruRgt0Bd4O3.JPG"
+        }
+    }
+}

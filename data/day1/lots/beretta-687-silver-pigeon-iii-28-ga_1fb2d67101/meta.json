@@ -1,0 +1,52 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/beretta-687-silver-pigeon-iii-28-ga_1fb2d67101",
+    "slug": "beretta-687-silver-pigeon-iii-28-ga_1fb2d67101",
+    "lot_number": "1235",
+    "title": "BERETTA 687 SILVER PIGEON III, 28 GA",
+    "estimate_low": 2000,
+    "estimate_high": 2500,
+    "current_bid": 1000,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 5,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LhwDAPcrVzuqr4_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LrLZkCI5VCaL33_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LlT4HBWj2xkLE7_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LBfLlbyenqkYXM_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L2SL7nZooisaVg_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LXnQzXvEQKm2vf": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LXnQzXvEQKm2vf_thz.JPG"
+        },
+        "H0134-Lmn93XnNCa7IZ0": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lmn93XnNCa7IZ0_thz.JPG"
+        },
+        "H0134-LhwDAPcrVzuqr4": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LhwDAPcrVzuqr4_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LhwDAPcrVzuqr4_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LhwDAPcrVzuqr4.JPG"
+        },
+        "H0134-LrLZkCI5VCaL33": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LrLZkCI5VCaL33_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LrLZkCI5VCaL33_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LrLZkCI5VCaL33.JPG"
+        },
+        "H0134-LlT4HBWj2xkLE7": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LlT4HBWj2xkLE7_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LlT4HBWj2xkLE7_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LlT4HBWj2xkLE7.JPG"
+        },
+        "H0134-LBfLlbyenqkYXM": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LBfLlbyenqkYXM_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LBfLlbyenqkYXM_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LBfLlbyenqkYXM.JPG"
+        },
+        "H0134-L2SL7nZooisaVg": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L2SL7nZooisaVg_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L2SL7nZooisaVg_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L2SL7nZooisaVg.JPG"
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/8-19th-c-carved-wooden-butter-stamps_3b17498b8b",
+    "slug": "8-19th-c-carved-wooden-butter-stamps_3b17498b8b",
+    "lot_number": "2123",
+    "title": "(8) 19TH C. CARVED WOODEN BUTTER STAMPS",
+    "estimate_low": 300,
+    "estimate_high": 500,
+    "current_bid": 175,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 1,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LTcl4CvtiEbcQY_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LFpaIrfYr2YzLg": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LFpaIrfYr2YzLg_thz.JPG"
+        },
+        "H0134-LxgTzZpnwcBn2c": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LxgTzZpnwcBn2c_thz.JPG"
+        },
+        "H0134-LTcl4CvtiEbcQY": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LTcl4CvtiEbcQY_original.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LTcl4CvtiEbcQY.JPG"
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/thos-moser-cabinetmakers-new-gloucester-rocker_0968669e10",
+    "slug": "thos-moser-cabinetmakers-new-gloucester-rocker_0968669e10",
+    "lot_number": "3246",
+    "title": "THOS. MOSER CABINETMAKERS \"NEW GLOUCESTER\" ROCKER",
+    "estimate_low": 800,
+    "estimate_high": 1200,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LOnWsBzyONgfVV_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LPjmlvU4eZBDUo_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LuCoUUfSY6keKA_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LQatYe5KRFBw9w": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LQatYe5KRFBw9w_thz.JPG"
+        },
+        "H0134-L5lFwoyj4a0kTv": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L5lFwoyj4a0kTv_thz.JPG"
+        },
+        "H0134-LOnWsBzyONgfVV": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LOnWsBzyONgfVV_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LOnWsBzyONgfVV_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LOnWsBzyONgfVV.JPG"
+        },
+        "H0134-LPjmlvU4eZBDUo": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LPjmlvU4eZBDUo_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LPjmlvU4eZBDUo_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LPjmlvU4eZBDUo.JPG"
+        },
+        "H0134-LuCoUUfSY6keKA": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LuCoUUfSY6keKA_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LuCoUUfSY6keKA_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LuCoUUfSY6keKA.JPG"
+        }
+    }
+}

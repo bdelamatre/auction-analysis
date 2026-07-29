@@ -1,0 +1,52 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/cubist-marble-sculpture-of-lovers_8ef563006a",
+    "slug": "cubist-marble-sculpture-of-lovers_8ef563006a",
+    "lot_number": "3285",
+    "title": "CUBIST MARBLE SCULPTURE OF LOVERS",
+    "estimate_low": 1000,
+    "estimate_high": 1500,
+    "current_bid": 500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 5,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L6FFHxX3Ws8wVH_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LbxNauxhtD0CEm_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LcD4p1MmN9544q_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lrr7dZ7Rud2Epx_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LU5eaV1HfLcf4z_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LRZgBbIzPD7eUw": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LRZgBbIzPD7eUw_thz.JPG"
+        },
+        "H0134-LFoyLqjX7S73mS": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LFoyLqjX7S73mS_thz.JPG"
+        },
+        "H0134-L6FFHxX3Ws8wVH": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L6FFHxX3Ws8wVH_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L6FFHxX3Ws8wVH_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L6FFHxX3Ws8wVH.JPG"
+        },
+        "H0134-LbxNauxhtD0CEm": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LbxNauxhtD0CEm_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LbxNauxhtD0CEm_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LbxNauxhtD0CEm.JPG"
+        },
+        "H0134-LcD4p1MmN9544q": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LcD4p1MmN9544q_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LcD4p1MmN9544q_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LcD4p1MmN9544q.JPG"
+        },
+        "H0134-Lrr7dZ7Rud2Epx": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lrr7dZ7Rud2Epx_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lrr7dZ7Rud2Epx_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lrr7dZ7Rud2Epx.JPG"
+        },
+        "H0134-LU5eaV1HfLcf4z": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LU5eaV1HfLcf4z_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LU5eaV1HfLcf4z_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LU5eaV1HfLcf4z.JPG"
+        }
+    }
+}

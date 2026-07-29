@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/centennial-chippendale-pie-crust-tea-table_b6d2899a2d",
+    "slug": "centennial-chippendale-pie-crust-tea-table_b6d2899a2d",
+    "lot_number": "1072",
+    "title": "CENTENNIAL CHIPPENDALE PIE CRUST TEA TABLE",
+    "estimate_low": 600,
+    "estimate_high": 800,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L2OFDxQfovM6lW_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LrX6kjpdzXMUxe_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LKqpvHjYZ7TIfv_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-Lhclma6q4gCZQn": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lhclma6q4gCZQn_thz.JPG"
+        },
+        "H0134-LjEVsK5SHzCcfF": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LjEVsK5SHzCcfF_thz.JPG"
+        },
+        "H0134-L2OFDxQfovM6lW": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L2OFDxQfovM6lW_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L2OFDxQfovM6lW_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L2OFDxQfovM6lW.JPG"
+        },
+        "H0134-LrX6kjpdzXMUxe": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LrX6kjpdzXMUxe_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LrX6kjpdzXMUxe_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LrX6kjpdzXMUxe.JPG"
+        },
+        "H0134-LKqpvHjYZ7TIfv": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LKqpvHjYZ7TIfv_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LKqpvHjYZ7TIfv_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LKqpvHjYZ7TIfv.JPG"
+        }
+    }
+}

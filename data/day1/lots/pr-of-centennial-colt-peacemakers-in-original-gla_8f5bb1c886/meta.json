@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/pr-of-centennial-colt-peacemakers-in-original-gla_8f5bb1c886",
+    "slug": "pr-of-centennial-colt-peacemakers-in-original-gla_8f5bb1c886",
+    "lot_number": "1241",
+    "title": "PR OF CENTENNIAL COLT PEACEMAKERS IN ORIGINAL GLASS CASE",
+    "estimate_low": 8000,
+    "estimate_high": 12000,
+    "current_bid": 4000,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LRsbgEvtR8lc9c_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L6q9MNGfNdLFJi_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LO9s9kIewy6w4l_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-Lhoh6Oxbm9MFBl": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lhoh6Oxbm9MFBl_thz.JPG"
+        },
+        "H0134-LAgAWo0RUWj2j3": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LAgAWo0RUWj2j3_thz.JPG"
+        },
+        "H0134-LRsbgEvtR8lc9c": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LRsbgEvtR8lc9c_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LRsbgEvtR8lc9c_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LRsbgEvtR8lc9c.JPG"
+        },
+        "H0134-L6q9MNGfNdLFJi": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L6q9MNGfNdLFJi_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L6q9MNGfNdLFJi_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L6q9MNGfNdLFJi.JPG"
+        },
+        "H0134-LO9s9kIewy6w4l": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LO9s9kIewy6w4l_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LO9s9kIewy6w4l_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LO9s9kIewy6w4l.JPG"
+        }
+    }
+}

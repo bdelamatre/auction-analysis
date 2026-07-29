@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/vintage-felmore-sterling-silver-cigarette-case_ca03c2a3c9",
+    "slug": "vintage-felmore-sterling-silver-cigarette-case_ca03c2a3c9",
+    "lot_number": "1066",
+    "title": "VINTAGE FELMORE STERLING SILVER CIGARETTE CASE",
+    "estimate_low": 150,
+    "estimate_high": 250,
+    "current_bid": 50,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LxUWeZ0T1gtUnD_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LvsJSbwEWzYR18_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LsZvX2V6SAKOqw_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LfC1CU07tcoREd": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LfC1CU07tcoREd_thz.JPG"
+        },
+        "H0134-LNcSyKD0mqvlTj": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LNcSyKD0mqvlTj_thz.JPG"
+        },
+        "H0134-LxUWeZ0T1gtUnD": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LxUWeZ0T1gtUnD_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LxUWeZ0T1gtUnD_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LxUWeZ0T1gtUnD.JPG"
+        },
+        "H0134-LvsJSbwEWzYR18": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LvsJSbwEWzYR18_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LvsJSbwEWzYR18_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LvsJSbwEWzYR18.JPG"
+        },
+        "H0134-LsZvX2V6SAKOqw": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LsZvX2V6SAKOqw_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LsZvX2V6SAKOqw_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LsZvX2V6SAKOqw.JPG"
+        }
+    }
+}

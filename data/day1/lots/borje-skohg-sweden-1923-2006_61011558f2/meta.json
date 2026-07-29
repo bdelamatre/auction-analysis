@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/borje-skohg-sweden-1923-2006_61011558f2",
+    "slug": "borje-skohg-sweden-1923-2006_61011558f2",
+    "lot_number": "1096",
+    "title": "BORJE SKOHG (SWEDEN, 1923-2006)",
+    "estimate_low": 300,
+    "estimate_high": 400,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lv7JzOmLx4ZMNw_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LTHIGzzy7pAB5R_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LCdEssp6Q0ywcA": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LCdEssp6Q0ywcA_thz.JPG"
+        },
+        "H0134-LXG9OQ5x3FQxTA": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LXG9OQ5x3FQxTA_thz.JPG"
+        },
+        "H0134-Lv7JzOmLx4ZMNw": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lv7JzOmLx4ZMNw_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lv7JzOmLx4ZMNw_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lv7JzOmLx4ZMNw.JPG"
+        },
+        "H0134-LTHIGzzy7pAB5R": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LTHIGzzy7pAB5R_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LTHIGzzy7pAB5R_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LTHIGzzy7pAB5R.JPG"
+        }
+    }
+}

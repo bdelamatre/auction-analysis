@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/nude-dos-painting-signed-f-l-95_702beeadeb",
+    "slug": "nude-dos-painting-signed-f-l-95_702beeadeb",
+    "lot_number": "1362",
+    "title": "NUDE DOS PAINTING SIGNED \"F.L., 95\"",
+    "estimate_low": 300,
+    "estimate_high": 500,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LfpNSc3Deucmxn_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lk9oVDyaIPZiHj_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LfkliLrjIPSnrK_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LtIXtz7rGPkPgI_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-L57wlOOwMDq78d": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L57wlOOwMDq78d_thz.JPG"
+        },
+        "H0134-LKZhVE0qOlIIL8": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LKZhVE0qOlIIL8_thz.JPG"
+        },
+        "H0134-LfpNSc3Deucmxn": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LfpNSc3Deucmxn_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LfpNSc3Deucmxn_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LfpNSc3Deucmxn.JPG"
+        },
+        "H0134-Lk9oVDyaIPZiHj": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lk9oVDyaIPZiHj_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lk9oVDyaIPZiHj_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lk9oVDyaIPZiHj.JPG"
+        },
+        "H0134-LfkliLrjIPSnrK": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LfkliLrjIPSnrK_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LfkliLrjIPSnrK_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LfkliLrjIPSnrK.JPG"
+        },
+        "H0134-LtIXtz7rGPkPgI": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LtIXtz7rGPkPgI_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LtIXtz7rGPkPgI_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LtIXtz7rGPkPgI.JPG"
+        }
+    }
+}

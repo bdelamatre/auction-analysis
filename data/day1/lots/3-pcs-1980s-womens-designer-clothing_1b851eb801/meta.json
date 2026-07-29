@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/3-pcs-1980s-womens-designer-clothing_1b851eb801",
+    "slug": "3-pcs-1980s-womens-designer-clothing_1b851eb801",
+    "lot_number": "1004",
+    "title": "(3 PCS) 1980'S WOMEN'S DESIGNER CLOTHING",
+    "estimate_low": 100,
+    "estimate_high": 200,
+    "current_bid": 50,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LsTT9eNHI9Sew5_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LUVDIqexmr2Xx3_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LR48biyqoYYOaq_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LHYMKUiOuuWNha_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LmhL4Yyj6qEQ4Q": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LmhL4Yyj6qEQ4Q_thz.JPG"
+        },
+        "H0134-LmNraNpnHpXeCU": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LmNraNpnHpXeCU_thz.JPG"
+        },
+        "H0134-LsTT9eNHI9Sew5": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LsTT9eNHI9Sew5_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LsTT9eNHI9Sew5_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LsTT9eNHI9Sew5.JPG"
+        },
+        "H0134-LUVDIqexmr2Xx3": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LUVDIqexmr2Xx3_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LUVDIqexmr2Xx3_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LUVDIqexmr2Xx3.JPG"
+        },
+        "H0134-LR48biyqoYYOaq": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LR48biyqoYYOaq_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LR48biyqoYYOaq_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LR48biyqoYYOaq.JPG"
+        },
+        "H0134-LHYMKUiOuuWNha": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LHYMKUiOuuWNha_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LHYMKUiOuuWNha_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LHYMKUiOuuWNha.JPG"
+        }
+    }
+}

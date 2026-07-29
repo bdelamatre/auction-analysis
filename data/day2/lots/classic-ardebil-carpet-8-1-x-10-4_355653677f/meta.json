@@ -1,0 +1,64 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/classic-ardebil-carpet-8-1-x-10-4_355653677f",
+    "slug": "classic-ardebil-carpet-8-1-x-10-4_355653677f",
+    "lot_number": "2193",
+    "title": "CLASSIC ARDEBIL CARPET (8' 1\" X 10' 4\")",
+    "estimate_low": 1000,
+    "estimate_high": 1500,
+    "current_bid": 500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 7,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LSRTJQ1BWuzmea_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LZ8gN8oN0OClHE_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LVU3gLSlh04b1l_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LzOakqkflukvSO_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lxz6fqPeBnjVBM_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LnVxaOr3wVjZYh_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LmesxbzQd43bAO_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LZHPBwBbPzLDxL": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LZHPBwBbPzLDxL_thz.JPG"
+        },
+        "H0134-LR6ugjVnv23Eot": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LR6ugjVnv23Eot_thz.JPG"
+        },
+        "H0134-LSRTJQ1BWuzmea": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LSRTJQ1BWuzmea_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LSRTJQ1BWuzmea_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LSRTJQ1BWuzmea.JPG"
+        },
+        "H0134-LZ8gN8oN0OClHE": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LZ8gN8oN0OClHE_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LZ8gN8oN0OClHE_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LZ8gN8oN0OClHE.JPG"
+        },
+        "H0134-LVU3gLSlh04b1l": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LVU3gLSlh04b1l_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LVU3gLSlh04b1l_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LVU3gLSlh04b1l.JPG"
+        },
+        "H0134-LzOakqkflukvSO": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LzOakqkflukvSO_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LzOakqkflukvSO_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LzOakqkflukvSO.JPG"
+        },
+        "H0134-Lxz6fqPeBnjVBM": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lxz6fqPeBnjVBM_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lxz6fqPeBnjVBM_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lxz6fqPeBnjVBM.JPG"
+        },
+        "H0134-LnVxaOr3wVjZYh": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LnVxaOr3wVjZYh_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LnVxaOr3wVjZYh_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LnVxaOr3wVjZYh.JPG"
+        },
+        "H0134-LmesxbzQd43bAO": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LmesxbzQd43bAO_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LmesxbzQd43bAO_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LmesxbzQd43bAO.JPG"
+        }
+    }
+}

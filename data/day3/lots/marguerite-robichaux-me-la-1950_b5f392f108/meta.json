@@ -1,0 +1,52 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/marguerite-robichaux-me-la-1950_b5f392f108",
+    "slug": "marguerite-robichaux-me-la-1950_b5f392f108",
+    "lot_number": "3435",
+    "title": "MARGUERITE ROBICHAUX (ME/LA, 1950 - )",
+    "estimate_low": 3000,
+    "estimate_high": 5000,
+    "current_bid": 1500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 5,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LoFgJtmsckvvZT_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LtGmrZWoB491QG_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L87X7bbPuSEYil_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Ln0KHsnX5CPoyJ_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LX9D33Aappg62U_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LQT4YNNgmO9NbA": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LQT4YNNgmO9NbA_thz.JPG"
+        },
+        "H0134-LXFqIHb3Zr2fuz": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LXFqIHb3Zr2fuz_thz.JPG"
+        },
+        "H0134-LoFgJtmsckvvZT": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LoFgJtmsckvvZT_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LoFgJtmsckvvZT_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LoFgJtmsckvvZT.JPG"
+        },
+        "H0134-LtGmrZWoB491QG": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LtGmrZWoB491QG_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LtGmrZWoB491QG_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LtGmrZWoB491QG.JPG"
+        },
+        "H0134-L87X7bbPuSEYil": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L87X7bbPuSEYil_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L87X7bbPuSEYil_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L87X7bbPuSEYil.JPG"
+        },
+        "H0134-Ln0KHsnX5CPoyJ": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Ln0KHsnX5CPoyJ_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Ln0KHsnX5CPoyJ_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Ln0KHsnX5CPoyJ.JPG"
+        },
+        "H0134-LX9D33Aappg62U": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LX9D33Aappg62U_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LX9D33Aappg62U_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LX9D33Aappg62U.JPG"
+        }
+    }
+}

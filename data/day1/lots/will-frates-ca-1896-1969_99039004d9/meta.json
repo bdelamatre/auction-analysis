@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/will-frates-ca-1896-1969_99039004d9",
+    "slug": "will-frates-ca-1896-1969_99039004d9",
+    "lot_number": "1036",
+    "title": "WILL FRATES (CA, 1896-1969)",
+    "estimate_low": 300,
+    "estimate_high": 400,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LERZJboJojLSPo_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LxEiMM5AacQHlX_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LTfrYuByRyRQr2_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LbxVn4fTdOlQIP": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LbxVn4fTdOlQIP_thz.JPG"
+        },
+        "H0134-LrXuxlemwQfQLZ": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LrXuxlemwQfQLZ_thz.JPG"
+        },
+        "H0134-LERZJboJojLSPo": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LERZJboJojLSPo_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LERZJboJojLSPo_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LERZJboJojLSPo.JPG"
+        },
+        "H0134-LxEiMM5AacQHlX": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LxEiMM5AacQHlX_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LxEiMM5AacQHlX_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LxEiMM5AacQHlX.JPG"
+        },
+        "H0134-LTfrYuByRyRQr2": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LTfrYuByRyRQr2_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LTfrYuByRyRQr2_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LTfrYuByRyRQr2.JPG"
+        }
+    }
+}

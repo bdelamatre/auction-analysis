@@ -1,0 +1,27 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/ladys-ebel-wristwatch_658293bd13",
+    "slug": "ladys-ebel-wristwatch_658293bd13",
+    "lot_number": "3208",
+    "title": "LADY'S EBEL WRISTWATCH",
+    "estimate_low": 600,
+    "estimate_high": 800,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 1,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lytfr1eueCcQiO_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LBMXTBkklBmlKC": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LBMXTBkklBmlKC_thz.JPG"
+        },
+        "H0134-LjLCxUxWzAKxLH": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LjLCxUxWzAKxLH_thz.JPG"
+        },
+        "H0134-Lytfr1eueCcQiO": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lytfr1eueCcQiO_original.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lytfr1eueCcQiO.JPG"
+        }
+    }
+}

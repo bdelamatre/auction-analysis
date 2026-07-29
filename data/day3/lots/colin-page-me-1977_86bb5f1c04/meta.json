@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/colin-page-me-1977_86bb5f1c04",
+    "slug": "colin-page-me-1977_86bb5f1c04",
+    "lot_number": "3421",
+    "title": "COLIN PAGE (ME, 1977 - )",
+    "estimate_low": 1000,
+    "estimate_high": 1500,
+    "current_bid": 500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LchOuuymyRCRlX_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LYWDdh9Ua1fn6h_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LJj6Tqe1FKlwOi_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LUaLg9iNbSgVwB_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LxP7mRmlpr6UVI": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LxP7mRmlpr6UVI_thz.JPG"
+        },
+        "H0134-LhL9HKuFiMIm3z": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LhL9HKuFiMIm3z_thz.JPG"
+        },
+        "H0134-LchOuuymyRCRlX": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LchOuuymyRCRlX_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LchOuuymyRCRlX_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LchOuuymyRCRlX.JPG"
+        },
+        "H0134-LYWDdh9Ua1fn6h": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LYWDdh9Ua1fn6h_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LYWDdh9Ua1fn6h_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LYWDdh9Ua1fn6h.JPG"
+        },
+        "H0134-LJj6Tqe1FKlwOi": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LJj6Tqe1FKlwOi_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LJj6Tqe1FKlwOi_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LJj6Tqe1FKlwOi.JPG"
+        },
+        "H0134-LUaLg9iNbSgVwB": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LUaLg9iNbSgVwB_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LUaLg9iNbSgVwB_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LUaLg9iNbSgVwB.JPG"
+        }
+    }
+}

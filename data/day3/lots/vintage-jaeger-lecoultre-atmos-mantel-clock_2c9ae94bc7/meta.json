@@ -1,0 +1,58 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/vintage-jaeger-lecoultre-atmos-mantel-clock_2c9ae94bc7",
+    "slug": "vintage-jaeger-lecoultre-atmos-mantel-clock_2c9ae94bc7",
+    "lot_number": "3158",
+    "title": "VINTAGE JAEGER LECOULTRE ATMOS MANTEL CLOCK",
+    "estimate_low": 400,
+    "estimate_high": 600,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 6,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L9qvwYbkdqlIOR_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LcGH6prVVYwN5T_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L65bjVsQE4Zny4_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L0E5c9MnljTtF9_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LUdj6Ko7kL9RE2_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LfMVCVQ5C2ctTj_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LABtxt1LS1Jf20": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LABtxt1LS1Jf20_thz.JPG"
+        },
+        "H0134-LY9fcKcyVrXk3P": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LY9fcKcyVrXk3P_thz.JPG"
+        },
+        "H0134-L9qvwYbkdqlIOR": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L9qvwYbkdqlIOR_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L9qvwYbkdqlIOR_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L9qvwYbkdqlIOR.JPG"
+        },
+        "H0134-LcGH6prVVYwN5T": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LcGH6prVVYwN5T_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LcGH6prVVYwN5T_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LcGH6prVVYwN5T.JPG"
+        },
+        "H0134-L65bjVsQE4Zny4": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L65bjVsQE4Zny4_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L65bjVsQE4Zny4_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L65bjVsQE4Zny4.JPG"
+        },
+        "H0134-L0E5c9MnljTtF9": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L0E5c9MnljTtF9_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L0E5c9MnljTtF9_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L0E5c9MnljTtF9.JPG"
+        },
+        "H0134-LUdj6Ko7kL9RE2": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LUdj6Ko7kL9RE2_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LUdj6Ko7kL9RE2_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LUdj6Ko7kL9RE2.JPG"
+        },
+        "H0134-LfMVCVQ5C2ctTj": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LfMVCVQ5C2ctTj_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LfMVCVQ5C2ctTj_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LfMVCVQ5C2ctTj.JPG"
+        }
+    }
+}

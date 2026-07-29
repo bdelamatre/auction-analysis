@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/early-needlework-sampler-19th-century_ccc6ecfac8",
+    "slug": "early-needlework-sampler-19th-century_ccc6ecfac8",
+    "lot_number": "2133",
+    "title": "EARLY NEEDLEWORK SAMPLER, 19TH CENTURY",
+    "estimate_low": 300,
+    "estimate_high": 500,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LgrEzjNsQq0e0v_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L68sFDILrK3vzE_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LiA8ycyD5frreO": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LiA8ycyD5frreO_thz.JPG"
+        },
+        "H0134-LhAgUqFJ6BKXf5": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LhAgUqFJ6BKXf5_thz.JPG"
+        },
+        "H0134-LgrEzjNsQq0e0v": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LgrEzjNsQq0e0v_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LgrEzjNsQq0e0v_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LgrEzjNsQq0e0v.JPG"
+        },
+        "H0134-L68sFDILrK3vzE": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L68sFDILrK3vzE_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L68sFDILrK3vzE_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L68sFDILrK3vzE.JPG"
+        }
+    }
+}

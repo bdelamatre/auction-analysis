@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/elizabeth-e-case-ny-1858-1951_b4fc07f27a",
+    "slug": "elizabeth-e-case-ny-1858-1951_b4fc07f27a",
+    "lot_number": "1205",
+    "title": "ELIZABETH E. CASE (NY, 1858-1951)",
+    "estimate_low": 600,
+    "estimate_high": 800,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LyezwbNZwPmfiO_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LksOt3w8QOHQg0_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LDJJxY1NELJ856_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LL0wWRTVY8udH0": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LL0wWRTVY8udH0_thz.JPG"
+        },
+        "H0134-LECje2KJS1vIz2": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LECje2KJS1vIz2_thz.JPG"
+        },
+        "H0134-LyezwbNZwPmfiO": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LyezwbNZwPmfiO_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LyezwbNZwPmfiO_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LyezwbNZwPmfiO.JPG"
+        },
+        "H0134-LksOt3w8QOHQg0": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LksOt3w8QOHQg0_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LksOt3w8QOHQg0_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LksOt3w8QOHQg0.JPG"
+        },
+        "H0134-LDJJxY1NELJ856": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LDJJxY1NELJ856_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LDJJxY1NELJ856_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LDJJxY1NELJ856.JPG"
+        }
+    }
+}

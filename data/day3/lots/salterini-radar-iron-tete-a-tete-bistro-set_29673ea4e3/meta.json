@@ -1,0 +1,27 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/salterini-radar-iron-tete-a-tete-bistro-set_29673ea4e3",
+    "slug": "salterini-radar-iron-tete-a-tete-bistro-set_29673ea4e3",
+    "lot_number": "3043",
+    "title": "SALTERINI \"RADAR\" IRON TETE-A-TETE BISTRO SET",
+    "estimate_low": 500,
+    "estimate_high": 700,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 1,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LNK3ka759OZm64_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-L1gKv42xPEZBiq": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L1gKv42xPEZBiq_thz.JPG"
+        },
+        "H0134-L5vgdnwCYcXVBd": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L5vgdnwCYcXVBd_thz.JPG"
+        },
+        "H0134-LNK3ka759OZm64": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LNK3ka759OZm64_original.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LNK3ka759OZm64.JPG"
+        }
+    }
+}

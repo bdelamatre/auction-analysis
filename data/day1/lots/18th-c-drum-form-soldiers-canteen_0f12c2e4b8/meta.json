@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/18th-c-drum-form-soldiers-canteen_0f12c2e4b8",
+    "slug": "18th-c-drum-form-soldiers-canteen_0f12c2e4b8",
+    "lot_number": "1231",
+    "title": "18TH C. DRUM FORM SOLDIER'S CANTEEN",
+    "estimate_low": 300,
+    "estimate_high": 500,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LTv3cmhw0J7ZEU_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L8pSWsU5RB1KJ7_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L8N4d4hrKzdssB_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LpEEGnBCKOSg9g": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LpEEGnBCKOSg9g_thz.JPG"
+        },
+        "H0134-L14RbILZsJdW8g": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L14RbILZsJdW8g_thz.JPG"
+        },
+        "H0134-LTv3cmhw0J7ZEU": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LTv3cmhw0J7ZEU_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LTv3cmhw0J7ZEU_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LTv3cmhw0J7ZEU.JPG"
+        },
+        "H0134-L8pSWsU5RB1KJ7": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L8pSWsU5RB1KJ7_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L8pSWsU5RB1KJ7_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L8pSWsU5RB1KJ7.JPG"
+        },
+        "H0134-L8N4d4hrKzdssB": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L8N4d4hrKzdssB_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L8N4d4hrKzdssB_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L8N4d4hrKzdssB.JPG"
+        }
+    }
+}

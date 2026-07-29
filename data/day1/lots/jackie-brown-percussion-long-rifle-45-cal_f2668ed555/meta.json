@@ -1,0 +1,58 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/jackie-brown-percussion-long-rifle-45-cal_f2668ed555",
+    "slug": "jackie-brown-percussion-long-rifle-45-cal_f2668ed555",
+    "lot_number": "1230",
+    "title": "JACKIE BROWN PERCUSSION LONG RIFLE, .45 CAL",
+    "estimate_low": 700,
+    "estimate_high": 900,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 6,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LpEEGnBCKOSg9g_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LpJ8MNw7fByxak_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Llind88HGM5FcZ_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LKsoDGOwySwdRQ_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LBtsoOy3URMZuo_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L9gE9kNDQh1i8b_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LQrMGaoS3Ud28u": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LQrMGaoS3Ud28u_thz.JPG"
+        },
+        "H0134-LTv3cmhw0J7ZEU": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LTv3cmhw0J7ZEU_thz.JPG"
+        },
+        "H0134-LpEEGnBCKOSg9g": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LpEEGnBCKOSg9g_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LpEEGnBCKOSg9g_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LpEEGnBCKOSg9g.JPG"
+        },
+        "H0134-LpJ8MNw7fByxak": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LpJ8MNw7fByxak_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LpJ8MNw7fByxak_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LpJ8MNw7fByxak.JPG"
+        },
+        "H0134-Llind88HGM5FcZ": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Llind88HGM5FcZ_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Llind88HGM5FcZ_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Llind88HGM5FcZ.JPG"
+        },
+        "H0134-LKsoDGOwySwdRQ": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LKsoDGOwySwdRQ_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LKsoDGOwySwdRQ_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LKsoDGOwySwdRQ.JPG"
+        },
+        "H0134-LBtsoOy3URMZuo": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LBtsoOy3URMZuo_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LBtsoOy3URMZuo_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LBtsoOy3URMZuo.JPG"
+        },
+        "H0134-L9gE9kNDQh1i8b": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L9gE9kNDQh1i8b_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L9gE9kNDQh1i8b_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L9gE9kNDQh1i8b.JPG"
+        }
+    }
+}

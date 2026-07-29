@@ -1,0 +1,58 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/le-corbusier-charles-edouard-jeanneret-france-swi_e728a96c85",
+    "slug": "le-corbusier-charles-edouard-jeanneret-france-swi_e728a96c85",
+    "lot_number": "3265",
+    "title": "LE CORBUSIER (CHARLES EDOUARD JEANNERET), (FRANCE/SWITZ, 1887-1965)",
+    "estimate_low": 800,
+    "estimate_high": 1200,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 6,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L5BrAo4VvpfPQn_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L5X45ef3QkGztN_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LfSa3E0fFPdRaK_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LBbja4kiAj9je8_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LjAZd1zvmQqE0V_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LWU4AHRQHtv6gv_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LzZ16i12Ub6ecx": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LzZ16i12Ub6ecx_thz.JPG"
+        },
+        "H0134-LrNVeVX0Ol3nsB": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LrNVeVX0Ol3nsB_thz.JPG"
+        },
+        "H0134-L5BrAo4VvpfPQn": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L5BrAo4VvpfPQn_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L5BrAo4VvpfPQn_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L5BrAo4VvpfPQn.JPG"
+        },
+        "H0134-L5X45ef3QkGztN": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L5X45ef3QkGztN_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L5X45ef3QkGztN_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L5X45ef3QkGztN.JPG"
+        },
+        "H0134-LfSa3E0fFPdRaK": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LfSa3E0fFPdRaK_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LfSa3E0fFPdRaK_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LfSa3E0fFPdRaK.JPG"
+        },
+        "H0134-LBbja4kiAj9je8": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LBbja4kiAj9je8_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LBbja4kiAj9je8_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LBbja4kiAj9je8.JPG"
+        },
+        "H0134-LjAZd1zvmQqE0V": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LjAZd1zvmQqE0V_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LjAZd1zvmQqE0V_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LjAZd1zvmQqE0V.JPG"
+        },
+        "H0134-LWU4AHRQHtv6gv": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LWU4AHRQHtv6gv_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LWU4AHRQHtv6gv_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LWU4AHRQHtv6gv.JPG"
+        }
+    }
+}

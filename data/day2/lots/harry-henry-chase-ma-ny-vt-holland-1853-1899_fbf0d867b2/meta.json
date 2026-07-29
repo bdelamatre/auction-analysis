@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/harry-henry-chase-ma-ny-vt-holland-1853-1899_fbf0d867b2",
+    "slug": "harry-henry-chase-ma-ny-vt-holland-1853-1899_fbf0d867b2",
+    "lot_number": "2259",
+    "title": "HARRY (HENRY) CHASE (MA/NY/VT/HOLLAND, 1853-1899)",
+    "estimate_low": 3000,
+    "estimate_high": 5000,
+    "current_bid": 1500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LMZtmZDhFcdyj8_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LEOlivQsmyA516_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Ln29HEPVj7WVyy_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LA0296nR8YEofw_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LDQNr8mYJHxCpy": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LDQNr8mYJHxCpy_thz.JPG"
+        },
+        "H0134-L72yGNFgv1ZTJP": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L72yGNFgv1ZTJP_thz.JPG"
+        },
+        "H0134-LMZtmZDhFcdyj8": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LMZtmZDhFcdyj8_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LMZtmZDhFcdyj8_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LMZtmZDhFcdyj8.JPG"
+        },
+        "H0134-LEOlivQsmyA516": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LEOlivQsmyA516_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LEOlivQsmyA516_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LEOlivQsmyA516.JPG"
+        },
+        "H0134-Ln29HEPVj7WVyy": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Ln29HEPVj7WVyy_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Ln29HEPVj7WVyy_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Ln29HEPVj7WVyy.JPG"
+        },
+        "H0134-LA0296nR8YEofw": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LA0296nR8YEofw_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LA0296nR8YEofw_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LA0296nR8YEofw.JPG"
+        }
+    }
+}

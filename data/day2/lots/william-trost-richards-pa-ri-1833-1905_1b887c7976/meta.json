@@ -1,0 +1,52 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/william-trost-richards-pa-ri-1833-1905_1b887c7976",
+    "slug": "william-trost-richards-pa-ri-1833-1905_1b887c7976",
+    "lot_number": "2228",
+    "title": "WILLIAM TROST RICHARDS (PA/RI, 1833-1905)",
+    "estimate_low": 1500,
+    "estimate_high": 2500,
+    "current_bid": 750,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 5,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LJfmIfC4EZ2doP_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LnZPR13ZmPMu3U_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LZXfXe70bNRs7y_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LcYjbVjf6ppITN_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LCYrZAfr6KNwfz_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LRY8AsZnMxJ5mz": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LRY8AsZnMxJ5mz_thz.JPG"
+        },
+        "H0134-LQOJcvTpAlBCrT": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LQOJcvTpAlBCrT_thz.JPG"
+        },
+        "H0134-LJfmIfC4EZ2doP": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LJfmIfC4EZ2doP_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LJfmIfC4EZ2doP_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LJfmIfC4EZ2doP.JPG"
+        },
+        "H0134-LnZPR13ZmPMu3U": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LnZPR13ZmPMu3U_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LnZPR13ZmPMu3U_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LnZPR13ZmPMu3U.JPG"
+        },
+        "H0134-LZXfXe70bNRs7y": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LZXfXe70bNRs7y_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LZXfXe70bNRs7y_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LZXfXe70bNRs7y.JPG"
+        },
+        "H0134-LcYjbVjf6ppITN": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LcYjbVjf6ppITN_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LcYjbVjf6ppITN_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LcYjbVjf6ppITN.JPG"
+        },
+        "H0134-LCYrZAfr6KNwfz": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LCYrZAfr6KNwfz_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LCYrZAfr6KNwfz_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LCYrZAfr6KNwfz.JPG"
+        }
+    }
+}

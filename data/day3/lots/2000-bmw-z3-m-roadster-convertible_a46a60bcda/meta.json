@@ -1,0 +1,52 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/2000-bmw-z3-m-roadster-convertible_a46a60bcda",
+    "slug": "2000-bmw-z3-m-roadster-convertible_a46a60bcda",
+    "lot_number": "3035",
+    "title": "2000 BMW Z3 M ROADSTER CONVERTIBLE",
+    "estimate_low": 15000,
+    "estimate_high": 20000,
+    "current_bid": 7500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 5,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LzOadhLBnbzV7J_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LvEAXKd4UNPdjB_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LMrosLvNrZQeMZ_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L1QFdWUOq44Sed_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LNGZC42zsVJsQD_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LtnMPpM3d5xQuF": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LtnMPpM3d5xQuF_thz.JPG"
+        },
+        "H0134-LbIzGDDOlRWDer": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LbIzGDDOlRWDer_thz.JPG"
+        },
+        "H0134-LzOadhLBnbzV7J": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LzOadhLBnbzV7J_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LzOadhLBnbzV7J_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LzOadhLBnbzV7J.JPG"
+        },
+        "H0134-LvEAXKd4UNPdjB": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LvEAXKd4UNPdjB_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LvEAXKd4UNPdjB_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LvEAXKd4UNPdjB.JPG"
+        },
+        "H0134-LMrosLvNrZQeMZ": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LMrosLvNrZQeMZ_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LMrosLvNrZQeMZ_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LMrosLvNrZQeMZ.JPG"
+        },
+        "H0134-L1QFdWUOq44Sed": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L1QFdWUOq44Sed_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L1QFdWUOq44Sed_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L1QFdWUOq44Sed.JPG"
+        },
+        "H0134-LNGZC42zsVJsQD": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LNGZC42zsVJsQD_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LNGZC42zsVJsQD_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LNGZC42zsVJsQD.JPG"
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/avraham-shemi-shoham-israel-1935_4852d21a75",
+    "slug": "avraham-shemi-shoham-israel-1935_4852d21a75",
+    "lot_number": "1225",
+    "title": "AVRAHAM SHEMI-SHOHAM (ISRAEL, 1935 - )",
+    "estimate_low": 250,
+    "estimate_high": 350,
+    "current_bid": 50,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LXWY7VaS4WPivS_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LUGimiE9595AUE_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-La2UN4r75YRetg": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-La2UN4r75YRetg_thz.JPG"
+        },
+        "H0134-L0tRFufeeXZAR7": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L0tRFufeeXZAR7_thz.JPG"
+        },
+        "H0134-LXWY7VaS4WPivS": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LXWY7VaS4WPivS_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LXWY7VaS4WPivS_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LXWY7VaS4WPivS.JPG"
+        },
+        "H0134-LUGimiE9595AUE": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LUGimiE9595AUE_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LUGimiE9595AUE_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LUGimiE9595AUE.JPG"
+        }
+    }
+}

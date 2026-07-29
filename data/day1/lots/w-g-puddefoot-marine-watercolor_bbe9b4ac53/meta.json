@@ -1,0 +1,58 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/w-g-puddefoot-marine-watercolor_bbe9b4ac53",
+    "slug": "w-g-puddefoot-marine-watercolor_bbe9b4ac53",
+    "lot_number": "1197",
+    "title": "W.G. PUDDEFOOT MARINE WATERCOLOR",
+    "estimate_low": 300,
+    "estimate_high": 500,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 6,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L0TcoF4TPdRDX1_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LbTQbcvpVaw49G_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LmA2u56ZdDCzek_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lm1skGYmwRpcmR_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LNHIAyQL4JgnVb_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lgyj0pAaLieYzI_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LpXJq43YjLldnw": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LpXJq43YjLldnw_thz.JPG"
+        },
+        "H0134-LxPAgHMCDD5msC": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LxPAgHMCDD5msC_thz.JPG"
+        },
+        "H0134-L0TcoF4TPdRDX1": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L0TcoF4TPdRDX1_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L0TcoF4TPdRDX1_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L0TcoF4TPdRDX1.JPG"
+        },
+        "H0134-LbTQbcvpVaw49G": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LbTQbcvpVaw49G_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LbTQbcvpVaw49G_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LbTQbcvpVaw49G.JPG"
+        },
+        "H0134-LmA2u56ZdDCzek": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LmA2u56ZdDCzek_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LmA2u56ZdDCzek_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LmA2u56ZdDCzek.JPG"
+        },
+        "H0134-Lm1skGYmwRpcmR": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lm1skGYmwRpcmR_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lm1skGYmwRpcmR_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lm1skGYmwRpcmR.JPG"
+        },
+        "H0134-LNHIAyQL4JgnVb": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LNHIAyQL4JgnVb_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LNHIAyQL4JgnVb_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LNHIAyQL4JgnVb.JPG"
+        },
+        "H0134-Lgyj0pAaLieYzI": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lgyj0pAaLieYzI_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lgyj0pAaLieYzI_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lgyj0pAaLieYzI.JPG"
+        }
+    }
+}

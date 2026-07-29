@@ -1,0 +1,52 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/danish-royal-appointment-signed-by-the-king-queen_f53e026964",
+    "slug": "danish-royal-appointment-signed-by-the-king-queen_f53e026964",
+    "lot_number": "1494",
+    "title": "DANISH ROYAL APPOINTMENT, SIGNED BY THE KING & QUEEN, 1976",
+    "estimate_low": 200,
+    "estimate_high": 300,
+    "current_bid": 50,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 5,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LETx0HZkpedG3D_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LzAWwWfyOuev6x_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LqFB4y5yWn14na_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LKZIGV4ItxoXUc_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LWzKrs5SrIufjS_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LZcZJUaf0Vg5K8": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LZcZJUaf0Vg5K8_thz.JPG"
+        },
+        "H0134-LJRwzBJGomI1Qq": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LJRwzBJGomI1Qq_thz.JPG"
+        },
+        "H0134-LETx0HZkpedG3D": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LETx0HZkpedG3D_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LETx0HZkpedG3D_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LETx0HZkpedG3D.JPG"
+        },
+        "H0134-LzAWwWfyOuev6x": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LzAWwWfyOuev6x_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LzAWwWfyOuev6x_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LzAWwWfyOuev6x.JPG"
+        },
+        "H0134-LqFB4y5yWn14na": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LqFB4y5yWn14na_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LqFB4y5yWn14na_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LqFB4y5yWn14na.JPG"
+        },
+        "H0134-LKZIGV4ItxoXUc": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LKZIGV4ItxoXUc_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LKZIGV4ItxoXUc_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LKZIGV4ItxoXUc.JPG"
+        },
+        "H0134-LWzKrs5SrIufjS": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LWzKrs5SrIufjS_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LWzKrs5SrIufjS_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LWzKrs5SrIufjS.JPG"
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/mabel-copeland-circa-1900-floral-painting_fcf2c5ebae",
+    "slug": "mabel-copeland-circa-1900-floral-painting_fcf2c5ebae",
+    "lot_number": "1401",
+    "title": "MABEL COPELAND CIRCA 1900 FLORAL PAINTING",
+    "estimate_low": 500,
+    "estimate_high": 700,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LrNPCTahxfG6XD_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L9M6WZOPtCx3pe_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LLKTQ8jEYOo7g8_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-L993LdNH1pG8Fa": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L993LdNH1pG8Fa_thz.JPG"
+        },
+        "H0134-LOzt2Ju5B8tkdp": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LOzt2Ju5B8tkdp_thz.JPG"
+        },
+        "H0134-LrNPCTahxfG6XD": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LrNPCTahxfG6XD_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LrNPCTahxfG6XD_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LrNPCTahxfG6XD.JPG"
+        },
+        "H0134-L9M6WZOPtCx3pe": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L9M6WZOPtCx3pe_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L9M6WZOPtCx3pe_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L9M6WZOPtCx3pe.JPG"
+        },
+        "H0134-LLKTQ8jEYOo7g8": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LLKTQ8jEYOo7g8_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LLKTQ8jEYOo7g8_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LLKTQ8jEYOo7g8.JPG"
+        }
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/paul-kratter-contemporary-ca_8e738e2761",
+    "slug": "paul-kratter-contemporary-ca_8e738e2761",
+    "lot_number": "1032",
+    "title": "PAUL KRATTER (CONTEMPORARY CA)",
+    "estimate_low": 600,
+    "estimate_high": 800,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 5,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LqGLQXNbboMnXx_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LZIC2cnTjn0DqN_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LW1Yg0LQZIepPH_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LtMg63jrQfw2pv_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Ls7WcPubsXQCvo_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LQCLfN1hKTORJp": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LQCLfN1hKTORJp_thz.JPG"
+        },
+        "H0134-LZ6ZsSD7ZuOXhG": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LZ6ZsSD7ZuOXhG_thz.JPG"
+        },
+        "H0134-LqGLQXNbboMnXx": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LqGLQXNbboMnXx_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LqGLQXNbboMnXx_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LqGLQXNbboMnXx.JPG"
+        },
+        "H0134-LZIC2cnTjn0DqN": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LZIC2cnTjn0DqN_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LZIC2cnTjn0DqN_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LZIC2cnTjn0DqN.JPG"
+        },
+        "H0134-LW1Yg0LQZIepPH": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LW1Yg0LQZIepPH_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LW1Yg0LQZIepPH_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LW1Yg0LQZIepPH.JPG"
+        },
+        "H0134-LtMg63jrQfw2pv": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LtMg63jrQfw2pv_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LtMg63jrQfw2pv_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LtMg63jrQfw2pv.JPG"
+        },
+        "H0134-Ls7WcPubsXQCvo": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Ls7WcPubsXQCvo_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Ls7WcPubsXQCvo_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Ls7WcPubsXQCvo.JPG"
+        }
+    }
+}

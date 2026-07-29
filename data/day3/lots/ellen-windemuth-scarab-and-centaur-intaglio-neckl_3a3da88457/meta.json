@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/ellen-windemuth-scarab-and-centaur-intaglio-neckl_3a3da88457",
+    "slug": "ellen-windemuth-scarab-and-centaur-intaglio-neckl_3a3da88457",
+    "lot_number": "3244",
+    "title": "ELLEN WINDEMUTH SCARAB AND CENTAUR INTAGLIO NECKLACE",
+    "estimate_low": 300,
+    "estimate_high": 500,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LyUOzfyfovhq8e_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L3ShWb0fhpMqzO_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L41zqh3wFLB47w_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L7o9x6xwA8blxH_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LvzwMt2cwUM6NI": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LvzwMt2cwUM6NI_thz.JPG"
+        },
+        "H0134-LQatYe5KRFBw9w": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LQatYe5KRFBw9w_thz.JPG"
+        },
+        "H0134-LyUOzfyfovhq8e": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LyUOzfyfovhq8e_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LyUOzfyfovhq8e_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LyUOzfyfovhq8e.JPG"
+        },
+        "H0134-L3ShWb0fhpMqzO": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L3ShWb0fhpMqzO_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L3ShWb0fhpMqzO_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L3ShWb0fhpMqzO.JPG"
+        },
+        "H0134-L41zqh3wFLB47w": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L41zqh3wFLB47w_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L41zqh3wFLB47w_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L41zqh3wFLB47w.JPG"
+        },
+        "H0134-L7o9x6xwA8blxH": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L7o9x6xwA8blxH_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L7o9x6xwA8blxH_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L7o9x6xwA8blxH.JPG"
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/bessie-potter-vonnoh-ny-ct-md-1872-1955_23a2674525",
+    "slug": "bessie-potter-vonnoh-ny-ct-md-1872-1955_23a2674525",
+    "lot_number": "3081",
+    "title": "BESSIE POTTER VONNOH (NY/CT/MD, 1872-1955)",
+    "estimate_low": 3000,
+    "estimate_high": 5000,
+    "current_bid": 1500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LsHskaBrWJPL6C_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LByokRbEsyFE4t_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LqKnUPPZrFERrd_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L5VRdkIgyYnncc_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-Leah0UAM2DxPOw": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Leah0UAM2DxPOw_thz.JPG"
+        },
+        "H0134-LKg0bljCHNEsld": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LKg0bljCHNEsld_thz.JPG"
+        },
+        "H0134-LsHskaBrWJPL6C": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LsHskaBrWJPL6C_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LsHskaBrWJPL6C_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LsHskaBrWJPL6C.JPG"
+        },
+        "H0134-LByokRbEsyFE4t": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LByokRbEsyFE4t_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LByokRbEsyFE4t_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LByokRbEsyFE4t.JPG"
+        },
+        "H0134-LqKnUPPZrFERrd": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LqKnUPPZrFERrd_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LqKnUPPZrFERrd_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LqKnUPPZrFERrd.JPG"
+        },
+        "H0134-L5VRdkIgyYnncc": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L5VRdkIgyYnncc_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L5VRdkIgyYnncc_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L5VRdkIgyYnncc.JPG"
+        }
+    }
+}

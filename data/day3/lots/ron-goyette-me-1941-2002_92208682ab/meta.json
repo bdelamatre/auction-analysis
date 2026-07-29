@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/ron-goyette-me-1941-2002_92208682ab",
+    "slug": "ron-goyette-me-1941-2002_92208682ab",
+    "lot_number": "3377",
+    "title": "RON GOYETTE (ME, 1941-2002)",
+    "estimate_low": 300,
+    "estimate_high": 400,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lfl9G6EKPkk5GP_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LqGuV8TXvzkLJA_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LB3pdJZIv48P4G_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LNWGckr4UMd0yy": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LNWGckr4UMd0yy_thz.JPG"
+        },
+        "H0134-LXDYRW1E8fN6x4": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LXDYRW1E8fN6x4_thz.JPG"
+        },
+        "H0134-Lfl9G6EKPkk5GP": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lfl9G6EKPkk5GP_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lfl9G6EKPkk5GP_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lfl9G6EKPkk5GP.JPG"
+        },
+        "H0134-LqGuV8TXvzkLJA": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LqGuV8TXvzkLJA_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LqGuV8TXvzkLJA_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LqGuV8TXvzkLJA.JPG"
+        },
+        "H0134-LB3pdJZIv48P4G": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LB3pdJZIv48P4G_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LB3pdJZIv48P4G_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LB3pdJZIv48P4G.JPG"
+        }
+    }
+}

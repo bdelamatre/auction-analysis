@@ -1,0 +1,58 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/frederick-judd-waugh-nj-ma-1861-1940_aa514ad7ec",
+    "slug": "frederick-judd-waugh-nj-ma-1861-1940_aa514ad7ec",
+    "lot_number": "2231",
+    "title": "FREDERICK JUDD WAUGH (NJ/MA, 1861-1940)",
+    "estimate_low": 8000,
+    "estimate_high": 12000,
+    "current_bid": 4000,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 6,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LHX1aIKkAkOJp7_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Ly4l6ZMxUojGkS_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LtZtGDjhq025CF_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LIfRbL0mDExtNf_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LDlTakVeobGuhY_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LKJDv7PQtWhYFj_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LAu7iShokcXEoL": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LAu7iShokcXEoL_thz.JPG"
+        },
+        "H0134-LDKamYatd1Cg0s": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LDKamYatd1Cg0s_thz.JPG"
+        },
+        "H0134-LHX1aIKkAkOJp7": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LHX1aIKkAkOJp7_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LHX1aIKkAkOJp7_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LHX1aIKkAkOJp7.JPG"
+        },
+        "H0134-Ly4l6ZMxUojGkS": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Ly4l6ZMxUojGkS_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Ly4l6ZMxUojGkS_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Ly4l6ZMxUojGkS.JPG"
+        },
+        "H0134-LtZtGDjhq025CF": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LtZtGDjhq025CF_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LtZtGDjhq025CF_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LtZtGDjhq025CF.JPG"
+        },
+        "H0134-LIfRbL0mDExtNf": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LIfRbL0mDExtNf_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LIfRbL0mDExtNf_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LIfRbL0mDExtNf.JPG"
+        },
+        "H0134-LDlTakVeobGuhY": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LDlTakVeobGuhY_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LDlTakVeobGuhY_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LDlTakVeobGuhY.JPG"
+        },
+        "H0134-LKJDv7PQtWhYFj": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LKJDv7PQtWhYFj_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LKJDv7PQtWhYFj_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LKJDv7PQtWhYFj.JPG"
+        }
+    }
+}

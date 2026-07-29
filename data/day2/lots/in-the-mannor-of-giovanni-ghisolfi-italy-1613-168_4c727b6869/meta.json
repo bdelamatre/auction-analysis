@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/in-the-mannor-of-giovanni-ghisolfi-italy-1613-168_4c727b6869",
+    "slug": "in-the-mannor-of-giovanni-ghisolfi-italy-1613-168_4c727b6869",
+    "lot_number": "2383",
+    "title": "IN THE MANNOR OF GIOVANNI GHISOLFI (ITALY 1613-1683) THREE FIGURES WITH RUINS",
+    "estimate_low": 2000,
+    "estimate_high": 3000,
+    "current_bid": 1000,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LAiOw4IqVZPOxz_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-La0SyqoOw38E34_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LZxXgTXoJFm1dr_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lv4zDci8s3h2Pd_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LpVdlIUE0LFwz0": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LpVdlIUE0LFwz0_thz.JPG"
+        },
+        "H0134-Lm1x79eYv6lOQR": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lm1x79eYv6lOQR_thz.JPG"
+        },
+        "H0134-LAiOw4IqVZPOxz": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LAiOw4IqVZPOxz_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LAiOw4IqVZPOxz_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LAiOw4IqVZPOxz.JPG"
+        },
+        "H0134-La0SyqoOw38E34": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-La0SyqoOw38E34_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-La0SyqoOw38E34_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-La0SyqoOw38E34.JPG"
+        },
+        "H0134-LZxXgTXoJFm1dr": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LZxXgTXoJFm1dr_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LZxXgTXoJFm1dr_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LZxXgTXoJFm1dr.JPG"
+        },
+        "H0134-Lv4zDci8s3h2Pd": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lv4zDci8s3h2Pd_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lv4zDci8s3h2Pd_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lv4zDci8s3h2Pd.JPG"
+        }
+    }
+}

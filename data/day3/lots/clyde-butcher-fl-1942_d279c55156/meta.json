@@ -1,0 +1,52 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/clyde-butcher-fl-1942_d279c55156",
+    "slug": "clyde-butcher-fl-1942_d279c55156",
+    "lot_number": "3276",
+    "title": "CLYDE BUTCHER (FL, 1942 - )",
+    "estimate_low": 3000,
+    "estimate_high": 4000,
+    "current_bid": 1500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 5,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L2gWmB2Udo7kOu_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L8ilYr23oEuDGU_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LPkVk4dHiUiLoi_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LNT7B9UvvnxstW_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LUQnQI9nSjmGnJ_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-L8AXvFOvNzMnNL": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L8AXvFOvNzMnNL_thz.JPG"
+        },
+        "H0134-L8fdAzI6JcvoWZ": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L8fdAzI6JcvoWZ_thz.JPG"
+        },
+        "H0134-L2gWmB2Udo7kOu": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L2gWmB2Udo7kOu_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L2gWmB2Udo7kOu_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L2gWmB2Udo7kOu.JPG"
+        },
+        "H0134-L8ilYr23oEuDGU": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L8ilYr23oEuDGU_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L8ilYr23oEuDGU_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L8ilYr23oEuDGU.JPG"
+        },
+        "H0134-LPkVk4dHiUiLoi": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LPkVk4dHiUiLoi_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LPkVk4dHiUiLoi_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LPkVk4dHiUiLoi.JPG"
+        },
+        "H0134-LNT7B9UvvnxstW": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LNT7B9UvvnxstW_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LNT7B9UvvnxstW_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LNT7B9UvvnxstW.JPG"
+        },
+        "H0134-LUQnQI9nSjmGnJ": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LUQnQI9nSjmGnJ_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LUQnQI9nSjmGnJ_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LUQnQI9nSjmGnJ.JPG"
+        }
+    }
+}

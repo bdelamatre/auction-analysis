@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/2-british-bessons-brass-marching-band-flugelhorns_ded0353a91",
+    "slug": "2-british-bessons-brass-marching-band-flugelhorns_ded0353a91",
+    "lot_number": "1216",
+    "title": "(2) BRITISH BESSONS BRASS MARCHING BAND FLUGELHORNS",
+    "estimate_low": 300,
+    "estimate_high": 500,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LJ5hm2AH4oJvcc_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LFGEsQ7A2wbntQ_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LtoXg3BSpnaaug_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LWy7TMbXUoLNE5": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LWy7TMbXUoLNE5_thz.JPG"
+        },
+        "H0134-LHe400CL8gDWLO": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LHe400CL8gDWLO_thz.JPG"
+        },
+        "H0134-LJ5hm2AH4oJvcc": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LJ5hm2AH4oJvcc_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LJ5hm2AH4oJvcc_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LJ5hm2AH4oJvcc.JPG"
+        },
+        "H0134-LFGEsQ7A2wbntQ": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LFGEsQ7A2wbntQ_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LFGEsQ7A2wbntQ_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LFGEsQ7A2wbntQ.JPG"
+        },
+        "H0134-LtoXg3BSpnaaug": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LtoXg3BSpnaaug_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LtoXg3BSpnaaug_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LtoXg3BSpnaaug.JPG"
+        }
+    }
+}

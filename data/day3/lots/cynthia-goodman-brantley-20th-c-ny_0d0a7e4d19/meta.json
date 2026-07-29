@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/cynthia-goodman-brantley-20th-c-ny_0d0a7e4d19",
+    "slug": "cynthia-goodman-brantley-20th-c-ny_0d0a7e4d19",
+    "lot_number": "3320",
+    "title": "CYNTHIA GOODMAN BRANTLEY (20TH C. NY)",
+    "estimate_low": 1000,
+    "estimate_high": 1500,
+    "current_bid": 500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L4wVG9kjg36ycq_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LdzFApoWJKU8h3_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LBU87kkM7ABMPf_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-Lf8FcionZzZUaq": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lf8FcionZzZUaq_thz.JPG"
+        },
+        "H0134-L3A6LdTixkOHdh": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L3A6LdTixkOHdh_thz.JPG"
+        },
+        "H0134-L4wVG9kjg36ycq": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L4wVG9kjg36ycq_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L4wVG9kjg36ycq_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L4wVG9kjg36ycq.JPG"
+        },
+        "H0134-LdzFApoWJKU8h3": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LdzFApoWJKU8h3_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LdzFApoWJKU8h3_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LdzFApoWJKU8h3.JPG"
+        },
+        "H0134-LBU87kkM7ABMPf": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LBU87kkM7ABMPf_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LBU87kkM7ABMPf_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LBU87kkM7ABMPf.JPG"
+        }
+    }
+}

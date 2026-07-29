@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/champion-27-ton-log-splitter_8c82507c8b",
+    "slug": "champion-27-ton-log-splitter_8c82507c8b",
+    "lot_number": "3040",
+    "title": "CHAMPION 27-TON LOG-SPLITTER",
+    "estimate_low": 1000,
+    "estimate_high": 1500,
+    "current_bid": 500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LXIpxPKdi2gmoi_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LmbGmHsaWuZnmW_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LqAAUC9C6KKVtR_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LHWZu1rZUIWrh8": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LHWZu1rZUIWrh8_thz.JPG"
+        },
+        "H0134-LA2o1BOrTZ4wjI": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LA2o1BOrTZ4wjI_thz.JPG"
+        },
+        "H0134-LXIpxPKdi2gmoi": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LXIpxPKdi2gmoi_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LXIpxPKdi2gmoi_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LXIpxPKdi2gmoi.JPG"
+        },
+        "H0134-LmbGmHsaWuZnmW": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LmbGmHsaWuZnmW_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LmbGmHsaWuZnmW_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LmbGmHsaWuZnmW.JPG"
+        },
+        "H0134-LqAAUC9C6KKVtR": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LqAAUC9C6KKVtR_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LqAAUC9C6KKVtR_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LqAAUC9C6KKVtR.JPG"
+        }
+    }
+}

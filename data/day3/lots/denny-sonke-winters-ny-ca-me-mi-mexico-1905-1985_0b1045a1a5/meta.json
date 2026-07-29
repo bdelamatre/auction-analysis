@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/denny-sonke-winters-ny-ca-me-mi-mexico-1905-1985_0b1045a1a5",
+    "slug": "denny-sonke-winters-ny-ca-me-mi-mexico-1905-1985_0b1045a1a5",
+    "lot_number": "3466",
+    "title": "DENNY SONKE WINTERS (NY/CA/ME/MI/MEXICO, 1905-1985)",
+    "estimate_low": 800,
+    "estimate_high": 1000,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L9ratD2YoDUVFl_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LMxKQdTl0jbC56_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LrGG3PB9GOfCPV_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LBxxyiGDCx6APX_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LdAZmxT48y6fws": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LdAZmxT48y6fws_thz.JPG"
+        },
+        "H0134-LmccYKtrZz1RzL": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LmccYKtrZz1RzL_thz.JPG"
+        },
+        "H0134-L9ratD2YoDUVFl": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L9ratD2YoDUVFl_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L9ratD2YoDUVFl_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L9ratD2YoDUVFl.JPG"
+        },
+        "H0134-LMxKQdTl0jbC56": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LMxKQdTl0jbC56_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LMxKQdTl0jbC56_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LMxKQdTl0jbC56.JPG"
+        },
+        "H0134-LrGG3PB9GOfCPV": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LrGG3PB9GOfCPV_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LrGG3PB9GOfCPV_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LrGG3PB9GOfCPV.JPG"
+        },
+        "H0134-LBxxyiGDCx6APX": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LBxxyiGDCx6APX_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LBxxyiGDCx6APX_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LBxxyiGDCx6APX.JPG"
+        }
+    }
+}

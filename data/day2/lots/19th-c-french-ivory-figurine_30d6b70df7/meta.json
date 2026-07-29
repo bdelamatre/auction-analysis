@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/19th-c-french-ivory-figurine_30d6b70df7",
+    "slug": "19th-c-french-ivory-figurine_30d6b70df7",
+    "lot_number": "2355",
+    "title": "19TH C. FRENCH IVORY FIGURINE",
+    "estimate_low": 650,
+    "estimate_high": 750,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LNKI8zxvhqhNoG_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LbnxZtew1kukX9_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LoHbivGP4A7Jr0_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LhqVzsgowe9K2d": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LhqVzsgowe9K2d_thz.JPG"
+        },
+        "H0134-LbbAgyWEzE0dIr": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LbbAgyWEzE0dIr_thz.JPG"
+        },
+        "H0134-LNKI8zxvhqhNoG": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LNKI8zxvhqhNoG_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LNKI8zxvhqhNoG_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LNKI8zxvhqhNoG.JPG"
+        },
+        "H0134-LbnxZtew1kukX9": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LbnxZtew1kukX9_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LbnxZtew1kukX9_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LbnxZtew1kukX9.JPG"
+        },
+        "H0134-LoHbivGP4A7Jr0": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LoHbivGP4A7Jr0_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LoHbivGP4A7Jr0_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LoHbivGP4A7Jr0.JPG"
+        }
+    }
+}

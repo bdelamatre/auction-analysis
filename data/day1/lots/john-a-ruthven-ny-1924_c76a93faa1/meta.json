@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/john-a-ruthven-ny-1924_c76a93faa1",
+    "slug": "john-a-ruthven-ny-1924_c76a93faa1",
+    "lot_number": "1319",
+    "title": "JOHN A. RUTHVEN (NY, 1924 - )",
+    "estimate_low": 600,
+    "estimate_high": 800,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LHrpeCVmn3Xfm5_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LDUwp97lmLAFKL_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lv02z28LfzPiOa_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L39GUOMS8PIBg6_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LhMYQnYJTQlUCt": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LhMYQnYJTQlUCt_thz.JPG"
+        },
+        "H0134-L1ZcMRGWjnmydf": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L1ZcMRGWjnmydf_thz.JPG"
+        },
+        "H0134-LHrpeCVmn3Xfm5": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LHrpeCVmn3Xfm5_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LHrpeCVmn3Xfm5_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LHrpeCVmn3Xfm5.JPG"
+        },
+        "H0134-LDUwp97lmLAFKL": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LDUwp97lmLAFKL_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LDUwp97lmLAFKL_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LDUwp97lmLAFKL.JPG"
+        },
+        "H0134-Lv02z28LfzPiOa": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lv02z28LfzPiOa_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lv02z28LfzPiOa_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lv02z28LfzPiOa.JPG"
+        },
+        "H0134-L39GUOMS8PIBg6": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L39GUOMS8PIBg6_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L39GUOMS8PIBg6_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L39GUOMS8PIBg6.JPG"
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/f-w-krause-gothic-revival-side-chairs_8ddc61b33c",
+    "slug": "f-w-krause-gothic-revival-side-chairs_8ddc61b33c",
+    "lot_number": "3157",
+    "title": "F.W. KRAUSE GOTHIC REVIVAL SIDE CHAIRS",
+    "estimate_low": 1000,
+    "estimate_high": 2000,
+    "current_bid": 500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LABtxt1LS1Jf20_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L1KsfchbRui8y8_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LsRIonAFaFA9jo": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LsRIonAFaFA9jo_thz.JPG"
+        },
+        "H0134-L9qvwYbkdqlIOR": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L9qvwYbkdqlIOR_thz.JPG"
+        },
+        "H0134-LABtxt1LS1Jf20": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LABtxt1LS1Jf20_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LABtxt1LS1Jf20_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LABtxt1LS1Jf20.JPG"
+        },
+        "H0134-L1KsfchbRui8y8": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L1KsfchbRui8y8_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L1KsfchbRui8y8_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L1KsfchbRui8y8.JPG"
+        }
+    }
+}

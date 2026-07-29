@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/18th-c-copper-bed-warmer-with-bird_a2dcb30e32",
+    "slug": "18th-c-copper-bed-warmer-with-bird_a2dcb30e32",
+    "lot_number": "1049",
+    "title": "18TH C. COPPER BED WARMER WITH BIRD",
+    "estimate_low": 200,
+    "estimate_high": 300,
+    "current_bid": 50,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L4IvRcceCI0cHz_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L3REVVJiE98HNx_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LVizhMJWk0Fe2N": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LVizhMJWk0Fe2N_thz.JPG"
+        },
+        "H0134-LTwkEuKBuep43Z": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LTwkEuKBuep43Z_thz.JPG"
+        },
+        "H0134-L4IvRcceCI0cHz": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L4IvRcceCI0cHz_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L4IvRcceCI0cHz_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L4IvRcceCI0cHz.JPG"
+        },
+        "H0134-L3REVVJiE98HNx": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L3REVVJiE98HNx_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L3REVVJiE98HNx_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L3REVVJiE98HNx.JPG"
+        }
+    }
+}

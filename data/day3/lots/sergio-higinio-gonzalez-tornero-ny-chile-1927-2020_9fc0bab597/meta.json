@@ -1,0 +1,52 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/sergio-higinio-gonzalez-tornero-ny-chile-1927-2020_9fc0bab597",
+    "slug": "sergio-higinio-gonzalez-tornero-ny-chile-1927-2020_9fc0bab597",
+    "lot_number": "3330",
+    "title": "SERGIO HIGINIO GONZALEZ-TORNERO (NY/CHILE, 1927-2020)",
+    "estimate_low": 600,
+    "estimate_high": 800,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 5,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L8iuWIt2dDd8Bq_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LjIB0qylnA4JEd_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LL54Jw1Au7rnph_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LStcyHoDo1RDPd_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L7eFnD13S4apSp_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LiCrYT9JIDKBac": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LiCrYT9JIDKBac_thz.JPG"
+        },
+        "H0134-LRs15UFqndaXQW": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LRs15UFqndaXQW_thz.JPG"
+        },
+        "H0134-L8iuWIt2dDd8Bq": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L8iuWIt2dDd8Bq_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L8iuWIt2dDd8Bq_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L8iuWIt2dDd8Bq.JPG"
+        },
+        "H0134-LjIB0qylnA4JEd": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LjIB0qylnA4JEd_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LjIB0qylnA4JEd_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LjIB0qylnA4JEd.JPG"
+        },
+        "H0134-LL54Jw1Au7rnph": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LL54Jw1Au7rnph_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LL54Jw1Au7rnph_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LL54Jw1Au7rnph.JPG"
+        },
+        "H0134-LStcyHoDo1RDPd": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LStcyHoDo1RDPd_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LStcyHoDo1RDPd_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LStcyHoDo1RDPd.JPG"
+        },
+        "H0134-L7eFnD13S4apSp": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L7eFnD13S4apSp_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L7eFnD13S4apSp_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L7eFnD13S4apSp.JPG"
+        }
+    }
+}

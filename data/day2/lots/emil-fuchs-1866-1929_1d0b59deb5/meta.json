@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/emil-fuchs-1866-1929_1d0b59deb5",
+    "slug": "emil-fuchs-1866-1929_1d0b59deb5",
+    "lot_number": "2178",
+    "title": "EMIL FUCHS (1866-1929)",
+    "estimate_low": 3000,
+    "estimate_high": 4000,
+    "current_bid": 5000,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LitQnB5FSRMne3_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LJzoJgH0dSdZeT_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LgOHjuE5DZZlqH_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LH8U1soAIahhhE": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LH8U1soAIahhhE_thz.JPG"
+        },
+        "H0134-LOUIUG9pLmvv3N": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LOUIUG9pLmvv3N_thz.JPG"
+        },
+        "H0134-LitQnB5FSRMne3": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LitQnB5FSRMne3_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LitQnB5FSRMne3_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LitQnB5FSRMne3.JPG"
+        },
+        "H0134-LJzoJgH0dSdZeT": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LJzoJgH0dSdZeT_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LJzoJgH0dSdZeT_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LJzoJgH0dSdZeT.JPG"
+        },
+        "H0134-LgOHjuE5DZZlqH": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LgOHjuE5DZZlqH_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LgOHjuE5DZZlqH_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LgOHjuE5DZZlqH.JPG"
+        }
+    }
+}

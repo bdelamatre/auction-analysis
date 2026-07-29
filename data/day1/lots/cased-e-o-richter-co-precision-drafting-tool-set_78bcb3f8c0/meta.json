@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/cased-e-o-richter-co-precision-drafting-tool-set_78bcb3f8c0",
+    "slug": "cased-e-o-richter-co-precision-drafting-tool-set_78bcb3f8c0",
+    "lot_number": "1085",
+    "title": "CASED E.O. RICHTER & CO. PRECISION DRAFTING TOOL SET",
+    "estimate_low": 300,
+    "estimate_high": 400,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LzkOGCX0khyjk2_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LgIaxVXBVonhG3_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LBqAzB5OGxmuGy_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LmE9FkeeQYztyV": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LmE9FkeeQYztyV_thz.JPG"
+        },
+        "H0134-LD5FfcUW8An6En": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LD5FfcUW8An6En_thz.JPG"
+        },
+        "H0134-LzkOGCX0khyjk2": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LzkOGCX0khyjk2_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LzkOGCX0khyjk2_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LzkOGCX0khyjk2.JPG"
+        },
+        "H0134-LgIaxVXBVonhG3": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LgIaxVXBVonhG3_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LgIaxVXBVonhG3_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LgIaxVXBVonhG3.JPG"
+        },
+        "H0134-LBqAzB5OGxmuGy": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LBqAzB5OGxmuGy_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LBqAzB5OGxmuGy_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LBqAzB5OGxmuGy.JPG"
+        }
+    }
+}

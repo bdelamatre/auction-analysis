@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/tooled-leather-buscadero-gun-belt-brauer-bros-hol_2f16859d09",
+    "slug": "tooled-leather-buscadero-gun-belt-brauer-bros-hol_2f16859d09",
+    "lot_number": "1274",
+    "title": "TOOLED LEATHER BUSCADERO GUN BELT & BRAUER BROS. HOLSTER",
+    "estimate_low": 300,
+    "estimate_high": 500,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LgqrzsdJW75ahI_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LpXLf37EgL5fYJ_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LYxGFxQi4J5LT7_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-Lhd47ZT8rpOBNV": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lhd47ZT8rpOBNV_thz.JPG"
+        },
+        "H0134-LIt8JL1hsLUYfz": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LIt8JL1hsLUYfz_thz.JPG"
+        },
+        "H0134-LgqrzsdJW75ahI": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LgqrzsdJW75ahI_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LgqrzsdJW75ahI_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LgqrzsdJW75ahI.JPG"
+        },
+        "H0134-LpXLf37EgL5fYJ": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LpXLf37EgL5fYJ_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LpXLf37EgL5fYJ_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LpXLf37EgL5fYJ.JPG"
+        },
+        "H0134-LYxGFxQi4J5LT7": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LYxGFxQi4J5LT7_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LYxGFxQi4J5LT7_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LYxGFxQi4J5LT7.JPG"
+        }
+    }
+}

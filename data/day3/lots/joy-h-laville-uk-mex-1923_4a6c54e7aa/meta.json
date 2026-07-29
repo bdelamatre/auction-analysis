@@ -1,0 +1,58 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/joy-h-laville-uk-mex-1923_4a6c54e7aa",
+    "slug": "joy-h-laville-uk-mex-1923_4a6c54e7aa",
+    "lot_number": "3279",
+    "title": "JOY H. LAVILLE (UK/MEX, 1923 - )",
+    "estimate_low": 8000,
+    "estimate_high": 12000,
+    "current_bid": 4000,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 6,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L4FbKt5cRyOGOO_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L0M0JDuPq6W2sU_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lz8Wq2jo6MH0Z7_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LdjGDc9b2mSKrU_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L4N7o3nY3Kcccw_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LesDASAm2CWbz6_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LIbjrIRQf8k5sL": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LIbjrIRQf8k5sL_thz.JPG"
+        },
+        "H0134-LjN5kS7mXfAfb5": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LjN5kS7mXfAfb5_thz.JPG"
+        },
+        "H0134-L4FbKt5cRyOGOO": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L4FbKt5cRyOGOO_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L4FbKt5cRyOGOO_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L4FbKt5cRyOGOO.JPG"
+        },
+        "H0134-L0M0JDuPq6W2sU": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L0M0JDuPq6W2sU_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L0M0JDuPq6W2sU_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L0M0JDuPq6W2sU.JPG"
+        },
+        "H0134-Lz8Wq2jo6MH0Z7": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lz8Wq2jo6MH0Z7_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lz8Wq2jo6MH0Z7_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lz8Wq2jo6MH0Z7.JPG"
+        },
+        "H0134-LdjGDc9b2mSKrU": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LdjGDc9b2mSKrU_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LdjGDc9b2mSKrU_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LdjGDc9b2mSKrU.JPG"
+        },
+        "H0134-L4N7o3nY3Kcccw": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L4N7o3nY3Kcccw_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L4N7o3nY3Kcccw_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L4N7o3nY3Kcccw.JPG"
+        },
+        "H0134-LesDASAm2CWbz6": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LesDASAm2CWbz6_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LesDASAm2CWbz6_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LesDASAm2CWbz6.JPG"
+        }
+    }
+}

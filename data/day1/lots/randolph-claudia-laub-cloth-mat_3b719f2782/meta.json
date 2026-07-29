@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/randolph-claudia-laub-cloth-mat_3b719f2782",
+    "slug": "randolph-claudia-laub-cloth-mat_3b719f2782",
+    "lot_number": "1342",
+    "title": "RANDOLPH & CLAUDIA LAUB CLOTH MAT",
+    "estimate_low": 300,
+    "estimate_high": 500,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LRxjWTy9VEJXGs_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LTZNed9EWVleYJ_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LzegpgwR45B2Ti_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LisURy4m4tdu5s": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LisURy4m4tdu5s_thz.JPG"
+        },
+        "H0134-L5w2EDKJuqcI1t": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L5w2EDKJuqcI1t_thz.JPG"
+        },
+        "H0134-LRxjWTy9VEJXGs": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LRxjWTy9VEJXGs_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LRxjWTy9VEJXGs_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LRxjWTy9VEJXGs.JPG"
+        },
+        "H0134-LTZNed9EWVleYJ": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LTZNed9EWVleYJ_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LTZNed9EWVleYJ_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LTZNed9EWVleYJ.JPG"
+        },
+        "H0134-LzegpgwR45B2Ti": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LzegpgwR45B2Ti_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LzegpgwR45B2Ti_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LzegpgwR45B2Ti.JPG"
+        }
+    }
+}

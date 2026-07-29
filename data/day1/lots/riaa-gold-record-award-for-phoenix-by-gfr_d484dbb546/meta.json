@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/riaa-gold-record-award-for-phoenix-by-gfr_d484dbb546",
+    "slug": "riaa-gold-record-award-for-phoenix-by-gfr_d484dbb546",
+    "lot_number": "1326",
+    "title": "RIAA GOLD RECORD AWARD FOR \"PHOENIX\" BY GFR",
+    "estimate_low": 500,
+    "estimate_high": 700,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LvBn8PfDptOhmE_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LYRytMcF2DC34F_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-Lyi8hk3HhlVokO": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lyi8hk3HhlVokO_thz.JPG"
+        },
+        "H0134-LIuBoBDFj8rkcv": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LIuBoBDFj8rkcv_thz.JPG"
+        },
+        "H0134-LvBn8PfDptOhmE": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LvBn8PfDptOhmE_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LvBn8PfDptOhmE_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LvBn8PfDptOhmE.JPG"
+        },
+        "H0134-LYRytMcF2DC34F": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LYRytMcF2DC34F_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LYRytMcF2DC34F_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LYRytMcF2DC34F.JPG"
+        }
+    }
+}

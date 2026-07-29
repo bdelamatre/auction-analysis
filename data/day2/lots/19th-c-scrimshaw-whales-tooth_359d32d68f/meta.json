@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/19th-c-scrimshaw-whales-tooth_359d32d68f",
+    "slug": "19th-c-scrimshaw-whales-tooth_359d32d68f",
+    "lot_number": "2065",
+    "title": "19TH C. SCRIMSHAW WHALE'S TOOTH",
+    "estimate_low": 400,
+    "estimate_high": 600,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lsjp5hh4XgUyXv_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lriv9Uwa3tCvB8_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LFaGMwi31vfAZP_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-Ln3E9qflVXlCNr": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Ln3E9qflVXlCNr_thz.JPG"
+        },
+        "H0134-LpWt1AiYX5HeZF": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LpWt1AiYX5HeZF_thz.JPG"
+        },
+        "H0134-Lsjp5hh4XgUyXv": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lsjp5hh4XgUyXv_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lsjp5hh4XgUyXv_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lsjp5hh4XgUyXv.JPG"
+        },
+        "H0134-Lriv9Uwa3tCvB8": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lriv9Uwa3tCvB8_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lriv9Uwa3tCvB8_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lriv9Uwa3tCvB8.JPG"
+        },
+        "H0134-LFaGMwi31vfAZP": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LFaGMwi31vfAZP_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LFaGMwi31vfAZP_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LFaGMwi31vfAZP.JPG"
+        }
+    }
+}

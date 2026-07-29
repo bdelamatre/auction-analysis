@@ -1,0 +1,27 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/stow-wengenroth-american-1906-1978-windy-shore_62d37f7795",
+    "slug": "stow-wengenroth-american-1906-1978-windy-shore_62d37f7795",
+    "lot_number": "1312",
+    "title": "STOW WENGENROTH (AMERICAN, 1906-1978), WINDY SHORE",
+    "estimate_low": 600,
+    "estimate_high": 800,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 1,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LNy67J1tXZJYNE_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LqDhWXMunknWyc": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LqDhWXMunknWyc_thz.JPG"
+        },
+        "H0134-LswJMVf4BGTIQS": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LswJMVf4BGTIQS_thz.JPG"
+        },
+        "H0134-LNy67J1tXZJYNE": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LNy67J1tXZJYNE_original.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LNy67J1tXZJYNE.JPG"
+        }
+    }
+}

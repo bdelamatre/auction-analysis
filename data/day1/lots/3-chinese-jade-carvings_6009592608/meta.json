@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/3-chinese-jade-carvings_6009592608",
+    "slug": "3-chinese-jade-carvings_6009592608",
+    "lot_number": "1343",
+    "title": "(3) CHINESE JADE CARVINGS",
+    "estimate_low": 250,
+    "estimate_high": 350,
+    "current_bid": 50,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L5w2EDKJuqcI1t_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LzbGmEp2J96Rsa_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LRxjWTy9VEJXGs": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LRxjWTy9VEJXGs_thz.JPG"
+        },
+        "H0134-LDQjJa4lBKkjqF": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LDQjJa4lBKkjqF_thz.JPG"
+        },
+        "H0134-L5w2EDKJuqcI1t": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L5w2EDKJuqcI1t_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L5w2EDKJuqcI1t_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L5w2EDKJuqcI1t.JPG"
+        },
+        "H0134-LzbGmEp2J96Rsa": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LzbGmEp2J96Rsa_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LzbGmEp2J96Rsa_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LzbGmEp2J96Rsa.JPG"
+        }
+    }
+}

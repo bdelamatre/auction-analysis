@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/rosa-bonheur-us-france-1822-1899_381577ea83",
+    "slug": "rosa-bonheur-us-france-1822-1899_381577ea83",
+    "lot_number": "3015",
+    "title": "ROSA BONHEUR (US/FRANCE, 1822-1899)",
+    "estimate_low": 600,
+    "estimate_high": 800,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LwEVshkMe3YZo0_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LDnBfoHG8b3rwj_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lxck5NK7WXoaKu_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LCQImuoNsAWtGf": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LCQImuoNsAWtGf_thz.JPG"
+        },
+        "H0134-Lx20nXsRCbF42T": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lx20nXsRCbF42T_thz.JPG"
+        },
+        "H0134-LwEVshkMe3YZo0": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LwEVshkMe3YZo0_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LwEVshkMe3YZo0_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LwEVshkMe3YZo0.JPG"
+        },
+        "H0134-LDnBfoHG8b3rwj": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LDnBfoHG8b3rwj_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LDnBfoHG8b3rwj_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LDnBfoHG8b3rwj.JPG"
+        },
+        "H0134-Lxck5NK7WXoaKu": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lxck5NK7WXoaKu_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lxck5NK7WXoaKu_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lxck5NK7WXoaKu.JPG"
+        }
+    }
+}

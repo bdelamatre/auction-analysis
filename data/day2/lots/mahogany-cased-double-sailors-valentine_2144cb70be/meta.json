@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/mahogany-cased-double-sailors-valentine_2144cb70be",
+    "slug": "mahogany-cased-double-sailors-valentine_2144cb70be",
+    "lot_number": "2004",
+    "title": "MAHOGANY CASED DOUBLE SAILOR'S VALENTINE",
+    "estimate_low": 2000,
+    "estimate_high": 3000,
+    "current_bid": 1000,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LKlgpMOVdOpQ0H_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LWQjhvaT3ssTaW_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LKUEvDd0tjg4Xj_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L2GdhF3S53fxRP_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LFhhtwoTBFGtva": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LFhhtwoTBFGtva_thz.JPG"
+        },
+        "H0134-LbN26uzTfu6Jnw": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LbN26uzTfu6Jnw_thz.JPG"
+        },
+        "H0134-LKlgpMOVdOpQ0H": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LKlgpMOVdOpQ0H_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LKlgpMOVdOpQ0H_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LKlgpMOVdOpQ0H.JPG"
+        },
+        "H0134-LWQjhvaT3ssTaW": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LWQjhvaT3ssTaW_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LWQjhvaT3ssTaW_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LWQjhvaT3ssTaW.JPG"
+        },
+        "H0134-LKUEvDd0tjg4Xj": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LKUEvDd0tjg4Xj_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LKUEvDd0tjg4Xj_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LKUEvDd0tjg4Xj.JPG"
+        },
+        "H0134-L2GdhF3S53fxRP": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L2GdhF3S53fxRP_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L2GdhF3S53fxRP_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L2GdhF3S53fxRP.JPG"
+        }
+    }
+}

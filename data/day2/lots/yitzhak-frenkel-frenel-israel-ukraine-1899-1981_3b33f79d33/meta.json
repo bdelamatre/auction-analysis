@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/yitzhak-frenkel-frenel-israel-ukraine-1899-1981_3b33f79d33",
+    "slug": "yitzhak-frenkel-frenel-israel-ukraine-1899-1981_3b33f79d33",
+    "lot_number": "2376",
+    "title": "YITZHAK FRENKEL-FRENEL (ISRAEL/UKRAINE, 1899-1981)",
+    "estimate_low": 600,
+    "estimate_high": 800,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LsGaFxWlaGj3sX_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LgLv0uAKkzHJDd_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L9vh4h9KhutQWw_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L0gKRFtsOxu6WP_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LpDEFuAIPXQoLj": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LpDEFuAIPXQoLj_thz.JPG"
+        },
+        "H0134-LNsHY64dgIxWvq": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LNsHY64dgIxWvq_thz.JPG"
+        },
+        "H0134-LsGaFxWlaGj3sX": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LsGaFxWlaGj3sX_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LsGaFxWlaGj3sX_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LsGaFxWlaGj3sX.JPG"
+        },
+        "H0134-LgLv0uAKkzHJDd": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LgLv0uAKkzHJDd_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LgLv0uAKkzHJDd_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LgLv0uAKkzHJDd.JPG"
+        },
+        "H0134-L9vh4h9KhutQWw": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L9vh4h9KhutQWw_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L9vh4h9KhutQWw_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L9vh4h9KhutQWw.JPG"
+        },
+        "H0134-L0gKRFtsOxu6WP": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L0gKRFtsOxu6WP_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L0gKRFtsOxu6WP_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L0gKRFtsOxu6WP.JPG"
+        }
+    }
+}

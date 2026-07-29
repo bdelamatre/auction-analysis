@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/5-indian-and-himalayan-bronze-and-soapstone-figur_31caab0172",
+    "slug": "5-indian-and-himalayan-bronze-and-soapstone-figur_31caab0172",
+    "lot_number": "2448",
+    "title": "(5) INDIAN AND HIMALAYAN BRONZE AND SOAPSTONE FIGURAL OBJECTS",
+    "estimate_low": 300,
+    "estimate_high": 500,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LTm08ZrNKlyw4x_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LH3LDqP2vSLp0Z_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lg2JGxSOX8V8It_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LeC92lZniJCTVO": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LeC92lZniJCTVO_thz.JPG"
+        },
+        "H0134-LEOlvXhsa7EptX": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LEOlvXhsa7EptX_thz.JPG"
+        },
+        "H0134-LTm08ZrNKlyw4x": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LTm08ZrNKlyw4x_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LTm08ZrNKlyw4x_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LTm08ZrNKlyw4x.JPG"
+        },
+        "H0134-LH3LDqP2vSLp0Z": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LH3LDqP2vSLp0Z_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LH3LDqP2vSLp0Z_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LH3LDqP2vSLp0Z.JPG"
+        },
+        "H0134-Lg2JGxSOX8V8It": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lg2JGxSOX8V8It_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lg2JGxSOX8V8It_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lg2JGxSOX8V8It.JPG"
+        }
+    }
+}

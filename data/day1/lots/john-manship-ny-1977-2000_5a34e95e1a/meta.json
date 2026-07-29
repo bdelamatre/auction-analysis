@@ -1,0 +1,52 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/john-manship-ny-1977-2000_5a34e95e1a",
+    "slug": "john-manship-ny-1977-2000_5a34e95e1a",
+    "lot_number": "1112",
+    "title": "JOHN MANSHIP (NY, 1977-2000)",
+    "estimate_low": 800,
+    "estimate_high": 1200,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 5,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LinkQJavSGiQmm_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LnM1SQ4Dugj5mc_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LuYTVpd70DmNuU_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LgRvLKo3ZjZ2jW_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LU69Kx935ZkNX6_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LF3u8bmIQanM77": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LF3u8bmIQanM77_thz.JPG"
+        },
+        "H0134-LrKsXV15aFI2gB": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LrKsXV15aFI2gB_thz.JPG"
+        },
+        "H0134-LinkQJavSGiQmm": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LinkQJavSGiQmm_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LinkQJavSGiQmm_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LinkQJavSGiQmm.JPG"
+        },
+        "H0134-LnM1SQ4Dugj5mc": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LnM1SQ4Dugj5mc_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LnM1SQ4Dugj5mc_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LnM1SQ4Dugj5mc.JPG"
+        },
+        "H0134-LuYTVpd70DmNuU": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LuYTVpd70DmNuU_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LuYTVpd70DmNuU_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LuYTVpd70DmNuU.JPG"
+        },
+        "H0134-LgRvLKo3ZjZ2jW": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LgRvLKo3ZjZ2jW_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LgRvLKo3ZjZ2jW_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LgRvLKo3ZjZ2jW.JPG"
+        },
+        "H0134-LU69Kx935ZkNX6": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LU69Kx935ZkNX6_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LU69Kx935ZkNX6_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LU69Kx935ZkNX6.JPG"
+        }
+    }
+}

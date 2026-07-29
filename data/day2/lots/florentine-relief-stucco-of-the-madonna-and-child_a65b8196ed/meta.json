@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/florentine-relief-stucco-of-the-madonna-and-child_a65b8196ed",
+    "slug": "florentine-relief-stucco-of-the-madonna-and-child_a65b8196ed",
+    "lot_number": "2396",
+    "title": "FLORENTINE RELIEF STUCCO OF THE MADONNA AND CHILD, FOLLOWER OF DONATELLO (1386-1466)",
+    "estimate_low": 20000,
+    "estimate_high": 30000,
+    "current_bid": 10000,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LxeMHJFDnuPeb0_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L4WbFtqAa3OCVv_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-Lcr9WGP7ZMmfjV": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lcr9WGP7ZMmfjV_thz.JPG"
+        },
+        "H0134-LeGOai4JhdkzCM": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LeGOai4JhdkzCM_thz.JPG"
+        },
+        "H0134-LxeMHJFDnuPeb0": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LxeMHJFDnuPeb0_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LxeMHJFDnuPeb0_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LxeMHJFDnuPeb0.JPG"
+        },
+        "H0134-L4WbFtqAa3OCVv": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L4WbFtqAa3OCVv_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L4WbFtqAa3OCVv_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L4WbFtqAa3OCVv.JPG"
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/3-karl-springer-ny-1931-1989-stone-candle-holders_881911f683",
+    "slug": "3-karl-springer-ny-1931-1989-stone-candle-holders_881911f683",
+    "lot_number": "3256",
+    "title": "(3) KARL SPRINGER (NY, 1931-1989) STONE CANDLE HOLDERS",
+    "estimate_low": 2000,
+    "estimate_high": 3000,
+    "current_bid": 1000,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LyhC3mGokV9kJf_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LsyvEXPNpJBo1j_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-L2JJrWtM4XZSgb": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L2JJrWtM4XZSgb_thz.JPG"
+        },
+        "H0134-LtC2Bv8g229gtC": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LtC2Bv8g229gtC_thz.JPG"
+        },
+        "H0134-LyhC3mGokV9kJf": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LyhC3mGokV9kJf_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LyhC3mGokV9kJf_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LyhC3mGokV9kJf.JPG"
+        },
+        "H0134-LsyvEXPNpJBo1j": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LsyvEXPNpJBo1j_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LsyvEXPNpJBo1j_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LsyvEXPNpJBo1j.JPG"
+        }
+    }
+}

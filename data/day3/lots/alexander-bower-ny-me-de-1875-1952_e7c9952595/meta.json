@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/alexander-bower-ny-me-de-1875-1952_e7c9952595",
+    "slug": "alexander-bower-ny-me-de-1875-1952_e7c9952595",
+    "lot_number": "3356",
+    "title": "ALEXANDER BOWER (NY/ME/DE, 1875-1952)",
+    "estimate_low": 4000,
+    "estimate_high": 6000,
+    "current_bid": 2000,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LDj5NFCZHz3K0l_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L4oyLGUZo8U4KE_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LjkfoMpIEqqznl_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LI3dUGCyqtAHR6_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LQzxkmvQjakDVp": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LQzxkmvQjakDVp_thz.JPG"
+        },
+        "H0134-LZPXinU9R70aEt": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LZPXinU9R70aEt_thz.JPG"
+        },
+        "H0134-LDj5NFCZHz3K0l": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LDj5NFCZHz3K0l_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LDj5NFCZHz3K0l_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LDj5NFCZHz3K0l.JPG"
+        },
+        "H0134-L4oyLGUZo8U4KE": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L4oyLGUZo8U4KE_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L4oyLGUZo8U4KE_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L4oyLGUZo8U4KE.JPG"
+        },
+        "H0134-LjkfoMpIEqqznl": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LjkfoMpIEqqznl_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LjkfoMpIEqqznl_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LjkfoMpIEqqznl.JPG"
+        },
+        "H0134-LI3dUGCyqtAHR6": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LI3dUGCyqtAHR6_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LI3dUGCyqtAHR6_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LI3dUGCyqtAHR6.JPG"
+        }
+    }
+}

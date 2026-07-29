@@ -1,0 +1,27 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/italy-14k-gold-figaro-link-chain-necklace_794ef662d0",
+    "slug": "italy-14k-gold-figaro-link-chain-necklace_794ef662d0",
+    "lot_number": "3236",
+    "title": "ITALY 14K GOLD FIGARO LINK CHAIN NECKLACE",
+    "estimate_low": 1900,
+    "estimate_high": 2100,
+    "current_bid": 950,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 1,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LMG6tYdZvuqwAs_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LulzwseunwcWsb": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LulzwseunwcWsb_thz.JPG"
+        },
+        "H0134-LSbTp8l5buABza": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LSbTp8l5buABza_thz.JPG"
+        },
+        "H0134-LMG6tYdZvuqwAs": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LMG6tYdZvuqwAs_original.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LMG6tYdZvuqwAs.JPG"
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/winchester-1300-youth-shotgun-20-ga_70963f136e",
+    "slug": "winchester-1300-youth-shotgun-20-ga_70963f136e",
+    "lot_number": "1269",
+    "title": "WINCHESTER 1300 YOUTH SHOTGUN, 20 GA",
+    "estimate_low": 200,
+    "estimate_high": 400,
+    "current_bid": 50,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Le2A8ZFhvkCD3d_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LqMVU95tRgmP3M_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L83XKOnr8qbb1X_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LrsflR34ZKIffH_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LgEgTB7qG1ANTO": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LgEgTB7qG1ANTO_thz.JPG"
+        },
+        "H0134-LlqWpo1R3gHarm": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LlqWpo1R3gHarm_thz.JPG"
+        },
+        "H0134-Le2A8ZFhvkCD3d": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Le2A8ZFhvkCD3d_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Le2A8ZFhvkCD3d_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Le2A8ZFhvkCD3d.JPG"
+        },
+        "H0134-LqMVU95tRgmP3M": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LqMVU95tRgmP3M_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LqMVU95tRgmP3M_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LqMVU95tRgmP3M.JPG"
+        },
+        "H0134-L83XKOnr8qbb1X": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L83XKOnr8qbb1X_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L83XKOnr8qbb1X_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L83XKOnr8qbb1X.JPG"
+        },
+        "H0134-LrsflR34ZKIffH": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LrsflR34ZKIffH_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LrsflR34ZKIffH_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LrsflR34ZKIffH.JPG"
+        }
+    }
+}

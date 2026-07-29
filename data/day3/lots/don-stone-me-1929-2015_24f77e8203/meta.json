@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/don-stone-me-1929-2015_24f77e8203",
+    "slug": "don-stone-me-1929-2015_24f77e8203",
+    "lot_number": "3450",
+    "title": "DON STONE (ME, 1929-2015)",
+    "estimate_low": 800,
+    "estimate_high": 1000,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LbzRs35XeLDjAW_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LskNMD8StRvcA5_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LD6lDfj0ZBcpU8_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-Lv4rhmkV2ieKOP": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lv4rhmkV2ieKOP_thz.JPG"
+        },
+        "H0134-La4uXzfTemALpu": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-La4uXzfTemALpu_thz.JPG"
+        },
+        "H0134-LbzRs35XeLDjAW": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LbzRs35XeLDjAW_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LbzRs35XeLDjAW_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LbzRs35XeLDjAW.JPG"
+        },
+        "H0134-LskNMD8StRvcA5": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LskNMD8StRvcA5_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LskNMD8StRvcA5_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LskNMD8StRvcA5.JPG"
+        },
+        "H0134-LD6lDfj0ZBcpU8": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LD6lDfj0ZBcpU8_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LD6lDfj0ZBcpU8_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LD6lDfj0ZBcpU8.JPG"
+        }
+    }
+}

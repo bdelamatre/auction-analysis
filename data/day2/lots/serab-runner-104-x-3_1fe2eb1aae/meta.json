@@ -1,0 +1,52 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/serab-runner-104-x-3_1fe2eb1aae",
+    "slug": "serab-runner-104-x-3_1fe2eb1aae",
+    "lot_number": "2224",
+    "title": "SERAB RUNNER (10'4\" X 3')",
+    "estimate_low": 1000,
+    "estimate_high": 1500,
+    "current_bid": 500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 5,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L9wkRoA8Q0OPea_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LttuqLBDEuQ5tS_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lkw7tT1yhGrKLR_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L3i8heCvXwASzs_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LyqrTPb7080rYW_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-L3toJt4joea2RU": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L3toJt4joea2RU_thz.JPG"
+        },
+        "H0134-LNK2QnyxChEVos": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LNK2QnyxChEVos_thz.JPG"
+        },
+        "H0134-L9wkRoA8Q0OPea": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L9wkRoA8Q0OPea_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L9wkRoA8Q0OPea_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L9wkRoA8Q0OPea.JPG"
+        },
+        "H0134-LttuqLBDEuQ5tS": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LttuqLBDEuQ5tS_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LttuqLBDEuQ5tS_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LttuqLBDEuQ5tS.JPG"
+        },
+        "H0134-Lkw7tT1yhGrKLR": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lkw7tT1yhGrKLR_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lkw7tT1yhGrKLR_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lkw7tT1yhGrKLR.JPG"
+        },
+        "H0134-L3i8heCvXwASzs": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L3i8heCvXwASzs_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L3i8heCvXwASzs_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L3i8heCvXwASzs.JPG"
+        },
+        "H0134-LyqrTPb7080rYW": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LyqrTPb7080rYW_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LyqrTPb7080rYW_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LyqrTPb7080rYW.JPG"
+        }
+    }
+}

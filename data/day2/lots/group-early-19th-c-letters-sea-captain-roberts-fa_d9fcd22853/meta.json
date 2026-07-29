@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/group-early-19th-c-letters-sea-captain-roberts-fa_d9fcd22853",
+    "slug": "group-early-19th-c-letters-sea-captain-roberts-fa_d9fcd22853",
+    "lot_number": "2080",
+    "title": "GROUP EARLY 19TH C. LETTERS SEA CAPTAIN ROBERTS FAMILY, MANCHESTER VT",
+    "estimate_low": 500,
+    "estimate_high": 700,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LgGfA2Bd4yg18Q_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LbPb6ZcKwTK5ML_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LPShp1gs3GlymU": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LPShp1gs3GlymU_thz.JPG"
+        },
+        "H0134-L0f0BpvPyOMK8n": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L0f0BpvPyOMK8n_thz.JPG"
+        },
+        "H0134-LgGfA2Bd4yg18Q": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LgGfA2Bd4yg18Q_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LgGfA2Bd4yg18Q_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LgGfA2Bd4yg18Q.JPG"
+        },
+        "H0134-LbPb6ZcKwTK5ML": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LbPb6ZcKwTK5ML_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LbPb6ZcKwTK5ML_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LbPb6ZcKwTK5ML.JPG"
+        }
+    }
+}

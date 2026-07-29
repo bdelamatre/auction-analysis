@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/tim-gaydos-nj-1941_32ebead799",
+    "slug": "tim-gaydos-nj-1941_32ebead799",
+    "lot_number": "1144",
+    "title": "TIM GAYDOS (NJ, 1941 - )",
+    "estimate_low": 800,
+    "estimate_high": 1000,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LpG8YKTGV8hI5j_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LugkFjKGpOdEl3_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LqG0qwpwxy7BoQ_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LFzzPZLMFInVD8": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LFzzPZLMFInVD8_thz.JPG"
+        },
+        "H0134-LsN6KM8YpxJTLy": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LsN6KM8YpxJTLy_thz.JPG"
+        },
+        "H0134-LpG8YKTGV8hI5j": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LpG8YKTGV8hI5j_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LpG8YKTGV8hI5j_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LpG8YKTGV8hI5j.JPG"
+        },
+        "H0134-LugkFjKGpOdEl3": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LugkFjKGpOdEl3_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LugkFjKGpOdEl3_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LugkFjKGpOdEl3.JPG"
+        },
+        "H0134-LqG0qwpwxy7BoQ": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LqG0qwpwxy7BoQ_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LqG0qwpwxy7BoQ_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LqG0qwpwxy7BoQ.JPG"
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/nancy-skreko-martin-il-1939_b0f7482379",
+    "slug": "nancy-skreko-martin-il-1939_b0f7482379",
+    "lot_number": "3316",
+    "title": "NANCY SKREKO MARTIN (IL, 1939 - )",
+    "estimate_low": 300,
+    "estimate_high": 400,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LsMJm0mO5aVMks_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LFWVfpusaxrAt7_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LVuLiGZPeFjscB": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LVuLiGZPeFjscB_thz.JPG"
+        },
+        "H0134-LmTuntbeCVWB3z": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LmTuntbeCVWB3z_thz.JPG"
+        },
+        "H0134-LsMJm0mO5aVMks": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LsMJm0mO5aVMks_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LsMJm0mO5aVMks_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LsMJm0mO5aVMks.JPG"
+        },
+        "H0134-LFWVfpusaxrAt7": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LFWVfpusaxrAt7_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LFWVfpusaxrAt7_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LFWVfpusaxrAt7.JPG"
+        }
+    }
+}

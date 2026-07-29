@@ -1,0 +1,52 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/fender-cd60ce-black-acoustic-electric-guitar-in-c_edd33864ab",
+    "slug": "fender-cd60ce-black-acoustic-electric-guitar-in-c_edd33864ab",
+    "lot_number": "1222",
+    "title": "FENDER CD60CE BLACK ACOUSTIC/ELECTRIC GUITAR IN CASE",
+    "estimate_low": 200,
+    "estimate_high": 300,
+    "current_bid": 50,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 5,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lzil2u71q3ukp3_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Li0pTaVTErYNEu_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LpHgIzZm1OWPGc_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LB48bdEszF6Hwc_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L0I8mLQzK2gAQg_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LvyY6NOgj1kZcI": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LvyY6NOgj1kZcI_thz.JPG"
+        },
+        "H0134-LN9lBxwDf4P6I6": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LN9lBxwDf4P6I6_thz.JPG"
+        },
+        "H0134-Lzil2u71q3ukp3": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lzil2u71q3ukp3_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lzil2u71q3ukp3_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lzil2u71q3ukp3.JPG"
+        },
+        "H0134-Li0pTaVTErYNEu": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Li0pTaVTErYNEu_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Li0pTaVTErYNEu_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Li0pTaVTErYNEu.JPG"
+        },
+        "H0134-LpHgIzZm1OWPGc": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LpHgIzZm1OWPGc_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LpHgIzZm1OWPGc_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LpHgIzZm1OWPGc.JPG"
+        },
+        "H0134-LB48bdEszF6Hwc": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LB48bdEszF6Hwc_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LB48bdEszF6Hwc_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LB48bdEszF6Hwc.JPG"
+        },
+        "H0134-L0I8mLQzK2gAQg": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L0I8mLQzK2gAQg_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L0I8mLQzK2gAQg_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L0I8mLQzK2gAQg.JPG"
+        }
+    }
+}

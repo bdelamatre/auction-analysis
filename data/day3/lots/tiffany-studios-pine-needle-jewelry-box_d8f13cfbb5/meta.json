@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/tiffany-studios-pine-needle-jewelry-box_d8f13cfbb5",
+    "slug": "tiffany-studios-pine-needle-jewelry-box_d8f13cfbb5",
+    "lot_number": "3050",
+    "title": "TIFFANY STUDIOS \"PINE NEEDLE\" JEWELRY BOX",
+    "estimate_low": 1500,
+    "estimate_high": 2500,
+    "current_bid": 750,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LD6lKzueY8qUqC_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LmHuhDSNIMzCsA_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LnmiW44TNOyy3a_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LP9tAEhX1FHITY_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LRHRIyaR1mGBLA": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LRHRIyaR1mGBLA_thz.JPG"
+        },
+        "H0134-LMnkCsDg7pX3JR": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LMnkCsDg7pX3JR_thz.JPG"
+        },
+        "H0134-LD6lKzueY8qUqC": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LD6lKzueY8qUqC_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LD6lKzueY8qUqC_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LD6lKzueY8qUqC.JPG"
+        },
+        "H0134-LmHuhDSNIMzCsA": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LmHuhDSNIMzCsA_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LmHuhDSNIMzCsA_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LmHuhDSNIMzCsA.JPG"
+        },
+        "H0134-LnmiW44TNOyy3a": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LnmiW44TNOyy3a_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LnmiW44TNOyy3a_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LnmiW44TNOyy3a.JPG"
+        },
+        "H0134-LP9tAEhX1FHITY": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LP9tAEhX1FHITY_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LP9tAEhX1FHITY_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LP9tAEhX1FHITY.JPG"
+        }
+    }
+}

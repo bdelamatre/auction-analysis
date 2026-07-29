@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/3-19th-c-chinese-ivory-fans-nichols-family_c011a95b22",
+    "slug": "3-19th-c-chinese-ivory-fans-nichols-family_c011a95b22",
+    "lot_number": "2504",
+    "title": "(3) 19TH C. CHINESE IVORY FANS, NICHOLS FAMILY",
+    "estimate_low": 250,
+    "estimate_high": 350,
+    "current_bid": 50,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LUzswGWcKB2DHo_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LL6ov2EERgUGSq_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LHea50q1pR4VD4_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LJLBpsqP3mLhva_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LSJPYsJ5R9qyls": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LSJPYsJ5R9qyls_thz.JPG"
+        },
+        "H0134-LhoLIYKZvr4QTc": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LhoLIYKZvr4QTc_thz.JPG"
+        },
+        "H0134-LUzswGWcKB2DHo": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LUzswGWcKB2DHo_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LUzswGWcKB2DHo_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LUzswGWcKB2DHo.JPG"
+        },
+        "H0134-LL6ov2EERgUGSq": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LL6ov2EERgUGSq_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LL6ov2EERgUGSq_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LL6ov2EERgUGSq.JPG"
+        },
+        "H0134-LHea50q1pR4VD4": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LHea50q1pR4VD4_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LHea50q1pR4VD4_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LHea50q1pR4VD4.JPG"
+        },
+        "H0134-LJLBpsqP3mLhva": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LJLBpsqP3mLhva_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LJLBpsqP3mLhva_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LJLBpsqP3mLhva.JPG"
+        }
+    }
+}

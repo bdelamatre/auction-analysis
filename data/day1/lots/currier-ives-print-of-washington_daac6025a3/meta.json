@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/currier-ives-print-of-washington_daac6025a3",
+    "slug": "currier-ives-print-of-washington_daac6025a3",
+    "lot_number": "1067",
+    "title": "CURRIER & IVES PRINT OF WASHINGTON",
+    "estimate_low": 300,
+    "estimate_high": 400,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LNcSyKD0mqvlTj_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lc4ACWRu2DA8dK_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LTiwsPJVEiKWht_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LxUWeZ0T1gtUnD": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LxUWeZ0T1gtUnD_thz.JPG"
+        },
+        "H0134-L0r8jnMUgICMqa": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L0r8jnMUgICMqa_thz.JPG"
+        },
+        "H0134-LNcSyKD0mqvlTj": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LNcSyKD0mqvlTj_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LNcSyKD0mqvlTj_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LNcSyKD0mqvlTj.JPG"
+        },
+        "H0134-Lc4ACWRu2DA8dK": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lc4ACWRu2DA8dK_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lc4ACWRu2DA8dK_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lc4ACWRu2DA8dK.JPG"
+        },
+        "H0134-LTiwsPJVEiKWht": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LTiwsPJVEiKWht_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LTiwsPJVEiKWht_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LTiwsPJVEiKWht.JPG"
+        }
+    }
+}

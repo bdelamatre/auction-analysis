@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/french-bronze-desk-stand-on-marble-base_51acf553ab",
+    "slug": "french-bronze-desk-stand-on-marble-base_51acf553ab",
+    "lot_number": "3021",
+    "title": "FRENCH BRONZE DESK STAND ON MARBLE BASE",
+    "estimate_low": 800,
+    "estimate_high": 1000,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LzDhbHIzs1f3u0_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LOrSpvyFG9cXnK_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LWQfqWzzVsLChV_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LXQM4DviCPh1ns": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LXQM4DviCPh1ns_thz.JPG"
+        },
+        "H0134-LYNt2jJehH66Wz": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LYNt2jJehH66Wz_thz.JPG"
+        },
+        "H0134-LzDhbHIzs1f3u0": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LzDhbHIzs1f3u0_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LzDhbHIzs1f3u0_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LzDhbHIzs1f3u0.JPG"
+        },
+        "H0134-LOrSpvyFG9cXnK": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LOrSpvyFG9cXnK_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LOrSpvyFG9cXnK_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LOrSpvyFG9cXnK.JPG"
+        },
+        "H0134-LWQfqWzzVsLChV": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LWQfqWzzVsLChV_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LWQfqWzzVsLChV_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LWQfqWzzVsLChV.JPG"
+        }
+    }
+}

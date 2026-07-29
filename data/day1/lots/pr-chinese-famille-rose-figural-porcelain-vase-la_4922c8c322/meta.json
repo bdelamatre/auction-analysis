@@ -1,0 +1,27 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/pr-chinese-famille-rose-figural-porcelain-vase-la_4922c8c322",
+    "slug": "pr-chinese-famille-rose-figural-porcelain-vase-la_4922c8c322",
+    "lot_number": "1381",
+    "title": "PR CHINESE FAMILLE ROSE FIGURAL PORCELAIN VASE LAMPS",
+    "estimate_low": 200,
+    "estimate_high": 300,
+    "current_bid": 50,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 1,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LC43REBfUlYIOc_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-Lrz64yVeKKDJPA": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lrz64yVeKKDJPA_thz.JPG"
+        },
+        "H0134-L1YrvTcKSiIdfR": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L1YrvTcKSiIdfR_thz.JPG"
+        },
+        "H0134-LC43REBfUlYIOc": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LC43REBfUlYIOc_original.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LC43REBfUlYIOc.JPG"
+        }
+    }
+}

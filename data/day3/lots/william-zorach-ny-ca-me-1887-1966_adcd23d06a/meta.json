@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/william-zorach-ny-ca-me-1887-1966_adcd23d06a",
+    "slug": "william-zorach-ny-ca-me-1887-1966_adcd23d06a",
+    "lot_number": "3484",
+    "title": "WILLIAM ZORACH, (NY/CA/ME, 1887-1966)",
+    "estimate_low": 800,
+    "estimate_high": 1000,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LhMvtfSy3OaZO0_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LqLTeK1krXxjFP_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LnnnKwDyoscoIt_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LVn0zJITItHhxk": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LVn0zJITItHhxk_thz.JPG"
+        },
+        "H0134-LwOK3l6MWMMSAz": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LwOK3l6MWMMSAz_thz.JPG"
+        },
+        "H0134-LhMvtfSy3OaZO0": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LhMvtfSy3OaZO0_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LhMvtfSy3OaZO0_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LhMvtfSy3OaZO0.JPG"
+        },
+        "H0134-LqLTeK1krXxjFP": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LqLTeK1krXxjFP_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LqLTeK1krXxjFP_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LqLTeK1krXxjFP.JPG"
+        },
+        "H0134-LnnnKwDyoscoIt": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LnnnKwDyoscoIt_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LnnnKwDyoscoIt_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LnnnKwDyoscoIt.JPG"
+        }
+    }
+}

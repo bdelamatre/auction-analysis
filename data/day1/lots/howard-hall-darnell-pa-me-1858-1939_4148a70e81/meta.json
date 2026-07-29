@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/howard-hall-darnell-pa-me-1858-1939_4148a70e81",
+    "slug": "howard-hall-darnell-pa-me-1858-1939_4148a70e81",
+    "lot_number": "1134",
+    "title": "HOWARD HALL DARNELL (PA/ME, 1858-1939)",
+    "estimate_low": 1000,
+    "estimate_high": 1500,
+    "current_bid": 500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LVcdBChr7Xr7U0_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LJWtcHK1CWvtgP_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LhdE8ExepqTApd_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LjySmIl87mGSSu": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LjySmIl87mGSSu_thz.JPG"
+        },
+        "H0134-LSzTOYrxc1l72f": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LSzTOYrxc1l72f_thz.JPG"
+        },
+        "H0134-LVcdBChr7Xr7U0": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LVcdBChr7Xr7U0_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LVcdBChr7Xr7U0_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LVcdBChr7Xr7U0.JPG"
+        },
+        "H0134-LJWtcHK1CWvtgP": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LJWtcHK1CWvtgP_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LJWtcHK1CWvtgP_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LJWtcHK1CWvtgP.JPG"
+        },
+        "H0134-LhdE8ExepqTApd": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LhdE8ExepqTApd_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LhdE8ExepqTApd_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LhdE8ExepqTApd.JPG"
+        }
+    }
+}

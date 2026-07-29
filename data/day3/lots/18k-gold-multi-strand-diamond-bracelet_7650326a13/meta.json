@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/18k-gold-multi-strand-diamond-bracelet_7650326a13",
+    "slug": "18k-gold-multi-strand-diamond-bracelet_7650326a13",
+    "lot_number": "3151",
+    "title": "18K GOLD MULTI-STRAND DIAMOND BRACELET",
+    "estimate_low": 4500,
+    "estimate_high": 5500,
+    "current_bid": 2200,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LYlnGzpGXR2afR_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LqT8VlGq6VLzQD_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-Lk9jeRaGNXi3Wm": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lk9jeRaGNXi3Wm_thz.JPG"
+        },
+        "H0134-L3nEXmWxmXDa3h": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L3nEXmWxmXDa3h_thz.JPG"
+        },
+        "H0134-LYlnGzpGXR2afR": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LYlnGzpGXR2afR_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LYlnGzpGXR2afR_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LYlnGzpGXR2afR.JPG"
+        },
+        "H0134-LqT8VlGq6VLzQD": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LqT8VlGq6VLzQD_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LqT8VlGq6VLzQD_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LqT8VlGq6VLzQD.JPG"
+        }
+    }
+}

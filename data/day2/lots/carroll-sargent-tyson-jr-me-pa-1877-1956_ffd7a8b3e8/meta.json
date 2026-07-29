@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/carroll-sargent-tyson-jr-me-pa-1877-1956_ffd7a8b3e8",
+    "slug": "carroll-sargent-tyson-jr-me-pa-1877-1956_ffd7a8b3e8",
+    "lot_number": "2192",
+    "title": "CARROLL SARGENT TYSON JR. (ME/PA, 1877-1956)",
+    "estimate_low": 2000,
+    "estimate_high": 3000,
+    "current_bid": 1000,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LZHPBwBbPzLDxL_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L8NwwSJik82kw1_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L9xeKosnfSNSQi_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LkaUBZMX5qMObs": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LkaUBZMX5qMObs_thz.JPG"
+        },
+        "H0134-LSRTJQ1BWuzmea": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LSRTJQ1BWuzmea_thz.JPG"
+        },
+        "H0134-LZHPBwBbPzLDxL": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LZHPBwBbPzLDxL_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LZHPBwBbPzLDxL_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LZHPBwBbPzLDxL.JPG"
+        },
+        "H0134-L8NwwSJik82kw1": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L8NwwSJik82kw1_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L8NwwSJik82kw1_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L8NwwSJik82kw1.JPG"
+        },
+        "H0134-L9xeKosnfSNSQi": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L9xeKosnfSNSQi_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L9xeKosnfSNSQi_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L9xeKosnfSNSQi.JPG"
+        }
+    }
+}

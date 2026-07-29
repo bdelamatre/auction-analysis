@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/19th-c-carved-painted-wood-pegasus_552e4f8c9a",
+    "slug": "19th-c-carved-painted-wood-pegasus_552e4f8c9a",
+    "lot_number": "3019",
+    "title": "19TH C. CARVED & PAINTED WOOD PEGASUS",
+    "estimate_low": 2000,
+    "estimate_high": 3000,
+    "current_bid": 1000,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L5ewSF9rM9fSGp_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LHvPJ5lVEFkjKM_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LAT3p9oHwgSg3Q_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LdsnD6KmpjgEGT": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LdsnD6KmpjgEGT_thz.JPG"
+        },
+        "H0134-LXQM4DviCPh1ns": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LXQM4DviCPh1ns_thz.JPG"
+        },
+        "H0134-L5ewSF9rM9fSGp": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L5ewSF9rM9fSGp_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L5ewSF9rM9fSGp_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L5ewSF9rM9fSGp.JPG"
+        },
+        "H0134-LHvPJ5lVEFkjKM": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LHvPJ5lVEFkjKM_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LHvPJ5lVEFkjKM_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LHvPJ5lVEFkjKM.JPG"
+        },
+        "H0134-LAT3p9oHwgSg3Q": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LAT3p9oHwgSg3Q_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LAT3p9oHwgSg3Q_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LAT3p9oHwgSg3Q.JPG"
+        }
+    }
+}

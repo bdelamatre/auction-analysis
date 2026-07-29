@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/small-caucasian-rug-57-x-36_c06de7eee3",
+    "slug": "small-caucasian-rug-57-x-36_c06de7eee3",
+    "lot_number": "2264",
+    "title": "SMALL CAUCASIAN RUG(5'7\" x 3'6')",
+    "estimate_low": 400,
+    "estimate_high": 600,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LvrSZ7GsGsCraC_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LpGV56o8RbPMTy_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LyDoMBWAMfJYw7_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LepIFovPb7zxmU": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LepIFovPb7zxmU_thz.JPG"
+        },
+        "H0134-LdwdtODs4ogvVl": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LdwdtODs4ogvVl_thz.JPG"
+        },
+        "H0134-LvrSZ7GsGsCraC": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LvrSZ7GsGsCraC_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LvrSZ7GsGsCraC_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LvrSZ7GsGsCraC.JPG"
+        },
+        "H0134-LpGV56o8RbPMTy": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LpGV56o8RbPMTy_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LpGV56o8RbPMTy_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LpGV56o8RbPMTy.JPG"
+        },
+        "H0134-LyDoMBWAMfJYw7": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LyDoMBWAMfJYw7_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LyDoMBWAMfJYw7_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LyDoMBWAMfJYw7.JPG"
+        }
+    }
+}

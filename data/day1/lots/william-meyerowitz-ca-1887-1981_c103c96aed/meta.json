@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/william-meyerowitz-ca-1887-1981_c103c96aed",
+    "slug": "william-meyerowitz-ca-1887-1981_c103c96aed",
+    "lot_number": "1122",
+    "title": "WILLIAM MEYEROWITZ (CA, 1887-1981)",
+    "estimate_low": 1000,
+    "estimate_high": 1500,
+    "current_bid": 500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LG9Wi0v2Icovm5_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LaDFO99CGv5YOu_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LISTpCexXgNlDL_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LODtxsOKqoWbts_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-L4ah0tGbRjtwYi": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L4ah0tGbRjtwYi_thz.JPG"
+        },
+        "H0134-Lxs4jUID6SL6vq": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lxs4jUID6SL6vq_thz.JPG"
+        },
+        "H0134-LG9Wi0v2Icovm5": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LG9Wi0v2Icovm5_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LG9Wi0v2Icovm5_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LG9Wi0v2Icovm5.JPG"
+        },
+        "H0134-LaDFO99CGv5YOu": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LaDFO99CGv5YOu_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LaDFO99CGv5YOu_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LaDFO99CGv5YOu.JPG"
+        },
+        "H0134-LISTpCexXgNlDL": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LISTpCexXgNlDL_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LISTpCexXgNlDL_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LISTpCexXgNlDL.JPG"
+        },
+        "H0134-LODtxsOKqoWbts": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LODtxsOKqoWbts_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LODtxsOKqoWbts_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LODtxsOKqoWbts.JPG"
+        }
+    }
+}

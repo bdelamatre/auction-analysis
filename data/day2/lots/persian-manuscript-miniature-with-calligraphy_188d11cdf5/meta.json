@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/persian-manuscript-miniature-with-calligraphy_188d11cdf5",
+    "slug": "persian-manuscript-miniature-with-calligraphy_188d11cdf5",
+    "lot_number": "2444",
+    "title": "PERSIAN MANUSCRIPT MINIATURE WITH CALLIGRAPHY",
+    "estimate_low": 200,
+    "estimate_high": 400,
+    "current_bid": 50,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LuUHsCovjObP0C_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LOoAprdm5YkEpH_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LMsLGuFWD3d6y5": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LMsLGuFWD3d6y5_thz.JPG"
+        },
+        "H0134-L7H59Rsvcy9LaK": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L7H59Rsvcy9LaK_thz.JPG"
+        },
+        "H0134-LuUHsCovjObP0C": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LuUHsCovjObP0C_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LuUHsCovjObP0C_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LuUHsCovjObP0C.JPG"
+        },
+        "H0134-LOoAprdm5YkEpH": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LOoAprdm5YkEpH_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LOoAprdm5YkEpH_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LOoAprdm5YkEpH.JPG"
+        }
+    }
+}

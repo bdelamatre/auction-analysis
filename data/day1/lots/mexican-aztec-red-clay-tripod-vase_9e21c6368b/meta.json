@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/mexican-aztec-red-clay-tripod-vase_9e21c6368b",
+    "slug": "mexican-aztec-red-clay-tripod-vase_9e21c6368b",
+    "lot_number": "1445",
+    "title": "MEXICAN AZTEC RED CLAY TRIPOD VASE",
+    "estimate_low": 400,
+    "estimate_high": 600,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L2KCDBr2ILJO8L_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LI2Tm6v4ZtJ7DN_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LkLusxKQESnPpa_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LyQfWGHXaHNFUY": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LyQfWGHXaHNFUY_thz.JPG"
+        },
+        "H0134-LN7hFwMYBwU4et": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LN7hFwMYBwU4et_thz.JPG"
+        },
+        "H0134-L2KCDBr2ILJO8L": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L2KCDBr2ILJO8L_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L2KCDBr2ILJO8L_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L2KCDBr2ILJO8L.JPG"
+        },
+        "H0134-LI2Tm6v4ZtJ7DN": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LI2Tm6v4ZtJ7DN_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LI2Tm6v4ZtJ7DN_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LI2Tm6v4ZtJ7DN.JPG"
+        },
+        "H0134-LkLusxKQESnPpa": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LkLusxKQESnPpa_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LkLusxKQESnPpa_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LkLusxKQESnPpa.JPG"
+        }
+    }
+}

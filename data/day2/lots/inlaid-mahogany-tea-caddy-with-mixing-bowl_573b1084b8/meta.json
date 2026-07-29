@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/inlaid-mahogany-tea-caddy-with-mixing-bowl_573b1084b8",
+    "slug": "inlaid-mahogany-tea-caddy-with-mixing-bowl_573b1084b8",
+    "lot_number": "2305",
+    "title": "INLAID MAHOGANY TEA CADDY WITH MIXING BOWL",
+    "estimate_low": 600,
+    "estimate_high": 800,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LRzF3gLdFoTqj1_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lq7nMrtkYdgyQF_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LEDx30FdtT3Fps_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LgQmtmlYg5vPsJ_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LAyenxolie4wVo": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LAyenxolie4wVo_thz.JPG"
+        },
+        "H0134-L1LElau3ghjTik": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L1LElau3ghjTik_thz.JPG"
+        },
+        "H0134-LRzF3gLdFoTqj1": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LRzF3gLdFoTqj1_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LRzF3gLdFoTqj1_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LRzF3gLdFoTqj1.JPG"
+        },
+        "H0134-Lq7nMrtkYdgyQF": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lq7nMrtkYdgyQF_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lq7nMrtkYdgyQF_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lq7nMrtkYdgyQF.JPG"
+        },
+        "H0134-LEDx30FdtT3Fps": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LEDx30FdtT3Fps_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LEDx30FdtT3Fps_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LEDx30FdtT3Fps.JPG"
+        },
+        "H0134-LgQmtmlYg5vPsJ": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LgQmtmlYg5vPsJ_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LgQmtmlYg5vPsJ_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LgQmtmlYg5vPsJ.JPG"
+        }
+    }
+}

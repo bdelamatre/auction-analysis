@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/edouard-febvre-france-1885-1967_0dd5918d61",
+    "slug": "edouard-febvre-france-1885-1967_0dd5918d61",
+    "lot_number": "1466",
+    "title": "EDOUARD FEBVRE (FRANCE, 1885-1967)",
+    "estimate_low": 300,
+    "estimate_high": 400,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lrv6ACr3fjgsMO_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LutDrBxrwRAfNq_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L3mhd9hw7PZsHT_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LFZnXXPH1DMpR7_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-Lzd7RWY9OZdlJg": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lzd7RWY9OZdlJg_thz.JPG"
+        },
+        "H0134-Lz04blM6c0ID8v": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lz04blM6c0ID8v_thz.JPG"
+        },
+        "H0134-Lrv6ACr3fjgsMO": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lrv6ACr3fjgsMO_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lrv6ACr3fjgsMO_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lrv6ACr3fjgsMO.JPG"
+        },
+        "H0134-LutDrBxrwRAfNq": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LutDrBxrwRAfNq_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LutDrBxrwRAfNq_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LutDrBxrwRAfNq.JPG"
+        },
+        "H0134-L3mhd9hw7PZsHT": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L3mhd9hw7PZsHT_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L3mhd9hw7PZsHT_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L3mhd9hw7PZsHT.JPG"
+        },
+        "H0134-LFZnXXPH1DMpR7": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LFZnXXPH1DMpR7_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LFZnXXPH1DMpR7_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LFZnXXPH1DMpR7.JPG"
+        }
+    }
+}

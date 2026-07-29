@@ -1,0 +1,58 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/19thc-german-ivory-figurine_65abeb34d2",
+    "slug": "19thc-german-ivory-figurine_65abeb34d2",
+    "lot_number": "2401",
+    "title": "19THC. GERMAN IVORY FIGURINE",
+    "estimate_low": 750,
+    "estimate_high": 850,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 6,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LsMNHWYfivyjm3_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LNaT6c2E44kq1h_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LzHx3G829HG4NO_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L3BVBzkEv1QgRg_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LOBngtAV4hCHNy_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LYqdmqRWSks4ar_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-L6SbMH0dhzsgIz": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L6SbMH0dhzsgIz_thz.JPG"
+        },
+        "H0134-LI1uh3AtyUuWOi": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LI1uh3AtyUuWOi_thz.JPG"
+        },
+        "H0134-LsMNHWYfivyjm3": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LsMNHWYfivyjm3_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LsMNHWYfivyjm3_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LsMNHWYfivyjm3.JPG"
+        },
+        "H0134-LNaT6c2E44kq1h": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LNaT6c2E44kq1h_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LNaT6c2E44kq1h_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LNaT6c2E44kq1h.JPG"
+        },
+        "H0134-LzHx3G829HG4NO": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LzHx3G829HG4NO_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LzHx3G829HG4NO_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LzHx3G829HG4NO.JPG"
+        },
+        "H0134-L3BVBzkEv1QgRg": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L3BVBzkEv1QgRg_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L3BVBzkEv1QgRg_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L3BVBzkEv1QgRg.JPG"
+        },
+        "H0134-LOBngtAV4hCHNy": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LOBngtAV4hCHNy_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LOBngtAV4hCHNy_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LOBngtAV4hCHNy.JPG"
+        },
+        "H0134-LYqdmqRWSks4ar": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LYqdmqRWSks4ar_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LYqdmqRWSks4ar_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LYqdmqRWSks4ar.JPG"
+        }
+    }
+}

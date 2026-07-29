@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/small-cast-stone-sculpture-signed-michel-on-base_a87165ffbe",
+    "slug": "small-cast-stone-sculpture-signed-michel-on-base_a87165ffbe",
+    "lot_number": "1094",
+    "title": "SMALL CAST STONE SCULPTURE SIGNED \"MICHEL\" ON BASE",
+    "estimate_low": 300,
+    "estimate_high": 400,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LkGR4APRtGkEtn_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LLXcEVE6sStEXe_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L0ue6lx6WB6B6m_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LPCE2ZTPjS2AY0_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LLBWgGk8Fwfwul": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LLBWgGk8Fwfwul_thz.JPG"
+        },
+        "H0134-LCdEssp6Q0ywcA": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LCdEssp6Q0ywcA_thz.JPG"
+        },
+        "H0134-LkGR4APRtGkEtn": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LkGR4APRtGkEtn_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LkGR4APRtGkEtn_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LkGR4APRtGkEtn.JPG"
+        },
+        "H0134-LLXcEVE6sStEXe": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LLXcEVE6sStEXe_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LLXcEVE6sStEXe_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LLXcEVE6sStEXe.JPG"
+        },
+        "H0134-L0ue6lx6WB6B6m": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L0ue6lx6WB6B6m_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L0ue6lx6WB6B6m_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L0ue6lx6WB6B6m.JPG"
+        },
+        "H0134-LPCE2ZTPjS2AY0": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LPCE2ZTPjS2AY0_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LPCE2ZTPjS2AY0_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LPCE2ZTPjS2AY0.JPG"
+        }
+    }
+}

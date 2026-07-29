@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/early-20th-c-whaling-ship-weathervane_4c8f420fd1",
+    "slug": "early-20th-c-whaling-ship-weathervane_4c8f420fd1",
+    "lot_number": "2015",
+    "title": "EARLY 20TH C. WHALING SHIP WEATHERVANE",
+    "estimate_low": 1000,
+    "estimate_high": 1500,
+    "current_bid": 500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LAfabvPesVO8Vx_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L7kptKozuFO6iJ_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LKbNOeaMEIMlyv": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LKbNOeaMEIMlyv_thz.JPG"
+        },
+        "H0134-LK2KnIGUhfBGuo": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LK2KnIGUhfBGuo_thz.JPG"
+        },
+        "H0134-LAfabvPesVO8Vx": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LAfabvPesVO8Vx_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LAfabvPesVO8Vx_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LAfabvPesVO8Vx.JPG"
+        },
+        "H0134-L7kptKozuFO6iJ": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L7kptKozuFO6iJ_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L7kptKozuFO6iJ_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L7kptKozuFO6iJ.JPG"
+        }
+    }
+}

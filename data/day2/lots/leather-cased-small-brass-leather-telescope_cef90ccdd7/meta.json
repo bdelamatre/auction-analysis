@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/leather-cased-small-brass-leather-telescope_cef90ccdd7",
+    "slug": "leather-cased-small-brass-leather-telescope_cef90ccdd7",
+    "lot_number": "2103",
+    "title": "LEATHER CASED SMALL BRASS & LEATHER TELESCOPE",
+    "estimate_low": 200,
+    "estimate_high": 300,
+    "current_bid": 50,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lkh4Xp6o6tCL0b_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LBtdiA5ofaqCTT_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-Lb8yxBHcfHa8AL": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lb8yxBHcfHa8AL_thz.JPG"
+        },
+        "H0134-Lym5anbhmqcV5l": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lym5anbhmqcV5l_thz.JPG"
+        },
+        "H0134-Lkh4Xp6o6tCL0b": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lkh4Xp6o6tCL0b_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lkh4Xp6o6tCL0b_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lkh4Xp6o6tCL0b.JPG"
+        },
+        "H0134-LBtdiA5ofaqCTT": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LBtdiA5ofaqCTT_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LBtdiA5ofaqCTT_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LBtdiA5ofaqCTT.JPG"
+        }
+    }
+}

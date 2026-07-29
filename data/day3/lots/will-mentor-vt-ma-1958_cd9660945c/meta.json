@@ -1,0 +1,52 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/will-mentor-vt-ma-1958_cd9660945c",
+    "slug": "will-mentor-vt-ma-1958_cd9660945c",
+    "lot_number": "3337",
+    "title": "WILL MENTOR (VT/MA, 1958 - )",
+    "estimate_low": 400,
+    "estimate_high": 600,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 5,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L3b7xqfoqUkV4d_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LqNXQnRfFCrxaP_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LwIUJ68zYEixMa_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LfFaoxWz7cWJEG_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lji4trqU9Z7pw7_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LqUERkhQ2yskRd": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LqUERkhQ2yskRd_thz.JPG"
+        },
+        "H0134-Lbb2lFYkF0VvtP": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lbb2lFYkF0VvtP_thz.JPG"
+        },
+        "H0134-L3b7xqfoqUkV4d": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L3b7xqfoqUkV4d_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L3b7xqfoqUkV4d_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L3b7xqfoqUkV4d.JPG"
+        },
+        "H0134-LqNXQnRfFCrxaP": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LqNXQnRfFCrxaP_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LqNXQnRfFCrxaP_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LqNXQnRfFCrxaP.JPG"
+        },
+        "H0134-LwIUJ68zYEixMa": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LwIUJ68zYEixMa_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LwIUJ68zYEixMa_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LwIUJ68zYEixMa.JPG"
+        },
+        "H0134-LfFaoxWz7cWJEG": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LfFaoxWz7cWJEG_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LfFaoxWz7cWJEG_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LfFaoxWz7cWJEG.JPG"
+        },
+        "H0134-Lji4trqU9Z7pw7": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lji4trqU9Z7pw7_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lji4trqU9Z7pw7_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lji4trqU9Z7pw7.JPG"
+        }
+    }
+}

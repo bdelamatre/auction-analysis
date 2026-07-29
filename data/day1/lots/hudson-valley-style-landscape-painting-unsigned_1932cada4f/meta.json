@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/hudson-valley-style-landscape-painting-unsigned_1932cada4f",
+    "slug": "hudson-valley-style-landscape-painting-unsigned_1932cada4f",
+    "lot_number": "1075",
+    "title": "HUDSON VALLEY STYLE LANDSCAPE PAINTING, UNSIGNED",
+    "estimate_low": 500,
+    "estimate_high": 700,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LeZlp73iJGdNNv_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LPbYomLRS7C6fN_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LqpYnIlcyGzXzO_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LVIHcHoEifYts6": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LVIHcHoEifYts6_thz.JPG"
+        },
+        "H0134-LKTIPBnT72OPX8": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LKTIPBnT72OPX8_thz.JPG"
+        },
+        "H0134-LeZlp73iJGdNNv": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LeZlp73iJGdNNv_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LeZlp73iJGdNNv_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LeZlp73iJGdNNv.JPG"
+        },
+        "H0134-LPbYomLRS7C6fN": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LPbYomLRS7C6fN_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LPbYomLRS7C6fN_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LPbYomLRS7C6fN.JPG"
+        },
+        "H0134-LqpYnIlcyGzXzO": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LqpYnIlcyGzXzO_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LqpYnIlcyGzXzO_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LqpYnIlcyGzXzO.JPG"
+        }
+    }
+}

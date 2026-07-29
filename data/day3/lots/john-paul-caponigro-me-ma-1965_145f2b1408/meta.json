@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/john-paul-caponigro-me-ma-1965_145f2b1408",
+    "slug": "john-paul-caponigro-me-ma-1965_145f2b1408",
+    "lot_number": "3365",
+    "title": "JOHN PAUL CAPONIGRO (ME/MA, 1965 - )",
+    "estimate_low": 1000,
+    "estimate_high": 1200,
+    "current_bid": 500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LCyG6HZdbSqbBf_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LMczASU7dfvx0d_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LUncm6c6zuIIWs_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LDcJ3a5SFRhU4l": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LDcJ3a5SFRhU4l_thz.JPG"
+        },
+        "H0134-LxGI88ANdLIw3L": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LxGI88ANdLIw3L_thz.JPG"
+        },
+        "H0134-LCyG6HZdbSqbBf": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LCyG6HZdbSqbBf_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LCyG6HZdbSqbBf_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LCyG6HZdbSqbBf.JPG"
+        },
+        "H0134-LMczASU7dfvx0d": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LMczASU7dfvx0d_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LMczASU7dfvx0d_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LMczASU7dfvx0d.JPG"
+        },
+        "H0134-LUncm6c6zuIIWs": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LUncm6c6zuIIWs_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LUncm6c6zuIIWs_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LUncm6c6zuIIWs.JPG"
+        }
+    }
+}

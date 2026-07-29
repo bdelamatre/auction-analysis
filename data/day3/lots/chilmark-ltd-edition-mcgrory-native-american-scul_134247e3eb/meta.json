@@ -1,0 +1,52 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/chilmark-ltd-edition-mcgrory-native-american-scul_134247e3eb",
+    "slug": "chilmark-ltd-edition-mcgrory-native-american-scul_134247e3eb",
+    "lot_number": "3175",
+    "title": "CHILMARK LTD EDITION MCGRORY NATIVE AMERICAN SCULPTURE",
+    "estimate_low": 800,
+    "estimate_high": 1200,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 5,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LFyvJhLPhC0nFZ_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LqiffrRuNq8dbP_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LdZhrWsHkfTO2r_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LxEzFuB3y8T5HW_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L9coa5KFhMPgiD_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LE63XyZ6DfnSTt": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LE63XyZ6DfnSTt_thz.JPG"
+        },
+        "H0134-LSgXRCBO8HAgdD": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LSgXRCBO8HAgdD_thz.JPG"
+        },
+        "H0134-LFyvJhLPhC0nFZ": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LFyvJhLPhC0nFZ_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LFyvJhLPhC0nFZ_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LFyvJhLPhC0nFZ.JPG"
+        },
+        "H0134-LqiffrRuNq8dbP": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LqiffrRuNq8dbP_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LqiffrRuNq8dbP_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LqiffrRuNq8dbP.JPG"
+        },
+        "H0134-LdZhrWsHkfTO2r": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LdZhrWsHkfTO2r_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LdZhrWsHkfTO2r_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LdZhrWsHkfTO2r.JPG"
+        },
+        "H0134-LxEzFuB3y8T5HW": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LxEzFuB3y8T5HW_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LxEzFuB3y8T5HW_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LxEzFuB3y8T5HW.JPG"
+        },
+        "H0134-L9coa5KFhMPgiD": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L9coa5KFhMPgiD_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L9coa5KFhMPgiD_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L9coa5KFhMPgiD.JPG"
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/4-antique-gold-filled-mounted-walking-canes_2dcf646be3",
+    "slug": "4-antique-gold-filled-mounted-walking-canes_2dcf646be3",
+    "lot_number": "1026",
+    "title": "(4) ANTIQUE GOLD-FILLED MOUNTED WALKING CANES",
+    "estimate_low": 800,
+    "estimate_high": 1000,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LLyAP8iggOuICb_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LofGc8WBr97G9s_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LSJg7CIvaT0gRE_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LboV5lPFcXjUXX": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LboV5lPFcXjUXX_thz.jpg"
+        },
+        "H0134-LpMafjEh8QtoIZ": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LpMafjEh8QtoIZ_thz.JPG"
+        },
+        "H0134-LLyAP8iggOuICb": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LLyAP8iggOuICb_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LLyAP8iggOuICb_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LLyAP8iggOuICb.JPG"
+        },
+        "H0134-LofGc8WBr97G9s": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LofGc8WBr97G9s_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LofGc8WBr97G9s_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LofGc8WBr97G9s.JPG"
+        },
+        "H0134-LSJg7CIvaT0gRE": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LSJg7CIvaT0gRE_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LSJg7CIvaT0gRE_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LSJg7CIvaT0gRE.JPG"
+        }
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/hepplewhite-style-inlaid-mahogany-server_940a7868a2",
+    "slug": "hepplewhite-style-inlaid-mahogany-server_940a7868a2",
+    "lot_number": "3222",
+    "title": "HEPPLEWHITE STYLE INLAID MAHOGANY SERVER",
+    "estimate_low": 1000,
+    "estimate_high": 1500,
+    "current_bid": 500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 6,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LjnAmYOHeXVj6l_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lb73Cd2nwWa4xG_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LL9opPtiyqH0vK_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LkO7I3zj8lDP16_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LD789IMvWeyn7U_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L17hvDiHqqpqWM_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LagjJ3gg1Z1Jqv": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LagjJ3gg1Z1Jqv_thz.JPG"
+        },
+        "H0134-LCIT4gGqOK0biW": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LCIT4gGqOK0biW_thz.JPG"
+        },
+        "H0134-LjnAmYOHeXVj6l": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LjnAmYOHeXVj6l_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LjnAmYOHeXVj6l_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LjnAmYOHeXVj6l.JPG"
+        },
+        "H0134-Lb73Cd2nwWa4xG": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lb73Cd2nwWa4xG_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lb73Cd2nwWa4xG_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lb73Cd2nwWa4xG.JPG"
+        },
+        "H0134-LL9opPtiyqH0vK": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LL9opPtiyqH0vK_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LL9opPtiyqH0vK_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LL9opPtiyqH0vK.JPG"
+        },
+        "H0134-LkO7I3zj8lDP16": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LkO7I3zj8lDP16_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LkO7I3zj8lDP16_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LkO7I3zj8lDP16.JPG"
+        },
+        "H0134-LD789IMvWeyn7U": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LD789IMvWeyn7U_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LD789IMvWeyn7U_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LD789IMvWeyn7U.JPG"
+        },
+        "H0134-L17hvDiHqqpqWM": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L17hvDiHqqpqWM_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L17hvDiHqqpqWM_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L17hvDiHqqpqWM.JPG"
+        }
+    }
+}

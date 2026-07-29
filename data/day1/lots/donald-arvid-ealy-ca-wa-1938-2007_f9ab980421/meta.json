@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/donald-arvid-ealy-ca-wa-1938-2007_f9ab980421",
+    "slug": "donald-arvid-ealy-ca-wa-1938-2007_f9ab980421",
+    "lot_number": "1089",
+    "title": "DONALD ARVID EALY (CA/WA, 1938-2007)",
+    "estimate_low": 600,
+    "estimate_high": 800,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LvtrUEzZHUk14X_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LLCl88BurLEFiH_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LxLyjsFdhUkgZM": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LxLyjsFdhUkgZM_thz.JPG"
+        },
+        "H0134-LF4QkMkER6voVz": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LF4QkMkER6voVz_thz.JPG"
+        },
+        "H0134-LvtrUEzZHUk14X": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LvtrUEzZHUk14X_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LvtrUEzZHUk14X_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LvtrUEzZHUk14X.JPG"
+        },
+        "H0134-LLCl88BurLEFiH": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LLCl88BurLEFiH_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LLCl88BurLEFiH_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LLCl88BurLEFiH.JPG"
+        }
+    }
+}

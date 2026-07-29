@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/singer-sewing-machine-child-sized-sew-handy_ca9f73c7e5",
+    "slug": "singer-sewing-machine-child-sized-sew-handy_ca9f73c7e5",
+    "lot_number": "1175",
+    "title": "SINGER SEWING MACHINE CHILD-SIZED \"SEW HANDY\"",
+    "estimate_low": 300,
+    "estimate_high": 400,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LkKdCSUO7FfcCS_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LaXTJCraO2O4p7_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LBvySixPROnEVf_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LBMATeNezK0NUb": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LBMATeNezK0NUb_thz.JPG"
+        },
+        "H0134-L35ACiRQRrky10": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L35ACiRQRrky10_thz.JPG"
+        },
+        "H0134-LkKdCSUO7FfcCS": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LkKdCSUO7FfcCS_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LkKdCSUO7FfcCS_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LkKdCSUO7FfcCS.JPG"
+        },
+        "H0134-LaXTJCraO2O4p7": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LaXTJCraO2O4p7_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LaXTJCraO2O4p7_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LaXTJCraO2O4p7.JPG"
+        },
+        "H0134-LBvySixPROnEVf": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LBvySixPROnEVf_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LBvySixPROnEVf_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LBvySixPROnEVf.JPG"
+        }
+    }
+}

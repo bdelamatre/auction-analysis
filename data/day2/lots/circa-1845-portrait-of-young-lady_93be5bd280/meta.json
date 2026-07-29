@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/circa-1845-portrait-of-young-lady_93be5bd280",
+    "slug": "circa-1845-portrait-of-young-lady_93be5bd280",
+    "lot_number": "2257",
+    "title": "CIRCA 1845 PORTRAIT OF YOUNG LADY",
+    "estimate_low": 1000,
+    "estimate_high": 1500,
+    "current_bid": 500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LgqjN9fwDvd1Jm_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lig7s0m1N93Tcf_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LZqoMj7A9U6LFV": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LZqoMj7A9U6LFV_thz.JPG"
+        },
+        "H0134-LDQNr8mYJHxCpy": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LDQNr8mYJHxCpy_thz.JPG"
+        },
+        "H0134-LgqjN9fwDvd1Jm": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LgqjN9fwDvd1Jm_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LgqjN9fwDvd1Jm_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LgqjN9fwDvd1Jm.JPG"
+        },
+        "H0134-Lig7s0m1N93Tcf": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lig7s0m1N93Tcf_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lig7s0m1N93Tcf_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lig7s0m1N93Tcf.JPG"
+        }
+    }
+}

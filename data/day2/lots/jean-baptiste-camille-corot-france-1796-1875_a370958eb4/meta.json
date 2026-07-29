@@ -1,0 +1,58 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/jean-baptiste-camille-corot-france-1796-1875_a370958eb4",
+    "slug": "jean-baptiste-camille-corot-france-1796-1875_a370958eb4",
+    "lot_number": "2341",
+    "title": "JEAN-BAPTISTE-CAMILLE COROT (FRANCE, 1796-1875)",
+    "estimate_low": 20000,
+    "estimate_high": 30000,
+    "current_bid": 10000,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 6,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LxFsSAfhyewOdc_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lz34rrNsio3X7o_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LmXnidubyu030v_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LYsfio480YI9Fx_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LlFpWrSzA7XQLW_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LWFXXt1gWLiO4t_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LTcZf8TAP5PhS8": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LTcZf8TAP5PhS8_thz.JPG"
+        },
+        "H0134-LnA8iayzRcVK9i": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LnA8iayzRcVK9i_thz.JPG"
+        },
+        "H0134-LxFsSAfhyewOdc": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LxFsSAfhyewOdc_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LxFsSAfhyewOdc_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LxFsSAfhyewOdc.JPG"
+        },
+        "H0134-Lz34rrNsio3X7o": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lz34rrNsio3X7o_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lz34rrNsio3X7o_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lz34rrNsio3X7o.JPG"
+        },
+        "H0134-LmXnidubyu030v": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LmXnidubyu030v_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LmXnidubyu030v_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LmXnidubyu030v.JPG"
+        },
+        "H0134-LYsfio480YI9Fx": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LYsfio480YI9Fx_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LYsfio480YI9Fx_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LYsfio480YI9Fx.JPG"
+        },
+        "H0134-LlFpWrSzA7XQLW": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LlFpWrSzA7XQLW_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LlFpWrSzA7XQLW_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LlFpWrSzA7XQLW.JPG"
+        },
+        "H0134-LWFXXt1gWLiO4t": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LWFXXt1gWLiO4t_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LWFXXt1gWLiO4t_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LWFXXt1gWLiO4t.JPG"
+        }
+    }
+}

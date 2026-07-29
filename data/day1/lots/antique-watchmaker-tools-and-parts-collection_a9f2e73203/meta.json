@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/antique-watchmaker-tools-and-parts-collection_a9f2e73203",
+    "slug": "antique-watchmaker-tools-and-parts-collection_a9f2e73203",
+    "lot_number": "1088",
+    "title": "ANTIQUE WATCHMAKER TOOLS AND PARTS COLLECTION",
+    "estimate_low": 300,
+    "estimate_high": 500,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LxLyjsFdhUkgZM_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LsnMhIWaaJaOLU_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LfyLWZ1TLC3i4p": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LfyLWZ1TLC3i4p_thz.JPG"
+        },
+        "H0134-LvtrUEzZHUk14X": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LvtrUEzZHUk14X_thz.JPG"
+        },
+        "H0134-LxLyjsFdhUkgZM": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LxLyjsFdhUkgZM_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LxLyjsFdhUkgZM_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LxLyjsFdhUkgZM.JPG"
+        },
+        "H0134-LsnMhIWaaJaOLU": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LsnMhIWaaJaOLU_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LsnMhIWaaJaOLU_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LsnMhIWaaJaOLU.JPG"
+        }
+    }
+}

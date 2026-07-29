@@ -1,0 +1,52 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/early-vellum-diploma_f45d97ead1",
+    "slug": "early-vellum-diploma_f45d97ead1",
+    "lot_number": "1489",
+    "title": "EARLY VELLUM DIPLOMA",
+    "estimate_low": 100,
+    "estimate_high": 200,
+    "current_bid": 50,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 5,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LNBLOK2vjDQK8R_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LF89RxWyTA2PT9_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LNjRJnOktzLkOy_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LG5hMK2bKkudex_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LiXtMSlpLZEJmo_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-Lpyefn7dJRHJed": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lpyefn7dJRHJed_thz.JPG"
+        },
+        "H0134-LozCkLOQ4HUqJu": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LozCkLOQ4HUqJu_thz.JPG"
+        },
+        "H0134-LNBLOK2vjDQK8R": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LNBLOK2vjDQK8R_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LNBLOK2vjDQK8R_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LNBLOK2vjDQK8R.JPG"
+        },
+        "H0134-LF89RxWyTA2PT9": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LF89RxWyTA2PT9_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LF89RxWyTA2PT9_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LF89RxWyTA2PT9.JPG"
+        },
+        "H0134-LNjRJnOktzLkOy": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LNjRJnOktzLkOy_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LNjRJnOktzLkOy_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LNjRJnOktzLkOy.JPG"
+        },
+        "H0134-LG5hMK2bKkudex": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LG5hMK2bKkudex_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LG5hMK2bKkudex_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LG5hMK2bKkudex.JPG"
+        },
+        "H0134-LiXtMSlpLZEJmo": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LiXtMSlpLZEJmo_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LiXtMSlpLZEJmo_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LiXtMSlpLZEJmo.JPG"
+        }
+    }
+}

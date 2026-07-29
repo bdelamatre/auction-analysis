@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/fernand-ouillon-carrere-ct-ny-france-1879-1959_b936807262",
+    "slug": "fernand-ouillon-carrere-ct-ny-france-1879-1959_b936807262",
+    "lot_number": "3132",
+    "title": "FERNAND OUILLON-CARRERE (CT/NY/FRANCE, 1879-1959",
+    "estimate_low": 700,
+    "estimate_high": 900,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LwklUTDc1y15uI_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LnTDELu3EwNG91_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lhn9Z5J1jyADRg_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LIm1o2EWSltaqK_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LAW26RZLdMpq0P": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LAW26RZLdMpq0P_thz.JPG"
+        },
+        "H0134-LBqaV251uGgafl": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LBqaV251uGgafl_thz.JPG"
+        },
+        "H0134-LwklUTDc1y15uI": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LwklUTDc1y15uI_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LwklUTDc1y15uI_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LwklUTDc1y15uI.JPG"
+        },
+        "H0134-LnTDELu3EwNG91": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LnTDELu3EwNG91_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LnTDELu3EwNG91_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LnTDELu3EwNG91.JPG"
+        },
+        "H0134-Lhn9Z5J1jyADRg": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lhn9Z5J1jyADRg_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lhn9Z5J1jyADRg_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lhn9Z5J1jyADRg.JPG"
+        },
+        "H0134-LIm1o2EWSltaqK": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LIm1o2EWSltaqK_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LIm1o2EWSltaqK_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LIm1o2EWSltaqK.JPG"
+        }
+    }
+}

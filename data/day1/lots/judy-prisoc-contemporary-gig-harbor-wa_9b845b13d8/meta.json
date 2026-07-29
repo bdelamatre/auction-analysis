@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/judy-prisoc-contemporary-gig-harbor-wa_9b845b13d8",
+    "slug": "judy-prisoc-contemporary-gig-harbor-wa_9b845b13d8",
+    "lot_number": "1226",
+    "title": "JUDY PRISOC (CONTEMPORARY, GIG HARBOR, WA)",
+    "estimate_low": 250,
+    "estimate_high": 350,
+    "current_bid": 50,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L0tRFufeeXZAR7_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LGcjG5Xkj8M8AR_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LXWY7VaS4WPivS": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LXWY7VaS4WPivS_thz.JPG"
+        },
+        "H0134-LkzOL2yUsnAkyJ": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LkzOL2yUsnAkyJ_thz.JPG"
+        },
+        "H0134-L0tRFufeeXZAR7": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L0tRFufeeXZAR7_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L0tRFufeeXZAR7_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L0tRFufeeXZAR7.JPG"
+        },
+        "H0134-LGcjG5Xkj8M8AR": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LGcjG5Xkj8M8AR_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LGcjG5Xkj8M8AR_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LGcjG5Xkj8M8AR.JPG"
+        }
+    }
+}

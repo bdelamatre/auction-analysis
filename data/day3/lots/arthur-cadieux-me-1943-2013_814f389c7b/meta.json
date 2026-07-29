@@ -1,0 +1,52 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/arthur-cadieux-me-1943-2013_814f389c7b",
+    "slug": "arthur-cadieux-me-1943-2013_814f389c7b",
+    "lot_number": "3363",
+    "title": "ARTHUR CADIEUX (ME, 1943-2013)",
+    "estimate_low": 500,
+    "estimate_high": 800,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 5,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LoXNJPGL5RfaZR_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LU0NSLgi0ahHVS_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L2sKmNSj2ODyh0_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LtHCMNvXz291yR_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LDTzxzHNRsJo8y_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LSUXAbWxHV4bJP": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LSUXAbWxHV4bJP_thz.JPG"
+        },
+        "H0134-LDcJ3a5SFRhU4l": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LDcJ3a5SFRhU4l_thz.JPG"
+        },
+        "H0134-LoXNJPGL5RfaZR": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LoXNJPGL5RfaZR_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LoXNJPGL5RfaZR_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LoXNJPGL5RfaZR.JPG"
+        },
+        "H0134-LU0NSLgi0ahHVS": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LU0NSLgi0ahHVS_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LU0NSLgi0ahHVS_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LU0NSLgi0ahHVS.JPG"
+        },
+        "H0134-L2sKmNSj2ODyh0": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L2sKmNSj2ODyh0_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L2sKmNSj2ODyh0_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L2sKmNSj2ODyh0.JPG"
+        },
+        "H0134-LtHCMNvXz291yR": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LtHCMNvXz291yR_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LtHCMNvXz291yR_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LtHCMNvXz291yR.JPG"
+        },
+        "H0134-LDTzxzHNRsJo8y": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LDTzxzHNRsJo8y_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LDTzxzHNRsJo8y_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LDTzxzHNRsJo8y.JPG"
+        }
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/barbizon-school-landscape_83ef5f972d",
+    "slug": "barbizon-school-landscape_83ef5f972d",
+    "lot_number": "2357",
+    "title": "BARBIZON SCHOOL LANDSCAPE",
+    "estimate_low": 500,
+    "estimate_high": 700,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 6,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LSDmE9JWRqQLrF_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LerTbPlsPFfobn_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LafyWZRBPNPlMF_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LeiI2udP9W6mAl_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lh7Bc0vILB9qhe_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LOTWURlKb2FCoK_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LbbAgyWEzE0dIr": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LbbAgyWEzE0dIr_thz.JPG"
+        },
+        "H0134-L4X6waQmJmOA06": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L4X6waQmJmOA06_thz.JPG"
+        },
+        "H0134-LSDmE9JWRqQLrF": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LSDmE9JWRqQLrF_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LSDmE9JWRqQLrF_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LSDmE9JWRqQLrF.JPG"
+        },
+        "H0134-LerTbPlsPFfobn": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LerTbPlsPFfobn_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LerTbPlsPFfobn_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LerTbPlsPFfobn.JPG"
+        },
+        "H0134-LafyWZRBPNPlMF": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LafyWZRBPNPlMF_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LafyWZRBPNPlMF_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LafyWZRBPNPlMF.JPG"
+        },
+        "H0134-LeiI2udP9W6mAl": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LeiI2udP9W6mAl_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LeiI2udP9W6mAl_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LeiI2udP9W6mAl.JPG"
+        },
+        "H0134-Lh7Bc0vILB9qhe": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lh7Bc0vILB9qhe_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lh7Bc0vILB9qhe_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lh7Bc0vILB9qhe.JPG"
+        },
+        "H0134-LOTWURlKb2FCoK": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LOTWURlKb2FCoK_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LOTWURlKb2FCoK_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LOTWURlKb2FCoK.JPG"
+        }
+    }
+}

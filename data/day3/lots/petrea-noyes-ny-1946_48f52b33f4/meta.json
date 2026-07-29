@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/petrea-noyes-ny-1946_48f52b33f4",
+    "slug": "petrea-noyes-ny-1946_48f52b33f4",
+    "lot_number": "3283",
+    "title": "PETREA NOYES (NY, 1946 - )",
+    "estimate_low": 6000,
+    "estimate_high": 8000,
+    "current_bid": 3000,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L1S1DYnbm38rK4_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LKJMne35kXS1ZM_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LtY9X5KW860la3_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L1CCb6CMCAuUw1_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LvV33gNKUm9WeO": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LvV33gNKUm9WeO_thz.JPG"
+        },
+        "H0134-LRZgBbIzPD7eUw": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LRZgBbIzPD7eUw_thz.JPG"
+        },
+        "H0134-L1S1DYnbm38rK4": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L1S1DYnbm38rK4_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L1S1DYnbm38rK4_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L1S1DYnbm38rK4.JPG"
+        },
+        "H0134-LKJMne35kXS1ZM": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LKJMne35kXS1ZM_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LKJMne35kXS1ZM_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LKJMne35kXS1ZM.JPG"
+        },
+        "H0134-LtY9X5KW860la3": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LtY9X5KW860la3_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LtY9X5KW860la3_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LtY9X5KW860la3.JPG"
+        },
+        "H0134-L1CCb6CMCAuUw1": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L1CCb6CMCAuUw1_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L1CCb6CMCAuUw1_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L1CCb6CMCAuUw1.JPG"
+        }
+    }
+}

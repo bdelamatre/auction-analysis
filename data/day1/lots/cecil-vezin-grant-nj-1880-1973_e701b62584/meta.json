@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/cecil-vezin-grant-nj-1880-1973_e701b62584",
+    "slug": "cecil-vezin-grant-nj-1880-1973_e701b62584",
+    "lot_number": "1060",
+    "title": "CECIL VEZIN GRANT (NJ. 1880-1973)",
+    "estimate_low": 400,
+    "estimate_high": 600,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LjuzFVmEOrP2Eb_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LMzlCIeRCmcTPS_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LHjSWQWAUbd94L_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LMrsIzoth5NrIl_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-L5tC1wZf5ABBoD": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L5tC1wZf5ABBoD_thz.JPG"
+        },
+        "H0134-LhQR2jiVxaN2vf": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LhQR2jiVxaN2vf_thz.JPG"
+        },
+        "H0134-LjuzFVmEOrP2Eb": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LjuzFVmEOrP2Eb_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LjuzFVmEOrP2Eb_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LjuzFVmEOrP2Eb.JPG"
+        },
+        "H0134-LMzlCIeRCmcTPS": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LMzlCIeRCmcTPS_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LMzlCIeRCmcTPS_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LMzlCIeRCmcTPS.JPG"
+        },
+        "H0134-LHjSWQWAUbd94L": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LHjSWQWAUbd94L_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LHjSWQWAUbd94L_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LHjSWQWAUbd94L.JPG"
+        },
+        "H0134-LMrsIzoth5NrIl": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LMrsIzoth5NrIl_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LMrsIzoth5NrIl_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LMrsIzoth5NrIl.JPG"
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/frederick-lynch-me-1935-2016_a026452b4a",
+    "slug": "frederick-lynch-me-1935-2016_a026452b4a",
+    "lot_number": "3255",
+    "title": "FREDERICK LYNCH (ME,1935-2016)",
+    "estimate_low": 1000,
+    "estimate_high": 1500,
+    "current_bid": 500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L2JJrWtM4XZSgb_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LMHeBnSJkQQdbQ_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LcVb7jSg1kIDeN_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L9p5g1QvyQo4E9_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-L5Rc2wLhOYGuST": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L5Rc2wLhOYGuST_thz.JPG"
+        },
+        "H0134-LyhC3mGokV9kJf": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LyhC3mGokV9kJf_thz.JPG"
+        },
+        "H0134-L2JJrWtM4XZSgb": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L2JJrWtM4XZSgb_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L2JJrWtM4XZSgb_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L2JJrWtM4XZSgb.JPG"
+        },
+        "H0134-LMHeBnSJkQQdbQ": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LMHeBnSJkQQdbQ_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LMHeBnSJkQQdbQ_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LMHeBnSJkQQdbQ.JPG"
+        },
+        "H0134-LcVb7jSg1kIDeN": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LcVb7jSg1kIDeN_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LcVb7jSg1kIDeN_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LcVb7jSg1kIDeN.JPG"
+        },
+        "H0134-L9p5g1QvyQo4E9": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L9p5g1QvyQo4E9_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L9p5g1QvyQo4E9_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L9p5g1QvyQo4E9.JPG"
+        }
+    }
+}

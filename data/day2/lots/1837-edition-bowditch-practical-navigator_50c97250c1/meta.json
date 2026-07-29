@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/1837-edition-bowditch-practical-navigator_50c97250c1",
+    "slug": "1837-edition-bowditch-practical-navigator_50c97250c1",
+    "lot_number": "2107",
+    "title": "1837 EDITION BOWDITCH PRACTICAL NAVIGATOR",
+    "estimate_low": 200,
+    "estimate_high": 300,
+    "current_bid": 50,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L4jN4YMdXP6kAE_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LbcD8qPgV8AD3T_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LF3HMxSeqHOT62_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-Lyn7tSh1RzY9qL": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lyn7tSh1RzY9qL_thz.JPG"
+        },
+        "H0134-Lrvcidj1CWOK3F": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lrvcidj1CWOK3F_thz.JPG"
+        },
+        "H0134-L4jN4YMdXP6kAE": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L4jN4YMdXP6kAE_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L4jN4YMdXP6kAE_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L4jN4YMdXP6kAE.JPG"
+        },
+        "H0134-LbcD8qPgV8AD3T": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LbcD8qPgV8AD3T_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LbcD8qPgV8AD3T_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LbcD8qPgV8AD3T.JPG"
+        },
+        "H0134-LF3HMxSeqHOT62": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LF3HMxSeqHOT62_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LF3HMxSeqHOT62_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LF3HMxSeqHOT62.JPG"
+        }
+    }
+}

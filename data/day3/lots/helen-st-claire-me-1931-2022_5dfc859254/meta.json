@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/helen-st-claire-me-1931-2022_5dfc859254",
+    "slug": "helen-st-claire-me-1931-2022_5dfc859254",
+    "lot_number": "3445",
+    "title": "HELEN ST. CLAIRE (ME, 1931-2022)",
+    "estimate_low": 500,
+    "estimate_high": 700,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LR46KZKoJFj1wn_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Ln4RJPW1b7CQIB_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L67DEDiges5EGW_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lcgu86eT9lbacH_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LJfpmibkI2Bnr5": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LJfpmibkI2Bnr5_thz.JPG"
+        },
+        "H0134-Lu392FOzmzSYJs": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lu392FOzmzSYJs_thz.JPG"
+        },
+        "H0134-LR46KZKoJFj1wn": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LR46KZKoJFj1wn_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LR46KZKoJFj1wn_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LR46KZKoJFj1wn.JPG"
+        },
+        "H0134-Ln4RJPW1b7CQIB": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Ln4RJPW1b7CQIB_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Ln4RJPW1b7CQIB_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Ln4RJPW1b7CQIB.JPG"
+        },
+        "H0134-L67DEDiges5EGW": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L67DEDiges5EGW_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L67DEDiges5EGW_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L67DEDiges5EGW.JPG"
+        },
+        "H0134-Lcgu86eT9lbacH": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lcgu86eT9lbacH_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lcgu86eT9lbacH_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lcgu86eT9lbacH.JPG"
+        }
+    }
+}

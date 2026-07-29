@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/1739-german-masters-doctoral-diplomas-in-case-w-s_d45f5a3540",
+    "slug": "1739-german-masters-doctoral-diplomas-in-case-w-s_d45f5a3540",
+    "lot_number": "2404",
+    "title": "1739 GERMAN MASTERS & DOCTORAL DIPLOMAS IN CASE W/ SEAL",
+    "estimate_low": 300,
+    "estimate_high": 500,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lz7D8ERnRa9dVB_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LfkWr0A61Hd6Fa_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Ltvuf4holRTby8_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L1KcWWVB5d9muo_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LuiuYpxkPYFJR8": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LuiuYpxkPYFJR8_thz.JPG"
+        },
+        "H0134-LL1AqvBEaev5WY": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LL1AqvBEaev5WY_thz.JPG"
+        },
+        "H0134-Lz7D8ERnRa9dVB": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lz7D8ERnRa9dVB_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lz7D8ERnRa9dVB_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lz7D8ERnRa9dVB.JPG"
+        },
+        "H0134-LfkWr0A61Hd6Fa": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LfkWr0A61Hd6Fa_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LfkWr0A61Hd6Fa_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LfkWr0A61Hd6Fa.JPG"
+        },
+        "H0134-Ltvuf4holRTby8": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Ltvuf4holRTby8_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Ltvuf4holRTby8_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Ltvuf4holRTby8.JPG"
+        },
+        "H0134-L1KcWWVB5d9muo": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L1KcWWVB5d9muo_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L1KcWWVB5d9muo_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L1KcWWVB5d9muo.JPG"
+        }
+    }
+}

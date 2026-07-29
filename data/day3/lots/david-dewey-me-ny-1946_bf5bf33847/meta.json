@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/david-dewey-me-ny-1946_bf5bf33847",
+    "slug": "david-dewey-me-ny-1946_bf5bf33847",
+    "lot_number": "3368",
+    "title": "DAVID DEWEY (ME/NY, 1946 - )",
+    "estimate_low": 400,
+    "estimate_high": 600,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LPSKcrl8qG8ECc_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L3IYFqmKb3dn7O_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LC2xO28V1qNqtS_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LxMOHXGUdDHtVW_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-L4JE7EnhhHEc7r": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L4JE7EnhhHEc7r_thz.JPG"
+        },
+        "H0134-LQQDdanP2vKkSo": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LQQDdanP2vKkSo_thz.JPG"
+        },
+        "H0134-LPSKcrl8qG8ECc": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LPSKcrl8qG8ECc_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LPSKcrl8qG8ECc_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LPSKcrl8qG8ECc.JPG"
+        },
+        "H0134-L3IYFqmKb3dn7O": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L3IYFqmKb3dn7O_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L3IYFqmKb3dn7O_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L3IYFqmKb3dn7O.JPG"
+        },
+        "H0134-LC2xO28V1qNqtS": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LC2xO28V1qNqtS_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LC2xO28V1qNqtS_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LC2xO28V1qNqtS.JPG"
+        },
+        "H0134-LxMOHXGUdDHtVW": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LxMOHXGUdDHtVW_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LxMOHXGUdDHtVW_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LxMOHXGUdDHtVW.JPG"
+        }
+    }
+}

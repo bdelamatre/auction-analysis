@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/tekke-turkoman-gilt-silver-and-carnelian-egme-hoo_1ea652fafe",
+    "slug": "tekke-turkoman-gilt-silver-and-carnelian-egme-hoo_1ea652fafe",
+    "lot_number": "2455",
+    "title": "TEKKE TURKOMAN GILT SILVER AND CARNELIAN EGME HOOD ORNAMENT",
+    "estimate_low": 500,
+    "estimate_high": 700,
+    "current_bid": 275,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L94baHxXNptVlS_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L3Z1YIiugAHXLi_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LEUEMi2aDMBux5": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LEUEMi2aDMBux5_thz.JPG"
+        },
+        "H0134-LWBydQKpBuXz7G": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LWBydQKpBuXz7G_thz.JPG"
+        },
+        "H0134-L94baHxXNptVlS": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L94baHxXNptVlS_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L94baHxXNptVlS_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L94baHxXNptVlS.JPG"
+        },
+        "H0134-L3Z1YIiugAHXLi": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L3Z1YIiugAHXLi_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L3Z1YIiugAHXLi_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L3Z1YIiugAHXLi.JPG"
+        }
+    }
+}

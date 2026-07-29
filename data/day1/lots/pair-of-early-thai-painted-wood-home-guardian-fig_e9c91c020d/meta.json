@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/pair-of-early-thai-painted-wood-home-guardian-fig_e9c91c020d",
+    "slug": "pair-of-early-thai-painted-wood-home-guardian-fig_e9c91c020d",
+    "lot_number": "1391",
+    "title": "PAIR OF EARLY THAI PAINTED WOOD HOME GUARDIAN FIGURES",
+    "estimate_low": 400,
+    "estimate_high": 800,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LWVv2mXQmT5T4f_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LbLyKrJ8w7RUZ1_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-Lh7TqLTpsp15zU": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lh7TqLTpsp15zU_thz.JPG"
+        },
+        "H0134-LIYpfvakuhPsdm": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LIYpfvakuhPsdm_thz.JPG"
+        },
+        "H0134-LWVv2mXQmT5T4f": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LWVv2mXQmT5T4f_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LWVv2mXQmT5T4f_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LWVv2mXQmT5T4f.JPG"
+        },
+        "H0134-LbLyKrJ8w7RUZ1": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LbLyKrJ8w7RUZ1_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LbLyKrJ8w7RUZ1_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LbLyKrJ8w7RUZ1.JPG"
+        }
+    }
+}

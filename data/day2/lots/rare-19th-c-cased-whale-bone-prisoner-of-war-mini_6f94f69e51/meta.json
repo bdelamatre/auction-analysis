@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/rare-19th-c-cased-whale-bone-prisoner-of-war-mini_6f94f69e51",
+    "slug": "rare-19th-c-cased-whale-bone-prisoner-of-war-mini_6f94f69e51",
+    "lot_number": "2043",
+    "title": "RARE 19TH C. CASED WHALE BONE PRISONER OF WAR MINIATURE SHIP MODEL",
+    "estimate_low": 3000,
+    "estimate_high": 5000,
+    "current_bid": 1500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LsQ0uyyeU7MTEs_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LF8xdN7lQgTxjm_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L9qplvAVjlhk98_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L6UqafbskwqqNF_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LJYUF4E0r9MMeZ": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LJYUF4E0r9MMeZ_thz.JPG"
+        },
+        "H0134-LTUPZGwmYtUJTd": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LTUPZGwmYtUJTd_thz.JPG"
+        },
+        "H0134-LsQ0uyyeU7MTEs": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LsQ0uyyeU7MTEs_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LsQ0uyyeU7MTEs_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LsQ0uyyeU7MTEs.JPG"
+        },
+        "H0134-LF8xdN7lQgTxjm": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LF8xdN7lQgTxjm_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LF8xdN7lQgTxjm_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LF8xdN7lQgTxjm.JPG"
+        },
+        "H0134-L9qplvAVjlhk98": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L9qplvAVjlhk98_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L9qplvAVjlhk98_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L9qplvAVjlhk98.JPG"
+        },
+        "H0134-L6UqafbskwqqNF": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L6UqafbskwqqNF_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L6UqafbskwqqNF_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L6UqafbskwqqNF.JPG"
+        }
+    }
+}

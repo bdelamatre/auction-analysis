@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/railroad-routes-in-california-1853_8175817449",
+    "slug": "railroad-routes-in-california-1853_8175817449",
+    "lot_number": "1490",
+    "title": "RAILROAD ROUTES IN CALIFORNIA, 1853",
+    "estimate_low": 100,
+    "estimate_high": 200,
+    "current_bid": 50,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LozCkLOQ4HUqJu_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L0nE15DyX9EWCQ_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LT4KG6pBDz5u7A_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LNBLOK2vjDQK8R": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LNBLOK2vjDQK8R_thz.JPG"
+        },
+        "H0134-L9GYpQ360l1klh": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L9GYpQ360l1klh_thz.JPG"
+        },
+        "H0134-LozCkLOQ4HUqJu": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LozCkLOQ4HUqJu_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LozCkLOQ4HUqJu_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LozCkLOQ4HUqJu.JPG"
+        },
+        "H0134-L0nE15DyX9EWCQ": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L0nE15DyX9EWCQ_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L0nE15DyX9EWCQ_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L0nE15DyX9EWCQ.JPG"
+        },
+        "H0134-LT4KG6pBDz5u7A": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LT4KG6pBDz5u7A_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LT4KG6pBDz5u7A_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LT4KG6pBDz5u7A.JPG"
+        }
+    }
+}

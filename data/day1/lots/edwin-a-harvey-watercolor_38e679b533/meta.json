@@ -1,0 +1,58 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/edwin-a-harvey-watercolor_38e679b533",
+    "slug": "edwin-a-harvey-watercolor_38e679b533",
+    "lot_number": "1452",
+    "title": "EDWIN A. HARVEY WATERCOLOR",
+    "estimate_low": 200,
+    "estimate_high": 300,
+    "current_bid": 50,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 6,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LaqXDk4F2VHccj_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LpkwN05u4Fnimb_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L1VEaDIJphK5OJ_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L42LmVvFZJ6r0K_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LmI5issMLv9cM3_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Ll8KZhgPvdttdZ_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-L2MFIIHzviXSYi": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L2MFIIHzviXSYi_thz.JPG"
+        },
+        "H0134-LZg7Mk4xq7JkqG": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LZg7Mk4xq7JkqG_thz.JPG"
+        },
+        "H0134-LaqXDk4F2VHccj": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LaqXDk4F2VHccj_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LaqXDk4F2VHccj_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LaqXDk4F2VHccj.JPG"
+        },
+        "H0134-LpkwN05u4Fnimb": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LpkwN05u4Fnimb_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LpkwN05u4Fnimb_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LpkwN05u4Fnimb.JPG"
+        },
+        "H0134-L1VEaDIJphK5OJ": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L1VEaDIJphK5OJ_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L1VEaDIJphK5OJ_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L1VEaDIJphK5OJ.JPG"
+        },
+        "H0134-L42LmVvFZJ6r0K": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L42LmVvFZJ6r0K_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L42LmVvFZJ6r0K_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L42LmVvFZJ6r0K.JPG"
+        },
+        "H0134-LmI5issMLv9cM3": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LmI5issMLv9cM3_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LmI5issMLv9cM3_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LmI5issMLv9cM3.JPG"
+        },
+        "H0134-Ll8KZhgPvdttdZ": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Ll8KZhgPvdttdZ_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Ll8KZhgPvdttdZ_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Ll8KZhgPvdttdZ.JPG"
+        }
+    }
+}

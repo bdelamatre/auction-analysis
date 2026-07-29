@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/charles-herbert-woodbury-me-ma-1864-1940_8f99fb5094",
+    "slug": "charles-herbert-woodbury-me-ma-1864-1940_8f99fb5094",
+    "lot_number": "1110",
+    "title": "CHARLES HERBERT WOODBURY (ME/MA, 1864-1940)",
+    "estimate_low": 800,
+    "estimate_high": 1200,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LGRtmiXghOAZ1S_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LS93UJVwxf5iCT_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L8FM78naRpLCj3_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LbAND1WOPXPaT5": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LbAND1WOPXPaT5_thz.JPG"
+        },
+        "H0134-LF3u8bmIQanM77": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LF3u8bmIQanM77_thz.JPG"
+        },
+        "H0134-LGRtmiXghOAZ1S": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LGRtmiXghOAZ1S_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LGRtmiXghOAZ1S_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LGRtmiXghOAZ1S.JPG"
+        },
+        "H0134-LS93UJVwxf5iCT": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LS93UJVwxf5iCT_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LS93UJVwxf5iCT_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LS93UJVwxf5iCT.JPG"
+        },
+        "H0134-L8FM78naRpLCj3": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L8FM78naRpLCj3_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L8FM78naRpLCj3_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L8FM78naRpLCj3.JPG"
+        }
+    }
+}

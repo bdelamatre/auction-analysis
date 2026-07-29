@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/rebecca-goodale-maine-american-b-1965-turtle-2005_ccf8821053",
+    "slug": "rebecca-goodale-maine-american-b-1965-turtle-2005_ccf8821053",
+    "lot_number": "1463",
+    "title": "REBECCA GOODALE (MAINE/AMERICAN, B. 1965), TURTLE, 2005",
+    "estimate_low": 300,
+    "estimate_high": 400,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LzQmQF5QpqrKi4_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LFpNIXF2zhNhRy_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L2NhEqLm7mvfKE_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LjzNErBLFN4VxR": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LjzNErBLFN4VxR_thz.JPG"
+        },
+        "H0134-L7yF3dCVYXCoKF": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L7yF3dCVYXCoKF_thz.JPG"
+        },
+        "H0134-LzQmQF5QpqrKi4": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LzQmQF5QpqrKi4_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LzQmQF5QpqrKi4_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LzQmQF5QpqrKi4.JPG"
+        },
+        "H0134-LFpNIXF2zhNhRy": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LFpNIXF2zhNhRy_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LFpNIXF2zhNhRy_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LFpNIXF2zhNhRy.JPG"
+        },
+        "H0134-L2NhEqLm7mvfKE": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L2NhEqLm7mvfKE_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L2NhEqLm7mvfKE_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L2NhEqLm7mvfKE.JPG"
+        }
+    }
+}

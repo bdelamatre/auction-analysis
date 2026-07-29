@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/ronald-goldfinger-ca-1946-2021_42af62bfaf",
+    "slug": "ronald-goldfinger-ca-1946-2021_42af62bfaf",
+    "lot_number": "3088",
+    "title": "RONALD GOLDFINGER (CA, 1946-2021)",
+    "estimate_low": 2000,
+    "estimate_high": 3000,
+    "current_bid": 1000,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LTyTKykZrZbKsl_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LHSchcGKde3Ef4_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LJ2kYAB6LebZZm_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LPfCLqwebUqsis_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LVAeRmFalveyLc": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LVAeRmFalveyLc_thz.JPG"
+        },
+        "H0134-LozBTo1rZYNmoX": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LozBTo1rZYNmoX_thz.JPG"
+        },
+        "H0134-LTyTKykZrZbKsl": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LTyTKykZrZbKsl_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LTyTKykZrZbKsl_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LTyTKykZrZbKsl.JPG"
+        },
+        "H0134-LHSchcGKde3Ef4": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LHSchcGKde3Ef4_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LHSchcGKde3Ef4_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LHSchcGKde3Ef4.JPG"
+        },
+        "H0134-LJ2kYAB6LebZZm": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LJ2kYAB6LebZZm_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LJ2kYAB6LebZZm_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LJ2kYAB6LebZZm.JPG"
+        },
+        "H0134-LPfCLqwebUqsis": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LPfCLqwebUqsis_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LPfCLqwebUqsis_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LPfCLqwebUqsis.JPG"
+        }
+    }
+}

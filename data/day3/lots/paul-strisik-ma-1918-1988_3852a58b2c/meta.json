@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/paul-strisik-ma-1918-1988_3852a58b2c",
+    "slug": "paul-strisik-ma-1918-1988_3852a58b2c",
+    "lot_number": "3131",
+    "title": "PAUL STRISIK (MA, 1918-1988)",
+    "estimate_low": 700,
+    "estimate_high": 900,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LAW26RZLdMpq0P_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LONM3LDXfXUmmT_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LT67oYFsi3rqXf_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lst8uZZa2DY3HS_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LkzxBB54kyJzgx": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LkzxBB54kyJzgx_thz.JPG"
+        },
+        "H0134-LwklUTDc1y15uI": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LwklUTDc1y15uI_thz.JPG"
+        },
+        "H0134-LAW26RZLdMpq0P": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LAW26RZLdMpq0P_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LAW26RZLdMpq0P_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LAW26RZLdMpq0P.JPG"
+        },
+        "H0134-LONM3LDXfXUmmT": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LONM3LDXfXUmmT_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LONM3LDXfXUmmT_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LONM3LDXfXUmmT.JPG"
+        },
+        "H0134-LT67oYFsi3rqXf": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LT67oYFsi3rqXf_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LT67oYFsi3rqXf_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LT67oYFsi3rqXf.JPG"
+        },
+        "H0134-Lst8uZZa2DY3HS": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lst8uZZa2DY3HS_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lst8uZZa2DY3HS_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lst8uZZa2DY3HS.JPG"
+        }
+    }
+}

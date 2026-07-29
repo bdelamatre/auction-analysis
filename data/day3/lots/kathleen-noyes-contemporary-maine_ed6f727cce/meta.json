@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/kathleen-noyes-contemporary-maine_ed6f727cce",
+    "slug": "kathleen-noyes-contemporary-maine_ed6f727cce",
+    "lot_number": "3418",
+    "title": "KATHLEEN NOYES (CONTEMPORARY MAINE)",
+    "estimate_low": 600,
+    "estimate_high": 800,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LtmPdCQCeSrlQQ_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LPzd8iQ7OsMORE_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-Lm07k3dqBTh7We": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lm07k3dqBTh7We_thz.JPG"
+        },
+        "H0134-LX9buSET7JviNe": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LX9buSET7JviNe_thz.JPG"
+        },
+        "H0134-LtmPdCQCeSrlQQ": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LtmPdCQCeSrlQQ_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LtmPdCQCeSrlQQ_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LtmPdCQCeSrlQQ.JPG"
+        },
+        "H0134-LPzd8iQ7OsMORE": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LPzd8iQ7OsMORE_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LPzd8iQ7OsMORE_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LPzd8iQ7OsMORE.JPG"
+        }
+    }
+}

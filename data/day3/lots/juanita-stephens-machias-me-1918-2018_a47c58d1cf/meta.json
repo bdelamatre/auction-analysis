@@ -1,0 +1,52 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/juanita-stephens-machias-me-1918-2018_a47c58d1cf",
+    "slug": "juanita-stephens-machias-me-1918-2018_a47c58d1cf",
+    "lot_number": "3449",
+    "title": "JUANITA STEPHENS (MACHIAS, ME, 1918-2018)",
+    "estimate_low": 800,
+    "estimate_high": 1200,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 5,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lv4rhmkV2ieKOP_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lzmox3JpALHzb8_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LBeYiQodA4h5PP_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LcTwjpZEAkEhKv_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LhtUPcwGXpmst1_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LA7nWIc369w1QY": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LA7nWIc369w1QY_thz.JPG"
+        },
+        "H0134-LbzRs35XeLDjAW": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LbzRs35XeLDjAW_thz.JPG"
+        },
+        "H0134-Lv4rhmkV2ieKOP": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lv4rhmkV2ieKOP_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lv4rhmkV2ieKOP_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lv4rhmkV2ieKOP.JPG"
+        },
+        "H0134-Lzmox3JpALHzb8": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lzmox3JpALHzb8_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lzmox3JpALHzb8_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lzmox3JpALHzb8.JPG"
+        },
+        "H0134-LBeYiQodA4h5PP": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LBeYiQodA4h5PP_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LBeYiQodA4h5PP_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LBeYiQodA4h5PP.JPG"
+        },
+        "H0134-LcTwjpZEAkEhKv": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LcTwjpZEAkEhKv_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LcTwjpZEAkEhKv_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LcTwjpZEAkEhKv.JPG"
+        },
+        "H0134-LhtUPcwGXpmst1": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LhtUPcwGXpmst1_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LhtUPcwGXpmst1_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LhtUPcwGXpmst1.JPG"
+        }
+    }
+}

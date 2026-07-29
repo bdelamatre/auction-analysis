@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/vintage-14k-gold-tanzanite-and-diamond-ring_3c0b5fc1ea",
+    "slug": "vintage-14k-gold-tanzanite-and-diamond-ring_3c0b5fc1ea",
+    "lot_number": "3201",
+    "title": "VINTAGE 14K GOLD, TANZANITE, AND DIAMOND RING",
+    "estimate_low": 1000,
+    "estimate_high": 2000,
+    "current_bid": 500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LoKZ1Eow6kuVLI_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Locf0oUiDkN9r3_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LZh0Amhgv0RBLd": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LZh0Amhgv0RBLd_thz.JPG"
+        },
+        "H0134-LUjXVEdLEcaGUW": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LUjXVEdLEcaGUW_thz.JPG"
+        },
+        "H0134-LoKZ1Eow6kuVLI": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LoKZ1Eow6kuVLI_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LoKZ1Eow6kuVLI_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LoKZ1Eow6kuVLI.JPG"
+        },
+        "H0134-Locf0oUiDkN9r3": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Locf0oUiDkN9r3_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Locf0oUiDkN9r3_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Locf0oUiDkN9r3.JPG"
+        }
+    }
+}

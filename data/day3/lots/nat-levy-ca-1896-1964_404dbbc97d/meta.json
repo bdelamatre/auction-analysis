@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/nat-levy-ca-1896-1964_404dbbc97d",
+    "slug": "nat-levy-ca-1896-1964_404dbbc97d",
+    "lot_number": "3394",
+    "title": "NAT LEVY (CA, 1896-1964)",
+    "estimate_low": 400,
+    "estimate_high": 600,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LZcinBY967OnEq_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lrme8e8Yp0J5Of_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LpXoeUACiyCMTe_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LIwvgnBcz5xg6f": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LIwvgnBcz5xg6f_thz.JPG"
+        },
+        "H0134-Lcy2kgcF8oRxZU": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lcy2kgcF8oRxZU_thz.JPG"
+        },
+        "H0134-LZcinBY967OnEq": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LZcinBY967OnEq_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LZcinBY967OnEq_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LZcinBY967OnEq.JPG"
+        },
+        "H0134-Lrme8e8Yp0J5Of": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lrme8e8Yp0J5Of_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lrme8e8Yp0J5Of_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lrme8e8Yp0J5Of.JPG"
+        },
+        "H0134-LpXoeUACiyCMTe": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LpXoeUACiyCMTe_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LpXoeUACiyCMTe_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LpXoeUACiyCMTe.JPG"
+        }
+    }
+}

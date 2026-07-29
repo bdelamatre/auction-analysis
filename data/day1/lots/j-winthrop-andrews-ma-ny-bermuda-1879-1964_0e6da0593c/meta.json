@@ -1,0 +1,52 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/j-winthrop-andrews-ma-ny-bermuda-1879-1964_0e6da0593c",
+    "slug": "j-winthrop-andrews-ma-ny-bermuda-1879-1964_0e6da0593c",
+    "lot_number": "1130",
+    "title": "J. WINTHROP ANDREWS (MA/NY/BERMUDA, 1879-1964)",
+    "estimate_low": 600,
+    "estimate_high": 800,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 5,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L6XNE87ltaq6Bz_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LUCWnDMGJatfnH_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LGPOGd7KmIKNKc_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LmhUpSG1vgaQ9K_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LbpfgwgjpXxhvu_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LVcKfsLisJl1u3": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LVcKfsLisJl1u3_thz.JPG"
+        },
+        "H0134-LQmAksGzxVQAgI": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LQmAksGzxVQAgI_thz.JPG"
+        },
+        "H0134-L6XNE87ltaq6Bz": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L6XNE87ltaq6Bz_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L6XNE87ltaq6Bz_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L6XNE87ltaq6Bz.JPG"
+        },
+        "H0134-LUCWnDMGJatfnH": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LUCWnDMGJatfnH_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LUCWnDMGJatfnH_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LUCWnDMGJatfnH.JPG"
+        },
+        "H0134-LGPOGd7KmIKNKc": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LGPOGd7KmIKNKc_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LGPOGd7KmIKNKc_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LGPOGd7KmIKNKc.JPG"
+        },
+        "H0134-LmhUpSG1vgaQ9K": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LmhUpSG1vgaQ9K_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LmhUpSG1vgaQ9K_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LmhUpSG1vgaQ9K.JPG"
+        },
+        "H0134-LbpfgwgjpXxhvu": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LbpfgwgjpXxhvu_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LbpfgwgjpXxhvu_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LbpfgwgjpXxhvu.JPG"
+        }
+    }
+}

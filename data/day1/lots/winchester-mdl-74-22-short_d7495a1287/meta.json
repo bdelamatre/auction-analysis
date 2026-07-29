@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/winchester-mdl-74-22-short_d7495a1287",
+    "slug": "winchester-mdl-74-22-short_d7495a1287",
+    "lot_number": "1270",
+    "title": "WINCHESTER MDL. 74, .22 SHORT",
+    "estimate_low": 200,
+    "estimate_high": 400,
+    "current_bid": 50,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LlqWpo1R3gHarm_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lfl0fCgqBBlzhB_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LbiiN4JC30wMBO_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-Le2A8ZFhvkCD3d": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Le2A8ZFhvkCD3d_thz.JPG"
+        },
+        "H0134-LSR1Y4zJvSx25V": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LSR1Y4zJvSx25V_thz.JPG"
+        },
+        "H0134-LlqWpo1R3gHarm": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LlqWpo1R3gHarm_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LlqWpo1R3gHarm_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LlqWpo1R3gHarm.JPG"
+        },
+        "H0134-Lfl0fCgqBBlzhB": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lfl0fCgqBBlzhB_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lfl0fCgqBBlzhB_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lfl0fCgqBBlzhB.JPG"
+        },
+        "H0134-LbiiN4JC30wMBO": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LbiiN4JC30wMBO_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LbiiN4JC30wMBO_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LbiiN4JC30wMBO.JPG"
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/leo-brooks-me-1909-1993_08763040c8",
+    "slug": "leo-brooks-me-1909-1993_08763040c8",
+    "lot_number": "3360",
+    "title": "LEO BROOKS (ME, 1909-1993)",
+    "estimate_low": 1500,
+    "estimate_high": 2500,
+    "current_bid": 750,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LNUqs7LQBorvnF_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LsanvNHcGhnpEi_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LkBmM3NEU7DdQd_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LexS8WGjySoWQC": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LexS8WGjySoWQC_thz.JPG"
+        },
+        "H0134-LxBxwwOHVYXux3": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LxBxwwOHVYXux3_thz.JPG"
+        },
+        "H0134-LNUqs7LQBorvnF": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LNUqs7LQBorvnF_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LNUqs7LQBorvnF_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LNUqs7LQBorvnF.JPG"
+        },
+        "H0134-LsanvNHcGhnpEi": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LsanvNHcGhnpEi_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LsanvNHcGhnpEi_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LsanvNHcGhnpEi.JPG"
+        },
+        "H0134-LkBmM3NEU7DdQd": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LkBmM3NEU7DdQd_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LkBmM3NEU7DdQd_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LkBmM3NEU7DdQd.JPG"
+        }
+    }
+}

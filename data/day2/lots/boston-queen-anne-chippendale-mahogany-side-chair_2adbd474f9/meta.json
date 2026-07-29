@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/boston-queen-anne-chippendale-mahogany-side-chair_2adbd474f9",
+    "slug": "boston-queen-anne-chippendale-mahogany-side-chair_2adbd474f9",
+    "lot_number": "2191",
+    "title": "BOSTON QUEEN ANNE/CHIPPENDALE MAHOGANY SIDE CHAIR",
+    "estimate_low": 2000,
+    "estimate_high": 3000,
+    "current_bid": 1000,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LkaUBZMX5qMObs_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LVfvdlRRFZJqem_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LzbTP1hjQJI4pw_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-Ldr4zKjE3kNBjj": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Ldr4zKjE3kNBjj_thz.JPG"
+        },
+        "H0134-LZHPBwBbPzLDxL": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LZHPBwBbPzLDxL_thz.JPG"
+        },
+        "H0134-LkaUBZMX5qMObs": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LkaUBZMX5qMObs_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LkaUBZMX5qMObs_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LkaUBZMX5qMObs.JPG"
+        },
+        "H0134-LVfvdlRRFZJqem": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LVfvdlRRFZJqem_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LVfvdlRRFZJqem_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LVfvdlRRFZJqem.JPG"
+        },
+        "H0134-LzbTP1hjQJI4pw": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LzbTP1hjQJI4pw_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LzbTP1hjQJI4pw_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LzbTP1hjQJI4pw.JPG"
+        }
+    }
+}

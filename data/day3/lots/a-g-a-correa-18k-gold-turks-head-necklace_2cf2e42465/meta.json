@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/a-g-a-correa-18k-gold-turks-head-necklace_2cf2e42465",
+    "slug": "a-g-a-correa-18k-gold-turks-head-necklace_2cf2e42465",
+    "lot_number": "3117",
+    "title": "A.G.A. CORREA 18K GOLD TURK'S HEAD NECKLACE",
+    "estimate_low": 10000,
+    "estimate_high": 12000,
+    "current_bid": 5000,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LE31zVZeBYjdyM_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LGHiJ5Cvi6V0xi_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LAa6gGFcKUIYWz_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L49XYMgvwGQB7t_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LWc255qfkXMGoq": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LWc255qfkXMGoq_thz.JPG"
+        },
+        "H0134-LiUuFRSWE2gE4R": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LiUuFRSWE2gE4R_thz.JPG"
+        },
+        "H0134-LE31zVZeBYjdyM": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LE31zVZeBYjdyM_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LE31zVZeBYjdyM_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LE31zVZeBYjdyM.JPG"
+        },
+        "H0134-LGHiJ5Cvi6V0xi": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LGHiJ5Cvi6V0xi_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LGHiJ5Cvi6V0xi_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LGHiJ5Cvi6V0xi.JPG"
+        },
+        "H0134-LAa6gGFcKUIYWz": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LAa6gGFcKUIYWz_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LAa6gGFcKUIYWz_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LAa6gGFcKUIYWz.JPG"
+        },
+        "H0134-L49XYMgvwGQB7t": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L49XYMgvwGQB7t_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L49XYMgvwGQB7t_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L49XYMgvwGQB7t.JPG"
+        }
+    }
+}

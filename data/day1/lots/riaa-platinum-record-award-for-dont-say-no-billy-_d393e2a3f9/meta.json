@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/riaa-platinum-record-award-for-dont-say-no-billy-_d393e2a3f9",
+    "slug": "riaa-platinum-record-award-for-dont-say-no-billy-_d393e2a3f9",
+    "lot_number": "1325",
+    "title": "RIAA PLATINUM RECORD AWARD FOR \"DON'T SAY NO\" BILLY SQUIRE",
+    "estimate_low": 400,
+    "estimate_high": 500,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lyi8hk3HhlVokO_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LYgByTaaJs0Rl6_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LXPg0wN433aIUG": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LXPg0wN433aIUG_thz.JPG"
+        },
+        "H0134-LvBn8PfDptOhmE": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LvBn8PfDptOhmE_thz.JPG"
+        },
+        "H0134-Lyi8hk3HhlVokO": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lyi8hk3HhlVokO_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lyi8hk3HhlVokO_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lyi8hk3HhlVokO.JPG"
+        },
+        "H0134-LYgByTaaJs0Rl6": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LYgByTaaJs0Rl6_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LYgByTaaJs0Rl6_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LYgByTaaJs0Rl6.JPG"
+        }
+    }
+}

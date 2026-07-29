@@ -1,0 +1,27 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/18th-c-italian-carved-wood-pricket-candlestick_20e4200768",
+    "slug": "18th-c-italian-carved-wood-pricket-candlestick_20e4200768",
+    "lot_number": "2400",
+    "title": "18TH C. ITALIAN CARVED WOOD PRICKET CANDLESTICK",
+    "estimate_low": 300,
+    "estimate_high": 400,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 1,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L6SbMH0dhzsgIz_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LUukdOBoqJDgu7": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LUukdOBoqJDgu7_thz.JPG"
+        },
+        "H0134-LsMNHWYfivyjm3": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LsMNHWYfivyjm3_thz.JPG"
+        },
+        "H0134-L6SbMH0dhzsgIz": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L6SbMH0dhzsgIz_original.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L6SbMH0dhzsgIz.JPG"
+        }
+    }
+}

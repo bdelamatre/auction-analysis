@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/john-rudge-ny-italy-uk-1925-1971_f8a72cccf3",
+    "slug": "john-rudge-ny-italy-uk-1925-1971_f8a72cccf3",
+    "lot_number": "3270",
+    "title": "JOHN RUDGE (NY/ITALY/UK, 1925-1971)",
+    "estimate_low": 1000,
+    "estimate_high": 1500,
+    "current_bid": 500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L5jzVn55LwYC1y_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LoTbTj5nhAbDs8_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LfMPHTagyt78Kq_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LUCH5Ex8uqRfVF_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LFCtfiVtj4cebz": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LFCtfiVtj4cebz_thz.JPG"
+        },
+        "H0134-LuQ1O1Bp5pzUhV": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LuQ1O1Bp5pzUhV_thz.JPG"
+        },
+        "H0134-L5jzVn55LwYC1y": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L5jzVn55LwYC1y_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L5jzVn55LwYC1y_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L5jzVn55LwYC1y.JPG"
+        },
+        "H0134-LoTbTj5nhAbDs8": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LoTbTj5nhAbDs8_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LoTbTj5nhAbDs8_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LoTbTj5nhAbDs8.JPG"
+        },
+        "H0134-LfMPHTagyt78Kq": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LfMPHTagyt78Kq_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LfMPHTagyt78Kq_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LfMPHTagyt78Kq.JPG"
+        },
+        "H0134-LUCH5Ex8uqRfVF": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LUCH5Ex8uqRfVF_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LUCH5Ex8uqRfVF_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LUCH5Ex8uqRfVF.JPG"
+        }
+    }
+}

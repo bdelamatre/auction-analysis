@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/art-deco-14k-gold-diamond-and-sapphire-line-brace_68b2dc38f8",
+    "slug": "art-deco-14k-gold-diamond-and-sapphire-line-brace_68b2dc38f8",
+    "lot_number": "3070",
+    "title": "ART DECO 14K GOLD, DIAMOND, AND SAPPHIRE LINE BRACELET",
+    "estimate_low": 3000,
+    "estimate_high": 5000,
+    "current_bid": 1500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L82grgeVJiGcPy_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-La59Me8GWLHOhW_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LqwXE5cercT7iV": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LqwXE5cercT7iV_thz.JPG"
+        },
+        "H0134-LdY6gafZjZlNmf": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LdY6gafZjZlNmf_thz.JPG"
+        },
+        "H0134-L82grgeVJiGcPy": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L82grgeVJiGcPy_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L82grgeVJiGcPy_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L82grgeVJiGcPy.JPG"
+        },
+        "H0134-La59Me8GWLHOhW": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-La59Me8GWLHOhW_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-La59Me8GWLHOhW_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-La59Me8GWLHOhW.JPG"
+        }
+    }
+}

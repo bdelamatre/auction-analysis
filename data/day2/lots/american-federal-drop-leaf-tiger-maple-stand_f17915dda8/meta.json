@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/american-federal-drop-leaf-tiger-maple-stand_f17915dda8",
+    "slug": "american-federal-drop-leaf-tiger-maple-stand_f17915dda8",
+    "lot_number": "2152",
+    "title": "AMERICAN FEDERAL DROP-LEAF TIGER MAPLE STAND",
+    "estimate_low": 500,
+    "estimate_high": 700,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LUI7MXWYewewmP_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LUatJuHgCKfacC_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LdopCRoLhIybnv_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-Liu1H7KMsxi29h": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Liu1H7KMsxi29h_thz.JPG"
+        },
+        "H0134-L8t9D0WDbD8Vf9": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L8t9D0WDbD8Vf9_thz.JPG"
+        },
+        "H0134-LUI7MXWYewewmP": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LUI7MXWYewewmP_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LUI7MXWYewewmP_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LUI7MXWYewewmP.JPG"
+        },
+        "H0134-LUatJuHgCKfacC": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LUatJuHgCKfacC_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LUatJuHgCKfacC_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LUatJuHgCKfacC.JPG"
+        },
+        "H0134-LdopCRoLhIybnv": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LdopCRoLhIybnv_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LdopCRoLhIybnv_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LdopCRoLhIybnv.JPG"
+        }
+    }
+}

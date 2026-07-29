@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/louis-maria-niels-peder-moe-norway-1857-1945_fa2e547478",
+    "slug": "louis-maria-niels-peder-moe-norway-1857-1945_fa2e547478",
+    "lot_number": "1443",
+    "title": "LOUIS MARIA NIELS PEDER MOE (NORWAY, 1857-1945)",
+    "estimate_low": 300,
+    "estimate_high": 400,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lx33vDy4lDLTT9_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LCe1BwZEHVLbov_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LJSOrRWghKOZf0_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lq5JSfOjOvcgpD_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LwZQ8i8PQuRaiK": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LwZQ8i8PQuRaiK_thz.JPG"
+        },
+        "H0134-LyQfWGHXaHNFUY": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LyQfWGHXaHNFUY_thz.JPG"
+        },
+        "H0134-Lx33vDy4lDLTT9": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lx33vDy4lDLTT9_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lx33vDy4lDLTT9_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lx33vDy4lDLTT9.JPG"
+        },
+        "H0134-LCe1BwZEHVLbov": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LCe1BwZEHVLbov_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LCe1BwZEHVLbov_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LCe1BwZEHVLbov.JPG"
+        },
+        "H0134-LJSOrRWghKOZf0": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LJSOrRWghKOZf0_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LJSOrRWghKOZf0_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LJSOrRWghKOZf0.JPG"
+        },
+        "H0134-Lq5JSfOjOvcgpD": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lq5JSfOjOvcgpD_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lq5JSfOjOvcgpD_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lq5JSfOjOvcgpD.JPG"
+        }
+    }
+}

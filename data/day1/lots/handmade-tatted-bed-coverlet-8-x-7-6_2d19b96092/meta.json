@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/handmade-tatted-bed-coverlet-8-x-7-6_2d19b96092",
+    "slug": "handmade-tatted-bed-coverlet-8-x-7-6_2d19b96092",
+    "lot_number": "1502",
+    "title": "HANDMADE TATTED BED COVERLET (8' x 7' 6\")",
+    "estimate_low": 300,
+    "estimate_high": 400,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LQbnWfwGnzyjNf_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lki3qiFgfZR7pd_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LfwQYBFmTnAHy1_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LFyrJV3UkIWYiD_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LrjbLUtDbelbFu": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LrjbLUtDbelbFu_thz.JPG"
+        },
+        "H0134-Lo1gi8lnkKl741": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lo1gi8lnkKl741_thz.JPG"
+        },
+        "H0134-LQbnWfwGnzyjNf": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LQbnWfwGnzyjNf_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LQbnWfwGnzyjNf_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LQbnWfwGnzyjNf.JPG"
+        },
+        "H0134-Lki3qiFgfZR7pd": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lki3qiFgfZR7pd_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lki3qiFgfZR7pd_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lki3qiFgfZR7pd.JPG"
+        },
+        "H0134-LfwQYBFmTnAHy1": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LfwQYBFmTnAHy1_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LfwQYBFmTnAHy1_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LfwQYBFmTnAHy1.JPG"
+        },
+        "H0134-LFyrJV3UkIWYiD": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LFyrJV3UkIWYiD_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LFyrJV3UkIWYiD_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LFyrJV3UkIWYiD.JPG"
+        }
+    }
+}

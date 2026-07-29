@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/fernand-leger-ct-ca-france-1881-1955_f001c12c03",
+    "slug": "fernand-leger-ct-ca-france-1881-1955_f001c12c03",
+    "lot_number": "3321",
+    "title": "FERNAND LEGER (CT/CA/FRANCE, 1881-1955)",
+    "estimate_low": 700,
+    "estimate_high": 900,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L3A6LdTixkOHdh_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LWkY4Lpfiu5GTW_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LDJALkKAtWTHTu_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LeoIVo80ClcYnL_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-L4wVG9kjg36ycq": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L4wVG9kjg36ycq_thz.JPG"
+        },
+        "H0134-LLv741dLHvKq6J": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LLv741dLHvKq6J_thz.JPG"
+        },
+        "H0134-L3A6LdTixkOHdh": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L3A6LdTixkOHdh_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L3A6LdTixkOHdh_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L3A6LdTixkOHdh.JPG"
+        },
+        "H0134-LWkY4Lpfiu5GTW": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LWkY4Lpfiu5GTW_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LWkY4Lpfiu5GTW_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LWkY4Lpfiu5GTW.JPG"
+        },
+        "H0134-LDJALkKAtWTHTu": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LDJALkKAtWTHTu_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LDJALkKAtWTHTu_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LDJALkKAtWTHTu.JPG"
+        },
+        "H0134-LeoIVo80ClcYnL": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LeoIVo80ClcYnL_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LeoIVo80ClcYnL_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LeoIVo80ClcYnL.JPG"
+        }
+    }
+}

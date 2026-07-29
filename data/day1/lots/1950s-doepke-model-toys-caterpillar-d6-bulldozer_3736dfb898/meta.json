@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/1950s-doepke-model-toys-caterpillar-d6-bulldozer_3736dfb898",
+    "slug": "1950s-doepke-model-toys-caterpillar-d6-bulldozer_3736dfb898",
+    "lot_number": "1195",
+    "title": "1950'S DOEPKE MODEL TOYS CATERPILLAR D6 BULLDOZER",
+    "estimate_low": 200,
+    "estimate_high": 300,
+    "current_bid": 50,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LHb3uagJpA5mTl_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LME9dOEHHS9cRT_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LFx9v7hsri0uTN_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LLBkgySak5skWk": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LLBkgySak5skWk_thz.JPG"
+        },
+        "H0134-LpXJq43YjLldnw": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LpXJq43YjLldnw_thz.JPG"
+        },
+        "H0134-LHb3uagJpA5mTl": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LHb3uagJpA5mTl_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LHb3uagJpA5mTl_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LHb3uagJpA5mTl.JPG"
+        },
+        "H0134-LME9dOEHHS9cRT": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LME9dOEHHS9cRT_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LME9dOEHHS9cRT_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LME9dOEHHS9cRT.JPG"
+        },
+        "H0134-LFx9v7hsri0uTN": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LFx9v7hsri0uTN_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LFx9v7hsri0uTN_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LFx9v7hsri0uTN.JPG"
+        }
+    }
+}

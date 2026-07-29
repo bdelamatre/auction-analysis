@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/vincent-andrew-hartgen-me-pa-1914-2003_97806d814b",
+    "slug": "vincent-andrew-hartgen-me-pa-1914-2003_97806d814b",
+    "lot_number": "3379",
+    "title": "VINCENT ANDREW HARTGEN (ME/PA, 1914-2003)",
+    "estimate_low": 600,
+    "estimate_high": 800,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LOZk8lg5oE1Pib_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LzxbIjH4OatGSf_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L78hcU9BWvZd6V_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Li3aRyxOPqPU4r_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LXDYRW1E8fN6x4": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LXDYRW1E8fN6x4_thz.JPG"
+        },
+        "H0134-LNMm6Kaigvh0om": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LNMm6Kaigvh0om_thz.JPG"
+        },
+        "H0134-LOZk8lg5oE1Pib": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LOZk8lg5oE1Pib_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LOZk8lg5oE1Pib_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LOZk8lg5oE1Pib.JPG"
+        },
+        "H0134-LzxbIjH4OatGSf": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LzxbIjH4OatGSf_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LzxbIjH4OatGSf_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LzxbIjH4OatGSf.JPG"
+        },
+        "H0134-L78hcU9BWvZd6V": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L78hcU9BWvZd6V_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L78hcU9BWvZd6V_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L78hcU9BWvZd6V.JPG"
+        },
+        "H0134-Li3aRyxOPqPU4r": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Li3aRyxOPqPU4r_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Li3aRyxOPqPU4r_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Li3aRyxOPqPU4r.JPG"
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/sturmabteilung-dagger_99c81b4df4",
+    "slug": "sturmabteilung-dagger_99c81b4df4",
+    "lot_number": "1277",
+    "title": "STURMABTEILUNG DAGGER",
+    "estimate_low": 500,
+    "estimate_high": 700,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LjGHyBvphav2bm_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Laa7zp3BxwIfyT_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LQJbD9mzY3Bx9h_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LMjXgDLOyXcfyJ_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-L07fqxGHIXQyVb": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L07fqxGHIXQyVb_thz.JPG"
+        },
+        "H0134-L1DkXyP4rdTfAG": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L1DkXyP4rdTfAG_thz.JPG"
+        },
+        "H0134-LjGHyBvphav2bm": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LjGHyBvphav2bm_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LjGHyBvphav2bm_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LjGHyBvphav2bm.JPG"
+        },
+        "H0134-Laa7zp3BxwIfyT": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Laa7zp3BxwIfyT_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Laa7zp3BxwIfyT_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Laa7zp3BxwIfyT.JPG"
+        },
+        "H0134-LQJbD9mzY3Bx9h": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LQJbD9mzY3Bx9h_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LQJbD9mzY3Bx9h_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LQJbD9mzY3Bx9h.JPG"
+        },
+        "H0134-LMjXgDLOyXcfyJ": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LMjXgDLOyXcfyJ_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LMjXgDLOyXcfyJ_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LMjXgDLOyXcfyJ.JPG"
+        }
+    }
+}

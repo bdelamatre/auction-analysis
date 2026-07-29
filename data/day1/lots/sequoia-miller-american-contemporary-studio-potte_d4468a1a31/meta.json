@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/sequoia-miller-american-contemporary-studio-potte_d4468a1a31",
+    "slug": "sequoia-miller-american-contemporary-studio-potte_d4468a1a31",
+    "lot_number": "1145",
+    "title": "SEQUOIA MILLER (AMERICAN, CONTEMPORARY) STUDIO POTTERY VASE",
+    "estimate_low": 400,
+    "estimate_high": 600,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LsN6KM8YpxJTLy_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L9kPPoqntv2IqC_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L4jSz3yVRC5Kip_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LpG8YKTGV8hI5j": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LpG8YKTGV8hI5j_thz.JPG"
+        },
+        "H0134-LvAba4C8MRtIH7": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LvAba4C8MRtIH7_thz.JPG"
+        },
+        "H0134-LsN6KM8YpxJTLy": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LsN6KM8YpxJTLy_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LsN6KM8YpxJTLy_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LsN6KM8YpxJTLy.JPG"
+        },
+        "H0134-L9kPPoqntv2IqC": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L9kPPoqntv2IqC_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L9kPPoqntv2IqC_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L9kPPoqntv2IqC.JPG"
+        },
+        "H0134-L4jSz3yVRC5Kip": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L4jSz3yVRC5Kip_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L4jSz3yVRC5Kip_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L4jSz3yVRC5Kip.JPG"
+        }
+    }
+}

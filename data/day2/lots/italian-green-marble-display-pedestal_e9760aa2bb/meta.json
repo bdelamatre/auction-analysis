@@ -1,0 +1,27 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/italian-green-marble-display-pedestal_e9760aa2bb",
+    "slug": "italian-green-marble-display-pedestal_e9760aa2bb",
+    "lot_number": "2428",
+    "title": "ITALIAN GREEN MARBLE DISPLAY PEDESTAL",
+    "estimate_low": 1000,
+    "estimate_high": 1500,
+    "current_bid": 500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 1,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LyIm9oQWqx0ZmR_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LySaz8pYFNJgPE": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LySaz8pYFNJgPE_thz.JPG"
+        },
+        "H0134-L7nJUw50V5ia5H": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L7nJUw50V5ia5H_thz.JPG"
+        },
+        "H0134-LyIm9oQWqx0ZmR": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LyIm9oQWqx0ZmR_original.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LyIm9oQWqx0ZmR.JPG"
+        }
+    }
+}

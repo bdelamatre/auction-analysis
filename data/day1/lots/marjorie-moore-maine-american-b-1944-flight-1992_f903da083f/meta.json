@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/marjorie-moore-maine-american-b-1944-flight-1992_f903da083f",
+    "slug": "marjorie-moore-maine-american-b-1944-flight-1992_f903da083f",
+    "lot_number": "1459",
+    "title": "MARJORIE MOORE (MAINE/AMERICAN, B. 1944), \"FLIGHT,\" 1992",
+    "estimate_low": 400,
+    "estimate_high": 600,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LL1IdqmLKtc7Q1_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LMC7W16hCd7mJL_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LaFd3H7eSZnvxE_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LBvN3a6U1AozzI": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LBvN3a6U1AozzI_thz.JPG"
+        },
+        "H0134-LNhPsqdSPMdLAf": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LNhPsqdSPMdLAf_thz.JPG"
+        },
+        "H0134-LL1IdqmLKtc7Q1": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LL1IdqmLKtc7Q1_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LL1IdqmLKtc7Q1_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LL1IdqmLKtc7Q1.JPG"
+        },
+        "H0134-LMC7W16hCd7mJL": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LMC7W16hCd7mJL_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LMC7W16hCd7mJL_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LMC7W16hCd7mJL.JPG"
+        },
+        "H0134-LaFd3H7eSZnvxE": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LaFd3H7eSZnvxE_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LaFd3H7eSZnvxE_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LaFd3H7eSZnvxE.JPG"
+        }
+    }
+}

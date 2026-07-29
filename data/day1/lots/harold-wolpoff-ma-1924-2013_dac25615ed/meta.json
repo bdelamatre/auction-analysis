@@ -1,0 +1,52 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/harold-wolpoff-ma-1924-2013_dac25615ed",
+    "slug": "harold-wolpoff-ma-1924-2013_dac25615ed",
+    "lot_number": "1364",
+    "title": "HAROLD WOLPOFF (MA, 1924-2013)",
+    "estimate_low": 300,
+    "estimate_high": 500,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 5,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LAjYLkByEuUqZe_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lvm0PnFeTsZV2g_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LhWFObu4V5Rkg7_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LdAvMuRImLqPbT_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LPbSGFXVKNVIyD_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LKZhVE0qOlIIL8": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LKZhVE0qOlIIL8_thz.JPG"
+        },
+        "H0134-LWaSPJj0ECOynv": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LWaSPJj0ECOynv_thz.JPG"
+        },
+        "H0134-LAjYLkByEuUqZe": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LAjYLkByEuUqZe_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LAjYLkByEuUqZe_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LAjYLkByEuUqZe.JPG"
+        },
+        "H0134-Lvm0PnFeTsZV2g": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lvm0PnFeTsZV2g_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lvm0PnFeTsZV2g_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lvm0PnFeTsZV2g.JPG"
+        },
+        "H0134-LhWFObu4V5Rkg7": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LhWFObu4V5Rkg7_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LhWFObu4V5Rkg7_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LhWFObu4V5Rkg7.JPG"
+        },
+        "H0134-LdAvMuRImLqPbT": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LdAvMuRImLqPbT_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LdAvMuRImLqPbT_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LdAvMuRImLqPbT.JPG"
+        },
+        "H0134-LPbSGFXVKNVIyD": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LPbSGFXVKNVIyD_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LPbSGFXVKNVIyD_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LPbSGFXVKNVIyD.JPG"
+        }
+    }
+}

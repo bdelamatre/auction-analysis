@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/carrington-co-18k-gold-platinum-jade-amethyst-and_d57c21e58a",
+    "slug": "carrington-co-18k-gold-platinum-jade-amethyst-and_d57c21e58a",
+    "lot_number": "3090",
+    "title": "CARRINGTON & CO. 18K GOLD, PLATINUM, JADE, AMETHYST AND DIAMOND THISTLE BROOCH",
+    "estimate_low": 2000,
+    "estimate_high": 3000,
+    "current_bid": 1000,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LX0qHQJW9wp6LH_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LSFwqFUstrYxUC_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LoD8l6RBB3kZ8f_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LozBTo1rZYNmoX": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LozBTo1rZYNmoX_thz.JPG"
+        },
+        "H0134-LndHqvJRXHtSWm": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LndHqvJRXHtSWm_thz.JPG"
+        },
+        "H0134-LX0qHQJW9wp6LH": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LX0qHQJW9wp6LH_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LX0qHQJW9wp6LH_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LX0qHQJW9wp6LH.JPG"
+        },
+        "H0134-LSFwqFUstrYxUC": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LSFwqFUstrYxUC_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LSFwqFUstrYxUC_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LSFwqFUstrYxUC.JPG"
+        },
+        "H0134-LoD8l6RBB3kZ8f": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LoD8l6RBB3kZ8f_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LoD8l6RBB3kZ8f_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LoD8l6RBB3kZ8f.JPG"
+        }
+    }
+}

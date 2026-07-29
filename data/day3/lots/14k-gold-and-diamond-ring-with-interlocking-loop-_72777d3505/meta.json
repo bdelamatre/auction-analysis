@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/14k-gold-and-diamond-ring-with-interlocking-loop-_72777d3505",
+    "slug": "14k-gold-and-diamond-ring-with-interlocking-loop-_72777d3505",
+    "lot_number": "3242",
+    "title": "14K GOLD AND DIAMOND RING WITH INTERLOCKING LOOP DESIGN",
+    "estimate_low": 1000,
+    "estimate_high": 1500,
+    "current_bid": 500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LSjjMvq8wcB3Tw_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LKixfTseu1Ik55_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LnL4PMXaXYCbhw": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LnL4PMXaXYCbhw_thz.JPG"
+        },
+        "H0134-LvzwMt2cwUM6NI": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LvzwMt2cwUM6NI_thz.JPG"
+        },
+        "H0134-LSjjMvq8wcB3Tw": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LSjjMvq8wcB3Tw_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LSjjMvq8wcB3Tw_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LSjjMvq8wcB3Tw.JPG"
+        },
+        "H0134-LKixfTseu1Ik55": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LKixfTseu1Ik55_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LKixfTseu1Ik55_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LKixfTseu1Ik55.JPG"
+        }
+    }
+}

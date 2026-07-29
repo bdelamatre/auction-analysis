@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/sears-gallagher-ma-1869-1955_eb7a77a832",
+    "slug": "sears-gallagher-ma-1869-1955_eb7a77a832",
+    "lot_number": "3133",
+    "title": "SEARS GALLAGHER (MA, 1869-1955)",
+    "estimate_low": 1000,
+    "estimate_high": 1200,
+    "current_bid": 500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LBqaV251uGgafl_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LwCjxWeIwn1OXf_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LB1SgxLkxotiWS_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LwklUTDc1y15uI": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LwklUTDc1y15uI_thz.JPG"
+        },
+        "H0134-LY7L8oVeHidfBN": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LY7L8oVeHidfBN_thz.JPG"
+        },
+        "H0134-LBqaV251uGgafl": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LBqaV251uGgafl_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LBqaV251uGgafl_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LBqaV251uGgafl.JPG"
+        },
+        "H0134-LwCjxWeIwn1OXf": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LwCjxWeIwn1OXf_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LwCjxWeIwn1OXf_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LwCjxWeIwn1OXf.JPG"
+        },
+        "H0134-LB1SgxLkxotiWS": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LB1SgxLkxotiWS_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LB1SgxLkxotiWS_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LB1SgxLkxotiWS.JPG"
+        }
+    }
+}

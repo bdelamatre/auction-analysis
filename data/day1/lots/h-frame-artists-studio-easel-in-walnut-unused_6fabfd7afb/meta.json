@@ -1,0 +1,27 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/h-frame-artists-studio-easel-in-walnut-unused_6fabfd7afb",
+    "slug": "h-frame-artists-studio-easel-in-walnut-unused_6fabfd7afb",
+    "lot_number": "1031",
+    "title": "H-FRAME ARTIST'S STUDIO EASEL IN WALNUT, UNUSED",
+    "estimate_low": 500,
+    "estimate_high": 700,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 1,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LQCLfN1hKTORJp_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-L1ge3QN4nvjT6C": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L1ge3QN4nvjT6C_thz.JPG"
+        },
+        "H0134-LqGLQXNbboMnXx": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LqGLQXNbboMnXx_thz.JPG"
+        },
+        "H0134-LQCLfN1hKTORJp": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LQCLfN1hKTORJp_original.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LQCLfN1hKTORJp.JPG"
+        }
+    }
+}

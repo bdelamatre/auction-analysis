@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/ronal-a-parlin-me-1956_e01d6219b7",
+    "slug": "ronal-a-parlin-me-1956_e01d6219b7",
+    "lot_number": "3424",
+    "title": "RONAL A. PARLIN (ME, 1956 - )",
+    "estimate_low": 1000,
+    "estimate_high": 1500,
+    "current_bid": 500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LEPfi2IyjVxEoO_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L09tjfq7E4TdPi_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Le1tr24CkK8qPA_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LEdUUeGWUe4zNq_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LD9X9jeFJDt1Az": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LD9X9jeFJDt1Az_thz.JPG"
+        },
+        "H0134-La9OqNVMcfOPM4": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-La9OqNVMcfOPM4_thz.JPG"
+        },
+        "H0134-LEPfi2IyjVxEoO": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LEPfi2IyjVxEoO_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LEPfi2IyjVxEoO_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LEPfi2IyjVxEoO.JPG"
+        },
+        "H0134-L09tjfq7E4TdPi": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L09tjfq7E4TdPi_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L09tjfq7E4TdPi_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L09tjfq7E4TdPi.JPG"
+        },
+        "H0134-Le1tr24CkK8qPA": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Le1tr24CkK8qPA_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Le1tr24CkK8qPA_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Le1tr24CkK8qPA.JPG"
+        },
+        "H0134-LEdUUeGWUe4zNq": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LEdUUeGWUe4zNq_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LEdUUeGWUe4zNq_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LEdUUeGWUe4zNq.JPG"
+        }
+    }
+}

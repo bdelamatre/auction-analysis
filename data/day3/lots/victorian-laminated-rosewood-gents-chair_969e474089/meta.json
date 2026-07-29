@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/victorian-laminated-rosewood-gents-chair_969e474089",
+    "slug": "victorian-laminated-rosewood-gents-chair_969e474089",
+    "lot_number": "3098",
+    "title": "VICTORIAN LAMINATED ROSEWOOD GENT'S CHAIR",
+    "estimate_low": 600,
+    "estimate_high": 800,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LhprG1RcgPbUJ3_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L7t9JqJN2FQbqu_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L427gL2b9lbnqV_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LRksGBFIFvUI7U": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LRksGBFIFvUI7U_thz.JPG"
+        },
+        "H0134-LHn4JobP1ZKSOj": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LHn4JobP1ZKSOj_thz.JPG"
+        },
+        "H0134-LhprG1RcgPbUJ3": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LhprG1RcgPbUJ3_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LhprG1RcgPbUJ3_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LhprG1RcgPbUJ3.JPG"
+        },
+        "H0134-L7t9JqJN2FQbqu": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L7t9JqJN2FQbqu_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L7t9JqJN2FQbqu_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L7t9JqJN2FQbqu.JPG"
+        },
+        "H0134-L427gL2b9lbnqV": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L427gL2b9lbnqV_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L427gL2b9lbnqV_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L427gL2b9lbnqV.JPG"
+        }
+    }
+}

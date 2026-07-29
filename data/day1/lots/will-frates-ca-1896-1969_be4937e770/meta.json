@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/will-frates-ca-1896-1969_be4937e770",
+    "slug": "will-frates-ca-1896-1969_be4937e770",
+    "lot_number": "1174",
+    "title": "WILL FRATES (CA, 1896-1969)",
+    "estimate_low": 700,
+    "estimate_high": 900,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LBMATeNezK0NUb_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LqPI77nQcOm02c_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LHQWHf7vaLAwHy_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lmc4GYuZloTEkk_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LdwncHSXWt6dt1": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LdwncHSXWt6dt1_thz.JPG"
+        },
+        "H0134-LkKdCSUO7FfcCS": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LkKdCSUO7FfcCS_thz.JPG"
+        },
+        "H0134-LBMATeNezK0NUb": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LBMATeNezK0NUb_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LBMATeNezK0NUb_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LBMATeNezK0NUb.JPG"
+        },
+        "H0134-LqPI77nQcOm02c": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LqPI77nQcOm02c_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LqPI77nQcOm02c_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LqPI77nQcOm02c.JPG"
+        },
+        "H0134-LHQWHf7vaLAwHy": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LHQWHf7vaLAwHy_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LHQWHf7vaLAwHy_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LHQWHf7vaLAwHy.JPG"
+        },
+        "H0134-Lmc4GYuZloTEkk": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lmc4GYuZloTEkk_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lmc4GYuZloTEkk_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lmc4GYuZloTEkk.JPG"
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/chinese-carved-wood-figure-of-guanyin-with-rock_41c2409301",
+    "slug": "chinese-carved-wood-figure-of-guanyin-with-rock_41c2409301",
+    "lot_number": "1328",
+    "title": "CHINESE CARVED WOOD FIGURE OF GUANYIN WITH ROCK",
+    "estimate_low": 300,
+    "estimate_high": 500,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LqQe3pCk3FFGFU_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LE0JG3UHORO47H_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LsuFsTxyGVbVUr_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LAYLbkxiirMxA6_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LIuBoBDFj8rkcv": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LIuBoBDFj8rkcv_thz.JPG"
+        },
+        "H0134-LUSWv5F68OOh86": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LUSWv5F68OOh86_thz.JPG"
+        },
+        "H0134-LqQe3pCk3FFGFU": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LqQe3pCk3FFGFU_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LqQe3pCk3FFGFU_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LqQe3pCk3FFGFU.JPG"
+        },
+        "H0134-LE0JG3UHORO47H": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LE0JG3UHORO47H_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LE0JG3UHORO47H_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LE0JG3UHORO47H.JPG"
+        },
+        "H0134-LsuFsTxyGVbVUr": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LsuFsTxyGVbVUr_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LsuFsTxyGVbVUr_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LsuFsTxyGVbVUr.JPG"
+        },
+        "H0134-LAYLbkxiirMxA6": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LAYLbkxiirMxA6_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LAYLbkxiirMxA6_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LAYLbkxiirMxA6.JPG"
+        }
+    }
+}

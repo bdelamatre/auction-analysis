@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/chinese-powder-blue-ground-famille-verte-porcelai_808dab7294",
+    "slug": "chinese-powder-blue-ground-famille-verte-porcelai_808dab7294",
+    "lot_number": "2481",
+    "title": "CHINESE POWDER-BLUE GROUND FAMILLE VERTE PORCELAIN JAR LAMP",
+    "estimate_low": 600,
+    "estimate_high": 800,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lan5mxF67acEVc_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lrf4jvXHDCb4xm_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LkdnpmziV8q7iK_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-L2O62kpP3VKIcl": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L2O62kpP3VKIcl_thz.JPG"
+        },
+        "H0134-LUDZIWblKwhapp": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LUDZIWblKwhapp_thz.JPG"
+        },
+        "H0134-Lan5mxF67acEVc": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lan5mxF67acEVc_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lan5mxF67acEVc_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lan5mxF67acEVc.JPG"
+        },
+        "H0134-Lrf4jvXHDCb4xm": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lrf4jvXHDCb4xm_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lrf4jvXHDCb4xm_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lrf4jvXHDCb4xm.JPG"
+        },
+        "H0134-LkdnpmziV8q7iK": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LkdnpmziV8q7iK_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LkdnpmziV8q7iK_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LkdnpmziV8q7iK.JPG"
+        }
+    }
+}

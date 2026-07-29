@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/richard-de-treville-ca-sc-1864-1929_cb96650852",
+    "slug": "richard-de-treville-ca-sc-1864-1929_cb96650852",
+    "lot_number": "1046",
+    "title": "RICHARD DE TREVILLE (CA/SC, 1864-1929)",
+    "estimate_low": 400,
+    "estimate_high": 600,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L5sRxRJRRnJWmu_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LFQLzzNTwDMPko_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LoDxDgHtRzGZqs_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LvAPCZ6DExTs94_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-Lif53XEiRW66wG": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lif53XEiRW66wG_thz.JPG"
+        },
+        "H0134-LEHTjfWJ2suw3Q": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LEHTjfWJ2suw3Q_thz.JPG"
+        },
+        "H0134-L5sRxRJRRnJWmu": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L5sRxRJRRnJWmu_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L5sRxRJRRnJWmu_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L5sRxRJRRnJWmu.JPG"
+        },
+        "H0134-LFQLzzNTwDMPko": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LFQLzzNTwDMPko_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LFQLzzNTwDMPko_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LFQLzzNTwDMPko.JPG"
+        },
+        "H0134-LoDxDgHtRzGZqs": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LoDxDgHtRzGZqs_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LoDxDgHtRzGZqs_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LoDxDgHtRzGZqs.JPG"
+        },
+        "H0134-LvAPCZ6DExTs94": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LvAPCZ6DExTs94_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LvAPCZ6DExTs94_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LvAPCZ6DExTs94.JPG"
+        }
+    }
+}

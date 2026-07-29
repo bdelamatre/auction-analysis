@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/kathe-kollwitz-germany-russia-1867-1945_b7ae03f9e7",
+    "slug": "kathe-kollwitz-germany-russia-1867-1945_b7ae03f9e7",
+    "lot_number": "2405",
+    "title": "KATHE KOLLWITZ (GERMANY/RUSSIA, 1867-1945)",
+    "estimate_low": 300,
+    "estimate_high": 400,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LL1AqvBEaev5WY_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LDEOYsBtmuc6hq_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LR2y4gy4iJFUNf_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-Lz7D8ERnRa9dVB": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lz7D8ERnRa9dVB_thz.JPG"
+        },
+        "H0134-LtDJcdWfJVfbe0": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LtDJcdWfJVfbe0_thz.JPG"
+        },
+        "H0134-LL1AqvBEaev5WY": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LL1AqvBEaev5WY_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LL1AqvBEaev5WY_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LL1AqvBEaev5WY.JPG"
+        },
+        "H0134-LDEOYsBtmuc6hq": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LDEOYsBtmuc6hq_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LDEOYsBtmuc6hq_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LDEOYsBtmuc6hq.JPG"
+        },
+        "H0134-LR2y4gy4iJFUNf": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LR2y4gy4iJFUNf_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LR2y4gy4iJFUNf_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LR2y4gy4iJFUNf.JPG"
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/alan-magee-me-pa-1947_277ebe35b3",
+    "slug": "alan-magee-me-pa-1947_277ebe35b3",
+    "lot_number": "3397",
+    "title": "ALAN MAGEE (ME/PA, 1947 - )",
+    "estimate_low": 200,
+    "estimate_high": 300,
+    "current_bid": 50,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L7DabCZjl0yiTv_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LeiX0yeVKpB7m1_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LvftcG9njXS37i_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LiNpkBWT0sUBxx": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LiNpkBWT0sUBxx_thz.JPG"
+        },
+        "H0134-L5GVZIjo93ShhC": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L5GVZIjo93ShhC_thz.JPG"
+        },
+        "H0134-L7DabCZjl0yiTv": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L7DabCZjl0yiTv_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L7DabCZjl0yiTv_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L7DabCZjl0yiTv.JPG"
+        },
+        "H0134-LeiX0yeVKpB7m1": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LeiX0yeVKpB7m1_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LeiX0yeVKpB7m1_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LeiX0yeVKpB7m1.JPG"
+        },
+        "H0134-LvftcG9njXS37i": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LvftcG9njXS37i_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LvftcG9njXS37i_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LvftcG9njXS37i.JPG"
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/vintage-louis-vuitton-monogram-drouot-shoulder-bag_828ff3c423",
+    "slug": "vintage-louis-vuitton-monogram-drouot-shoulder-bag_828ff3c423",
+    "lot_number": "1003",
+    "title": "VINTAGE LOUIS VUITTON MONOGRAM DROUOT SHOULDER BAG",
+    "estimate_low": 300,
+    "estimate_high": 500,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LmhL4Yyj6qEQ4Q_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LWI6Iwz5xvubYx_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L6bTq8BfiKRqNi_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LFPovTXtlyRdFr_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LNKShpVwhESxLy": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LNKShpVwhESxLy_thz.JPG"
+        },
+        "H0134-LsTT9eNHI9Sew5": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LsTT9eNHI9Sew5_thz.JPG"
+        },
+        "H0134-LmhL4Yyj6qEQ4Q": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LmhL4Yyj6qEQ4Q_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LmhL4Yyj6qEQ4Q_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LmhL4Yyj6qEQ4Q.JPG"
+        },
+        "H0134-LWI6Iwz5xvubYx": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LWI6Iwz5xvubYx_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LWI6Iwz5xvubYx_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LWI6Iwz5xvubYx.JPG"
+        },
+        "H0134-L6bTq8BfiKRqNi": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L6bTq8BfiKRqNi_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L6bTq8BfiKRqNi_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L6bTq8BfiKRqNi.JPG"
+        },
+        "H0134-LFPovTXtlyRdFr": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LFPovTXtlyRdFr_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LFPovTXtlyRdFr_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LFPovTXtlyRdFr.JPG"
+        }
+    }
+}

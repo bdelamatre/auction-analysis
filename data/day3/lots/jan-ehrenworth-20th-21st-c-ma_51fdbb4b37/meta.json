@@ -1,0 +1,52 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/jan-ehrenworth-20th-21st-c-ma_51fdbb4b37",
+    "slug": "jan-ehrenworth-20th-21st-c-ma_51fdbb4b37",
+    "lot_number": "3339",
+    "title": "JAN EHRENWORTH (20TH-21ST C. MA)",
+    "estimate_low": 300,
+    "estimate_high": 500,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 5,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lj8kukcYR4GG1e_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L5c5q6jnBdIeBA_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LAPfBX45Jf69f5_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LqeQi8XKZdaF0N_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LFOkXt5hwvRmYI_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-Lbb2lFYkF0VvtP": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lbb2lFYkF0VvtP_thz.JPG"
+        },
+        "H0134-L9pB7oHmAm75um": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L9pB7oHmAm75um_thz.JPG"
+        },
+        "H0134-Lj8kukcYR4GG1e": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lj8kukcYR4GG1e_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lj8kukcYR4GG1e_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lj8kukcYR4GG1e.JPG"
+        },
+        "H0134-L5c5q6jnBdIeBA": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L5c5q6jnBdIeBA_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L5c5q6jnBdIeBA_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L5c5q6jnBdIeBA.JPG"
+        },
+        "H0134-LAPfBX45Jf69f5": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LAPfBX45Jf69f5_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LAPfBX45Jf69f5_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LAPfBX45Jf69f5.JPG"
+        },
+        "H0134-LqeQi8XKZdaF0N": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LqeQi8XKZdaF0N_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LqeQi8XKZdaF0N_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LqeQi8XKZdaF0N.JPG"
+        },
+        "H0134-LFOkXt5hwvRmYI": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LFOkXt5hwvRmYI_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LFOkXt5hwvRmYI_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LFOkXt5hwvRmYI.JPG"
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/mid-19th-c-french-ivory-hand-fan-nichols-family_5ea563b615",
+    "slug": "mid-19th-c-french-ivory-hand-fan-nichols-family_5ea563b615",
+    "lot_number": "2338",
+    "title": "MID 19TH C. FRENCH IVORY HAND FAN, NICHOLS FAMILY",
+    "estimate_low": 300,
+    "estimate_high": 400,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LjD0Wzm4uyE4fC_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LasDrtXomXjrAm_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LvlTJQii1Hs8mw": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LvlTJQii1Hs8mw_thz.JPG"
+        },
+        "H0134-Ll8GMKmOBuErEQ": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Ll8GMKmOBuErEQ_thz.JPG"
+        },
+        "H0134-LjD0Wzm4uyE4fC": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LjD0Wzm4uyE4fC_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LjD0Wzm4uyE4fC_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LjD0Wzm4uyE4fC.JPG"
+        },
+        "H0134-LasDrtXomXjrAm": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LasDrtXomXjrAm_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LasDrtXomXjrAm_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LasDrtXomXjrAm.JPG"
+        }
+    }
+}

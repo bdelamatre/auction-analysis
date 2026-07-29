@@ -1,0 +1,52 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/john-s-caggiano-ny-1949-fish-beach_d2daab8bf4",
+    "slug": "john-s-caggiano-ny-1949-fish-beach_d2daab8bf4",
+    "lot_number": "3364",
+    "title": "JOHN S. CAGGIANO (NY 1949- ) FISH BEACH",
+    "estimate_low": 1000,
+    "estimate_high": 1500,
+    "current_bid": 500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 5,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LDcJ3a5SFRhU4l_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LFNnKTzchGqdXD_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L610uergLSrDWv_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lt24nWqqKGZphy_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L7rZsYbxPRX7dC_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LoXNJPGL5RfaZR": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LoXNJPGL5RfaZR_thz.JPG"
+        },
+        "H0134-LCyG6HZdbSqbBf": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LCyG6HZdbSqbBf_thz.JPG"
+        },
+        "H0134-LDcJ3a5SFRhU4l": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LDcJ3a5SFRhU4l_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LDcJ3a5SFRhU4l_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LDcJ3a5SFRhU4l.JPG"
+        },
+        "H0134-LFNnKTzchGqdXD": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LFNnKTzchGqdXD_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LFNnKTzchGqdXD_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LFNnKTzchGqdXD.JPG"
+        },
+        "H0134-L610uergLSrDWv": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L610uergLSrDWv_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L610uergLSrDWv_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L610uergLSrDWv.JPG"
+        },
+        "H0134-Lt24nWqqKGZphy": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lt24nWqqKGZphy_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lt24nWqqKGZphy_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lt24nWqqKGZphy.JPG"
+        },
+        "H0134-L7rZsYbxPRX7dC": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L7rZsYbxPRX7dC_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L7rZsYbxPRX7dC_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L7rZsYbxPRX7dC.JPG"
+        }
+    }
+}

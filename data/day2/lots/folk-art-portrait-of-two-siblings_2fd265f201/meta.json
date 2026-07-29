@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/folk-art-portrait-of-two-siblings_2fd265f201",
+    "slug": "folk-art-portrait-of-two-siblings_2fd265f201",
+    "lot_number": "2125",
+    "title": "FOLK ART PORTRAIT OF TWO SIBLINGS",
+    "estimate_low": 2500,
+    "estimate_high": 3500,
+    "current_bid": 1200,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lc8wVAWqyeymFw_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LocU225Hkqbnif_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LCxrw5bfa3QMXx_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LxgTzZpnwcBn2c": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LxgTzZpnwcBn2c_thz.JPG"
+        },
+        "H0134-LwyzzAWupXlOVA": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LwyzzAWupXlOVA_thz.JPG"
+        },
+        "H0134-Lc8wVAWqyeymFw": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lc8wVAWqyeymFw_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lc8wVAWqyeymFw_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lc8wVAWqyeymFw.JPG"
+        },
+        "H0134-LocU225Hkqbnif": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LocU225Hkqbnif_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LocU225Hkqbnif_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LocU225Hkqbnif.JPG"
+        },
+        "H0134-LCxrw5bfa3QMXx": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LCxrw5bfa3QMXx_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LCxrw5bfa3QMXx_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LCxrw5bfa3QMXx.JPG"
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/1745-zurich-bible-with-ornate-leather-binding-175_6402da8d4d",
+    "slug": "1745-zurich-bible-with-ornate-leather-binding-175_6402da8d4d",
+    "lot_number": "1485",
+    "title": "1745 ZURICH BIBLE WITH ORNATE LEATHER BINDING, 1759 CALLIGRAPHY",
+    "estimate_low": 500,
+    "estimate_high": 700,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LqUfXMnK0aUhe2_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LndOoyAc6pzP7C_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Li2nhGYLVgRb0f_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LcpqSTJReHzKYF": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LcpqSTJReHzKYF_thz.JPG"
+        },
+        "H0134-LGXjsXl3F2U4Sw": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LGXjsXl3F2U4Sw_thz.JPG"
+        },
+        "H0134-LqUfXMnK0aUhe2": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LqUfXMnK0aUhe2_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LqUfXMnK0aUhe2_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LqUfXMnK0aUhe2.JPG"
+        },
+        "H0134-LndOoyAc6pzP7C": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LndOoyAc6pzP7C_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LndOoyAc6pzP7C_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LndOoyAc6pzP7C.JPG"
+        },
+        "H0134-Li2nhGYLVgRb0f": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Li2nhGYLVgRb0f_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Li2nhGYLVgRb0f_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Li2nhGYLVgRb0f.JPG"
+        }
+    }
+}

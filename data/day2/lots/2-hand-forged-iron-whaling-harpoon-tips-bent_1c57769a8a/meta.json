@@ -1,0 +1,27 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/2-hand-forged-iron-whaling-harpoon-tips-bent_1c57769a8a",
+    "slug": "2-hand-forged-iron-whaling-harpoon-tips-bent_1c57769a8a",
+    "lot_number": "2073",
+    "title": "(2) HAND FORGED IRON WHALING HARPOON TIPS, BENT",
+    "estimate_low": 300,
+    "estimate_high": 500,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 1,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LxAxTh8Qeb3hWt_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LNQV7j8W1Yadmm": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LNQV7j8W1Yadmm_thz.JPG"
+        },
+        "H0134-LefJ7ssz1Z7XmD": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LefJ7ssz1Z7XmD_thz.JPG"
+        },
+        "H0134-LxAxTh8Qeb3hWt": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LxAxTh8Qeb3hWt_original.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LxAxTh8Qeb3hWt.JPG"
+        }
+    }
+}

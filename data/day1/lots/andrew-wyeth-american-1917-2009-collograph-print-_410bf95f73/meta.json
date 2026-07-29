@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/andrew-wyeth-american-1917-2009-collograph-print-_410bf95f73",
+    "slug": "andrew-wyeth-american-1917-2009-collograph-print-_410bf95f73",
+    "lot_number": "1164",
+    "title": "ANDREW WYETH (AMERICAN, 1917–2009), COLLOGRAPH PRINT, \"END OF OLSON'S\"",
+    "estimate_low": 300,
+    "estimate_high": 500,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LcPmfBCPIgTvnR_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LNWi1MN9zYohtP_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lk2hk37KiAkeTj_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LuIxq0YrNgjhov": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LuIxq0YrNgjhov_thz.JPG"
+        },
+        "H0134-LhHb36Uzj6zcN8": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LhHb36Uzj6zcN8_thz.JPG"
+        },
+        "H0134-LcPmfBCPIgTvnR": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LcPmfBCPIgTvnR_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LcPmfBCPIgTvnR_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LcPmfBCPIgTvnR.JPG"
+        },
+        "H0134-LNWi1MN9zYohtP": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LNWi1MN9zYohtP_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LNWi1MN9zYohtP_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LNWi1MN9zYohtP.JPG"
+        },
+        "H0134-Lk2hk37KiAkeTj": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lk2hk37KiAkeTj_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lk2hk37KiAkeTj_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lk2hk37KiAkeTj.JPG"
+        }
+    }
+}

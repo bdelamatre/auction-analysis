@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/gerald-f-brommer-ca-1927-2020_44f5c81eb9",
+    "slug": "gerald-f-brommer-ca-1927-2020_44f5c81eb9",
+    "lot_number": "1142",
+    "title": "GERALD F. BROMMER (CA, 1927-2020)",
+    "estimate_low": 500,
+    "estimate_high": 700,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L2nCcuciMHzZLI_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lr8fZsozU3mifC_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LmnvyqQuSMfrza_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-L9CBiM8sONdZ0t": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L9CBiM8sONdZ0t_thz.JPG"
+        },
+        "H0134-LFzzPZLMFInVD8": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LFzzPZLMFInVD8_thz.JPG"
+        },
+        "H0134-L2nCcuciMHzZLI": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L2nCcuciMHzZLI_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L2nCcuciMHzZLI_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L2nCcuciMHzZLI.JPG"
+        },
+        "H0134-Lr8fZsozU3mifC": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lr8fZsozU3mifC_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lr8fZsozU3mifC_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lr8fZsozU3mifC.JPG"
+        },
+        "H0134-LmnvyqQuSMfrza": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LmnvyqQuSMfrza_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LmnvyqQuSMfrza_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LmnvyqQuSMfrza.JPG"
+        }
+    }
+}

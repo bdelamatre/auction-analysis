@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/marlin-model-1893-saddle-ring-carbine-32-40_a6ed008473",
+    "slug": "marlin-model-1893-saddle-ring-carbine-32-40_a6ed008473",
+    "lot_number": "1236",
+    "title": "MARLIN MODEL 1893 SADDLE RING CARBINE, .32-40",
+    "estimate_low": 600,
+    "estimate_high": 800,
+    "current_bid": 275,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lmn93XnNCa7IZ0_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LJsM412S7jkKTs_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LEOwEfWdDp6f5A_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LyvyOr1KEsy3ko_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LhwDAPcrVzuqr4": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LhwDAPcrVzuqr4_thz.JPG"
+        },
+        "H0134-LQ8WU6Lk4qpKEJ": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LQ8WU6Lk4qpKEJ_thz.JPG"
+        },
+        "H0134-Lmn93XnNCa7IZ0": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lmn93XnNCa7IZ0_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lmn93XnNCa7IZ0_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lmn93XnNCa7IZ0.JPG"
+        },
+        "H0134-LJsM412S7jkKTs": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LJsM412S7jkKTs_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LJsM412S7jkKTs_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LJsM412S7jkKTs.JPG"
+        },
+        "H0134-LEOwEfWdDp6f5A": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LEOwEfWdDp6f5A_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LEOwEfWdDp6f5A_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LEOwEfWdDp6f5A.JPG"
+        },
+        "H0134-LyvyOr1KEsy3ko": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LyvyOr1KEsy3ko_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LyvyOr1KEsy3ko_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LyvyOr1KEsy3ko.JPG"
+        }
+    }
+}

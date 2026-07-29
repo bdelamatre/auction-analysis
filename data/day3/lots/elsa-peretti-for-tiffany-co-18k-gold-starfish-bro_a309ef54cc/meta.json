@@ -1,0 +1,58 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/elsa-peretti-for-tiffany-co-18k-gold-starfish-bro_a309ef54cc",
+    "slug": "elsa-peretti-for-tiffany-co-18k-gold-starfish-bro_a309ef54cc",
+    "lot_number": "3074",
+    "title": "ELSA PERETTI FOR TIFFANY & CO. 18K GOLD STARFISH BROOCH",
+    "estimate_low": 1200,
+    "estimate_high": 1500,
+    "current_bid": 600,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 6,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LcSNM2BdqIyuYz_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LIAu5Hhcs0FBr8_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LRgEtv6aygLqLJ_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Ljpsr04Er6o50j_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LIq7PRzLvMS8rL_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LhtBcoSkjDrOd2_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LjD8qVZ7lXVUqT": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LjD8qVZ7lXVUqT_thz.JPG"
+        },
+        "H0134-LV2NW90scr7dl5": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LV2NW90scr7dl5_thz.JPG"
+        },
+        "H0134-LcSNM2BdqIyuYz": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LcSNM2BdqIyuYz_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LcSNM2BdqIyuYz_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LcSNM2BdqIyuYz.JPG"
+        },
+        "H0134-LIAu5Hhcs0FBr8": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LIAu5Hhcs0FBr8_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LIAu5Hhcs0FBr8_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LIAu5Hhcs0FBr8.JPG"
+        },
+        "H0134-LRgEtv6aygLqLJ": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LRgEtv6aygLqLJ_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LRgEtv6aygLqLJ_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LRgEtv6aygLqLJ.JPG"
+        },
+        "H0134-Ljpsr04Er6o50j": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Ljpsr04Er6o50j_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Ljpsr04Er6o50j_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Ljpsr04Er6o50j.JPG"
+        },
+        "H0134-LIq7PRzLvMS8rL": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LIq7PRzLvMS8rL_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LIq7PRzLvMS8rL_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LIq7PRzLvMS8rL.JPG"
+        },
+        "H0134-LhtBcoSkjDrOd2": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LhtBcoSkjDrOd2_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LhtBcoSkjDrOd2_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LhtBcoSkjDrOd2.JPG"
+        }
+    }
+}

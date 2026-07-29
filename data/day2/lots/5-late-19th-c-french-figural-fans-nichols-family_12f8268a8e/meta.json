@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/5-late-19th-c-french-figural-fans-nichols-family_12f8268a8e",
+    "slug": "5-late-19th-c-french-figural-fans-nichols-family_12f8268a8e",
+    "lot_number": "2346",
+    "title": "(5) LATE 19TH C. FRENCH FIGURAL FANS, NICHOLS FAMILY",
+    "estimate_low": 250,
+    "estimate_high": 350,
+    "current_bid": 50,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LW5C43qpNh64dz_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LuFes7OctKSDTY_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L0adeLVUNLhSpO_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LSs1SZguMhGqqh": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LSs1SZguMhGqqh_thz.JPG"
+        },
+        "H0134-LPrmjJy7lrtJsk": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LPrmjJy7lrtJsk_thz.JPG"
+        },
+        "H0134-LW5C43qpNh64dz": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LW5C43qpNh64dz_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LW5C43qpNh64dz_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LW5C43qpNh64dz.JPG"
+        },
+        "H0134-LuFes7OctKSDTY": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LuFes7OctKSDTY_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LuFes7OctKSDTY_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LuFes7OctKSDTY.JPG"
+        },
+        "H0134-L0adeLVUNLhSpO": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L0adeLVUNLhSpO_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L0adeLVUNLhSpO_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L0adeLVUNLhSpO.JPG"
+        }
+    }
+}

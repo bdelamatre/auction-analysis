@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/leander-allen-plummer-ii-me-ma-1857-1914_8c3908bf42",
+    "slug": "leander-allen-plummer-ii-me-ma-1857-1914_8c3908bf42",
+    "lot_number": "1280",
+    "title": "LEANDER ALLEN PLUMMER II (ME/MA, 1857-1914)",
+    "estimate_low": 500,
+    "estimate_high": 700,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lz6H11dze1RFpP_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LqgaDRVv1iZsZm_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LoKxwSLvrTSWXQ": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LoKxwSLvrTSWXQ_thz.JPG"
+        },
+        "H0134-LBkzzwayl1tHEg": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LBkzzwayl1tHEg_thz.JPG"
+        },
+        "H0134-Lz6H11dze1RFpP": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lz6H11dze1RFpP_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lz6H11dze1RFpP_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lz6H11dze1RFpP.JPG"
+        },
+        "H0134-LqgaDRVv1iZsZm": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LqgaDRVv1iZsZm_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LqgaDRVv1iZsZm_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LqgaDRVv1iZsZm.JPG"
+        }
+    }
+}

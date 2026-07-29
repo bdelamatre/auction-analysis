@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/tiffany-studios-acorn-pattern-leaded-glass-lamp-s_9ad9d18f42",
+    "slug": "tiffany-studios-acorn-pattern-leaded-glass-lamp-s_9ad9d18f42",
+    "lot_number": "3051",
+    "title": "TIFFANY STUDIOS \"ACORN\" PATTERN LEADED GLASS LAMP SHADE",
+    "estimate_low": 3000,
+    "estimate_high": 5000,
+    "current_bid": 1500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LMnkCsDg7pX3JR_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LG1CBOb9QIIO2L_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LUyeE4JThGkLXF_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LD6lKzueY8qUqC": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LD6lKzueY8qUqC_thz.JPG"
+        },
+        "H0134-LKRQg9pssBxw2k": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LKRQg9pssBxw2k_thz.JPG"
+        },
+        "H0134-LMnkCsDg7pX3JR": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LMnkCsDg7pX3JR_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LMnkCsDg7pX3JR_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LMnkCsDg7pX3JR.JPG"
+        },
+        "H0134-LG1CBOb9QIIO2L": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LG1CBOb9QIIO2L_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LG1CBOb9QIIO2L_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LG1CBOb9QIIO2L.JPG"
+        },
+        "H0134-LUyeE4JThGkLXF": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LUyeE4JThGkLXF_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LUyeE4JThGkLXF_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LUyeE4JThGkLXF.JPG"
+        }
+    }
+}

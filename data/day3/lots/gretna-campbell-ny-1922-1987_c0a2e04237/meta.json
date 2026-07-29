@@ -1,0 +1,52 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/gretna-campbell-ny-1922-1987_c0a2e04237",
+    "slug": "gretna-campbell-ny-1922-1987_c0a2e04237",
+    "lot_number": "3086",
+    "title": "GRETNA CAMPBELL (NY, 1922-1987)",
+    "estimate_low": 3000,
+    "estimate_high": 5000,
+    "current_bid": 1500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 5,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LVKABCLWO2Zrgv_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LkD1X0ft1XyWOl_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LZxI68RjmlUBGe_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LIwCbkhC18cDdH_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LhSMVcFY8I0xyX_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LnUdxjl9qhUPq5": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LnUdxjl9qhUPq5_thz.JPG"
+        },
+        "H0134-LVAeRmFalveyLc": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LVAeRmFalveyLc_thz.JPG"
+        },
+        "H0134-LVKABCLWO2Zrgv": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LVKABCLWO2Zrgv_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LVKABCLWO2Zrgv_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LVKABCLWO2Zrgv.JPG"
+        },
+        "H0134-LkD1X0ft1XyWOl": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LkD1X0ft1XyWOl_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LkD1X0ft1XyWOl_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LkD1X0ft1XyWOl.JPG"
+        },
+        "H0134-LZxI68RjmlUBGe": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LZxI68RjmlUBGe_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LZxI68RjmlUBGe_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LZxI68RjmlUBGe.JPG"
+        },
+        "H0134-LIwCbkhC18cDdH": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LIwCbkhC18cDdH_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LIwCbkhC18cDdH_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LIwCbkhC18cDdH.JPG"
+        },
+        "H0134-LhSMVcFY8I0xyX": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LhSMVcFY8I0xyX_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LhSMVcFY8I0xyX_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LhSMVcFY8I0xyX.JPG"
+        }
+    }
+}

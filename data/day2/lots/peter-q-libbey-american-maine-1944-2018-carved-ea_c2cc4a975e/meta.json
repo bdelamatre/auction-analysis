@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/peter-q-libbey-american-maine-1944-2018-carved-ea_c2cc4a975e",
+    "slug": "peter-q-libbey-american-maine-1944-2018-carved-ea_c2cc4a975e",
+    "lot_number": "2038",
+    "title": "PETER Q. LIBBEY (AMERICAN/MAINE, 1944-2018), CARVED EAGLE AND SERPENT WALL SCULPTURE",
+    "estimate_low": 2000,
+    "estimate_high": 3000,
+    "current_bid": 1000,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LVcEjXJXyY1ycC_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LCtAF40qJ50RRc_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LHGNaNbru1AR9x_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LfqWnhaFNScp5I_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-Lt8FV7xbyCl1us": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lt8FV7xbyCl1us_thz.JPG"
+        },
+        "H0134-L4lY8snjIWMK30": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L4lY8snjIWMK30_thz.JPG"
+        },
+        "H0134-LVcEjXJXyY1ycC": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LVcEjXJXyY1ycC_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LVcEjXJXyY1ycC_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LVcEjXJXyY1ycC.JPG"
+        },
+        "H0134-LCtAF40qJ50RRc": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LCtAF40qJ50RRc_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LCtAF40qJ50RRc_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LCtAF40qJ50RRc.JPG"
+        },
+        "H0134-LHGNaNbru1AR9x": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LHGNaNbru1AR9x_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LHGNaNbru1AR9x_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LHGNaNbru1AR9x.JPG"
+        },
+        "H0134-LfqWnhaFNScp5I": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LfqWnhaFNScp5I_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LfqWnhaFNScp5I_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LfqWnhaFNScp5I.JPG"
+        }
+    }
+}

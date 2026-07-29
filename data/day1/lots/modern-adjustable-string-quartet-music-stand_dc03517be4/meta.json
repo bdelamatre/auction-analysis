@@ -1,0 +1,27 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/modern-adjustable-string-quartet-music-stand_dc03517be4",
+    "slug": "modern-adjustable-string-quartet-music-stand_dc03517be4",
+    "lot_number": "1111",
+    "title": "MODERN ADJUSTABLE STRING QUARTET MUSIC STAND",
+    "estimate_low": 300,
+    "estimate_high": 400,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 1,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LF3u8bmIQanM77_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LGRtmiXghOAZ1S": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LGRtmiXghOAZ1S_thz.JPG"
+        },
+        "H0134-LinkQJavSGiQmm": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LinkQJavSGiQmm_thz.JPG"
+        },
+        "H0134-LF3u8bmIQanM77": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LF3u8bmIQanM77_original.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LF3u8bmIQanM77.JPG"
+        }
+    }
+}

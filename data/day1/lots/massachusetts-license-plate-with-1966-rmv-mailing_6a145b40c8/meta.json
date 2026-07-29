@@ -1,0 +1,27 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/massachusetts-license-plate-with-1966-rmv-mailing_6a145b40c8",
+    "slug": "massachusetts-license-plate-with-1966-rmv-mailing_6a145b40c8",
+    "lot_number": "1028",
+    "title": "MASSACHUSETTS LICENSE PLATE WITH 1966 RMV MAILING ENVELOPE",
+    "estimate_low": 100,
+    "estimate_high": 200,
+    "current_bid": 50,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 1,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LScsCZHT7xdamj_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LpMafjEh8QtoIZ": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LpMafjEh8QtoIZ_thz.JPG"
+        },
+        "H0134-LN0Is2QdKgNtlv": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LN0Is2QdKgNtlv_thz.JPG"
+        },
+        "H0134-LScsCZHT7xdamj": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LScsCZHT7xdamj_original.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LScsCZHT7xdamj.JPG"
+        }
+    }
+}

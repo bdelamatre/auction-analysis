@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/early-18th-c-british-birdseye-estate-print_04520ac391",
+    "slug": "early-18th-c-british-birdseye-estate-print_04520ac391",
+    "lot_number": "2326",
+    "title": "EARLY 18TH C. BRITISH BIRDSEYE ESTATE PRINT",
+    "estimate_low": 300,
+    "estimate_high": 500,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LitjlOXRP9IgK2_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LjGx7N6ME3aHBK_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LytP17hwvhSMrp_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LeQXvY5SdFcnZe": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LeQXvY5SdFcnZe_thz.JPG"
+        },
+        "H0134-LMsKAc2G8n3orT": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LMsKAc2G8n3orT_thz.JPG"
+        },
+        "H0134-LitjlOXRP9IgK2": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LitjlOXRP9IgK2_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LitjlOXRP9IgK2_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LitjlOXRP9IgK2.JPG"
+        },
+        "H0134-LjGx7N6ME3aHBK": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LjGx7N6ME3aHBK_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LjGx7N6ME3aHBK_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LjGx7N6ME3aHBK.JPG"
+        },
+        "H0134-LytP17hwvhSMrp": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LytP17hwvhSMrp_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LytP17hwvhSMrp_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LytP17hwvhSMrp.JPG"
+        }
+    }
+}

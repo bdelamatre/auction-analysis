@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/roseville-pottery-rosecraft-hexagon-double-bud-va_ce1997d115",
+    "slug": "roseville-pottery-rosecraft-hexagon-double-bud-va_ce1997d115",
+    "lot_number": "1133",
+    "title": "ROSEVILLE POTTERY \"ROSECRAFT HEXAGON\" DOUBLE BUD VASE",
+    "estimate_low": 400,
+    "estimate_high": 600,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LjySmIl87mGSSu_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LFO4Kx98qFxcoh_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LUXzGXAr9r57xp": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LUXzGXAr9r57xp_thz.JPG"
+        },
+        "H0134-LVcdBChr7Xr7U0": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LVcdBChr7Xr7U0_thz.JPG"
+        },
+        "H0134-LjySmIl87mGSSu": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LjySmIl87mGSSu_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LjySmIl87mGSSu_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LjySmIl87mGSSu.JPG"
+        },
+        "H0134-LFO4Kx98qFxcoh": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LFO4Kx98qFxcoh_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LFO4Kx98qFxcoh_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LFO4Kx98qFxcoh.JPG"
+        }
+    }
+}

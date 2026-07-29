@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/victorian-english-oak-tambour-top-writing-box_8109316443",
+    "slug": "victorian-english-oak-tambour-top-writing-box_8109316443",
+    "lot_number": "2319",
+    "title": "VICTORIAN ENGLISH OAK TAMBOUR TOP WRITING BOX",
+    "estimate_low": 500,
+    "estimate_high": 700,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LdUYU7SawpBga9_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LcLBXwCp27SHcU_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LEnyYF2bZ0U4gm_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LDxafYnQJosnIn": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LDxafYnQJosnIn_thz.JPG"
+        },
+        "H0134-LWZm1Wc64wavAY": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LWZm1Wc64wavAY_thz.JPG"
+        },
+        "H0134-LdUYU7SawpBga9": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LdUYU7SawpBga9_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LdUYU7SawpBga9_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LdUYU7SawpBga9.JPG"
+        },
+        "H0134-LcLBXwCp27SHcU": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LcLBXwCp27SHcU_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LcLBXwCp27SHcU_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LcLBXwCp27SHcU.JPG"
+        },
+        "H0134-LEnyYF2bZ0U4gm": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LEnyYF2bZ0U4gm_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LEnyYF2bZ0U4gm_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LEnyYF2bZ0U4gm.JPG"
+        }
+    }
+}

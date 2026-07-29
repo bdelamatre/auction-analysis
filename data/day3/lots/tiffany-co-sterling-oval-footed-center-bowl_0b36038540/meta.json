@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/tiffany-co-sterling-oval-footed-center-bowl_0b36038540",
+    "slug": "tiffany-co-sterling-oval-footed-center-bowl_0b36038540",
+    "lot_number": "3055",
+    "title": "TIFFANY & CO. STERLING OVAL FOOTED CENTER BOWL",
+    "estimate_low": 1400,
+    "estimate_high": 1600,
+    "current_bid": 700,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LjqMer5N2x2jnF_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L5Rn7ppzSpehoR_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LaID4Xykb6NCgh_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LoVh411PcY42lu": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LoVh411PcY42lu_thz.JPG"
+        },
+        "H0134-LnSVudhepnV6m3": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LnSVudhepnV6m3_thz.JPG"
+        },
+        "H0134-LjqMer5N2x2jnF": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LjqMer5N2x2jnF_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LjqMer5N2x2jnF_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LjqMer5N2x2jnF.JPG"
+        },
+        "H0134-L5Rn7ppzSpehoR": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L5Rn7ppzSpehoR_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L5Rn7ppzSpehoR_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L5Rn7ppzSpehoR.JPG"
+        },
+        "H0134-LaID4Xykb6NCgh": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LaID4Xykb6NCgh_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LaID4Xykb6NCgh_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LaID4Xykb6NCgh.JPG"
+        }
+    }
+}

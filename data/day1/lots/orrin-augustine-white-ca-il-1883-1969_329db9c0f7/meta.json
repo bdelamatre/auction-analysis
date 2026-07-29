@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/orrin-augustine-white-ca-il-1883-1969_329db9c0f7",
+    "slug": "orrin-augustine-white-ca-il-1883-1969_329db9c0f7",
+    "lot_number": "1011",
+    "title": "ORRIN AUGUSTINE WHITE (CA/IL, 1883-1969)",
+    "estimate_low": 500,
+    "estimate_high": 700,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LDnaNjCAjakaWZ_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LBI5lKsM9XJmiP_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LqDBDWbF6AQCfZ_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LGKRmofFxkkmxh_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LqvYNy0dEk2twg": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LqvYNy0dEk2twg_thz.JPG"
+        },
+        "H0134-LhEh8YZqGavc2v": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LhEh8YZqGavc2v_thz.JPG"
+        },
+        "H0134-LDnaNjCAjakaWZ": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LDnaNjCAjakaWZ_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LDnaNjCAjakaWZ_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LDnaNjCAjakaWZ.JPG"
+        },
+        "H0134-LBI5lKsM9XJmiP": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LBI5lKsM9XJmiP_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LBI5lKsM9XJmiP_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LBI5lKsM9XJmiP.JPG"
+        },
+        "H0134-LqDBDWbF6AQCfZ": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LqDBDWbF6AQCfZ_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LqDBDWbF6AQCfZ_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LqDBDWbF6AQCfZ.JPG"
+        },
+        "H0134-LGKRmofFxkkmxh": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LGKRmofFxkkmxh_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LGKRmofFxkkmxh_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LGKRmofFxkkmxh.JPG"
+        }
+    }
+}

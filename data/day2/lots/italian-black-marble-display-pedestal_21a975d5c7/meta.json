@@ -1,0 +1,27 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/italian-black-marble-display-pedestal_21a975d5c7",
+    "slug": "italian-black-marble-display-pedestal_21a975d5c7",
+    "lot_number": "2426",
+    "title": "ITALIAN BLACK MARBLE DISPLAY PEDESTAL",
+    "estimate_low": 1000,
+    "estimate_high": 1500,
+    "current_bid": 500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 1,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Luwe47ohBEwNMt_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-Lb3Z1a5vna35e0": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lb3Z1a5vna35e0_thz.JPG"
+        },
+        "H0134-LySaz8pYFNJgPE": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LySaz8pYFNJgPE_thz.JPG"
+        },
+        "H0134-Luwe47ohBEwNMt": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Luwe47ohBEwNMt_original.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Luwe47ohBEwNMt.JPG"
+        }
+    }
+}

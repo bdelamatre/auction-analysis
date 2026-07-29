@@ -1,0 +1,52 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/emily-eveleth-ct-1960_851d7dcfb9",
+    "slug": "emily-eveleth-ct-1960_851d7dcfb9",
+    "lot_number": "1127",
+    "title": "EMILY EVELETH (CT, 1960 - )",
+    "estimate_low": 1200,
+    "estimate_high": 1500,
+    "current_bid": 600,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 5,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LihYa3Ydgdoxxw_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LAowtYC18VvSvf_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LrHwZk7mFNSUUL_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lq4UE13FeKAYFU_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LPPWio2JW0RKRr_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LbsrqfGMr5PS69": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LbsrqfGMr5PS69_thz.JPG"
+        },
+        "H0134-LVcKfsLisJl1u3": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LVcKfsLisJl1u3_thz.JPG"
+        },
+        "H0134-LihYa3Ydgdoxxw": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LihYa3Ydgdoxxw_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LihYa3Ydgdoxxw_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LihYa3Ydgdoxxw.JPG"
+        },
+        "H0134-LAowtYC18VvSvf": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LAowtYC18VvSvf_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LAowtYC18VvSvf_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LAowtYC18VvSvf.JPG"
+        },
+        "H0134-LrHwZk7mFNSUUL": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LrHwZk7mFNSUUL_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LrHwZk7mFNSUUL_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LrHwZk7mFNSUUL.JPG"
+        },
+        "H0134-Lq4UE13FeKAYFU": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lq4UE13FeKAYFU_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lq4UE13FeKAYFU_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lq4UE13FeKAYFU.JPG"
+        },
+        "H0134-LPPWio2JW0RKRr": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LPPWio2JW0RKRr_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LPPWio2JW0RKRr_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LPPWio2JW0RKRr.JPG"
+        }
+    }
+}

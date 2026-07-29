@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/pr-yudin-russian-brass-sabbath-candlesticks_eb261bfb14",
+    "slug": "pr-yudin-russian-brass-sabbath-candlesticks_eb261bfb14",
+    "lot_number": "3139",
+    "title": "PR YUDIN RUSSIAN BRASS SABBATH CANDLESTICKS",
+    "estimate_low": 800,
+    "estimate_high": 1200,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L8nqaERPQu9Ti7_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LNPiff1AngJsUZ_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-Lc4ILMczKJT0Qu": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lc4ILMczKJT0Qu_thz.JPG"
+        },
+        "H0134-L9ORVGPVjfPW6L": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L9ORVGPVjfPW6L_thz.JPG"
+        },
+        "H0134-L8nqaERPQu9Ti7": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L8nqaERPQu9Ti7_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L8nqaERPQu9Ti7_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L8nqaERPQu9Ti7.JPG"
+        },
+        "H0134-LNPiff1AngJsUZ": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LNPiff1AngJsUZ_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LNPiff1AngJsUZ_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LNPiff1AngJsUZ.JPG"
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/large-carved-wooden-trout-trade-sign-stamped-f-s_1c1b0366cc",
+    "slug": "large-carved-wooden-trout-trade-sign-stamped-f-s_1c1b0366cc",
+    "lot_number": "3010",
+    "title": "LARGE CARVED WOODEN TROUT TRADE SIGN, STAMPED F&S",
+    "estimate_low": 300,
+    "estimate_high": 500,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 1,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LZdDroDonJ7oNE_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LFiX5AwE6bqP3M": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LFiX5AwE6bqP3M_thz.JPG"
+        },
+        "H0134-L8jCA2y0lioCFn": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L8jCA2y0lioCFn_thz.JPG"
+        },
+        "H0134-LZdDroDonJ7oNE": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LZdDroDonJ7oNE_original.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LZdDroDonJ7oNE.JPG"
+        }
+    }
+}

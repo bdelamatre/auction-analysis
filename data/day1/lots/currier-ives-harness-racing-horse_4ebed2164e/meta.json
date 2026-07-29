@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/currier-ives-harness-racing-horse_4ebed2164e",
+    "slug": "currier-ives-harness-racing-horse_4ebed2164e",
+    "lot_number": "1071",
+    "title": "CURRIER & IVES HARNESS RACING HORSE",
+    "estimate_low": 300,
+    "estimate_high": 400,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lhclma6q4gCZQn_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LJoar8sDZTQn46_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LhYrmldf2Q5cHU": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LhYrmldf2Q5cHU_thz.JPG"
+        },
+        "H0134-L2OFDxQfovM6lW": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L2OFDxQfovM6lW_thz.JPG"
+        },
+        "H0134-Lhclma6q4gCZQn": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lhclma6q4gCZQn_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lhclma6q4gCZQn_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lhclma6q4gCZQn.JPG"
+        },
+        "H0134-LJoar8sDZTQn46": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LJoar8sDZTQn46_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LJoar8sDZTQn46_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LJoar8sDZTQn46.JPG"
+        }
+    }
+}

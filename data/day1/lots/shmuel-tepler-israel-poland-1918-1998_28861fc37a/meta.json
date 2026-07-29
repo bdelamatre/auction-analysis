@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/shmuel-tepler-israel-poland-1918-1998_28861fc37a",
+    "slug": "shmuel-tepler-israel-poland-1918-1998_28861fc37a",
+    "lot_number": "1018",
+    "title": "SHMUEL TEPLER (ISRAEL/POLAND, 1918-1998)",
+    "estimate_low": 300,
+    "estimate_high": 400,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LIQG3qQ2ygDXfz_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LVhcVnzNOBVMp7_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L6wEoUG7YPlpG6_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LgFOZDHGlsGkQL": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LgFOZDHGlsGkQL_thz.JPG"
+        },
+        "H0134-LeOjx7E9MNXOs2": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LeOjx7E9MNXOs2_thz.JPG"
+        },
+        "H0134-LIQG3qQ2ygDXfz": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LIQG3qQ2ygDXfz_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LIQG3qQ2ygDXfz_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LIQG3qQ2ygDXfz.JPG"
+        },
+        "H0134-LVhcVnzNOBVMp7": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LVhcVnzNOBVMp7_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LVhcVnzNOBVMp7_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LVhcVnzNOBVMp7.JPG"
+        },
+        "H0134-L6wEoUG7YPlpG6": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L6wEoUG7YPlpG6_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L6wEoUG7YPlpG6_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L6wEoUG7YPlpG6.JPG"
+        }
+    }
+}

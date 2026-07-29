@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/lynd-ward-nj-ny-il-1905-1985_fe6f0619d1",
+    "slug": "lynd-ward-nj-ny-il-1905-1985_fe6f0619d1",
+    "lot_number": "1176",
+    "title": "LYND WARD (NJ/NY/IL, 1905-1985)",
+    "estimate_low": 600,
+    "estimate_high": 800,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L35ACiRQRrky10_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LGVcO1z5bHL3pZ_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LDO4CHl2K5rBUn_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LkKdCSUO7FfcCS": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LkKdCSUO7FfcCS_thz.JPG"
+        },
+        "H0134-LiJ4oGZVcHgL75": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LiJ4oGZVcHgL75_thz.JPG"
+        },
+        "H0134-L35ACiRQRrky10": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L35ACiRQRrky10_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L35ACiRQRrky10_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L35ACiRQRrky10.JPG"
+        },
+        "H0134-LGVcO1z5bHL3pZ": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LGVcO1z5bHL3pZ_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LGVcO1z5bHL3pZ_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LGVcO1z5bHL3pZ.JPG"
+        },
+        "H0134-LDO4CHl2K5rBUn": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LDO4CHl2K5rBUn_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LDO4CHl2K5rBUn_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LDO4CHl2K5rBUn.JPG"
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/sporterized-k98-8mm-mauser_195f9b1e46",
+    "slug": "sporterized-k98-8mm-mauser_195f9b1e46",
+    "lot_number": "1268",
+    "title": "SPORTERIZED K98, 8MM MAUSER",
+    "estimate_low": 200,
+    "estimate_high": 400,
+    "current_bid": 50,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LgEgTB7qG1ANTO_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LF9LhzWuWbkpeJ_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L2wuHXqdBHzKTy_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LRmL63NEk0FzD1_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-L0UOCZ0zK4cOpv": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L0UOCZ0zK4cOpv_thz.JPG"
+        },
+        "H0134-Le2A8ZFhvkCD3d": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Le2A8ZFhvkCD3d_thz.JPG"
+        },
+        "H0134-LgEgTB7qG1ANTO": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LgEgTB7qG1ANTO_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LgEgTB7qG1ANTO_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LgEgTB7qG1ANTO.JPG"
+        },
+        "H0134-LF9LhzWuWbkpeJ": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LF9LhzWuWbkpeJ_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LF9LhzWuWbkpeJ_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LF9LhzWuWbkpeJ.JPG"
+        },
+        "H0134-L2wuHXqdBHzKTy": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L2wuHXqdBHzKTy_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L2wuHXqdBHzKTy_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L2wuHXqdBHzKTy.JPG"
+        },
+        "H0134-LRmL63NEk0FzD1": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LRmL63NEk0FzD1_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LRmL63NEk0FzD1_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LRmL63NEk0FzD1.JPG"
+        }
+    }
+}

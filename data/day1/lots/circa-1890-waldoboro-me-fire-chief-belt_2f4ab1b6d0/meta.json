@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/circa-1890-waldoboro-me-fire-chief-belt_2f4ab1b6d0",
+    "slug": "circa-1890-waldoboro-me-fire-chief-belt_2f4ab1b6d0",
+    "lot_number": "1132",
+    "title": "CIRCA 1890 WALDOBORO, ME FIRE CHIEF BELT",
+    "estimate_low": 300,
+    "estimate_high": 500,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LUXzGXAr9r57xp_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LioHFdk5fPmCvl_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LQmAksGzxVQAgI": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LQmAksGzxVQAgI_thz.JPG"
+        },
+        "H0134-LjySmIl87mGSSu": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LjySmIl87mGSSu_thz.JPG"
+        },
+        "H0134-LUXzGXAr9r57xp": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LUXzGXAr9r57xp_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LUXzGXAr9r57xp_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LUXzGXAr9r57xp.JPG"
+        },
+        "H0134-LioHFdk5fPmCvl": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LioHFdk5fPmCvl_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LioHFdk5fPmCvl_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LioHFdk5fPmCvl.JPG"
+        }
+    }
+}

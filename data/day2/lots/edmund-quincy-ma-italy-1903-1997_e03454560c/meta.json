@@ -1,0 +1,52 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/edmund-quincy-ma-italy-1903-1997_e03454560c",
+    "slug": "edmund-quincy-ma-italy-1903-1997_e03454560c",
+    "lot_number": "2390",
+    "title": "EDMUND QUINCY (MA/ITALY,1903-1997)",
+    "estimate_low": 600,
+    "estimate_high": 800,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 5,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LRx00kfe8Yk6NW_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LuxBBTJQYThCrm_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LPl6HGco3BUihs_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LC22bWU7fR9D1H_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LdRsOjyEms9TRy_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LSAQNHLzJ23j4h": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LSAQNHLzJ23j4h_thz.JPG"
+        },
+        "H0134-LYgMsJuKuRIcce": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LYgMsJuKuRIcce_thz.JPG"
+        },
+        "H0134-LRx00kfe8Yk6NW": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LRx00kfe8Yk6NW_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LRx00kfe8Yk6NW_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LRx00kfe8Yk6NW.JPG"
+        },
+        "H0134-LuxBBTJQYThCrm": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LuxBBTJQYThCrm_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LuxBBTJQYThCrm_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LuxBBTJQYThCrm.JPG"
+        },
+        "H0134-LPl6HGco3BUihs": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LPl6HGco3BUihs_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LPl6HGco3BUihs_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LPl6HGco3BUihs.JPG"
+        },
+        "H0134-LC22bWU7fR9D1H": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LC22bWU7fR9D1H_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LC22bWU7fR9D1H_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LC22bWU7fR9D1H.JPG"
+        },
+        "H0134-LdRsOjyEms9TRy": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LdRsOjyEms9TRy_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LdRsOjyEms9TRy_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LdRsOjyEms9TRy.JPG"
+        }
+    }
+}

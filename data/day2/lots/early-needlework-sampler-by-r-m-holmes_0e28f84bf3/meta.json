@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/early-needlework-sampler-by-r-m-holmes_0e28f84bf3",
+    "slug": "early-needlework-sampler-by-r-m-holmes_0e28f84bf3",
+    "lot_number": "2129",
+    "title": "EARLY NEEDLEWORK SAMPLER, BY R. M. HOLMES",
+    "estimate_low": 2000,
+    "estimate_high": 3000,
+    "current_bid": 1000,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LmbEzysDxEtZsC_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LlRRD2O7wWvU24_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LNSsKOog6X2MPB": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LNSsKOog6X2MPB_thz.JPG"
+        },
+        "H0134-L47B3qT7ZdxTim": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L47B3qT7ZdxTim_thz.JPG"
+        },
+        "H0134-LmbEzysDxEtZsC": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LmbEzysDxEtZsC_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LmbEzysDxEtZsC_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LmbEzysDxEtZsC.JPG"
+        },
+        "H0134-LlRRD2O7wWvU24": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LlRRD2O7wWvU24_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LlRRD2O7wWvU24_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LlRRD2O7wWvU24.JPG"
+        }
+    }
+}

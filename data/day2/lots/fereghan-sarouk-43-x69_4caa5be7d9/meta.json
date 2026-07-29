@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/fereghan-sarouk-43-x69_4caa5be7d9",
+    "slug": "fereghan-sarouk-43-x69_4caa5be7d9",
+    "lot_number": "2221",
+    "title": "FEREGHAN SAROUK (4'3\"x6'9\")",
+    "estimate_low": 800,
+    "estimate_high": 1200,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LKafGPbKw1xYg6_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lr9xarEuBKNWuL_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LR8NU3qJPhUhsJ_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LIZQpRILQC9WZz": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LIZQpRILQC9WZz_thz.JPG"
+        },
+        "H0134-LmUpQaEv7GmMk5": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LmUpQaEv7GmMk5_thz.JPG"
+        },
+        "H0134-LKafGPbKw1xYg6": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LKafGPbKw1xYg6_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LKafGPbKw1xYg6_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LKafGPbKw1xYg6.JPG"
+        },
+        "H0134-Lr9xarEuBKNWuL": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lr9xarEuBKNWuL_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lr9xarEuBKNWuL_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lr9xarEuBKNWuL.JPG"
+        },
+        "H0134-LR8NU3qJPhUhsJ": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LR8NU3qJPhUhsJ_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LR8NU3qJPhUhsJ_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LR8NU3qJPhUhsJ.JPG"
+        }
+    }
+}

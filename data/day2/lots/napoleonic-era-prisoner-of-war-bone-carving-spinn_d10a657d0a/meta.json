@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/napoleonic-era-prisoner-of-war-bone-carving-spinn_d10a657d0a",
+    "slug": "napoleonic-era-prisoner-of-war-bone-carving-spinn_d10a657d0a",
+    "lot_number": "2027",
+    "title": "NAPOLEONIC ERA PRISONER OF WAR BONE CARVING SPINNING WHEEL",
+    "estimate_low": 1000,
+    "estimate_high": 1500,
+    "current_bid": 500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L1Q9CDxnyd1UEp_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lxnr6NESvrLYFH_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LHscZ3Qj1YRj13_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LZsgW828jRjSxD_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LmjHGhECCfjAWJ": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LmjHGhECCfjAWJ_thz.JPG"
+        },
+        "H0134-L8tJz5oRFDR5KP": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L8tJz5oRFDR5KP_thz.JPG"
+        },
+        "H0134-L1Q9CDxnyd1UEp": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L1Q9CDxnyd1UEp_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L1Q9CDxnyd1UEp_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L1Q9CDxnyd1UEp.JPG"
+        },
+        "H0134-Lxnr6NESvrLYFH": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lxnr6NESvrLYFH_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lxnr6NESvrLYFH_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lxnr6NESvrLYFH.JPG"
+        },
+        "H0134-LHscZ3Qj1YRj13": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LHscZ3Qj1YRj13_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LHscZ3Qj1YRj13_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LHscZ3Qj1YRj13.JPG"
+        },
+        "H0134-LZsgW828jRjSxD": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LZsgW828jRjSxD_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LZsgW828jRjSxD_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LZsgW828jRjSxD.JPG"
+        }
+    }
+}

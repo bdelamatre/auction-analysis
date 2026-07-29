@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/jules-moigniez-france-1935-1894_0d1ba49d47",
+    "slug": "jules-moigniez-france-1935-1894_0d1ba49d47",
+    "lot_number": "3002",
+    "title": "JULES MOIGNIEZ (FRANCE, 1935-1894)",
+    "estimate_low": 500,
+    "estimate_high": 700,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LI9QNeI1F6GUMx_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LcYPlt9ySkT1dD_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lw4eay7tfQcrKf_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LOjWncao5DSLpz": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LOjWncao5DSLpz_thz.JPG"
+        },
+        "H0134-LBCVw9jGcuaAmk": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LBCVw9jGcuaAmk_thz.JPG"
+        },
+        "H0134-LI9QNeI1F6GUMx": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LI9QNeI1F6GUMx_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LI9QNeI1F6GUMx_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LI9QNeI1F6GUMx.JPG"
+        },
+        "H0134-LcYPlt9ySkT1dD": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LcYPlt9ySkT1dD_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LcYPlt9ySkT1dD_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LcYPlt9ySkT1dD.JPG"
+        },
+        "H0134-Lw4eay7tfQcrKf": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lw4eay7tfQcrKf_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lw4eay7tfQcrKf_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lw4eay7tfQcrKf.JPG"
+        }
+    }
+}

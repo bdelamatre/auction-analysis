@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/1920s-child-size-banjo-unmarked_ea140bdc2f",
+    "slug": "1920s-child-size-banjo-unmarked_ea140bdc2f",
+    "lot_number": "1224",
+    "title": "1920'S CHILD SIZE BANJO, UNMARKED",
+    "estimate_low": 200,
+    "estimate_high": 300,
+    "current_bid": 50,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-La2UN4r75YRetg_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LftO6vLOdyw5Vz_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lc1AZvzQIBgrrA_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LN9lBxwDf4P6I6": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LN9lBxwDf4P6I6_thz.JPG"
+        },
+        "H0134-LXWY7VaS4WPivS": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LXWY7VaS4WPivS_thz.JPG"
+        },
+        "H0134-La2UN4r75YRetg": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-La2UN4r75YRetg_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-La2UN4r75YRetg_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-La2UN4r75YRetg.JPG"
+        },
+        "H0134-LftO6vLOdyw5Vz": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LftO6vLOdyw5Vz_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LftO6vLOdyw5Vz_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LftO6vLOdyw5Vz.JPG"
+        },
+        "H0134-Lc1AZvzQIBgrrA": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lc1AZvzQIBgrrA_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lc1AZvzQIBgrrA_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lc1AZvzQIBgrrA.JPG"
+        }
+    }
+}

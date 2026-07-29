@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/charles-warde-traver-ny-nj-1870-1945_48959cce73",
+    "slug": "charles-warde-traver-ny-nj-1870-1945_48959cce73",
+    "lot_number": "1125",
+    "title": "CHARLES WARDE TRAVER (NY/NJ, 1870-1945)",
+    "estimate_low": 1000,
+    "estimate_high": 2000,
+    "current_bid": 500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lywf8HjdlZTmZJ_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LQAOHvYcaDal23_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LfNXTfmNNo1Yuw_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LK7CA7Cy8pZ9Gn_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-L4frMrWke41QNB": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L4frMrWke41QNB_thz.JPG"
+        },
+        "H0134-LbsrqfGMr5PS69": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LbsrqfGMr5PS69_thz.JPG"
+        },
+        "H0134-Lywf8HjdlZTmZJ": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lywf8HjdlZTmZJ_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lywf8HjdlZTmZJ_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lywf8HjdlZTmZJ.JPG"
+        },
+        "H0134-LQAOHvYcaDal23": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LQAOHvYcaDal23_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LQAOHvYcaDal23_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LQAOHvYcaDal23.JPG"
+        },
+        "H0134-LfNXTfmNNo1Yuw": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LfNXTfmNNo1Yuw_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LfNXTfmNNo1Yuw_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LfNXTfmNNo1Yuw.JPG"
+        },
+        "H0134-LK7CA7Cy8pZ9Gn": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LK7CA7Cy8pZ9Gn_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LK7CA7Cy8pZ9Gn_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LK7CA7Cy8pZ9Gn.JPG"
+        }
+    }
+}

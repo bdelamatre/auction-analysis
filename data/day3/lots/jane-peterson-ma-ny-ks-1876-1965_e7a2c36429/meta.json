@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/jane-peterson-ma-ny-ks-1876-1965_e7a2c36429",
+    "slug": "jane-peterson-ma-ny-ks-1876-1965_e7a2c36429",
+    "lot_number": "3212",
+    "title": "JANE PETERSON (MA/NY/KS, 1876-1965)",
+    "estimate_low": 5000,
+    "estimate_high": 7500,
+    "current_bid": 2500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LEGqaw0m4PXEuy_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LZkmXSous8wOyZ_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LkoYXW6iRXVJfk_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LnTW7mjRs73K52": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LnTW7mjRs73K52_thz.JPG"
+        },
+        "H0134-Lse1dnSbWPb4He": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lse1dnSbWPb4He_thz.JPG"
+        },
+        "H0134-LEGqaw0m4PXEuy": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LEGqaw0m4PXEuy_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LEGqaw0m4PXEuy_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LEGqaw0m4PXEuy.JPG"
+        },
+        "H0134-LZkmXSous8wOyZ": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LZkmXSous8wOyZ_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LZkmXSous8wOyZ_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LZkmXSous8wOyZ.JPG"
+        },
+        "H0134-LkoYXW6iRXVJfk": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LkoYXW6iRXVJfk_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LkoYXW6iRXVJfk_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LkoYXW6iRXVJfk.JPG"
+        }
+    }
+}

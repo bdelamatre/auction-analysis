@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/sailor-made-whale-bone-walking-stick_530a9866e6",
+    "slug": "sailor-made-whale-bone-walking-stick_530a9866e6",
+    "lot_number": "2049",
+    "title": "SAILOR MADE WHALE BONE WALKING STICK",
+    "estimate_low": 300,
+    "estimate_high": 500,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Ldpzb2cVVyylnl_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L3JBdneTESPfom_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LqZR8s74xCsgjB": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LqZR8s74xCsgjB_thz.JPG"
+        },
+        "H0134-LRYcyr4thMskKZ": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LRYcyr4thMskKZ_thz.JPG"
+        },
+        "H0134-Ldpzb2cVVyylnl": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Ldpzb2cVVyylnl_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Ldpzb2cVVyylnl_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Ldpzb2cVVyylnl.JPG"
+        },
+        "H0134-L3JBdneTESPfom": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L3JBdneTESPfom_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L3JBdneTESPfom_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L3JBdneTESPfom.JPG"
+        }
+    }
+}

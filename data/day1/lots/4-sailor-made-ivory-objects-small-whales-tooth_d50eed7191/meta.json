@@ -1,0 +1,27 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/4-sailor-made-ivory-objects-small-whales-tooth_d50eed7191",
+    "slug": "4-sailor-made-ivory-objects-small-whales-tooth_d50eed7191",
+    "lot_number": "1292",
+    "title": "(4) SAILOR-MADE IVORY OBJECTS & SMALL WHALES TOOTH",
+    "estimate_low": 250,
+    "estimate_high": 350,
+    "current_bid": 70,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 1,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LrmLmEMZ7vdtbH_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LQcj7EAjgkmIiu": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LQcj7EAjgkmIiu_thz.JPG"
+        },
+        "H0134-L9JyTrXgTxZgml": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L9JyTrXgTxZgml_thz.JPG"
+        },
+        "H0134-LrmLmEMZ7vdtbH": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LrmLmEMZ7vdtbH_original.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LrmLmEMZ7vdtbH.JPG"
+        }
+    }
+}

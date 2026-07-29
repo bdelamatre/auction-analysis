@@ -1,0 +1,27 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/modern-half-hull_0d1ce2bd2c",
+    "slug": "modern-half-hull_0d1ce2bd2c",
+    "lot_number": "2047",
+    "title": "MODERN HALF HULL",
+    "estimate_low": 500,
+    "estimate_high": 700,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 1,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LjwspeuZn6cRmz_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LhjnX0MxnW1xa1": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LhjnX0MxnW1xa1_thz.JPG"
+        },
+        "H0134-LqZR8s74xCsgjB": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LqZR8s74xCsgjB_thz.JPG"
+        },
+        "H0134-LjwspeuZn6cRmz": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LjwspeuZn6cRmz_original.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LjwspeuZn6cRmz.JPG"
+        }
+    }
+}

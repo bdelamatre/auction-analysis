@@ -1,0 +1,52 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/dolores-hackenberger-pa-1930-2024_7676c115c1",
+    "slug": "dolores-hackenberger-pa-1930-2024_7676c115c1",
+    "lot_number": "2140",
+    "title": "DOLORES HACKENBERGER (PA, 1930-2024)",
+    "estimate_low": 600,
+    "estimate_high": 800,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 5,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LrudHiX0lkYAeV_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LRUk96B6TAkItc_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LFpL041LdjfCdh_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LkUfiwBZNHCA0M_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lf25bQPbwzTbSj_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LPGfnbpSPfQXYq": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LPGfnbpSPfQXYq_thz.JPG"
+        },
+        "H0134-LLpmxczUMnjCNo": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LLpmxczUMnjCNo_thz.JPG"
+        },
+        "H0134-LrudHiX0lkYAeV": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LrudHiX0lkYAeV_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LrudHiX0lkYAeV_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LrudHiX0lkYAeV.JPG"
+        },
+        "H0134-LRUk96B6TAkItc": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LRUk96B6TAkItc_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LRUk96B6TAkItc_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LRUk96B6TAkItc.JPG"
+        },
+        "H0134-LFpL041LdjfCdh": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LFpL041LdjfCdh_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LFpL041LdjfCdh_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LFpL041LdjfCdh.JPG"
+        },
+        "H0134-LkUfiwBZNHCA0M": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LkUfiwBZNHCA0M_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LkUfiwBZNHCA0M_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LkUfiwBZNHCA0M.JPG"
+        },
+        "H0134-Lf25bQPbwzTbSj": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lf25bQPbwzTbSj_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lf25bQPbwzTbSj_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lf25bQPbwzTbSj.JPG"
+        }
+    }
+}

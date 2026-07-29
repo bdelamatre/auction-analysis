@@ -1,0 +1,52 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/eliphalet-fraser-andrews-dc-oh-1835-1915_eb52bf2b35",
+    "slug": "eliphalet-fraser-andrews-dc-oh-1835-1915_eb52bf2b35",
+    "lot_number": "2185",
+    "title": "ELIPHALET FRASER ANDREWS (DC/OH, 1835-1915)",
+    "estimate_low": 5000,
+    "estimate_high": 7000,
+    "current_bid": 2500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 5,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LPT1723rxv6dTx_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L7AgheY4knxB6n_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LZn9BIMUKOWURM_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LjfnSOvrHxPaR8_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L7mutEGNLo4rzO_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LsfpKPdH1nKuIL": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LsfpKPdH1nKuIL_thz.JPG"
+        },
+        "H0134-L0bXYwSSY3LR2t": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L0bXYwSSY3LR2t_thz.JPG"
+        },
+        "H0134-LPT1723rxv6dTx": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LPT1723rxv6dTx_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LPT1723rxv6dTx_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LPT1723rxv6dTx.JPG"
+        },
+        "H0134-L7AgheY4knxB6n": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L7AgheY4knxB6n_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L7AgheY4knxB6n_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L7AgheY4knxB6n.JPG"
+        },
+        "H0134-LZn9BIMUKOWURM": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LZn9BIMUKOWURM_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LZn9BIMUKOWURM_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LZn9BIMUKOWURM.JPG"
+        },
+        "H0134-LjfnSOvrHxPaR8": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LjfnSOvrHxPaR8_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LjfnSOvrHxPaR8_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LjfnSOvrHxPaR8.JPG"
+        },
+        "H0134-L7mutEGNLo4rzO": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L7mutEGNLo4rzO_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L7mutEGNLo4rzO_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L7mutEGNLo4rzO.JPG"
+        }
+    }
+}

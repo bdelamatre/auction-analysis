@@ -1,0 +1,43 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/omersa-for-abercrombie-fitch-rhino-ottoman_8508daba14",
+    "slug": "omersa-for-abercrombie-fitch-rhino-ottoman_8508daba14",
+    "lot_number": "3001",
+    "title": "",
+    "estimate_low": 1000,
+    "estimate_high": 1500,
+    "current_bid": 500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LOjWncao5DSLpz_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LZFWQrKodosw4v_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LuSDszXkh8W38B_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LrAMx1kzdWLU7k_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LI9QNeI1F6GUMx": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LI9QNeI1F6GUMx_thz.JPG"
+        },
+        "H0134-LOjWncao5DSLpz": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LOjWncao5DSLpz_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LOjWncao5DSLpz_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LOjWncao5DSLpz.JPG"
+        },
+        "H0134-LZFWQrKodosw4v": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LZFWQrKodosw4v_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LZFWQrKodosw4v_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LZFWQrKodosw4v.JPG"
+        },
+        "H0134-LuSDszXkh8W38B": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LuSDszXkh8W38B_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LuSDszXkh8W38B_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LuSDszXkh8W38B.JPG"
+        },
+        "H0134-LrAMx1kzdWLU7k": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LrAMx1kzdWLU7k_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LrAMx1kzdWLU7k_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LrAMx1kzdWLU7k.JPG"
+        }
+    }
+}

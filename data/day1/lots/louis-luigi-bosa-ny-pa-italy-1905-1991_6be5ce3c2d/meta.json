@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/louis-luigi-bosa-ny-pa-italy-1905-1991_6be5ce3c2d",
+    "slug": "louis-luigi-bosa-ny-pa-italy-1905-1991_6be5ce3c2d",
+    "lot_number": "1196",
+    "title": "LOUIS (LUIGI) BOSA (NY/PA/ITALY, 1905-1991)",
+    "estimate_low": 200,
+    "estimate_high": 300,
+    "current_bid": 50,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LpXJq43YjLldnw_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L6zwj4DUIjyNwI_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LzjozjxusZJt1j_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LHb3uagJpA5mTl": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LHb3uagJpA5mTl_thz.JPG"
+        },
+        "H0134-L0TcoF4TPdRDX1": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L0TcoF4TPdRDX1_thz.JPG"
+        },
+        "H0134-LpXJq43YjLldnw": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LpXJq43YjLldnw_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LpXJq43YjLldnw_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LpXJq43YjLldnw.JPG"
+        },
+        "H0134-L6zwj4DUIjyNwI": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L6zwj4DUIjyNwI_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L6zwj4DUIjyNwI_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L6zwj4DUIjyNwI.JPG"
+        },
+        "H0134-LzjozjxusZJt1j": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LzjozjxusZJt1j_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LzjozjxusZJt1j_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LzjozjxusZJt1j.JPG"
+        }
+    }
+}

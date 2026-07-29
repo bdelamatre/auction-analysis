@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/roman-bronze-bust-of-man_3bea9a95b5",
+    "slug": "roman-bronze-bust-of-man_3bea9a95b5",
+    "lot_number": "2427",
+    "title": "ROMAN BRONZE BUST OF MAN",
+    "estimate_low": 1000,
+    "estimate_high": 1500,
+    "current_bid": 500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LySaz8pYFNJgPE_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lfmk8qolsJThas_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-Luwe47ohBEwNMt": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Luwe47ohBEwNMt_thz.JPG"
+        },
+        "H0134-LyIm9oQWqx0ZmR": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LyIm9oQWqx0ZmR_thz.JPG"
+        },
+        "H0134-LySaz8pYFNJgPE": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LySaz8pYFNJgPE_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LySaz8pYFNJgPE_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LySaz8pYFNJgPE.JPG"
+        },
+        "H0134-Lfmk8qolsJThas": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lfmk8qolsJThas_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lfmk8qolsJThas_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lfmk8qolsJThas.JPG"
+        }
+    }
+}

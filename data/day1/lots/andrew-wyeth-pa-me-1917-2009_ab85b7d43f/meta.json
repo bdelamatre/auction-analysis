@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/andrew-wyeth-pa-me-1917-2009_ab85b7d43f",
+    "slug": "andrew-wyeth-pa-me-1917-2009_ab85b7d43f",
+    "lot_number": "1437",
+    "title": "ANDREW WYETH (PA/ME, 1917-2009)",
+    "estimate_low": 200,
+    "estimate_high": 300,
+    "current_bid": 50,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lu65xRYyJTGMhn_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LcReEHT6JWJ7vi_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LyZqiRc5NGh07e": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LyZqiRc5NGh07e_thz.JPG"
+        },
+        "H0134-LGD40c5FUZTy1t": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LGD40c5FUZTy1t_thz.JPG"
+        },
+        "H0134-Lu65xRYyJTGMhn": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lu65xRYyJTGMhn_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lu65xRYyJTGMhn_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lu65xRYyJTGMhn.JPG"
+        },
+        "H0134-LcReEHT6JWJ7vi": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LcReEHT6JWJ7vi_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LcReEHT6JWJ7vi_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LcReEHT6JWJ7vi.JPG"
+        }
+    }
+}

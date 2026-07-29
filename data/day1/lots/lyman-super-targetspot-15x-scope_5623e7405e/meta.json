@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/lyman-super-targetspot-15x-scope_5623e7405e",
+    "slug": "lyman-super-targetspot-15x-scope_5623e7405e",
+    "lot_number": "1257",
+    "title": "LYMAN SUPER TARGETSPOT 15X SCOPE",
+    "estimate_low": 300,
+    "estimate_high": 500,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LEaOFM6Fwjr6wK_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L88rWkY6HLaETY_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LJEobFGCJULlPg": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LJEobFGCJULlPg_thz.JPG"
+        },
+        "H0134-LFdQBrWI4niMW7": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LFdQBrWI4niMW7_thz.JPG"
+        },
+        "H0134-LEaOFM6Fwjr6wK": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LEaOFM6Fwjr6wK_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LEaOFM6Fwjr6wK_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LEaOFM6Fwjr6wK.JPG"
+        },
+        "H0134-L88rWkY6HLaETY": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L88rWkY6HLaETY_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L88rWkY6HLaETY_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L88rWkY6HLaETY.JPG"
+        }
+    }
+}

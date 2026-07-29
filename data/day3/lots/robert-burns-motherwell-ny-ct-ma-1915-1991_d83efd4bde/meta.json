@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/robert-burns-motherwell-ny-ct-ma-1915-1991_d83efd4bde",
+    "slug": "robert-burns-motherwell-ny-ct-ma-1915-1991_d83efd4bde",
+    "lot_number": "3277",
+    "title": "ROBERT BURNS MOTHERWELL (NY/CT/MA, 1915-1991)",
+    "estimate_low": 2500,
+    "estimate_high": 3500,
+    "current_bid": 1200,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L8fdAzI6JcvoWZ_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LD3iPdqXwS0sri_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LVg2jKNtPXHxPO_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LCY1RLPrHrGmbp_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-L2gWmB2Udo7kOu": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L2gWmB2Udo7kOu_thz.JPG"
+        },
+        "H0134-LIbjrIRQf8k5sL": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LIbjrIRQf8k5sL_thz.JPG"
+        },
+        "H0134-L8fdAzI6JcvoWZ": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L8fdAzI6JcvoWZ_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L8fdAzI6JcvoWZ_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L8fdAzI6JcvoWZ.JPG"
+        },
+        "H0134-LD3iPdqXwS0sri": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LD3iPdqXwS0sri_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LD3iPdqXwS0sri_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LD3iPdqXwS0sri.JPG"
+        },
+        "H0134-LVg2jKNtPXHxPO": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LVg2jKNtPXHxPO_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LVg2jKNtPXHxPO_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LVg2jKNtPXHxPO.JPG"
+        },
+        "H0134-LCY1RLPrHrGmbp": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LCY1RLPrHrGmbp_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LCY1RLPrHrGmbp_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LCY1RLPrHrGmbp.JPG"
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/attributed-to-louise-nevelson-ny-russia-1899-1988_9fd3da58c8",
+    "slug": "attributed-to-louise-nevelson-ny-russia-1899-1988_9fd3da58c8",
+    "lot_number": "3280",
+    "title": "ATTRIBUTED TO LOUISE NEVELSON (NY/RUSSIA, 1899-1988)",
+    "estimate_low": 2000,
+    "estimate_high": 3000,
+    "current_bid": 1000,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LjN5kS7mXfAfb5_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L11JXGifJcOerd_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lyf69Lq4SIN4jc_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-L4FbKt5cRyOGOO": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L4FbKt5cRyOGOO_thz.JPG"
+        },
+        "H0134-LYirv2cci2B9BR": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LYirv2cci2B9BR_thz.JPG"
+        },
+        "H0134-LjN5kS7mXfAfb5": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LjN5kS7mXfAfb5_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LjN5kS7mXfAfb5_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LjN5kS7mXfAfb5.JPG"
+        },
+        "H0134-L11JXGifJcOerd": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L11JXGifJcOerd_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L11JXGifJcOerd_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L11JXGifJcOerd.JPG"
+        },
+        "H0134-Lyf69Lq4SIN4jc": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lyf69Lq4SIN4jc_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lyf69Lq4SIN4jc_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lyf69Lq4SIN4jc.JPG"
+        }
+    }
+}

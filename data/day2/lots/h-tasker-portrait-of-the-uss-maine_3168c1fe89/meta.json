@@ -1,0 +1,52 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/h-tasker-portrait-of-the-uss-maine_3168c1fe89",
+    "slug": "h-tasker-portrait-of-the-uss-maine_3168c1fe89",
+    "lot_number": "2083",
+    "title": "H. TASKER PORTRAIT OF THE USS MAINE",
+    "estimate_low": 1200,
+    "estimate_high": 1500,
+    "current_bid": 600,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 5,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lty4VPguneHgRh_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L05CoEtNJ0FQK7_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LiHQs6wWhdTQhU_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lp8wZmW5ELRaxS_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LvtLAdoy882K8j_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-L09zdaVNp41wtb": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L09zdaVNp41wtb_thz.JPG"
+        },
+        "H0134-LmQB4CBDy5AtnP": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LmQB4CBDy5AtnP_thz.JPG"
+        },
+        "H0134-Lty4VPguneHgRh": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lty4VPguneHgRh_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lty4VPguneHgRh_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lty4VPguneHgRh.JPG"
+        },
+        "H0134-L05CoEtNJ0FQK7": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L05CoEtNJ0FQK7_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L05CoEtNJ0FQK7_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L05CoEtNJ0FQK7.JPG"
+        },
+        "H0134-LiHQs6wWhdTQhU": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LiHQs6wWhdTQhU_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LiHQs6wWhdTQhU_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LiHQs6wWhdTQhU.JPG"
+        },
+        "H0134-Lp8wZmW5ELRaxS": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lp8wZmW5ELRaxS_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lp8wZmW5ELRaxS_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lp8wZmW5ELRaxS.JPG"
+        },
+        "H0134-LvtLAdoy882K8j": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LvtLAdoy882K8j_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LvtLAdoy882K8j_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LvtLAdoy882K8j.JPG"
+        }
+    }
+}

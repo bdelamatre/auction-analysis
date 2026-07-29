@@ -1,0 +1,58 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/prop-lever-action-rifle_150c0d09e3",
+    "slug": "prop-lever-action-rifle_150c0d09e3",
+    "lot_number": "1276",
+    "title": "PROP LEVER ACTION RIFLE",
+    "estimate_low": 200,
+    "estimate_high": 400,
+    "current_bid": 50,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 6,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L07fqxGHIXQyVb_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LJExMEicspOJCo_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LvUTOem31Ugl8i_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L0HpvZR32WW2ob_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lt6KbubmDz2UYT_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LSWKgOlTsl8Wdw_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LIt8JL1hsLUYfz": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LIt8JL1hsLUYfz_thz.JPG"
+        },
+        "H0134-LjGHyBvphav2bm": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LjGHyBvphav2bm_thz.JPG"
+        },
+        "H0134-L07fqxGHIXQyVb": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L07fqxGHIXQyVb_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L07fqxGHIXQyVb_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L07fqxGHIXQyVb.JPG"
+        },
+        "H0134-LJExMEicspOJCo": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LJExMEicspOJCo_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LJExMEicspOJCo_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LJExMEicspOJCo.JPG"
+        },
+        "H0134-LvUTOem31Ugl8i": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LvUTOem31Ugl8i_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LvUTOem31Ugl8i_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LvUTOem31Ugl8i.JPG"
+        },
+        "H0134-L0HpvZR32WW2ob": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L0HpvZR32WW2ob_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L0HpvZR32WW2ob_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L0HpvZR32WW2ob.JPG"
+        },
+        "H0134-Lt6KbubmDz2UYT": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lt6KbubmDz2UYT_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lt6KbubmDz2UYT_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lt6KbubmDz2UYT.JPG"
+        },
+        "H0134-LSWKgOlTsl8Wdw": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LSWKgOlTsl8Wdw_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LSWKgOlTsl8Wdw_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LSWKgOlTsl8Wdw.JPG"
+        }
+    }
+}

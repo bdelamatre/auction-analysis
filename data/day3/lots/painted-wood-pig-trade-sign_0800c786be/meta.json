@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/painted-wood-pig-trade-sign_0800c786be",
+    "slug": "painted-wood-pig-trade-sign_0800c786be",
+    "lot_number": "3017",
+    "title": "PAINTED WOOD PIG TRADE SIGN",
+    "estimate_low": 1000,
+    "estimate_high": 1500,
+    "current_bid": 500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LqX5fMkFw9x4RR_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L2mlmpGquNx9En_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-Lx20nXsRCbF42T": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lx20nXsRCbF42T_thz.JPG"
+        },
+        "H0134-LdsnD6KmpjgEGT": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LdsnD6KmpjgEGT_thz.JPG"
+        },
+        "H0134-LqX5fMkFw9x4RR": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LqX5fMkFw9x4RR_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LqX5fMkFw9x4RR_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LqX5fMkFw9x4RR.JPG"
+        },
+        "H0134-L2mlmpGquNx9En": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L2mlmpGquNx9En_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L2mlmpGquNx9En_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L2mlmpGquNx9En.JPG"
+        }
+    }
+}

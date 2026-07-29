@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/tony-bell-ca-tx-1950-199_9764c789c4",
+    "slug": "tony-bell-ca-tx-1950-199_9764c789c4",
+    "lot_number": "1424",
+    "title": "TONY BELL (CA/TX, 1950-199)",
+    "estimate_low": 300,
+    "estimate_high": 400,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LhQ1D00Ag5XF1v_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LAPvasuZhQkIYS_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LvnXqAxhRV9TZq_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LxgtfBVBjcGdUE_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LlmRceV4r9Qrv4": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LlmRceV4r9Qrv4_thz.JPG"
+        },
+        "H0134-LMJ1QmsP9gkTDo": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LMJ1QmsP9gkTDo_thz.JPG"
+        },
+        "H0134-LhQ1D00Ag5XF1v": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LhQ1D00Ag5XF1v_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LhQ1D00Ag5XF1v_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LhQ1D00Ag5XF1v.JPG"
+        },
+        "H0134-LAPvasuZhQkIYS": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LAPvasuZhQkIYS_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LAPvasuZhQkIYS_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LAPvasuZhQkIYS.JPG"
+        },
+        "H0134-LvnXqAxhRV9TZq": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LvnXqAxhRV9TZq_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LvnXqAxhRV9TZq_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LvnXqAxhRV9TZq.JPG"
+        },
+        "H0134-LxgtfBVBjcGdUE": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LxgtfBVBjcGdUE_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LxgtfBVBjcGdUE_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LxgtfBVBjcGdUE.JPG"
+        }
+    }
+}

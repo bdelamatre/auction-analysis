@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/george-m-hathaway-me-uk-1852-1903_8901b87ff0",
+    "slug": "george-m-hathaway-me-uk-1852-1903_8901b87ff0",
+    "lot_number": "3380",
+    "title": "GEORGE M. HATHAWAY (ME/UK, 1852-1903)",
+    "estimate_low": 700,
+    "estimate_high": 900,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LNMm6Kaigvh0om_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LjUy356tJMbXjp_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LmYRCLbB8s2RKx_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LM5tmC23YXdEPF_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LOZk8lg5oE1Pib": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LOZk8lg5oE1Pib_thz.JPG"
+        },
+        "H0134-LvLObWaUslaFcC": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LvLObWaUslaFcC_thz.JPG"
+        },
+        "H0134-LNMm6Kaigvh0om": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LNMm6Kaigvh0om_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LNMm6Kaigvh0om_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LNMm6Kaigvh0om.JPG"
+        },
+        "H0134-LjUy356tJMbXjp": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LjUy356tJMbXjp_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LjUy356tJMbXjp_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LjUy356tJMbXjp.JPG"
+        },
+        "H0134-LmYRCLbB8s2RKx": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LmYRCLbB8s2RKx_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LmYRCLbB8s2RKx_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LmYRCLbB8s2RKx.JPG"
+        },
+        "H0134-LM5tmC23YXdEPF": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LM5tmC23YXdEPF_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LM5tmC23YXdEPF_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LM5tmC23YXdEPF.JPG"
+        }
+    }
+}

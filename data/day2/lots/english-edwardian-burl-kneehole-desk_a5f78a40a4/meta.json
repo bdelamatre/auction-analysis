@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/english-edwardian-burl-kneehole-desk_a5f78a40a4",
+    "slug": "english-edwardian-burl-kneehole-desk_a5f78a40a4",
+    "lot_number": "2304",
+    "title": "ENGLISH EDWARDIAN BURL KNEEHOLE DESK",
+    "estimate_low": 800,
+    "estimate_high": 1200,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LAyenxolie4wVo_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LRVjAKZpIJYIGd_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lgvlivf5rJ7phi_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LtOKaWGZlTL4PZ_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LVJakhXq0sNNyA": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LVJakhXq0sNNyA_thz.JPG"
+        },
+        "H0134-LRzF3gLdFoTqj1": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LRzF3gLdFoTqj1_thz.JPG"
+        },
+        "H0134-LAyenxolie4wVo": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LAyenxolie4wVo_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LAyenxolie4wVo_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LAyenxolie4wVo.JPG"
+        },
+        "H0134-LRVjAKZpIJYIGd": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LRVjAKZpIJYIGd_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LRVjAKZpIJYIGd_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LRVjAKZpIJYIGd.JPG"
+        },
+        "H0134-Lgvlivf5rJ7phi": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lgvlivf5rJ7phi_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lgvlivf5rJ7phi_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lgvlivf5rJ7phi.JPG"
+        },
+        "H0134-LtOKaWGZlTL4PZ": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LtOKaWGZlTL4PZ_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LtOKaWGZlTL4PZ_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LtOKaWGZlTL4PZ.JPG"
+        }
+    }
+}

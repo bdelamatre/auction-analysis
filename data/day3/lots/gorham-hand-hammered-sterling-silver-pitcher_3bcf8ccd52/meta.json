@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/gorham-hand-hammered-sterling-silver-pitcher_3bcf8ccd52",
+    "slug": "gorham-hand-hammered-sterling-silver-pitcher_3bcf8ccd52",
+    "lot_number": "3146",
+    "title": "GORHAM HAND HAMMERED STERLING SILVER PITCHER",
+    "estimate_low": 1200,
+    "estimate_high": 1600,
+    "current_bid": 600,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LoeINBium9FWei_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LfjzMXVIt3ebJV_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LYUY6N3M1YcODu_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-L0C8tnKEsrzO6j": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L0C8tnKEsrzO6j_thz.JPG"
+        },
+        "H0134-LzAG0KUD7mUmbX": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LzAG0KUD7mUmbX_thz.JPG"
+        },
+        "H0134-LoeINBium9FWei": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LoeINBium9FWei_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LoeINBium9FWei_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LoeINBium9FWei.JPG"
+        },
+        "H0134-LfjzMXVIt3ebJV": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LfjzMXVIt3ebJV_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LfjzMXVIt3ebJV_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LfjzMXVIt3ebJV.JPG"
+        },
+        "H0134-LYUY6N3M1YcODu": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LYUY6N3M1YcODu_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LYUY6N3M1YcODu_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LYUY6N3M1YcODu.JPG"
+        }
+    }
+}

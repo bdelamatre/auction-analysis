@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/charles-stepule-ct-ma-1911-2006_862528d12f",
+    "slug": "charles-stepule-ct-ma-1911-2006_862528d12f",
+    "lot_number": "1108",
+    "title": "CHARLES STEPULE (CT/MA, 1911-2006)",
+    "estimate_low": 800,
+    "estimate_high": 1200,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LZSTnzF7JZAgFP_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LVd7uRwm3HmgxB_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LmA11EckyL0fXA_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LjLFI8fBBstFjG_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LirYOeJnEBgKRS": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LirYOeJnEBgKRS_thz.JPG"
+        },
+        "H0134-LbAND1WOPXPaT5": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LbAND1WOPXPaT5_thz.JPG"
+        },
+        "H0134-LZSTnzF7JZAgFP": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LZSTnzF7JZAgFP_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LZSTnzF7JZAgFP_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LZSTnzF7JZAgFP.JPG"
+        },
+        "H0134-LVd7uRwm3HmgxB": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LVd7uRwm3HmgxB_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LVd7uRwm3HmgxB_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LVd7uRwm3HmgxB.JPG"
+        },
+        "H0134-LmA11EckyL0fXA": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LmA11EckyL0fXA_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LmA11EckyL0fXA_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LmA11EckyL0fXA.JPG"
+        },
+        "H0134-LjLFI8fBBstFjG": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LjLFI8fBBstFjG_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LjLFI8fBBstFjG_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LjLFI8fBBstFjG.JPG"
+        }
+    }
+}

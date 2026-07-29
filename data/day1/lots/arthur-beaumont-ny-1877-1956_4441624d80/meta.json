@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/arthur-beaumont-ny-1877-1956_4441624d80",
+    "slug": "arthur-beaumont-ny-1877-1956_4441624d80",
+    "lot_number": "1038",
+    "title": "ARTHUR BEAUMONT (NY, 1877-1956)",
+    "estimate_low": 300,
+    "estimate_high": 400,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L1UL0VYB89o6Fq_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LWHlPS5EtwCpX4_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LeFaAUaicjSLVl_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L3h0fSsgRN0jfX_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LrXuxlemwQfQLZ": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LrXuxlemwQfQLZ_thz.JPG"
+        },
+        "H0134-Lb4QpIpRQyRuVX": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lb4QpIpRQyRuVX_thz.JPG"
+        },
+        "H0134-L1UL0VYB89o6Fq": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L1UL0VYB89o6Fq_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L1UL0VYB89o6Fq_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L1UL0VYB89o6Fq.JPG"
+        },
+        "H0134-LWHlPS5EtwCpX4": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LWHlPS5EtwCpX4_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LWHlPS5EtwCpX4_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LWHlPS5EtwCpX4.JPG"
+        },
+        "H0134-LeFaAUaicjSLVl": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LeFaAUaicjSLVl_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LeFaAUaicjSLVl_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LeFaAUaicjSLVl.JPG"
+        },
+        "H0134-L3h0fSsgRN0jfX": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L3h0fSsgRN0jfX_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L3h0fSsgRN0jfX_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L3h0fSsgRN0jfX.JPG"
+        }
+    }
+}

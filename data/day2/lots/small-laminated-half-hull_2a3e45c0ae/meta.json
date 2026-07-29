@@ -1,0 +1,27 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/small-laminated-half-hull_2a3e45c0ae",
+    "slug": "small-laminated-half-hull_2a3e45c0ae",
+    "lot_number": "2112",
+    "title": "SMALL LAMINATED HALF HULL",
+    "estimate_low": 200,
+    "estimate_high": 300,
+    "current_bid": 50,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 1,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LRXDaDP2wIpvzN_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-L3p4ummCsqcGBk": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L3p4ummCsqcGBk_thz.JPG"
+        },
+        "H0134-LesCjpuw8PayyD": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LesCjpuw8PayyD_thz.JPG"
+        },
+        "H0134-LRXDaDP2wIpvzN": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LRXDaDP2wIpvzN_original.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LRXDaDP2wIpvzN.JPG"
+        }
+    }
+}

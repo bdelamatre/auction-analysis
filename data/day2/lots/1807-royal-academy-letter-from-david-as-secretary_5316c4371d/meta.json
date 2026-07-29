@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/1807-royal-academy-letter-from-david-as-secretary_5316c4371d",
+    "slug": "1807-royal-academy-letter-from-david-as-secretary_5316c4371d",
+    "lot_number": "2318",
+    "title": "1807 ROYAL ACADEMY LETTER FROM DAVID AS SECRETARY",
+    "estimate_low": 1000,
+    "estimate_high": 1500,
+    "current_bid": 500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LDxafYnQJosnIn_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lc3Oa1hVHpSiMO_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LvQeUdB9YV4VML_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LLLd5vz7uJ7Ufb_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LPA2P5sM6C31WL": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LPA2P5sM6C31WL_thz.JPG"
+        },
+        "H0134-LdUYU7SawpBga9": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LdUYU7SawpBga9_thz.JPG"
+        },
+        "H0134-LDxafYnQJosnIn": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LDxafYnQJosnIn_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LDxafYnQJosnIn_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LDxafYnQJosnIn.JPG"
+        },
+        "H0134-Lc3Oa1hVHpSiMO": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lc3Oa1hVHpSiMO_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lc3Oa1hVHpSiMO_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lc3Oa1hVHpSiMO.JPG"
+        },
+        "H0134-LvQeUdB9YV4VML": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LvQeUdB9YV4VML_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LvQeUdB9YV4VML_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LvQeUdB9YV4VML.JPG"
+        },
+        "H0134-LLLd5vz7uJ7Ufb": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LLLd5vz7uJ7Ufb_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LLLd5vz7uJ7Ufb_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LLLd5vz7uJ7Ufb.JPG"
+        }
+    }
+}

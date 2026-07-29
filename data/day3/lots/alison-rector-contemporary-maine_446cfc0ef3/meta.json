@@ -1,0 +1,52 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/alison-rector-contemporary-maine_446cfc0ef3",
+    "slug": "alison-rector-contemporary-maine_446cfc0ef3",
+    "lot_number": "3432",
+    "title": "ALISON RECTOR (CONTEMPORARY MAINE)",
+    "estimate_low": 1500,
+    "estimate_high": 2500,
+    "current_bid": 750,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 5,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L49H8J8y0P2oKy_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LZ2Bil0LuHlZNr_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LphgqEQanA5feg_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LdRwjJWtHi7F9X_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lz5XGMTZLc68GW_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-Lk2CKqedMs7C10": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lk2CKqedMs7C10_thz.JPG"
+        },
+        "H0134-Lm4pxmcBHHcnQH": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lm4pxmcBHHcnQH_thz.JPG"
+        },
+        "H0134-L49H8J8y0P2oKy": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L49H8J8y0P2oKy_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L49H8J8y0P2oKy_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L49H8J8y0P2oKy.JPG"
+        },
+        "H0134-LZ2Bil0LuHlZNr": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LZ2Bil0LuHlZNr_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LZ2Bil0LuHlZNr_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LZ2Bil0LuHlZNr.JPG"
+        },
+        "H0134-LphgqEQanA5feg": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LphgqEQanA5feg_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LphgqEQanA5feg_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LphgqEQanA5feg.JPG"
+        },
+        "H0134-LdRwjJWtHi7F9X": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LdRwjJWtHi7F9X_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LdRwjJWtHi7F9X_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LdRwjJWtHi7F9X.JPG"
+        },
+        "H0134-Lz5XGMTZLc68GW": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lz5XGMTZLc68GW_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lz5XGMTZLc68GW_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lz5XGMTZLc68GW.JPG"
+        }
+    }
+}

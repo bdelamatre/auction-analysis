@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/perry-winkler-contemporary-pennsylvania_4e8dcae627",
+    "slug": "perry-winkler-contemporary-pennsylvania_4e8dcae627",
+    "lot_number": "1146",
+    "title": "PERRY WINKLER (CONTEMPORARY PENNSYLVANIA)",
+    "estimate_low": 600,
+    "estimate_high": 800,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LvAba4C8MRtIH7_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LR8abj3ov1oF46_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LTXmJLxQTIv0vT_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LsN6KM8YpxJTLy": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LsN6KM8YpxJTLy_thz.JPG"
+        },
+        "H0134-LT4Spm0rOmr6vX": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LT4Spm0rOmr6vX_thz.JPG"
+        },
+        "H0134-LvAba4C8MRtIH7": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LvAba4C8MRtIH7_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LvAba4C8MRtIH7_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LvAba4C8MRtIH7.JPG"
+        },
+        "H0134-LR8abj3ov1oF46": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LR8abj3ov1oF46_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LR8abj3ov1oF46_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LR8abj3ov1oF46.JPG"
+        },
+        "H0134-LTXmJLxQTIv0vT": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LTXmJLxQTIv0vT_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LTXmJLxQTIv0vT_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LTXmJLxQTIv0vT.JPG"
+        }
+    }
+}

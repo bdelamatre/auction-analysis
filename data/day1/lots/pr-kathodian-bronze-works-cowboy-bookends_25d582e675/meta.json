@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/pr-kathodian-bronze-works-cowboy-bookends_25d582e675",
+    "slug": "pr-kathodian-bronze-works-cowboy-bookends_25d582e675",
+    "lot_number": "1131",
+    "title": "PR KATHODIAN BRONZE WORKS COWBOY BOOKENDS",
+    "estimate_low": 400,
+    "estimate_high": 600,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LQmAksGzxVQAgI_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LzOZeil3Hm6KaI_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L8le9i7kozZMGg_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-L6XNE87ltaq6Bz": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L6XNE87ltaq6Bz_thz.JPG"
+        },
+        "H0134-LUXzGXAr9r57xp": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LUXzGXAr9r57xp_thz.JPG"
+        },
+        "H0134-LQmAksGzxVQAgI": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LQmAksGzxVQAgI_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LQmAksGzxVQAgI_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LQmAksGzxVQAgI.JPG"
+        },
+        "H0134-LzOZeil3Hm6KaI": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LzOZeil3Hm6KaI_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LzOZeil3Hm6KaI_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LzOZeil3Hm6KaI.JPG"
+        },
+        "H0134-L8le9i7kozZMGg": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L8le9i7kozZMGg_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L8le9i7kozZMGg_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L8le9i7kozZMGg.JPG"
+        }
+    }
+}

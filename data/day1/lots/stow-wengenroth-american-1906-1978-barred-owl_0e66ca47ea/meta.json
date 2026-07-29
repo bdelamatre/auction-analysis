@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/stow-wengenroth-american-1906-1978-barred-owl_0e66ca47ea",
+    "slug": "stow-wengenroth-american-1906-1978-barred-owl_0e66ca47ea",
+    "lot_number": "1308",
+    "title": "STOW WENGENROTH (AMERICAN, 1906-1978), BARRED OWL",
+    "estimate_low": 600,
+    "estimate_high": 800,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lp6Pn38OVHwmwc_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L3EY8DRDEErJTg_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LvW0AJ8WF2TByP_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LGLzliZ9S6HUpE_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LPTy7Ce1hmMm6P": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LPTy7Ce1hmMm6P_thz.JPG"
+        },
+        "H0134-L8TaSPaW3anGmM": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L8TaSPaW3anGmM_thz.JPG"
+        },
+        "H0134-Lp6Pn38OVHwmwc": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lp6Pn38OVHwmwc_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lp6Pn38OVHwmwc_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lp6Pn38OVHwmwc.JPG"
+        },
+        "H0134-L3EY8DRDEErJTg": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L3EY8DRDEErJTg_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L3EY8DRDEErJTg_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L3EY8DRDEErJTg.JPG"
+        },
+        "H0134-LvW0AJ8WF2TByP": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LvW0AJ8WF2TByP_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LvW0AJ8WF2TByP_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LvW0AJ8WF2TByP.JPG"
+        },
+        "H0134-LGLzliZ9S6HUpE": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LGLzliZ9S6HUpE_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LGLzliZ9S6HUpE_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LGLzliZ9S6HUpE.JPG"
+        }
+    }
+}

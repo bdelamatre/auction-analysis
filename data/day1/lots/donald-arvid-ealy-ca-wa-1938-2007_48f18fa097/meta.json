@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/donald-arvid-ealy-ca-wa-1938-2007_48f18fa097",
+    "slug": "donald-arvid-ealy-ca-wa-1938-2007_48f18fa097",
+    "lot_number": "1054",
+    "title": "DONALD ARVID EALY (CA/WA, 1938-2007)",
+    "estimate_low": 400,
+    "estimate_high": 600,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L8MI40Q0xhGKqU_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lp8DUo2fhZAsfA_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lqas6Y3UkypIP6_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LhwOmROqoitbtr": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LhwOmROqoitbtr_thz.JPG"
+        },
+        "H0134-LTA0oeK3sIbqAm": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LTA0oeK3sIbqAm_thz.JPG"
+        },
+        "H0134-L8MI40Q0xhGKqU": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L8MI40Q0xhGKqU_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L8MI40Q0xhGKqU_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L8MI40Q0xhGKqU.JPG"
+        },
+        "H0134-Lp8DUo2fhZAsfA": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lp8DUo2fhZAsfA_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lp8DUo2fhZAsfA_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lp8DUo2fhZAsfA.JPG"
+        },
+        "H0134-Lqas6Y3UkypIP6": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lqas6Y3UkypIP6_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lqas6Y3UkypIP6_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lqas6Y3UkypIP6.JPG"
+        }
+    }
+}

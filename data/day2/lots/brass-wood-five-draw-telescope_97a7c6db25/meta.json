@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/brass-wood-five-draw-telescope_97a7c6db25",
+    "slug": "brass-wood-five-draw-telescope_97a7c6db25",
+    "lot_number": "2061",
+    "title": "BRASS & WOOD FIVE DRAW TELESCOPE",
+    "estimate_low": 300,
+    "estimate_high": 400,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LIGjU0cACcZ63A_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lv0PmtNPgpHwmT_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LX1VsUWjQAx0Cs_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LYDJlYlK7eV07v_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LpKB2UNis2SJw6": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LpKB2UNis2SJw6_thz.JPG"
+        },
+        "H0134-LjY06LFYJLRMue": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LjY06LFYJLRMue_thz.JPG"
+        },
+        "H0134-LIGjU0cACcZ63A": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LIGjU0cACcZ63A_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LIGjU0cACcZ63A_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LIGjU0cACcZ63A.JPG"
+        },
+        "H0134-Lv0PmtNPgpHwmT": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lv0PmtNPgpHwmT_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lv0PmtNPgpHwmT_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lv0PmtNPgpHwmT.JPG"
+        },
+        "H0134-LX1VsUWjQAx0Cs": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LX1VsUWjQAx0Cs_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LX1VsUWjQAx0Cs_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LX1VsUWjQAx0Cs.JPG"
+        },
+        "H0134-LYDJlYlK7eV07v": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LYDJlYlK7eV07v_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LYDJlYlK7eV07v_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LYDJlYlK7eV07v.JPG"
+        }
+    }
+}

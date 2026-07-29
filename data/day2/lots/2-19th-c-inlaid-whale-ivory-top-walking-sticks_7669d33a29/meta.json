@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/2-19th-c-inlaid-whale-ivory-top-walking-sticks_7669d33a29",
+    "slug": "2-19th-c-inlaid-whale-ivory-top-walking-sticks_7669d33a29",
+    "lot_number": "2051",
+    "title": "(2) 19TH C. INLAID WHALE IVORY TOP WALKING STICKS",
+    "estimate_low": 500,
+    "estimate_high": 700,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LYstketNgwtf6x_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LzXpNh6fHllPGG_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LRYcyr4thMskKZ": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LRYcyr4thMskKZ_thz.JPG"
+        },
+        "H0134-LYKgeudQEb7kF5": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LYKgeudQEb7kF5_thz.JPG"
+        },
+        "H0134-LYstketNgwtf6x": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LYstketNgwtf6x_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LYstketNgwtf6x_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LYstketNgwtf6x.JPG"
+        },
+        "H0134-LzXpNh6fHllPGG": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LzXpNh6fHllPGG_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LzXpNh6fHllPGG_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LzXpNh6fHllPGG.JPG"
+        }
+    }
+}

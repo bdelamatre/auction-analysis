@@ -1,0 +1,27 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/mid-1960s-nantucket-scrimshaw-do-it-yourself-kit_b19ed46b08",
+    "slug": "mid-1960s-nantucket-scrimshaw-do-it-yourself-kit_b19ed46b08",
+    "lot_number": "1283",
+    "title": "MID-1960's NANTUCKET SCRIMSHAW DO IT YOURSELF KIT",
+    "estimate_low": 200,
+    "estimate_high": 300,
+    "current_bid": 50,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 1,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LKqjDePH7pVm0f_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-L81EKmaMhV9RDA": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L81EKmaMhV9RDA_thz.JPG"
+        },
+        "H0134-L7Ru7gUUSyi9j3": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L7Ru7gUUSyi9j3_thz.JPG"
+        },
+        "H0134-LKqjDePH7pVm0f": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LKqjDePH7pVm0f_original.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LKqjDePH7pVm0f.JPG"
+        }
+    }
+}

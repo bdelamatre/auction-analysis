@@ -1,0 +1,52 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/attributed-to-jean-leon-gerome-france-1824-1904_a190aa01c3",
+    "slug": "attributed-to-jean-leon-gerome-france-1824-1904_a190aa01c3",
+    "lot_number": "2347",
+    "title": "ATTRIBUTED TO JEAN-LEON GEROME (FRANCE, 1824-1904)",
+    "estimate_low": 10000,
+    "estimate_high": 15000,
+    "current_bid": 5000,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 5,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LPrmjJy7lrtJsk_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lrcwdx9FGlQQP4_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L66nYEol3ZFm3g_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LlrzaSUI0BK3jS_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LlMdnIFuKTnyAl_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LW5C43qpNh64dz": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LW5C43qpNh64dz_thz.JPG"
+        },
+        "H0134-LCZUc6FMU2se98": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LCZUc6FMU2se98_thz.JPG"
+        },
+        "H0134-LPrmjJy7lrtJsk": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LPrmjJy7lrtJsk_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LPrmjJy7lrtJsk_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LPrmjJy7lrtJsk.JPG"
+        },
+        "H0134-Lrcwdx9FGlQQP4": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lrcwdx9FGlQQP4_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lrcwdx9FGlQQP4_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lrcwdx9FGlQQP4.JPG"
+        },
+        "H0134-L66nYEol3ZFm3g": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L66nYEol3ZFm3g_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L66nYEol3ZFm3g_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L66nYEol3ZFm3g.JPG"
+        },
+        "H0134-LlrzaSUI0BK3jS": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LlrzaSUI0BK3jS_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LlrzaSUI0BK3jS_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LlrzaSUI0BK3jS.JPG"
+        },
+        "H0134-LlMdnIFuKTnyAl": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LlMdnIFuKTnyAl_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LlMdnIFuKTnyAl_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LlMdnIFuKTnyAl.JPG"
+        }
+    }
+}

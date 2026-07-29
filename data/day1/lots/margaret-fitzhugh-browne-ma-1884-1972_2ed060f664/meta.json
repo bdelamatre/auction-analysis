@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/margaret-fitzhugh-browne-ma-1884-1972_2ed060f664",
+    "slug": "margaret-fitzhugh-browne-ma-1884-1972_2ed060f664",
+    "lot_number": "1062",
+    "title": "MARGARET FITZHUGH BROWNE (MA, 1884-1972)",
+    "estimate_low": 400,
+    "estimate_high": 600,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LMPhuLS1ooSeJN_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LfVsT7l9D3VNg2_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Luk1h5Hzm5AMqO_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LZF02lrzW48B9h_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LhQR2jiVxaN2vf": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LhQR2jiVxaN2vf_thz.JPG"
+        },
+        "H0134-LBhWyZfMMy1Y7q": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LBhWyZfMMy1Y7q_thz.JPG"
+        },
+        "H0134-LMPhuLS1ooSeJN": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LMPhuLS1ooSeJN_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LMPhuLS1ooSeJN_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LMPhuLS1ooSeJN.JPG"
+        },
+        "H0134-LfVsT7l9D3VNg2": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LfVsT7l9D3VNg2_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LfVsT7l9D3VNg2_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LfVsT7l9D3VNg2.JPG"
+        },
+        "H0134-Luk1h5Hzm5AMqO": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Luk1h5Hzm5AMqO_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Luk1h5Hzm5AMqO_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Luk1h5Hzm5AMqO.JPG"
+        },
+        "H0134-LZF02lrzW48B9h": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LZF02lrzW48B9h_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LZF02lrzW48B9h_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LZF02lrzW48B9h.JPG"
+        }
+    }
+}

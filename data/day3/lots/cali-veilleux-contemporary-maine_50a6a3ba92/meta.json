@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/cali-veilleux-contemporary-maine_50a6a3ba92",
+    "slug": "cali-veilleux-contemporary-maine_50a6a3ba92",
+    "lot_number": "3457",
+    "title": "CALI VEILLEUX (CONTEMPORARY MAINE)",
+    "estimate_low": 800,
+    "estimate_high": 1200,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LyFgOXcugFZtcc_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Ln3BM6sLdYkACb_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LPecINQbuROJw3_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LmMtRmrkGzK4zj_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-Lhnsn7UVVnPTxC": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lhnsn7UVVnPTxC_thz.JPG"
+        },
+        "H0134-L3RESMT3J1bglR": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L3RESMT3J1bglR_thz.JPG"
+        },
+        "H0134-LyFgOXcugFZtcc": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LyFgOXcugFZtcc_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LyFgOXcugFZtcc_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LyFgOXcugFZtcc.JPG"
+        },
+        "H0134-Ln3BM6sLdYkACb": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Ln3BM6sLdYkACb_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Ln3BM6sLdYkACb_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Ln3BM6sLdYkACb.JPG"
+        },
+        "H0134-LPecINQbuROJw3": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LPecINQbuROJw3_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LPecINQbuROJw3_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LPecINQbuROJw3.JPG"
+        },
+        "H0134-LmMtRmrkGzK4zj": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LmMtRmrkGzK4zj_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LmMtRmrkGzK4zj_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LmMtRmrkGzK4zj.JPG"
+        }
+    }
+}

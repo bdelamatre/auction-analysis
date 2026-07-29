@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/mid-19th-c-coverlet-samuel-mundwiler-seneca-co-oh_864b3d2407",
+    "slug": "mid-19th-c-coverlet-samuel-mundwiler-seneca-co-oh_864b3d2407",
+    "lot_number": "2134",
+    "title": "MID-19TH C. COVERLET, SAMUEL MUNDWILER, SENECA CO., OH",
+    "estimate_low": 300,
+    "estimate_high": 500,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LhAgUqFJ6BKXf5_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LoKC3hNiDHyQ70_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LdamZo7qwJJImN_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LgrEzjNsQq0e0v": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LgrEzjNsQq0e0v_thz.JPG"
+        },
+        "H0134-LiSTqdMnatpIRf": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LiSTqdMnatpIRf_thz.JPG"
+        },
+        "H0134-LhAgUqFJ6BKXf5": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LhAgUqFJ6BKXf5_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LhAgUqFJ6BKXf5_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LhAgUqFJ6BKXf5.JPG"
+        },
+        "H0134-LoKC3hNiDHyQ70": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LoKC3hNiDHyQ70_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LoKC3hNiDHyQ70_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LoKC3hNiDHyQ70.JPG"
+        },
+        "H0134-LdamZo7qwJJImN": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LdamZo7qwJJImN_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LdamZo7qwJJImN_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LdamZo7qwJJImN.JPG"
+        }
+    }
+}

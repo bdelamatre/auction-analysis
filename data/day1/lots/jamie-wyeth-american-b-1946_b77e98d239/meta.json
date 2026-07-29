@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/jamie-wyeth-american-b-1946_b77e98d239",
+    "slug": "jamie-wyeth-american-b-1946_b77e98d239",
+    "lot_number": "1162",
+    "title": "JAMIE WYETH (AMERICAN, B. 1946)",
+    "estimate_low": 300,
+    "estimate_high": 400,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lu4w50biXQBESL_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LjSi6WB5QzKvYT_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LCcckbjhqHNVTx": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LCcckbjhqHNVTx_thz.JPG"
+        },
+        "H0134-LuIxq0YrNgjhov": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LuIxq0YrNgjhov_thz.JPG"
+        },
+        "H0134-Lu4w50biXQBESL": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lu4w50biXQBESL_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lu4w50biXQBESL_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lu4w50biXQBESL.JPG"
+        },
+        "H0134-LjSi6WB5QzKvYT": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LjSi6WB5QzKvYT_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LjSi6WB5QzKvYT_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LjSi6WB5QzKvYT.JPG"
+        }
+    }
+}

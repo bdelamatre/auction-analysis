@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/circa-1920-table-lamp-with-reverse-painted-glass-_8879c9c01b",
+    "slug": "circa-1920-table-lamp-with-reverse-painted-glass-_8879c9c01b",
+    "lot_number": "3059",
+    "title": "CIRCA 1920 TABLE LAMP WITH REVERSE PAINTED GLASS SHADE",
+    "estimate_low": 500,
+    "estimate_high": 700,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LDhm5NWjPuahTT_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LDfEMHpUh8cqqY_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-Lb9YhYAdmCzN26": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lb9YhYAdmCzN26_thz.JPG"
+        },
+        "H0134-LhvzkaXFth3Cbf": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LhvzkaXFth3Cbf_thz.JPG"
+        },
+        "H0134-LDhm5NWjPuahTT": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LDhm5NWjPuahTT_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LDhm5NWjPuahTT_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LDhm5NWjPuahTT.JPG"
+        },
+        "H0134-LDfEMHpUh8cqqY": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LDfEMHpUh8cqqY_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LDfEMHpUh8cqqY_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LDfEMHpUh8cqqY.JPG"
+        }
+    }
+}

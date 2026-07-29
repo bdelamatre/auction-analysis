@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/louis-doyle-norton-me-nh-1868-1940_e7abb723bb",
+    "slug": "louis-doyle-norton-me-nh-1868-1940_e7abb723bb",
+    "lot_number": "1458",
+    "title": "LOUIS DOYLE NORTON (ME/NH, 1868-1940)",
+    "estimate_low": 400,
+    "estimate_high": 600,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LBvN3a6U1AozzI_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LfrpoDlhX9GXFM_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lxo0SNDoTiur14_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LJmDppxKiHJocb": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LJmDppxKiHJocb_thz.JPG"
+        },
+        "H0134-LL1IdqmLKtc7Q1": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LL1IdqmLKtc7Q1_thz.JPG"
+        },
+        "H0134-LBvN3a6U1AozzI": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LBvN3a6U1AozzI_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LBvN3a6U1AozzI_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LBvN3a6U1AozzI.JPG"
+        },
+        "H0134-LfrpoDlhX9GXFM": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LfrpoDlhX9GXFM_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LfrpoDlhX9GXFM_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LfrpoDlhX9GXFM.JPG"
+        },
+        "H0134-Lxo0SNDoTiur14": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lxo0SNDoTiur14_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lxo0SNDoTiur14_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lxo0SNDoTiur14.JPG"
+        }
+    }
+}

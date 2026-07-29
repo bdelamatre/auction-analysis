@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/unsigned-nude-study_b71cf5af5a",
+    "slug": "unsigned-nude-study_b71cf5af5a",
+    "lot_number": "1457",
+    "title": "UNSIGNED NUDE STUDY",
+    "estimate_low": 400,
+    "estimate_high": 600,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LJmDppxKiHJocb_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LnqRbl2dEMOIek_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LihbpFHxxsVELX_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-L6uRgAuHogZnMR": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L6uRgAuHogZnMR_thz.JPG"
+        },
+        "H0134-LBvN3a6U1AozzI": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LBvN3a6U1AozzI_thz.JPG"
+        },
+        "H0134-LJmDppxKiHJocb": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LJmDppxKiHJocb_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LJmDppxKiHJocb_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LJmDppxKiHJocb.JPG"
+        },
+        "H0134-LnqRbl2dEMOIek": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LnqRbl2dEMOIek_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LnqRbl2dEMOIek_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LnqRbl2dEMOIek.JPG"
+        },
+        "H0134-LihbpFHxxsVELX": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LihbpFHxxsVELX_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LihbpFHxxsVELX_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LihbpFHxxsVELX.JPG"
+        }
+    }
+}

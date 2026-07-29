@@ -1,0 +1,37 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/late-18th-c-memento-mori-bone-skeleton-in-wood-co_912a6c8e5d",
+    "slug": "late-18th-c-memento-mori-bone-skeleton-in-wood-co_912a6c8e5d",
+    "lot_number": "2001",
+    "title": "LATE 18TH C. MEMENTO MORI BONE SKELETON IN WOOD COFFIN",
+    "estimate_low": 600,
+    "estimate_high": 800,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LCp2UhDS9nI8b0_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LYUp1KUOODy2OZ_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LhyB3erOT1yHwY_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LigCw9S5yN1lKz": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LigCw9S5yN1lKz_thz.JPG"
+        },
+        "H0134-LCp2UhDS9nI8b0": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LCp2UhDS9nI8b0_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LCp2UhDS9nI8b0_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LCp2UhDS9nI8b0.JPG"
+        },
+        "H0134-LYUp1KUOODy2OZ": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LYUp1KUOODy2OZ_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LYUp1KUOODy2OZ_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LYUp1KUOODy2OZ.JPG"
+        },
+        "H0134-LhyB3erOT1yHwY": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LhyB3erOT1yHwY_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LhyB3erOT1yHwY_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LhyB3erOT1yHwY.JPG"
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/5-vols-french-salon-yearbooks-1889-1893_d46dd33b98",
+    "slug": "5-vols-french-salon-yearbooks-1889-1893_d46dd33b98",
+    "lot_number": "1479",
+    "title": "(5 VOLS) FRENCH SALON YEARBOOKS 1889-1893",
+    "estimate_low": 500,
+    "estimate_high": 700,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 1,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LrxENTAxndz0k5_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LNVTIRrQmOBStw": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LNVTIRrQmOBStw_thz.JPG"
+        },
+        "H0134-L7bgIEqSmbcGBJ": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L7bgIEqSmbcGBJ_thz.JPG"
+        },
+        "H0134-LrxENTAxndz0k5": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LrxENTAxndz0k5_original.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LrxENTAxndz0k5.JPG"
+        }
+    }
+}

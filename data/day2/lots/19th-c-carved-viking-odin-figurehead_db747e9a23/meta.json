@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/19th-c-carved-viking-odin-figurehead_db747e9a23",
+    "slug": "19th-c-carved-viking-odin-figurehead_db747e9a23",
+    "lot_number": "2021",
+    "title": "19TH C. CARVED VIKING ODIN FIGUREHEAD",
+    "estimate_low": 6000,
+    "estimate_high": 8000,
+    "current_bid": 3000,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LSRCkspJlIzlbt_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L2msj6V6oaCeoq_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LmTngkcqx8cs9z_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LDEMAcLozNAVpu": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LDEMAcLozNAVpu_thz.JPG"
+        },
+        "H0134-LqxE7zAQh9MzD2": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LqxE7zAQh9MzD2_thz.JPG"
+        },
+        "H0134-LSRCkspJlIzlbt": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LSRCkspJlIzlbt_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LSRCkspJlIzlbt_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LSRCkspJlIzlbt.JPG"
+        },
+        "H0134-L2msj6V6oaCeoq": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L2msj6V6oaCeoq_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L2msj6V6oaCeoq_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L2msj6V6oaCeoq.JPG"
+        },
+        "H0134-LmTngkcqx8cs9z": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LmTngkcqx8cs9z_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LmTngkcqx8cs9z_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LmTngkcqx8cs9z.JPG"
+        }
+    }
+}

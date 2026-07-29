@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/helen-farr-sloan-ma-ny-1911-2005_cc72b07cf0",
+    "slug": "helen-farr-sloan-ma-ny-1911-2005_cc72b07cf0",
+    "lot_number": "1331",
+    "title": "HELEN FARR (SLOAN) (MA/NY, 1911-2005)",
+    "estimate_low": 400,
+    "estimate_high": 600,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LOGegMTrRyy7gG_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lk4pEPcihCQMKS_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LuHdEs8kpJcfIo_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LIVryntfhBvfqN_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LHyIsB8iRje6Ek": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LHyIsB8iRje6Ek_thz.JPG"
+        },
+        "H0134-Lp6jy7LsWXPNlq": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lp6jy7LsWXPNlq_thz.JPG"
+        },
+        "H0134-LOGegMTrRyy7gG": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LOGegMTrRyy7gG_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LOGegMTrRyy7gG_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LOGegMTrRyy7gG.JPG"
+        },
+        "H0134-Lk4pEPcihCQMKS": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lk4pEPcihCQMKS_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lk4pEPcihCQMKS_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lk4pEPcihCQMKS.JPG"
+        },
+        "H0134-LuHdEs8kpJcfIo": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LuHdEs8kpJcfIo_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LuHdEs8kpJcfIo_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LuHdEs8kpJcfIo.JPG"
+        },
+        "H0134-LIVryntfhBvfqN": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LIVryntfhBvfqN_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LIVryntfhBvfqN_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LIVryntfhBvfqN.JPG"
+        }
+    }
+}

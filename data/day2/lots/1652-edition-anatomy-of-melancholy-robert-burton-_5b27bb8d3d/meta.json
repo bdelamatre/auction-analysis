@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/1652-edition-anatomy-of-melancholy-robert-burton-_5b27bb8d3d",
+    "slug": "1652-edition-anatomy-of-melancholy-robert-burton-_5b27bb8d3d",
+    "lot_number": "2243",
+    "title": "1652 EDITION \"ANATOMY OF MELANCHOLY\" ROBERT BURTON (1577-1640)",
+    "estimate_low": 500,
+    "estimate_high": 700,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LHPoPZzzcuzwvH_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lzf9coc0C2jUsC_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LTqSJlwpgiIcFm_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lf7BDuyjAvNhJI_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LwwxAOrrijlVFF": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LwwxAOrrijlVFF_thz.JPG"
+        },
+        "H0134-LkbHdTPusPj8MQ": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LkbHdTPusPj8MQ_thz.JPG"
+        },
+        "H0134-LHPoPZzzcuzwvH": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LHPoPZzzcuzwvH_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LHPoPZzzcuzwvH_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LHPoPZzzcuzwvH.JPG"
+        },
+        "H0134-Lzf9coc0C2jUsC": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lzf9coc0C2jUsC_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lzf9coc0C2jUsC_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lzf9coc0C2jUsC.JPG"
+        },
+        "H0134-LTqSJlwpgiIcFm": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LTqSJlwpgiIcFm_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LTqSJlwpgiIcFm_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LTqSJlwpgiIcFm.JPG"
+        },
+        "H0134-Lf7BDuyjAvNhJI": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lf7BDuyjAvNhJI_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lf7BDuyjAvNhJI_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lf7BDuyjAvNhJI.JPG"
+        }
+    }
+}

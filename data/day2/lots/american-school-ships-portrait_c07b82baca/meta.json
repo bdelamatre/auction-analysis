@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/american-school-ships-portrait_c07b82baca",
+    "slug": "american-school-ships-portrait_c07b82baca",
+    "lot_number": "2058",
+    "title": "AMERICAN SCHOOL SHIP'S PORTRAIT",
+    "estimate_low": 5000,
+    "estimate_high": 7000,
+    "current_bid": 2500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LSMWQN9df7ZBef_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LdEn26SOsdsNNZ_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LDz5NWIDIDr3kO_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LjjI9jXqS6rlWN_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LT51CDmICeicSh": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LT51CDmICeicSh_thz.JPG"
+        },
+        "H0134-L94tNDtI5nR2fw": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L94tNDtI5nR2fw_thz.JPG"
+        },
+        "H0134-LSMWQN9df7ZBef": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LSMWQN9df7ZBef_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LSMWQN9df7ZBef_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LSMWQN9df7ZBef.JPG"
+        },
+        "H0134-LdEn26SOsdsNNZ": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LdEn26SOsdsNNZ_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LdEn26SOsdsNNZ_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LdEn26SOsdsNNZ.JPG"
+        },
+        "H0134-LDz5NWIDIDr3kO": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LDz5NWIDIDr3kO_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LDz5NWIDIDr3kO_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LDz5NWIDIDr3kO.JPG"
+        },
+        "H0134-LjjI9jXqS6rlWN": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LjjI9jXqS6rlWN_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LjjI9jXqS6rlWN_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LjjI9jXqS6rlWN.JPG"
+        }
+    }
+}

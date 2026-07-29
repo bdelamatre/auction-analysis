@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/vintage-elgin-wristwatch_381102778f",
+    "slug": "vintage-elgin-wristwatch_381102778f",
+    "lot_number": "1301",
+    "title": "VINTAGE ELGIN WRISTWATCH",
+    "estimate_low": 200,
+    "estimate_high": 400,
+    "current_bid": 50,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LGArwkVL4CBWtO_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LrDc07LQBx7TDx_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LQQx56ENISbHtU": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LQQx56ENISbHtU_thz.JPG"
+        },
+        "H0134-LA7sYHCk3rEIcf": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LA7sYHCk3rEIcf_thz.JPG"
+        },
+        "H0134-LGArwkVL4CBWtO": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LGArwkVL4CBWtO_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LGArwkVL4CBWtO_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LGArwkVL4CBWtO.JPG"
+        },
+        "H0134-LrDc07LQBx7TDx": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LrDc07LQBx7TDx_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LrDc07LQBx7TDx_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LrDc07LQBx7TDx.JPG"
+        }
+    }
+}

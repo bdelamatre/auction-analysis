@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/caplan-52-mid-century-shipyard-scene_7b02256e36",
+    "slug": "caplan-52-mid-century-shipyard-scene_7b02256e36",
+    "lot_number": "3324",
+    "title": "\"CAPLAN, 52\" MID-CENTURY SHIPYARD SCENE",
+    "estimate_low": 700,
+    "estimate_high": 900,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LdEJ9sKuiakyJH_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LJQjtXO1zZO9NI_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L3tCJYLY7J9xdm_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lh5HYgFlZdpaiW_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-Lzxiz7ZPflrHV0": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lzxiz7ZPflrHV0_thz.JPG"
+        },
+        "H0134-Li9tPQxuc7vwsN": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Li9tPQxuc7vwsN_thz.JPG"
+        },
+        "H0134-LdEJ9sKuiakyJH": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LdEJ9sKuiakyJH_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LdEJ9sKuiakyJH_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LdEJ9sKuiakyJH.JPG"
+        },
+        "H0134-LJQjtXO1zZO9NI": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LJQjtXO1zZO9NI_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LJQjtXO1zZO9NI_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LJQjtXO1zZO9NI.JPG"
+        },
+        "H0134-L3tCJYLY7J9xdm": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L3tCJYLY7J9xdm_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L3tCJYLY7J9xdm_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L3tCJYLY7J9xdm.JPG"
+        },
+        "H0134-Lh5HYgFlZdpaiW": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lh5HYgFlZdpaiW_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lh5HYgFlZdpaiW_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lh5HYgFlZdpaiW.JPG"
+        }
+    }
+}

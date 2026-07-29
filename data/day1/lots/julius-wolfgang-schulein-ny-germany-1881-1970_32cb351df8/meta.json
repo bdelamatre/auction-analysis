@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/julius-wolfgang-schulein-ny-germany-1881-1970_32cb351df8",
+    "slug": "julius-wolfgang-schulein-ny-germany-1881-1970_32cb351df8",
+    "lot_number": "1048",
+    "title": "JULIUS WOLFGANG SCHULEIN (NY/GERMANY, 1881-1970)",
+    "estimate_low": 400,
+    "estimate_high": 600,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LVizhMJWk0Fe2N_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LBLeHpBpKC3dzi_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LMNDOwuh3fZPAl_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LEHTjfWJ2suw3Q": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LEHTjfWJ2suw3Q_thz.JPG"
+        },
+        "H0134-L4IvRcceCI0cHz": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L4IvRcceCI0cHz_thz.JPG"
+        },
+        "H0134-LVizhMJWk0Fe2N": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LVizhMJWk0Fe2N_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LVizhMJWk0Fe2N_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LVizhMJWk0Fe2N.JPG"
+        },
+        "H0134-LBLeHpBpKC3dzi": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LBLeHpBpKC3dzi_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LBLeHpBpKC3dzi_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LBLeHpBpKC3dzi.JPG"
+        },
+        "H0134-LMNDOwuh3fZPAl": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LMNDOwuh3fZPAl_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LMNDOwuh3fZPAl_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LMNDOwuh3fZPAl.JPG"
+        }
+    }
+}

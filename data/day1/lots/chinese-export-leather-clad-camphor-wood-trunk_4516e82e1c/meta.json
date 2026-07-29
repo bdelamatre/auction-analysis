@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/chinese-export-leather-clad-camphor-wood-trunk_4516e82e1c",
+    "slug": "chinese-export-leather-clad-camphor-wood-trunk_4516e82e1c",
+    "lot_number": "1385",
+    "title": "CHINESE EXPORT LEATHER CLAD CAMPHOR WOOD TRUNK",
+    "estimate_low": 200,
+    "estimate_high": 300,
+    "current_bid": 50,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LAp9UweuNI9bjb_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LMJnT5zuG6lqVM_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LnSbhPpHko8aI6_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L2WWtfzxBEqfqU_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LsgEbPekvHXPpN": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LsgEbPekvHXPpN_thz.JPG"
+        },
+        "H0134-LnYiPF3a1sc2ub": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LnYiPF3a1sc2ub_thz.JPG"
+        },
+        "H0134-LAp9UweuNI9bjb": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LAp9UweuNI9bjb_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LAp9UweuNI9bjb_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LAp9UweuNI9bjb.JPG"
+        },
+        "H0134-LMJnT5zuG6lqVM": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LMJnT5zuG6lqVM_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LMJnT5zuG6lqVM_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LMJnT5zuG6lqVM.JPG"
+        },
+        "H0134-LnSbhPpHko8aI6": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LnSbhPpHko8aI6_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LnSbhPpHko8aI6_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LnSbhPpHko8aI6.JPG"
+        },
+        "H0134-L2WWtfzxBEqfqU": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L2WWtfzxBEqfqU_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L2WWtfzxBEqfqU_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L2WWtfzxBEqfqU.JPG"
+        }
+    }
+}

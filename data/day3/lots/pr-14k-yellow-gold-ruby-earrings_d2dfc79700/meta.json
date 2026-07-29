@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/pr-14k-yellow-gold-ruby-earrings_d2dfc79700",
+    "slug": "pr-14k-yellow-gold-ruby-earrings_d2dfc79700",
+    "lot_number": "3203",
+    "title": "PR 14K YELLOW GOLD RUBY EARRINGS",
+    "estimate_low": 1000,
+    "estimate_high": 1500,
+    "current_bid": 500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Las9MOGdp676U4_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L5BkzY8MlOoDL0_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LUjXVEdLEcaGUW": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LUjXVEdLEcaGUW_thz.JPG"
+        },
+        "H0134-LbS4S4QrqPlgxh": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LbS4S4QrqPlgxh_thz.JPG"
+        },
+        "H0134-Las9MOGdp676U4": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Las9MOGdp676U4_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Las9MOGdp676U4_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Las9MOGdp676U4.JPG"
+        },
+        "H0134-L5BkzY8MlOoDL0": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L5BkzY8MlOoDL0_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L5BkzY8MlOoDL0_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L5BkzY8MlOoDL0.JPG"
+        }
+    }
+}

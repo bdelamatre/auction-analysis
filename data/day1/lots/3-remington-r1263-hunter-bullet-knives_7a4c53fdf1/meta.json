@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/3-remington-r1263-hunter-bullet-knives_7a4c53fdf1",
+    "slug": "3-remington-r1263-hunter-bullet-knives_7a4c53fdf1",
+    "lot_number": "1267",
+    "title": "(3) REMINGTON R1263 \"HUNTER\" BULLET KNIVES",
+    "estimate_low": 100,
+    "estimate_high": 200,
+    "current_bid": 50,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L0UOCZ0zK4cOpv_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LJJE6A64MyWzZu_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-L8waI1fMf7s1xr": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L8waI1fMf7s1xr_thz.JPG"
+        },
+        "H0134-LgEgTB7qG1ANTO": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LgEgTB7qG1ANTO_thz.JPG"
+        },
+        "H0134-L0UOCZ0zK4cOpv": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L0UOCZ0zK4cOpv_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L0UOCZ0zK4cOpv_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L0UOCZ0zK4cOpv.JPG"
+        },
+        "H0134-LJJE6A64MyWzZu": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LJJE6A64MyWzZu_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LJJE6A64MyWzZu_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LJJE6A64MyWzZu.JPG"
+        }
+    }
+}

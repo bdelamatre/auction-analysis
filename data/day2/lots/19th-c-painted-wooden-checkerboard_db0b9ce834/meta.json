@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/19th-c-painted-wooden-checkerboard_db0b9ce834",
+    "slug": "19th-c-painted-wooden-checkerboard_db0b9ce834",
+    "lot_number": "2128",
+    "title": "19TH C. PAINTED WOODEN CHECKERBOARD",
+    "estimate_low": 200,
+    "estimate_high": 300,
+    "current_bid": 50,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LNSsKOog6X2MPB_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LDFyeZKGtFScDq_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-L5npgYWngFr6qM": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L5npgYWngFr6qM_thz.JPG"
+        },
+        "H0134-LmbEzysDxEtZsC": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LmbEzysDxEtZsC_thz.JPG"
+        },
+        "H0134-LNSsKOog6X2MPB": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LNSsKOog6X2MPB_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LNSsKOog6X2MPB_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LNSsKOog6X2MPB.JPG"
+        },
+        "H0134-LDFyeZKGtFScDq": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LDFyeZKGtFScDq_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LDFyeZKGtFScDq_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LDFyeZKGtFScDq.JPG"
+        }
+    }
+}

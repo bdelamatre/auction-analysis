@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/3-french-folios_057ed26096",
+    "slug": "3-french-folios_057ed26096",
+    "lot_number": "2368",
+    "title": "(3) FRENCH FOLIOS",
+    "estimate_low": 250,
+    "estimate_high": 350,
+    "current_bid": 125,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LhJ9NTueY0RDZp_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LWvlz6JcM5KqqU_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LD2kwtpn9vEDVV_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LxUYaMCfizGmzH_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LZyIwVc8OZVA1S": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LZyIwVc8OZVA1S_thz.JPG"
+        },
+        "H0134-LTjtMHE94xLB1G": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LTjtMHE94xLB1G_thz.JPG"
+        },
+        "H0134-LhJ9NTueY0RDZp": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LhJ9NTueY0RDZp_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LhJ9NTueY0RDZp_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LhJ9NTueY0RDZp.JPG"
+        },
+        "H0134-LWvlz6JcM5KqqU": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LWvlz6JcM5KqqU_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LWvlz6JcM5KqqU_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LWvlz6JcM5KqqU.JPG"
+        },
+        "H0134-LD2kwtpn9vEDVV": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LD2kwtpn9vEDVV_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LD2kwtpn9vEDVV_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LD2kwtpn9vEDVV.JPG"
+        },
+        "H0134-LxUYaMCfizGmzH": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LxUYaMCfizGmzH_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LxUYaMCfizGmzH_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LxUYaMCfizGmzH.JPG"
+        }
+    }
+}

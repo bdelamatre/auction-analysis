@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/unsigned-french-watercolor-genre-scene_1000ad9ca6",
+    "slug": "unsigned-french-watercolor-genre-scene_1000ad9ca6",
+    "lot_number": "1357",
+    "title": "UNSIGNED FRENCH WATERCOLOR GENRE SCENE",
+    "estimate_low": 500,
+    "estimate_high": 700,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L1b9nQHQDyE63u_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LFKyNvrcehHyIw_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LBVs0qGx4M29sy": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LBVs0qGx4M29sy_thz.JPG"
+        },
+        "H0134-L2ZHdC78JNLS1k": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L2ZHdC78JNLS1k_thz.JPG"
+        },
+        "H0134-L1b9nQHQDyE63u": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L1b9nQHQDyE63u_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L1b9nQHQDyE63u_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L1b9nQHQDyE63u.JPG"
+        },
+        "H0134-LFKyNvrcehHyIw": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LFKyNvrcehHyIw_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LFKyNvrcehHyIw_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LFKyNvrcehHyIw.JPG"
+        }
+    }
+}

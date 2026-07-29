@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/ellen-windemuth-roman-turquoise-intaglio-pendant-_3d68fba68e",
+    "slug": "ellen-windemuth-roman-turquoise-intaglio-pendant-_3d68fba68e",
+    "lot_number": "3243",
+    "title": "ELLEN WINDEMUTH ROMAN TURQUOISE INTAGLIO PENDANT NECKLACE",
+    "estimate_low": 300,
+    "estimate_high": 500,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LvzwMt2cwUM6NI_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L8PPIfq0TpMTrS_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L90FsMIKi4Iy1A_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LSjjMvq8wcB3Tw": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LSjjMvq8wcB3Tw_thz.JPG"
+        },
+        "H0134-LyUOzfyfovhq8e": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LyUOzfyfovhq8e_thz.JPG"
+        },
+        "H0134-LvzwMt2cwUM6NI": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LvzwMt2cwUM6NI_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LvzwMt2cwUM6NI_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LvzwMt2cwUM6NI.JPG"
+        },
+        "H0134-L8PPIfq0TpMTrS": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L8PPIfq0TpMTrS_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L8PPIfq0TpMTrS_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L8PPIfq0TpMTrS.JPG"
+        },
+        "H0134-L90FsMIKi4Iy1A": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L90FsMIKi4Iy1A_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L90FsMIKi4Iy1A_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L90FsMIKi4Iy1A.JPG"
+        }
+    }
+}

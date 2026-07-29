@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/2-cased-gimbaled-marine-compasses_23f4c80a4e",
+    "slug": "2-cased-gimbaled-marine-compasses_23f4c80a4e",
+    "lot_number": "1306",
+    "title": "(2) CASED GIMBALED MARINE COMPASSES",
+    "estimate_low": 200,
+    "estimate_high": 300,
+    "current_bid": 50,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LSMBs66vaFiQxq_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LNQR2FLh7Z8s2C_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-L2R9kivN8sdTi0": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L2R9kivN8sdTi0_thz.JPG"
+        },
+        "H0134-LPTy7Ce1hmMm6P": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LPTy7Ce1hmMm6P_thz.JPG"
+        },
+        "H0134-LSMBs66vaFiQxq": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LSMBs66vaFiQxq_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LSMBs66vaFiQxq_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LSMBs66vaFiQxq.JPG"
+        },
+        "H0134-LNQR2FLh7Z8s2C": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LNQR2FLh7Z8s2C_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LNQR2FLh7Z8s2C_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LNQR2FLh7Z8s2C.JPG"
+        }
+    }
+}

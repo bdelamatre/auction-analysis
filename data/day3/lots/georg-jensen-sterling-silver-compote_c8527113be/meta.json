@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/georg-jensen-sterling-silver-compote_c8527113be",
+    "slug": "georg-jensen-sterling-silver-compote_c8527113be",
+    "lot_number": "3061",
+    "title": "GEORG JENSEN STERLING SILVER COMPOTE",
+    "estimate_low": 1000,
+    "estimate_high": 1500,
+    "current_bid": 500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L3eOI2nwrHFAvA_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LSDq8ymA0YZJO7_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LhvzkaXFth3Cbf": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LhvzkaXFth3Cbf_thz.JPG"
+        },
+        "H0134-LcJTshasIymJF0": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LcJTshasIymJF0_thz.JPG"
+        },
+        "H0134-L3eOI2nwrHFAvA": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L3eOI2nwrHFAvA_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L3eOI2nwrHFAvA_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L3eOI2nwrHFAvA.JPG"
+        },
+        "H0134-LSDq8ymA0YZJO7": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LSDq8ymA0YZJO7_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LSDq8ymA0YZJO7_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LSDq8ymA0YZJO7.JPG"
+        }
+    }
+}

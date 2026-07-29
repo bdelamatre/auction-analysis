@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/caplan-mid-century-railyard-scene_f658538543",
+    "slug": "caplan-mid-century-railyard-scene_f658538543",
+    "lot_number": "3322",
+    "title": "CAPLAN MID-CENTURY RAILYARD SCENE",
+    "estimate_low": 700,
+    "estimate_high": 900,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LLv741dLHvKq6J_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LNEbLVwM7ufIAE_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LSCdNdaeC8qTkF_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LGIuNV0euHyhH9_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-L3A6LdTixkOHdh": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L3A6LdTixkOHdh_thz.JPG"
+        },
+        "H0134-Lzxiz7ZPflrHV0": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lzxiz7ZPflrHV0_thz.JPG"
+        },
+        "H0134-LLv741dLHvKq6J": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LLv741dLHvKq6J_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LLv741dLHvKq6J_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LLv741dLHvKq6J.JPG"
+        },
+        "H0134-LNEbLVwM7ufIAE": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LNEbLVwM7ufIAE_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LNEbLVwM7ufIAE_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LNEbLVwM7ufIAE.JPG"
+        },
+        "H0134-LSCdNdaeC8qTkF": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LSCdNdaeC8qTkF_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LSCdNdaeC8qTkF_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LSCdNdaeC8qTkF.JPG"
+        },
+        "H0134-LGIuNV0euHyhH9": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LGIuNV0euHyhH9_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LGIuNV0euHyhH9_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LGIuNV0euHyhH9.JPG"
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/persian-tile-pattern-rug-116-x-810_1c1bad2958",
+    "slug": "persian-tile-pattern-rug-116-x-810_1c1bad2958",
+    "lot_number": "2207",
+    "title": "PERSIAN TILE-PATTERN RUG (11'6\" x 8'10\")",
+    "estimate_low": 1000,
+    "estimate_high": 1500,
+    "current_bid": 500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L0CSn4to9Sqgbu_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LXa7MDnKd9JmJU_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LyduUfFCSI47sk_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LjXoHdi0bbKf53_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-Lro2nO3d1kPJgK": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lro2nO3d1kPJgK_thz.JPG"
+        },
+        "H0134-L0AuF7sstxK5gl": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L0AuF7sstxK5gl_thz.JPG"
+        },
+        "H0134-L0CSn4to9Sqgbu": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L0CSn4to9Sqgbu_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L0CSn4to9Sqgbu_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L0CSn4to9Sqgbu.JPG"
+        },
+        "H0134-LXa7MDnKd9JmJU": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LXa7MDnKd9JmJU_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LXa7MDnKd9JmJU_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LXa7MDnKd9JmJU.JPG"
+        },
+        "H0134-LyduUfFCSI47sk": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LyduUfFCSI47sk_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LyduUfFCSI47sk_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LyduUfFCSI47sk.JPG"
+        },
+        "H0134-LjXoHdi0bbKf53": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LjXoHdi0bbKf53_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LjXoHdi0bbKf53_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LjXoHdi0bbKf53.JPG"
+        }
+    }
+}

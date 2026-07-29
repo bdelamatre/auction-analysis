@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/mark-catesby-sc-england-1683-1749_bed955b3a6",
+    "slug": "mark-catesby-sc-england-1683-1749_bed955b3a6",
+    "lot_number": "1282",
+    "title": "MARK CATESBY (SC/ENGLAND, 1683-1749)",
+    "estimate_low": 400,
+    "estimate_high": 600,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L81EKmaMhV9RDA_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LM9TSsqELBF7Td_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L7baNtLz3lYIVd_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LBkzzwayl1tHEg": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LBkzzwayl1tHEg_thz.JPG"
+        },
+        "H0134-LKqjDePH7pVm0f": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LKqjDePH7pVm0f_thz.JPG"
+        },
+        "H0134-L81EKmaMhV9RDA": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L81EKmaMhV9RDA_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L81EKmaMhV9RDA_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L81EKmaMhV9RDA.JPG"
+        },
+        "H0134-LM9TSsqELBF7Td": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LM9TSsqELBF7Td_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LM9TSsqELBF7Td_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LM9TSsqELBF7Td.JPG"
+        },
+        "H0134-L7baNtLz3lYIVd": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L7baNtLz3lYIVd_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L7baNtLz3lYIVd_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L7baNtLz3lYIVd.JPG"
+        }
+    }
+}

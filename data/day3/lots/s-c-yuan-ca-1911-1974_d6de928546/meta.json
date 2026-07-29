@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/s-c-yuan-ca-1911-1974_d6de928546",
+    "slug": "s-c-yuan-ca-1911-1974_d6de928546",
+    "lot_number": "3080",
+    "title": "S.C. YUAN (CA, 1911-1974)",
+    "estimate_low": 6000,
+    "estimate_high": 8000,
+    "current_bid": 3000,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Leah0UAM2DxPOw_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lzc3GDHPQn7WUL_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lk9ohdfEC9Web9_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LQONDqz0jD4BDf_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-L1phuQAi8EoB2o": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L1phuQAi8EoB2o_thz.JPG"
+        },
+        "H0134-LsHskaBrWJPL6C": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LsHskaBrWJPL6C_thz.JPG"
+        },
+        "H0134-Leah0UAM2DxPOw": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Leah0UAM2DxPOw_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Leah0UAM2DxPOw_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Leah0UAM2DxPOw.JPG"
+        },
+        "H0134-Lzc3GDHPQn7WUL": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lzc3GDHPQn7WUL_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lzc3GDHPQn7WUL_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lzc3GDHPQn7WUL.JPG"
+        },
+        "H0134-Lk9ohdfEC9Web9": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lk9ohdfEC9Web9_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lk9ohdfEC9Web9_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lk9ohdfEC9Web9.JPG"
+        },
+        "H0134-LQONDqz0jD4BDf": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LQONDqz0jD4BDf_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LQONDqz0jD4BDf_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LQONDqz0jD4BDf.JPG"
+        }
+    }
+}

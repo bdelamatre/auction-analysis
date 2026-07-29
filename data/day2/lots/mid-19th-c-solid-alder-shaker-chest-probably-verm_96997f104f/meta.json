@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/mid-19th-c-solid-alder-shaker-chest-probably-verm_96997f104f",
+    "slug": "mid-19th-c-solid-alder-shaker-chest-probably-verm_96997f104f",
+    "lot_number": "2232",
+    "title": "MID 19TH C. SOLID ALDER SHAKER CHEST, PROBABLY VERMONT",
+    "estimate_low": 2000,
+    "estimate_high": 3000,
+    "current_bid": 1000,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LDKamYatd1Cg0s_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LG7k39ES2NZo8g_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LDol8dLtA2hxP2_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lqn1haw3GlFrO6_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LHX1aIKkAkOJp7": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LHX1aIKkAkOJp7_thz.JPG"
+        },
+        "H0134-LivzrmRCUXlsxo": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LivzrmRCUXlsxo_thz.JPG"
+        },
+        "H0134-LDKamYatd1Cg0s": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LDKamYatd1Cg0s_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LDKamYatd1Cg0s_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LDKamYatd1Cg0s.JPG"
+        },
+        "H0134-LG7k39ES2NZo8g": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LG7k39ES2NZo8g_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LG7k39ES2NZo8g_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LG7k39ES2NZo8g.JPG"
+        },
+        "H0134-LDol8dLtA2hxP2": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LDol8dLtA2hxP2_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LDol8dLtA2hxP2_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LDol8dLtA2hxP2.JPG"
+        },
+        "H0134-Lqn1haw3GlFrO6": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lqn1haw3GlFrO6_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lqn1haw3GlFrO6_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lqn1haw3GlFrO6.JPG"
+        }
+    }
+}

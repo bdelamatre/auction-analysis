@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/decoys-unlimited-canada-goose-decoy_bcb8178b70",
+    "slug": "decoys-unlimited-canada-goose-decoy_bcb8178b70",
+    "lot_number": "1258",
+    "title": "DECOYS UNLIMITED CANADA GOOSE DECOY",
+    "estimate_low": 300,
+    "estimate_high": 400,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LFdQBrWI4niMW7_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LqnRhwWJzJpfY9_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LopqrGjYoSC4Lz_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LEaOFM6Fwjr6wK": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LEaOFM6Fwjr6wK_thz.JPG"
+        },
+        "H0134-LaoCsqlz5VPhVB": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LaoCsqlz5VPhVB_thz.JPG"
+        },
+        "H0134-LFdQBrWI4niMW7": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LFdQBrWI4niMW7_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LFdQBrWI4niMW7_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LFdQBrWI4niMW7.JPG"
+        },
+        "H0134-LqnRhwWJzJpfY9": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LqnRhwWJzJpfY9_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LqnRhwWJzJpfY9_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LqnRhwWJzJpfY9.JPG"
+        },
+        "H0134-LopqrGjYoSC4Lz": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LopqrGjYoSC4Lz_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LopqrGjYoSC4Lz_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LopqrGjYoSC4Lz.JPG"
+        }
+    }
+}

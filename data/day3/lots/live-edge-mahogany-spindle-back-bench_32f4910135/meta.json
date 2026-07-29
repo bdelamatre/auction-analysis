@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/live-edge-mahogany-spindle-back-bench_32f4910135",
+    "slug": "live-edge-mahogany-spindle-back-bench_32f4910135",
+    "lot_number": "3254",
+    "title": "LIVE EDGE MAHOGANY SPINDLE BACK BENCH",
+    "estimate_low": 600,
+    "estimate_high": 800,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L5Rc2wLhOYGuST_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LJh18nI9hMSJNk_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Ly5GRzWCNcYxQh_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LM3tzOd9mIanvu": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LM3tzOd9mIanvu_thz.JPG"
+        },
+        "H0134-L2JJrWtM4XZSgb": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L2JJrWtM4XZSgb_thz.JPG"
+        },
+        "H0134-L5Rc2wLhOYGuST": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L5Rc2wLhOYGuST_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L5Rc2wLhOYGuST_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L5Rc2wLhOYGuST.JPG"
+        },
+        "H0134-LJh18nI9hMSJNk": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LJh18nI9hMSJNk_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LJh18nI9hMSJNk_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LJh18nI9hMSJNk.JPG"
+        },
+        "H0134-Ly5GRzWCNcYxQh": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Ly5GRzWCNcYxQh_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Ly5GRzWCNcYxQh_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Ly5GRzWCNcYxQh.JPG"
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/14k-gold-diamond-and-sapphire-three-stone-ring_079320d80b",
+    "slug": "14k-gold-diamond-and-sapphire-three-stone-ring_079320d80b",
+    "lot_number": "3118",
+    "title": "14K GOLD DIAMOND AND SAPPHIRE THREE STONE RING",
+    "estimate_low": 3000,
+    "estimate_high": 5000,
+    "current_bid": 1500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LiUuFRSWE2gE4R_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L0FQt1WTeWkXh6_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LE31zVZeBYjdyM": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LE31zVZeBYjdyM_thz.JPG"
+        },
+        "H0134-LGd9hiDVEafGc0": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LGd9hiDVEafGc0_thz.JPG"
+        },
+        "H0134-LiUuFRSWE2gE4R": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LiUuFRSWE2gE4R_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LiUuFRSWE2gE4R_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LiUuFRSWE2gE4R.JPG"
+        },
+        "H0134-L0FQt1WTeWkXh6": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L0FQt1WTeWkXh6_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L0FQt1WTeWkXh6_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L0FQt1WTeWkXh6.JPG"
+        }
+    }
+}

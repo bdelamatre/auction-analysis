@@ -1,0 +1,58 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/william-thon-me-ny-italy-1906-2000_90180b2c02",
+    "slug": "william-thon-me-ny-italy-1906-2000_90180b2c02",
+    "lot_number": "3455",
+    "title": "WILLIAM THON (ME/NY/ITALY, 1906-2000)",
+    "estimate_low": 15000,
+    "estimate_high": 20000,
+    "current_bid": 7500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 6,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LXvLeeuxOjIjhE_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LlYSPL94gy1OCq_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L9yIrYdWLR6bzD_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LGBuYr9m0MDuRu_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lz2yrx3hQzzlR6_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L7OqWHhQk3A5Se_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LxnMgqLnwgynT8": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LxnMgqLnwgynT8_thz.JPG"
+        },
+        "H0134-Lhnsn7UVVnPTxC": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lhnsn7UVVnPTxC_thz.JPG"
+        },
+        "H0134-LXvLeeuxOjIjhE": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LXvLeeuxOjIjhE_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LXvLeeuxOjIjhE_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LXvLeeuxOjIjhE.JPG"
+        },
+        "H0134-LlYSPL94gy1OCq": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LlYSPL94gy1OCq_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LlYSPL94gy1OCq_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LlYSPL94gy1OCq.JPG"
+        },
+        "H0134-L9yIrYdWLR6bzD": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L9yIrYdWLR6bzD_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L9yIrYdWLR6bzD_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L9yIrYdWLR6bzD.JPG"
+        },
+        "H0134-LGBuYr9m0MDuRu": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LGBuYr9m0MDuRu_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LGBuYr9m0MDuRu_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LGBuYr9m0MDuRu.JPG"
+        },
+        "H0134-Lz2yrx3hQzzlR6": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lz2yrx3hQzzlR6_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lz2yrx3hQzzlR6_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lz2yrx3hQzzlR6.JPG"
+        },
+        "H0134-L7OqWHhQk3A5Se": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L7OqWHhQk3A5Se_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L7OqWHhQk3A5Se_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L7OqWHhQk3A5Se.JPG"
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/priscilla-jane-frazer-ca-1907-1983_d04cbf3588",
+    "slug": "priscilla-jane-frazer-ca-1907-1983_d04cbf3588",
+    "lot_number": "1020",
+    "title": "PRISCILLA JANE FRAZER (CA, 1907-1983)",
+    "estimate_low": 300,
+    "estimate_high": 400,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LpNDtBqj5Nclc6_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L1N0QA7kraOUTc_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LJJAF4HQdxClMl_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LDapj8qNDmQEND_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LeOjx7E9MNXOs2": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LeOjx7E9MNXOs2_thz.JPG"
+        },
+        "H0134-LRfJ9qewWYz6Ko": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LRfJ9qewWYz6Ko_thz.JPG"
+        },
+        "H0134-LpNDtBqj5Nclc6": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LpNDtBqj5Nclc6_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LpNDtBqj5Nclc6_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LpNDtBqj5Nclc6.JPG"
+        },
+        "H0134-L1N0QA7kraOUTc": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L1N0QA7kraOUTc_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L1N0QA7kraOUTc_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L1N0QA7kraOUTc.JPG"
+        },
+        "H0134-LJJAF4HQdxClMl": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LJJAF4HQdxClMl_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LJJAF4HQdxClMl_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LJJAF4HQdxClMl.JPG"
+        },
+        "H0134-LDapj8qNDmQEND": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LDapj8qNDmQEND_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LDapj8qNDmQEND_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LDapj8qNDmQEND.JPG"
+        }
+    }
+}

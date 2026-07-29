@@ -1,0 +1,52 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/large-maine-oil-painting-of-a-farm_acb150030d",
+    "slug": "large-maine-oil-painting-of-a-farm_acb150030d",
+    "lot_number": "3486",
+    "title": "LARGE MAINE OIL PAINTING OF A FARM",
+    "estimate_low": 800,
+    "estimate_high": 1200,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 5,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LQYf932CbmIQbp_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lf7IgGASkABWTn_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LNoHbVIV1YoeWo_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LE5YG7Pwfn01Rm_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LEBzH01e4XbCkI_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LwOK3l6MWMMSAz": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LwOK3l6MWMMSAz_thz.JPG"
+        },
+        "H0134-LXZhnxuMqhZ3QM": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LXZhnxuMqhZ3QM_thz.JPG"
+        },
+        "H0134-LQYf932CbmIQbp": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LQYf932CbmIQbp_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LQYf932CbmIQbp_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LQYf932CbmIQbp.JPG"
+        },
+        "H0134-Lf7IgGASkABWTn": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lf7IgGASkABWTn_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lf7IgGASkABWTn_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lf7IgGASkABWTn.JPG"
+        },
+        "H0134-LNoHbVIV1YoeWo": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LNoHbVIV1YoeWo_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LNoHbVIV1YoeWo_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LNoHbVIV1YoeWo.JPG"
+        },
+        "H0134-LE5YG7Pwfn01Rm": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LE5YG7Pwfn01Rm_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LE5YG7Pwfn01Rm_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LE5YG7Pwfn01Rm.JPG"
+        },
+        "H0134-LEBzH01e4XbCkI": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LEBzH01e4XbCkI_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LEBzH01e4XbCkI_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LEBzH01e4XbCkI.JPG"
+        }
+    }
+}

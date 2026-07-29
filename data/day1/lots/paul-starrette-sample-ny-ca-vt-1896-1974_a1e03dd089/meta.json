@@ -1,0 +1,52 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/paul-starrette-sample-ny-ca-vt-1896-1974_a1e03dd089",
+    "slug": "paul-starrette-sample-ny-ca-vt-1896-1974_a1e03dd089",
+    "lot_number": "1104",
+    "title": "PAUL STARRETTE SAMPLE (NY/CA/VT, 1896-1974)",
+    "estimate_low": 600,
+    "estimate_high": 800,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 5,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LGkATd2worFuGN_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LwjIqywmMZMJkf_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LjvHTKyEPsdxBF_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LtUPskk6KxyZzR_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LeDVnfFPoiWYYS_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LupgBxhnQnfVix": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LupgBxhnQnfVix_thz.JPG"
+        },
+        "H0134-LcU7eoCIvod5DG": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LcU7eoCIvod5DG_thz.JPG"
+        },
+        "H0134-LGkATd2worFuGN": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LGkATd2worFuGN_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LGkATd2worFuGN_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LGkATd2worFuGN.JPG"
+        },
+        "H0134-LwjIqywmMZMJkf": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LwjIqywmMZMJkf_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LwjIqywmMZMJkf_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LwjIqywmMZMJkf.JPG"
+        },
+        "H0134-LjvHTKyEPsdxBF": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LjvHTKyEPsdxBF_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LjvHTKyEPsdxBF_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LjvHTKyEPsdxBF.JPG"
+        },
+        "H0134-LtUPskk6KxyZzR": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LtUPskk6KxyZzR_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LtUPskk6KxyZzR_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LtUPskk6KxyZzR.JPG"
+        },
+        "H0134-LeDVnfFPoiWYYS": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LeDVnfFPoiWYYS_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LeDVnfFPoiWYYS_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LeDVnfFPoiWYYS.JPG"
+        }
+    }
+}

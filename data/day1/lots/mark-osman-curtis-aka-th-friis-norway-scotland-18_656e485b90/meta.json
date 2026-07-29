@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/mark-osman-curtis-aka-th-friis-norway-scotland-18_656e485b90",
+    "slug": "mark-osman-curtis-aka-th-friis-norway-scotland-18_656e485b90",
+    "lot_number": "1295",
+    "title": "MARK OSMAN CURTIS (AKA TH. FRIIS) (NORWAY/SCOTLAND, 1879-1959)",
+    "estimate_low": 600,
+    "estimate_high": 800,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LzxDOVo1VB6sYO_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-La3yR265EOgT3l_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Laz93rxmaVmmff_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LxkV1EeEjMKE3D_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-Lu5XP0p36WDhGG": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lu5XP0p36WDhGG_thz.jpg"
+        },
+        "H0134-LGH85XySKuqq13": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LGH85XySKuqq13_thz.JPG"
+        },
+        "H0134-LzxDOVo1VB6sYO": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LzxDOVo1VB6sYO_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LzxDOVo1VB6sYO_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LzxDOVo1VB6sYO.JPG"
+        },
+        "H0134-La3yR265EOgT3l": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-La3yR265EOgT3l_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-La3yR265EOgT3l_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-La3yR265EOgT3l.JPG"
+        },
+        "H0134-Laz93rxmaVmmff": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Laz93rxmaVmmff_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Laz93rxmaVmmff_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Laz93rxmaVmmff.JPG"
+        },
+        "H0134-LxkV1EeEjMKE3D": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LxkV1EeEjMKE3D_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LxkV1EeEjMKE3D_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LxkV1EeEjMKE3D.JPG"
+        }
+    }
+}

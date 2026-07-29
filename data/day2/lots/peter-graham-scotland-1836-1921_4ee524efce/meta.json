@@ -1,0 +1,52 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/peter-graham-scotland-1836-1921_4ee524efce",
+    "slug": "peter-graham-scotland-1836-1921_4ee524efce",
+    "lot_number": "2335",
+    "title": "PETER GRAHAM (SCOTLAND, 1836-1921)",
+    "estimate_low": 400,
+    "estimate_high": 600,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 5,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LKF19DuIZHCU00_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LW6UkiQz11gYli_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LCQStmPDbw4Zxx_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LGWLMg44o51ahH_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lzw2aZA2UyRu4a_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LYSswreDAXDswp": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LYSswreDAXDswp_thz.JPG"
+        },
+        "H0134-LJcaQ7ERymWsfG": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LJcaQ7ERymWsfG_thz.JPG"
+        },
+        "H0134-LKF19DuIZHCU00": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LKF19DuIZHCU00_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LKF19DuIZHCU00_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LKF19DuIZHCU00.JPG"
+        },
+        "H0134-LW6UkiQz11gYli": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LW6UkiQz11gYli_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LW6UkiQz11gYli_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LW6UkiQz11gYli.JPG"
+        },
+        "H0134-LCQStmPDbw4Zxx": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LCQStmPDbw4Zxx_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LCQStmPDbw4Zxx_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LCQStmPDbw4Zxx.JPG"
+        },
+        "H0134-LGWLMg44o51ahH": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LGWLMg44o51ahH_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LGWLMg44o51ahH_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LGWLMg44o51ahH.JPG"
+        },
+        "H0134-Lzw2aZA2UyRu4a": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lzw2aZA2UyRu4a_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lzw2aZA2UyRu4a_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lzw2aZA2UyRu4a.JPG"
+        }
+    }
+}

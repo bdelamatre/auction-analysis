@@ -1,0 +1,58 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/set-of-10-late-18th-c-neoclassical-oil-paintings-_fc72831fe2",
+    "slug": "set-of-10-late-18th-c-neoclassical-oil-paintings-_fc72831fe2",
+    "lot_number": "2416",
+    "title": "SET OF (10) LATE 18TH C. NEOCLASSICAL OIL PAINTINGS OF MUSICIANS",
+    "estimate_low": 1000,
+    "estimate_high": 1500,
+    "current_bid": 500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 6,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LSHLRCDscVvjVp_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LFceneAIDkWGhK_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LgVaEslHqavYDb_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LcnQytSjtjM6d9_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LVUARhX4vpWutI_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lpb499YbaL2f38_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LMBINzeVS2VxyZ": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LMBINzeVS2VxyZ_thz.JPG"
+        },
+        "H0134-LGipTktnWb6eHz": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LGipTktnWb6eHz_thz.JPG"
+        },
+        "H0134-LSHLRCDscVvjVp": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LSHLRCDscVvjVp_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LSHLRCDscVvjVp_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LSHLRCDscVvjVp.JPG"
+        },
+        "H0134-LFceneAIDkWGhK": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LFceneAIDkWGhK_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LFceneAIDkWGhK_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LFceneAIDkWGhK.JPG"
+        },
+        "H0134-LgVaEslHqavYDb": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LgVaEslHqavYDb_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LgVaEslHqavYDb_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LgVaEslHqavYDb.JPG"
+        },
+        "H0134-LcnQytSjtjM6d9": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LcnQytSjtjM6d9_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LcnQytSjtjM6d9_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LcnQytSjtjM6d9.JPG"
+        },
+        "H0134-LVUARhX4vpWutI": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LVUARhX4vpWutI_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LVUARhX4vpWutI_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LVUARhX4vpWutI.JPG"
+        },
+        "H0134-Lpb499YbaL2f38": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lpb499YbaL2f38_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lpb499YbaL2f38_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lpb499YbaL2f38.JPG"
+        }
+    }
+}

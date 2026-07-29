@@ -1,0 +1,27 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/14k-gold-and-diamond-pendant-necklace_90942a0f12",
+    "slug": "14k-gold-and-diamond-pendant-necklace_90942a0f12",
+    "lot_number": "3195",
+    "title": "14K GOLD AND DIAMOND PENDANT NECKLACE",
+    "estimate_low": 700,
+    "estimate_high": 900,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 1,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LweLAfKgMR7SYw_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LPaGiDTD1nQ1Wd": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LPaGiDTD1nQ1Wd_thz.JPG"
+        },
+        "H0134-L4cIigwbkhSgnx": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L4cIigwbkhSgnx_thz.JPG"
+        },
+        "H0134-LweLAfKgMR7SYw": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LweLAfKgMR7SYw_original.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LweLAfKgMR7SYw.JPG"
+        }
+    }
+}

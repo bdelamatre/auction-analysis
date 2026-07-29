@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/andrew-winter-ma-1893-1958-house-on-monhegan-isla_38b0d7d8bb",
+    "slug": "andrew-winter-ma-1893-1958-house-on-monhegan-isla_38b0d7d8bb",
+    "lot_number": "3464",
+    "title": "ANDREW WINTER (MA 1893 - 1958), HOUSE ON MONHEGAN ISLAND",
+    "estimate_low": 6000,
+    "estimate_high": 8000,
+    "current_bid": 3000,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LTNywM8jmARgEE_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L7QHhFx4aQZ2AA_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L8iFFQRomEoGWP_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L4bl6xALjAwPjR_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LsK15KwF7WmtpY": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LsK15KwF7WmtpY_thz.JPG"
+        },
+        "H0134-LdAZmxT48y6fws": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LdAZmxT48y6fws_thz.JPG"
+        },
+        "H0134-LTNywM8jmARgEE": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LTNywM8jmARgEE_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LTNywM8jmARgEE_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LTNywM8jmARgEE.JPG"
+        },
+        "H0134-L7QHhFx4aQZ2AA": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L7QHhFx4aQZ2AA_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L7QHhFx4aQZ2AA_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L7QHhFx4aQZ2AA.JPG"
+        },
+        "H0134-L8iFFQRomEoGWP": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L8iFFQRomEoGWP_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L8iFFQRomEoGWP_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L8iFFQRomEoGWP.JPG"
+        },
+        "H0134-L4bl6xALjAwPjR": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L4bl6xALjAwPjR_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L4bl6xALjAwPjR_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L4bl6xALjAwPjR.JPG"
+        }
+    }
+}

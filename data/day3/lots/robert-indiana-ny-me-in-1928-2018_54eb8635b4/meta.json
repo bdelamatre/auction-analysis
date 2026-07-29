@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/robert-indiana-ny-me-in-1928-2018_54eb8635b4",
+    "slug": "robert-indiana-ny-me-in-1928-2018_54eb8635b4",
+    "lot_number": "3387",
+    "title": "ROBERT INDIANA (NY/ME/IN, 1928-2018)",
+    "estimate_low": 3000,
+    "estimate_high": 5000,
+    "current_bid": 1500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L5FgjV43CPzCdH_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L9sM0FibsiHSAZ_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LiGeopKoNO0XeW_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L8KLaw6kx61P34_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LXjErESExa8VBq": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LXjErESExa8VBq_thz.JPG"
+        },
+        "H0134-LMcd5s2f1e7Uwr": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LMcd5s2f1e7Uwr_thz.JPG"
+        },
+        "H0134-L5FgjV43CPzCdH": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L5FgjV43CPzCdH_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L5FgjV43CPzCdH_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L5FgjV43CPzCdH.JPG"
+        },
+        "H0134-L9sM0FibsiHSAZ": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L9sM0FibsiHSAZ_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L9sM0FibsiHSAZ_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L9sM0FibsiHSAZ.JPG"
+        },
+        "H0134-LiGeopKoNO0XeW": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LiGeopKoNO0XeW_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LiGeopKoNO0XeW_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LiGeopKoNO0XeW.JPG"
+        },
+        "H0134-L8KLaw6kx61P34": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L8KLaw6kx61P34_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L8KLaw6kx61P34_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L8KLaw6kx61P34.JPG"
+        }
+    }
+}

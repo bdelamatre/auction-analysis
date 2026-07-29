@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/portrait-of-american-blue-eyed-blonde-boy-circa-1_5a9aae15fd",
+    "slug": "portrait-of-american-blue-eyed-blonde-boy-circa-1_5a9aae15fd",
+    "lot_number": "1013",
+    "title": "PORTRAIT OF AMERICAN BLUE EYED BLONDE BOY, CIRCA 1900",
+    "estimate_low": 600,
+    "estimate_high": 800,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LBLlDnFzl8xfeu_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LzJbhzQJFLFRcj_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LDyzth2HiY1ykT_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LhEh8YZqGavc2v": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LhEh8YZqGavc2v_thz.JPG"
+        },
+        "H0134-LqwCTRZPTOlxVH": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LqwCTRZPTOlxVH_thz.JPG"
+        },
+        "H0134-LBLlDnFzl8xfeu": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LBLlDnFzl8xfeu_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LBLlDnFzl8xfeu_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LBLlDnFzl8xfeu.JPG"
+        },
+        "H0134-LzJbhzQJFLFRcj": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LzJbhzQJFLFRcj_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LzJbhzQJFLFRcj_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LzJbhzQJFLFRcj.JPG"
+        },
+        "H0134-LDyzth2HiY1ykT": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LDyzth2HiY1ykT_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LDyzth2HiY1ykT_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LDyzth2HiY1ykT.JPG"
+        }
+    }
+}

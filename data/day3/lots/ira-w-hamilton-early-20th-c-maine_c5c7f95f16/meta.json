@@ -1,0 +1,52 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/ira-w-hamilton-early-20th-c-maine_c5c7f95f16",
+    "slug": "ira-w-hamilton-early-20th-c-maine_c5c7f95f16",
+    "lot_number": "3378",
+    "title": "IRA W. HAMILTON (EARLY 20TH C. MAINE)",
+    "estimate_low": 600,
+    "estimate_high": 800,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 5,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LXDYRW1E8fN6x4_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L60Mh96MaNvJ6x_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LVfinlQIUTDtsK_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LicT9ldz4ARCrA_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LRdzgsdgXpnVIe_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-Lfl9G6EKPkk5GP": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lfl9G6EKPkk5GP_thz.JPG"
+        },
+        "H0134-LOZk8lg5oE1Pib": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LOZk8lg5oE1Pib_thz.JPG"
+        },
+        "H0134-LXDYRW1E8fN6x4": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LXDYRW1E8fN6x4_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LXDYRW1E8fN6x4_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LXDYRW1E8fN6x4.JPG"
+        },
+        "H0134-L60Mh96MaNvJ6x": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L60Mh96MaNvJ6x_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L60Mh96MaNvJ6x_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L60Mh96MaNvJ6x.JPG"
+        },
+        "H0134-LVfinlQIUTDtsK": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LVfinlQIUTDtsK_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LVfinlQIUTDtsK_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LVfinlQIUTDtsK.JPG"
+        },
+        "H0134-LicT9ldz4ARCrA": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LicT9ldz4ARCrA_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LicT9ldz4ARCrA_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LicT9ldz4ARCrA.JPG"
+        },
+        "H0134-LRdzgsdgXpnVIe": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LRdzgsdgXpnVIe_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LRdzgsdgXpnVIe_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LRdzgsdgXpnVIe.JPG"
+        }
+    }
+}

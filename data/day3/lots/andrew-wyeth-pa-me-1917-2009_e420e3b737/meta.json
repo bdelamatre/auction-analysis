@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/andrew-wyeth-pa-me-1917-2009_e420e3b737",
+    "slug": "andrew-wyeth-pa-me-1917-2009_e420e3b737",
+    "lot_number": "3472",
+    "title": "ANDREW WYETH (PA/ME, 1917-2009)",
+    "estimate_low": 2000,
+    "estimate_high": 3000,
+    "current_bid": 1000,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lr7hWv71aT54f0_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LABfMULXmQonm3_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LaDhcE3u5Mt1WK_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LjJL1328cRzIpu": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LjJL1328cRzIpu_thz.JPG"
+        },
+        "H0134-LN8P4nqa1vL9hl": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LN8P4nqa1vL9hl_thz.JPG"
+        },
+        "H0134-Lr7hWv71aT54f0": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lr7hWv71aT54f0_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lr7hWv71aT54f0_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lr7hWv71aT54f0.JPG"
+        },
+        "H0134-LABfMULXmQonm3": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LABfMULXmQonm3_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LABfMULXmQonm3_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LABfMULXmQonm3.JPG"
+        },
+        "H0134-LaDhcE3u5Mt1WK": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LaDhcE3u5Mt1WK_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LaDhcE3u5Mt1WK_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LaDhcE3u5Mt1WK.JPG"
+        }
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/cased-19th-c-spencer-browning-co-sextant_d6f73734fc",
+    "slug": "cased-19th-c-spencer-browning-co-sextant_d6f73734fc",
+    "lot_number": "2082",
+    "title": "CASED 19TH C. SPENCER, BROWNING & CO. SEXTANT",
+    "estimate_low": 500,
+    "estimate_high": 700,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 5,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L09zdaVNp41wtb_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lx4HoIqvZ33xLO_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L6Y4qHceRGWk7j_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Li2z1LCiLH8BNu_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Le0i6zxN8voPqd_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-L0f0BpvPyOMK8n": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L0f0BpvPyOMK8n_thz.JPG"
+        },
+        "H0134-Lty4VPguneHgRh": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lty4VPguneHgRh_thz.JPG"
+        },
+        "H0134-L09zdaVNp41wtb": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L09zdaVNp41wtb_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L09zdaVNp41wtb_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L09zdaVNp41wtb.JPG"
+        },
+        "H0134-Lx4HoIqvZ33xLO": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lx4HoIqvZ33xLO_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lx4HoIqvZ33xLO_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lx4HoIqvZ33xLO.JPG"
+        },
+        "H0134-L6Y4qHceRGWk7j": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L6Y4qHceRGWk7j_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L6Y4qHceRGWk7j_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L6Y4qHceRGWk7j.JPG"
+        },
+        "H0134-Li2z1LCiLH8BNu": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Li2z1LCiLH8BNu_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Li2z1LCiLH8BNu_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Li2z1LCiLH8BNu.JPG"
+        },
+        "H0134-Le0i6zxN8voPqd": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Le0i6zxN8voPqd_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Le0i6zxN8voPqd_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Le0i6zxN8voPqd.JPG"
+        }
+    }
+}

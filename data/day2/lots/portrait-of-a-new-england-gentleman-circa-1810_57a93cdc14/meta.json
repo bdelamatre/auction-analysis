@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/portrait-of-a-new-england-gentleman-circa-1810_57a93cdc14",
+    "slug": "portrait-of-a-new-england-gentleman-circa-1810_57a93cdc14",
+    "lot_number": "2261",
+    "title": "PORTRAIT OF A NEW ENGLAND GENTLEMAN, CA 1810",
+    "estimate_low": 3000,
+    "estimate_high": 5000,
+    "current_bid": 1500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LOXcXo3kJy0FYj_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LoB9650k7OeHWy_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L6XeFGcufpWfEy_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LEemJep5wZFaAU_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-L72yGNFgv1ZTJP": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L72yGNFgv1ZTJP_thz.JPG"
+        },
+        "H0134-LqO0qXcV5FBmYC": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LqO0qXcV5FBmYC_thz.JPG"
+        },
+        "H0134-LOXcXo3kJy0FYj": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LOXcXo3kJy0FYj_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LOXcXo3kJy0FYj_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LOXcXo3kJy0FYj.JPG"
+        },
+        "H0134-LoB9650k7OeHWy": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LoB9650k7OeHWy_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LoB9650k7OeHWy_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LoB9650k7OeHWy.JPG"
+        },
+        "H0134-L6XeFGcufpWfEy": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L6XeFGcufpWfEy_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L6XeFGcufpWfEy_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L6XeFGcufpWfEy.JPG"
+        },
+        "H0134-LEemJep5wZFaAU": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LEemJep5wZFaAU_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LEemJep5wZFaAU_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LEemJep5wZFaAU.JPG"
+        }
+    }
+}

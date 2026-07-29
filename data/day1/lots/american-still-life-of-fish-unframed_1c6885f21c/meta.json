@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/american-still-life-of-fish-unframed_1c6885f21c",
+    "slug": "american-still-life-of-fish-unframed_1c6885f21c",
+    "lot_number": "1199",
+    "title": "AMERICAN STILL LIFE OF FISH, UNFRAMED",
+    "estimate_low": 300,
+    "estimate_high": 400,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L2NjA9zvZfAi91_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LbULdXyNGEOFZf_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LfQnVSo7pRfLEf_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LxPAgHMCDD5msC": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LxPAgHMCDD5msC_thz.JPG"
+        },
+        "H0134-LIKsXT9e9wNZuR": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LIKsXT9e9wNZuR_thz.JPG"
+        },
+        "H0134-L2NjA9zvZfAi91": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L2NjA9zvZfAi91_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L2NjA9zvZfAi91_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L2NjA9zvZfAi91.JPG"
+        },
+        "H0134-LbULdXyNGEOFZf": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LbULdXyNGEOFZf_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LbULdXyNGEOFZf_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LbULdXyNGEOFZf.JPG"
+        },
+        "H0134-LfQnVSo7pRfLEf": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LfQnVSo7pRfLEf_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LfQnVSo7pRfLEf_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LfQnVSo7pRfLEf.JPG"
+        }
+    }
+}

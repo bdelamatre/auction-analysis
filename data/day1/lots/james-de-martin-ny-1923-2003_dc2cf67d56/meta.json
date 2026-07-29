@@ -1,0 +1,52 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/james-de-martin-ny-1923-2003_dc2cf67d56",
+    "slug": "james-de-martin-ny-1923-2003_dc2cf67d56",
+    "lot_number": "1223",
+    "title": "JAMES DE MARTIN (NY, 1923-2003)",
+    "estimate_low": 400,
+    "estimate_high": 600,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 5,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LN9lBxwDf4P6I6_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L9R0dIbzqG8Aoh_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LFzy0Tb3O2NlL8_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LyC72ZVUAo081j_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LjE5cp1fLocAoO_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-Lzil2u71q3ukp3": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lzil2u71q3ukp3_thz.JPG"
+        },
+        "H0134-La2UN4r75YRetg": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-La2UN4r75YRetg_thz.JPG"
+        },
+        "H0134-LN9lBxwDf4P6I6": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LN9lBxwDf4P6I6_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LN9lBxwDf4P6I6_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LN9lBxwDf4P6I6.JPG"
+        },
+        "H0134-L9R0dIbzqG8Aoh": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L9R0dIbzqG8Aoh_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L9R0dIbzqG8Aoh_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L9R0dIbzqG8Aoh.JPG"
+        },
+        "H0134-LFzy0Tb3O2NlL8": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LFzy0Tb3O2NlL8_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LFzy0Tb3O2NlL8_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LFzy0Tb3O2NlL8.JPG"
+        },
+        "H0134-LyC72ZVUAo081j": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LyC72ZVUAo081j_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LyC72ZVUAo081j_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LyC72ZVUAo081j.JPG"
+        },
+        "H0134-LjE5cp1fLocAoO": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LjE5cp1fLocAoO_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LjE5cp1fLocAoO_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LjE5cp1fLocAoO.JPG"
+        }
+    }
+}

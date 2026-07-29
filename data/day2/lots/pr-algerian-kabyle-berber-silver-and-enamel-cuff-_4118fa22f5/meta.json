@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/pr-algerian-kabyle-berber-silver-and-enamel-cuff-_4118fa22f5",
+    "slug": "pr-algerian-kabyle-berber-silver-and-enamel-cuff-_4118fa22f5",
+    "lot_number": "2457",
+    "title": "PR ALGERIAN KABYLE (BERBER) SILVER AND ENAMEL CUFF BRACELETS",
+    "estimate_low": 2000,
+    "estimate_high": 2500,
+    "current_bid": 1000,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LP5XPBUVdz4Q6z_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LowBb3iWGCFGoM_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LWBydQKpBuXz7G": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LWBydQKpBuXz7G_thz.JPG"
+        },
+        "H0134-LdGstLMQBNEa49": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LdGstLMQBNEa49_thz.JPG"
+        },
+        "H0134-LP5XPBUVdz4Q6z": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LP5XPBUVdz4Q6z_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LP5XPBUVdz4Q6z_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LP5XPBUVdz4Q6z.JPG"
+        },
+        "H0134-LowBb3iWGCFGoM": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LowBb3iWGCFGoM_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LowBb3iWGCFGoM_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LowBb3iWGCFGoM.JPG"
+        }
+    }
+}

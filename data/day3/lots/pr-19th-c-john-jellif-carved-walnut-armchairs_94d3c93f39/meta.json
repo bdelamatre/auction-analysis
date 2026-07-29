@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/pr-19th-c-john-jellif-carved-walnut-armchairs_94d3c93f39",
+    "slug": "pr-19th-c-john-jellif-carved-walnut-armchairs_94d3c93f39",
+    "lot_number": "3142",
+    "title": "PR 19TH C. JOHN JELLIF CARVED WALNUT ARMCHAIRS",
+    "estimate_low": 600,
+    "estimate_high": 800,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LX27qTNbWPZ6fT_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LXA9UITaRYd83m_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LpQPmfJcIUJ5uK_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LxfpefAcJv81GE_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LorjMf8WhNbixa": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LorjMf8WhNbixa_thz.JPG"
+        },
+        "H0134-L1mcFAKYnrQmj0": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L1mcFAKYnrQmj0_thz.JPG"
+        },
+        "H0134-LX27qTNbWPZ6fT": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LX27qTNbWPZ6fT_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LX27qTNbWPZ6fT_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LX27qTNbWPZ6fT.JPG"
+        },
+        "H0134-LXA9UITaRYd83m": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LXA9UITaRYd83m_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LXA9UITaRYd83m_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LXA9UITaRYd83m.JPG"
+        },
+        "H0134-LpQPmfJcIUJ5uK": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LpQPmfJcIUJ5uK_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LpQPmfJcIUJ5uK_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LpQPmfJcIUJ5uK.JPG"
+        },
+        "H0134-LxfpefAcJv81GE": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LxfpefAcJv81GE_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LxfpefAcJv81GE_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LxfpefAcJv81GE.JPG"
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/august-mosca-ny-italy-1907-2003_9a52534cce",
+    "slug": "august-mosca-ny-italy-1907-2003_9a52534cce",
+    "lot_number": "1034",
+    "title": "AUGUST MOSCA (NY/ITALY, 1907-2003)",
+    "estimate_low": 300,
+    "estimate_high": 400,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LgP6BiHz68vmvw_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LW8sj5nww4YdeB_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LHSBWSprRv7XSm_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L85mZmSWFoR6AU_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LZ6ZsSD7ZuOXhG": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LZ6ZsSD7ZuOXhG_thz.JPG"
+        },
+        "H0134-LbxVn4fTdOlQIP": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LbxVn4fTdOlQIP_thz.JPG"
+        },
+        "H0134-LgP6BiHz68vmvw": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LgP6BiHz68vmvw_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LgP6BiHz68vmvw_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LgP6BiHz68vmvw.JPG"
+        },
+        "H0134-LW8sj5nww4YdeB": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LW8sj5nww4YdeB_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LW8sj5nww4YdeB_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LW8sj5nww4YdeB.JPG"
+        },
+        "H0134-LHSBWSprRv7XSm": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LHSBWSprRv7XSm_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LHSBWSprRv7XSm_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LHSBWSprRv7XSm.JPG"
+        },
+        "H0134-L85mZmSWFoR6AU": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L85mZmSWFoR6AU_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L85mZmSWFoR6AU_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L85mZmSWFoR6AU.JPG"
+        }
+    }
+}

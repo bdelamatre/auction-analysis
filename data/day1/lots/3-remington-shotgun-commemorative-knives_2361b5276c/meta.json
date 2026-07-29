@@ -1,0 +1,27 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/3-remington-shotgun-commemorative-knives_2361b5276c",
+    "slug": "3-remington-shotgun-commemorative-knives_2361b5276c",
+    "lot_number": "1259",
+    "title": "(3) REMINGTON SHOTGUN COMMEMORATIVE KNIVES",
+    "estimate_low": 200,
+    "estimate_high": 300,
+    "current_bid": 50,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 1,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LaoCsqlz5VPhVB_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LFdQBrWI4niMW7": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LFdQBrWI4niMW7_thz.JPG"
+        },
+        "H0134-L6mGTZn94PEEgg": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L6mGTZn94PEEgg_thz.JPG"
+        },
+        "H0134-LaoCsqlz5VPhVB": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LaoCsqlz5VPhVB_original.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LaoCsqlz5VPhVB.JPG"
+        }
+    }
+}

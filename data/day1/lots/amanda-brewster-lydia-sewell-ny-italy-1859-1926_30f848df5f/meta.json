@@ -1,0 +1,52 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/amanda-brewster-lydia-sewell-ny-italy-1859-1926_30f848df5f",
+    "slug": "amanda-brewster-lydia-sewell-ny-italy-1859-1926_30f848df5f",
+    "lot_number": "1191",
+    "title": "AMANDA BREWSTER (LYDIA) SEWELL (NY/ITALY, 1859-1926)",
+    "estimate_low": 400,
+    "estimate_high": 600,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 5,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LgWOKxoYj972Ue_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LxZpn5W3kRq4RO_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LjaKJEMi5mEWtn_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lo9Nzk4gBM5yft_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LRG7r4Lv4GpzfZ_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LLjVf6LV2vJyz1": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LLjVf6LV2vJyz1_thz.JPG"
+        },
+        "H0134-L4tw3oJ5VZ5sdF": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L4tw3oJ5VZ5sdF_thz.JPG"
+        },
+        "H0134-LgWOKxoYj972Ue": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LgWOKxoYj972Ue_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LgWOKxoYj972Ue_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LgWOKxoYj972Ue.JPG"
+        },
+        "H0134-LxZpn5W3kRq4RO": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LxZpn5W3kRq4RO_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LxZpn5W3kRq4RO_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LxZpn5W3kRq4RO.JPG"
+        },
+        "H0134-LjaKJEMi5mEWtn": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LjaKJEMi5mEWtn_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LjaKJEMi5mEWtn_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LjaKJEMi5mEWtn.JPG"
+        },
+        "H0134-Lo9Nzk4gBM5yft": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lo9Nzk4gBM5yft_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lo9Nzk4gBM5yft_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lo9Nzk4gBM5yft.JPG"
+        },
+        "H0134-LRG7r4Lv4GpzfZ": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LRG7r4Lv4GpzfZ_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LRG7r4Lv4GpzfZ_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LRG7r4Lv4GpzfZ.JPG"
+        }
+    }
+}

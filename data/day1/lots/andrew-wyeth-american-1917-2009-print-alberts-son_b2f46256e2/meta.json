@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/andrew-wyeth-american-1917-2009-print-alberts-son_b2f46256e2",
+    "slug": "andrew-wyeth-american-1917-2009-print-alberts-son_b2f46256e2",
+    "lot_number": "1171",
+    "title": "ANDREW WYETH (AMERICAN, 1917–2009), PRINT, ALBERT'S SON",
+    "estimate_low": 200,
+    "estimate_high": 300,
+    "current_bid": 50,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LaIkLuO8L9d0bm_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L8UuitPkrTXeM1_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LhzCoCkL5lLA9y": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LhzCoCkL5lLA9y_thz.JPG"
+        },
+        "H0134-L3iiwy5B59qgho": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L3iiwy5B59qgho_thz.JPG"
+        },
+        "H0134-LaIkLuO8L9d0bm": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LaIkLuO8L9d0bm_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LaIkLuO8L9d0bm_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LaIkLuO8L9d0bm.JPG"
+        },
+        "H0134-L8UuitPkrTXeM1": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L8UuitPkrTXeM1_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L8UuitPkrTXeM1_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L8UuitPkrTXeM1.JPG"
+        }
+    }
+}

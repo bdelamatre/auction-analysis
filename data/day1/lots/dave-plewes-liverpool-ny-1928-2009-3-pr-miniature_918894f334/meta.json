@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/dave-plewes-liverpool-ny-1928-2009-3-pr-miniature_918894f334",
+    "slug": "dave-plewes-liverpool-ny-1928-2009-3-pr-miniature_918894f334",
+    "lot_number": "1244",
+    "title": "DAVE PLEWES (LIVERPOOL, NY 1928-2009) (3 PR) MINIATURE DUCK DECOYS",
+    "estimate_low": 2000,
+    "estimate_high": 3000,
+    "current_bid": 1000,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LKca9YLGGUbVjr_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Li7ujh1Mr2pCrp_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LEkOVTQJtzT5RJ_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LPZGH2htQ0YECU_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LpslmoOF3eqXB0": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LpslmoOF3eqXB0_thz.JPG"
+        },
+        "H0134-L8UWVP1VjBbaGK": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L8UWVP1VjBbaGK_thz.JPG"
+        },
+        "H0134-LKca9YLGGUbVjr": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LKca9YLGGUbVjr_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LKca9YLGGUbVjr_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LKca9YLGGUbVjr.JPG"
+        },
+        "H0134-Li7ujh1Mr2pCrp": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Li7ujh1Mr2pCrp_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Li7ujh1Mr2pCrp_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Li7ujh1Mr2pCrp.JPG"
+        },
+        "H0134-LEkOVTQJtzT5RJ": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LEkOVTQJtzT5RJ_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LEkOVTQJtzT5RJ_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LEkOVTQJtzT5RJ.JPG"
+        },
+        "H0134-LPZGH2htQ0YECU": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LPZGH2htQ0YECU_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LPZGH2htQ0YECU_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LPZGH2htQ0YECU.JPG"
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/large-french-louis-xvi-giltwork-mirror_c485d98d5c",
+    "slug": "large-french-louis-xvi-giltwork-mirror_c485d98d5c",
+    "lot_number": "2352",
+    "title": "LARGE FRENCH LOUIS XVI GILTWORK MIRROR",
+    "estimate_low": 1000,
+    "estimate_high": 1500,
+    "current_bid": 500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LoKFLxPlzgoML6_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L8seT49LbNtsWK_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LZhMrQlT3wtCii_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LkyYGOHitYmUc2": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LkyYGOHitYmUc2_thz.JPG"
+        },
+        "H0134-LxZ6xSRnH12608": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LxZ6xSRnH12608_thz.JPG"
+        },
+        "H0134-LoKFLxPlzgoML6": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LoKFLxPlzgoML6_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LoKFLxPlzgoML6_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LoKFLxPlzgoML6.JPG"
+        },
+        "H0134-L8seT49LbNtsWK": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L8seT49LbNtsWK_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L8seT49LbNtsWK_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L8seT49LbNtsWK.JPG"
+        },
+        "H0134-LZhMrQlT3wtCii": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LZhMrQlT3wtCii_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LZhMrQlT3wtCii_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LZhMrQlT3wtCii.JPG"
+        }
+    }
+}

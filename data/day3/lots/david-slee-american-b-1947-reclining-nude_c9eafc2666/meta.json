@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/david-slee-american-b-1947-reclining-nude_c9eafc2666",
+    "slug": "david-slee-american-b-1947-reclining-nude_c9eafc2666",
+    "lot_number": "3343",
+    "title": "DAVID SLEE (AMERICAN, B. 1947), RECLINING NUDE",
+    "estimate_low": 600,
+    "estimate_high": 800,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L36AM6h6BMDFxe_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L0pk6yragdud63_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LkEDgjZhMV65mB_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-L84s4ZPD8ZXVWj": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L84s4ZPD8ZXVWj_thz.JPG"
+        },
+        "H0134-L5rfWnrt3OEYpw": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L5rfWnrt3OEYpw_thz.JPG"
+        },
+        "H0134-L36AM6h6BMDFxe": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L36AM6h6BMDFxe_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L36AM6h6BMDFxe_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L36AM6h6BMDFxe.JPG"
+        },
+        "H0134-L0pk6yragdud63": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L0pk6yragdud63_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L0pk6yragdud63_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L0pk6yragdud63.JPG"
+        },
+        "H0134-LkEDgjZhMV65mB": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LkEDgjZhMV65mB_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LkEDgjZhMV65mB_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LkEDgjZhMV65mB.JPG"
+        }
+    }
+}

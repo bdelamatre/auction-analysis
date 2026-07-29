@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/chinese-canton-enamel-on-copper-plate_e96d2650c9",
+    "slug": "chinese-canton-enamel-on-copper-plate_e96d2650c9",
+    "lot_number": "2499",
+    "title": "CHINESE CANTON ENAMEL ON COPPER PLATE",
+    "estimate_low": 200,
+    "estimate_high": 400,
+    "current_bid": 50,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L8rCMn4YcGZgx2_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LjVp34HdQox20N_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LNOwzkGmhmFtbz": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LNOwzkGmhmFtbz_thz.JPG"
+        },
+        "H0134-LBkeU8eNadTkaD": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LBkeU8eNadTkaD_thz.JPG"
+        },
+        "H0134-L8rCMn4YcGZgx2": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L8rCMn4YcGZgx2_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L8rCMn4YcGZgx2_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L8rCMn4YcGZgx2.JPG"
+        },
+        "H0134-LjVp34HdQox20N": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LjVp34HdQox20N_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LjVp34HdQox20N_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LjVp34HdQox20N.JPG"
+        }
+    }
+}

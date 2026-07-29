@@ -1,0 +1,52 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/stephan-abel-sinding-france-norway-1846-1922_a776388cb6",
+    "slug": "stephan-abel-sinding-france-norway-1846-1922_a776388cb6",
+    "lot_number": "3114",
+    "title": "STEPHAN ABEL SINDING (FRANCE/NORWAY, 1846-1922)",
+    "estimate_low": 2000,
+    "estimate_high": 3000,
+    "current_bid": 1000,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 5,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LJKbAC6PGOjGO5_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L8PXL7nFFFMEgl_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LE4DDCNE0zk9pW_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LKywmQLkDqpK0K_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LXXTZm4qFn2Rys_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LxBFnGI02intcy": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LxBFnGI02intcy_thz.JPG"
+        },
+        "H0134-Le3cBmuUcnJO48": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Le3cBmuUcnJO48_thz.JPG"
+        },
+        "H0134-LJKbAC6PGOjGO5": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LJKbAC6PGOjGO5_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LJKbAC6PGOjGO5_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LJKbAC6PGOjGO5.JPG"
+        },
+        "H0134-L8PXL7nFFFMEgl": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L8PXL7nFFFMEgl_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L8PXL7nFFFMEgl_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L8PXL7nFFFMEgl.JPG"
+        },
+        "H0134-LE4DDCNE0zk9pW": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LE4DDCNE0zk9pW_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LE4DDCNE0zk9pW_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LE4DDCNE0zk9pW.JPG"
+        },
+        "H0134-LKywmQLkDqpK0K": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LKywmQLkDqpK0K_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LKywmQLkDqpK0K_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LKywmQLkDqpK0K.JPG"
+        },
+        "H0134-LXXTZm4qFn2Rys": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LXXTZm4qFn2Rys_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LXXTZm4qFn2Rys_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LXXTZm4qFn2Rys.JPG"
+        }
+    }
+}

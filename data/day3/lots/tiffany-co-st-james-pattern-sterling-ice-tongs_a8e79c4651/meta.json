@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/tiffany-co-st-james-pattern-sterling-ice-tongs_a8e79c4651",
+    "slug": "tiffany-co-st-james-pattern-sterling-ice-tongs_a8e79c4651",
+    "lot_number": "3057",
+    "title": "TIFFANY & CO. \"ST. JAMES\" PATTERN STERLING ICE TONGS",
+    "estimate_low": 600,
+    "estimate_high": 800,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LHqpjIGQlDL50c_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LaxjsqrUL7tSTH_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LFIHaC2WMwigsW_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LnSVudhepnV6m3": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LnSVudhepnV6m3_thz.JPG"
+        },
+        "H0134-Lb9YhYAdmCzN26": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lb9YhYAdmCzN26_thz.JPG"
+        },
+        "H0134-LHqpjIGQlDL50c": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LHqpjIGQlDL50c_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LHqpjIGQlDL50c_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LHqpjIGQlDL50c.JPG"
+        },
+        "H0134-LaxjsqrUL7tSTH": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LaxjsqrUL7tSTH_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LaxjsqrUL7tSTH_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LaxjsqrUL7tSTH.JPG"
+        },
+        "H0134-LFIHaC2WMwigsW": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LFIHaC2WMwigsW_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LFIHaC2WMwigsW_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LFIHaC2WMwigsW.JPG"
+        }
+    }
+}

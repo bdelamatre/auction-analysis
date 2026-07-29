@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/greenleaf-1843-state-of-maine-schoolhouse-map-1st_5ba9937923",
+    "slug": "greenleaf-1843-state-of-maine-schoolhouse-map-1st_5ba9937923",
+    "lot_number": "2225",
+    "title": "GREENLEAF 1843 STATE OF MAINE SCHOOLHOUSE MAP 1ST W/ FINAL BORDER",
+    "estimate_low": 6000,
+    "estimate_high": 8000,
+    "current_bid": 3000,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LNK2QnyxChEVos_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LkC9wxwYyBKISE_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LpEmXIEt6gq59n_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-L9wkRoA8Q0OPea": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L9wkRoA8Q0OPea_thz.JPG"
+        },
+        "H0134-LOnV5y88eh3VjE": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LOnV5y88eh3VjE_thz.JPG"
+        },
+        "H0134-LNK2QnyxChEVos": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LNK2QnyxChEVos_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LNK2QnyxChEVos_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LNK2QnyxChEVos.JPG"
+        },
+        "H0134-LkC9wxwYyBKISE": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LkC9wxwYyBKISE_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LkC9wxwYyBKISE_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LkC9wxwYyBKISE.JPG"
+        },
+        "H0134-LpEmXIEt6gq59n": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LpEmXIEt6gq59n_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LpEmXIEt6gq59n_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LpEmXIEt6gq59n.JPG"
+        }
+    }
+}

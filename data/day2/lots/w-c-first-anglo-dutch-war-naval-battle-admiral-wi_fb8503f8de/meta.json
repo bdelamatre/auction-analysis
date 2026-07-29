@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/w-c-first-anglo-dutch-war-naval-battle-admiral-wi_fb8503f8de",
+    "slug": "w-c-first-anglo-dutch-war-naval-battle-admiral-wi_fb8503f8de",
+    "lot_number": "2098",
+    "title": "W/C FIRST ANGLO-DUTCH WAR NAVAL BATTLE ADMIRAL WILLIAM PENN",
+    "estimate_low": 300,
+    "estimate_high": 400,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L3dqa2HeX1fGTd_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LBYGbBO4C1yi5x_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LTOchpBVueKwxd_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LYqKtPemsKsolg": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LYqKtPemsKsolg_thz.JPG"
+        },
+        "H0134-L0A4GJZZyf0mMZ": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L0A4GJZZyf0mMZ_thz.JPG"
+        },
+        "H0134-L3dqa2HeX1fGTd": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L3dqa2HeX1fGTd_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L3dqa2HeX1fGTd_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L3dqa2HeX1fGTd.JPG"
+        },
+        "H0134-LBYGbBO4C1yi5x": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LBYGbBO4C1yi5x_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LBYGbBO4C1yi5x_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LBYGbBO4C1yi5x.JPG"
+        },
+        "H0134-LTOchpBVueKwxd": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LTOchpBVueKwxd_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LTOchpBVueKwxd_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LTOchpBVueKwxd.JPG"
+        }
+    }
+}

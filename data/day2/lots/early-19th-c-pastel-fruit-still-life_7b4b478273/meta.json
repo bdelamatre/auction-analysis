@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/early-19th-c-pastel-fruit-still-life_7b4b478273",
+    "slug": "early-19th-c-pastel-fruit-still-life_7b4b478273",
+    "lot_number": "2255",
+    "title": "EARLY 19TH C. PASTEL FRUIT STILL LIFE",
+    "estimate_low": 800,
+    "estimate_high": 1200,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Ll1r7Ty4vFhrgK_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LVHDtQO69dTmQ0_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LSLprnxRTvW0oN_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LqaXkPaqV44Sm6": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LqaXkPaqV44Sm6_thz.JPG"
+        },
+        "H0134-LZqoMj7A9U6LFV": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LZqoMj7A9U6LFV_thz.JPG"
+        },
+        "H0134-Ll1r7Ty4vFhrgK": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Ll1r7Ty4vFhrgK_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Ll1r7Ty4vFhrgK_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Ll1r7Ty4vFhrgK.JPG"
+        },
+        "H0134-LVHDtQO69dTmQ0": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LVHDtQO69dTmQ0_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LVHDtQO69dTmQ0_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LVHDtQO69dTmQ0.JPG"
+        },
+        "H0134-LSLprnxRTvW0oN": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LSLprnxRTvW0oN_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LSLprnxRTvW0oN_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LSLprnxRTvW0oN.JPG"
+        }
+    }
+}

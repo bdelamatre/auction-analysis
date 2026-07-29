@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/frederick-ed-ilsley-ma-me-1855-1933_54464c9a12",
+    "slug": "frederick-ed-ilsley-ma-me-1855-1933_54464c9a12",
+    "lot_number": "1203",
+    "title": "FREDERICK 'ED' ILSLEY (MA/ME, 1855-1933)",
+    "estimate_low": 600,
+    "estimate_high": 800,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LpIA8htqr1PRum_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LalgesdejgYNaJ_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lb7uDwcbpVK9EY_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LZOj0a1HGoTSaL_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-L49SwWphnmaXE9": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L49SwWphnmaXE9_thz.JPG"
+        },
+        "H0134-LL0wWRTVY8udH0": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LL0wWRTVY8udH0_thz.JPG"
+        },
+        "H0134-LpIA8htqr1PRum": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LpIA8htqr1PRum_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LpIA8htqr1PRum_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LpIA8htqr1PRum.JPG"
+        },
+        "H0134-LalgesdejgYNaJ": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LalgesdejgYNaJ_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LalgesdejgYNaJ_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LalgesdejgYNaJ.JPG"
+        },
+        "H0134-Lb7uDwcbpVK9EY": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lb7uDwcbpVK9EY_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lb7uDwcbpVK9EY_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lb7uDwcbpVK9EY.JPG"
+        },
+        "H0134-LZOj0a1HGoTSaL": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LZOj0a1HGoTSaL_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LZOj0a1HGoTSaL_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LZOj0a1HGoTSaL.JPG"
+        }
+    }
+}

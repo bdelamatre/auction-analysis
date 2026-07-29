@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/circa-1810-portrait-of-a-girl-in-a-regency-dress_0c7f8bf74f",
+    "slug": "circa-1810-portrait-of-a-girl-in-a-regency-dress_0c7f8bf74f",
+    "lot_number": "2277",
+    "title": "CIRCA 1810 PORTRAIT OF A GIRL IN A REGENCY DRESS",
+    "estimate_low": 2000,
+    "estimate_high": 3000,
+    "current_bid": 1000,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LSzh0VTVbzStF3_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LiQckYf5Sb1PT3_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LBrQBLyZtnLAw0": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LBrQBLyZtnLAw0_thz.JPG"
+        },
+        "H0134-LiAf2IwOyQTKqU": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LiAf2IwOyQTKqU_thz.JPG"
+        },
+        "H0134-LSzh0VTVbzStF3": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LSzh0VTVbzStF3_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LSzh0VTVbzStF3_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LSzh0VTVbzStF3.JPG"
+        },
+        "H0134-LiQckYf5Sb1PT3": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LiQckYf5Sb1PT3_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LiQckYf5Sb1PT3_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LiQckYf5Sb1PT3.JPG"
+        }
+    }
+}

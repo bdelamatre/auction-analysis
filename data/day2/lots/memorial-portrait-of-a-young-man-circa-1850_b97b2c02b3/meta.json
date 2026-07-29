@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/memorial-portrait-of-a-young-man-circa-1850_b97b2c02b3",
+    "slug": "memorial-portrait-of-a-young-man-circa-1850_b97b2c02b3",
+    "lot_number": "2029",
+    "title": "MEMORIAL PORTRAIT OF A YOUNG MAN CIRCA 1850",
+    "estimate_low": 1000,
+    "estimate_high": 2000,
+    "current_bid": 500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LaTuEX2CxE44g1_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LUlP46Tcq7KsA9_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LufLY0OIw9zrdO_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-L8tJz5oRFDR5KP": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L8tJz5oRFDR5KP_thz.JPG"
+        },
+        "H0134-L2kTNTsZ4NZWxx": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L2kTNTsZ4NZWxx_thz.JPG"
+        },
+        "H0134-LaTuEX2CxE44g1": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LaTuEX2CxE44g1_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LaTuEX2CxE44g1_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LaTuEX2CxE44g1.JPG"
+        },
+        "H0134-LUlP46Tcq7KsA9": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LUlP46Tcq7KsA9_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LUlP46Tcq7KsA9_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LUlP46Tcq7KsA9.JPG"
+        },
+        "H0134-LufLY0OIw9zrdO": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LufLY0OIw9zrdO_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LufLY0OIw9zrdO_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LufLY0OIw9zrdO.JPG"
+        }
+    }
+}

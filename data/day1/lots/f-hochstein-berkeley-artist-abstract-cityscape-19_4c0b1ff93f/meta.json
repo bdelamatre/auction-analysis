@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/f-hochstein-berkeley-artist-abstract-cityscape-19_4c0b1ff93f",
+    "slug": "f-hochstein-berkeley-artist-abstract-cityscape-19_4c0b1ff93f",
+    "lot_number": "1471",
+    "title": "F. HOCHSTEIN (BERKELEY ARTIST), ABSTRACT CITYSCAPE, 1964",
+    "estimate_low": 300,
+    "estimate_high": 500,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L7q7p0lMapwKx2_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Llq7fHsploH9jY_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LVcjmobWA1JZre_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-Lmng8YAQ6PXHMu": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lmng8YAQ6PXHMu_thz.JPG"
+        },
+        "H0134-LmR20hNHhAksJz": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LmR20hNHhAksJz_thz.JPG"
+        },
+        "H0134-L7q7p0lMapwKx2": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L7q7p0lMapwKx2_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L7q7p0lMapwKx2_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L7q7p0lMapwKx2.JPG"
+        },
+        "H0134-Llq7fHsploH9jY": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Llq7fHsploH9jY_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Llq7fHsploH9jY_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Llq7fHsploH9jY.JPG"
+        },
+        "H0134-LVcjmobWA1JZre": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LVcjmobWA1JZre_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LVcjmobWA1JZre_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LVcjmobWA1JZre.JPG"
+        }
+    }
+}

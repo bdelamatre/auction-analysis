@@ -1,0 +1,27 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/2-althea-macy-whale-species-wall-plaques_eae857aeb3",
+    "slug": "2-althea-macy-whale-species-wall-plaques_eae857aeb3",
+    "lot_number": "1291",
+    "title": "(2) ALTHEA MACY WHALE SPECIES WALL PLAQUES",
+    "estimate_low": 200,
+    "estimate_high": 300,
+    "current_bid": 50,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 1,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LQcj7EAjgkmIiu_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LgtKppMECCeqrL": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LgtKppMECCeqrL_thz.JPG"
+        },
+        "H0134-LrmLmEMZ7vdtbH": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LrmLmEMZ7vdtbH_thz.JPG"
+        },
+        "H0134-LQcj7EAjgkmIiu": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LQcj7EAjgkmIiu_original.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LQcj7EAjgkmIiu.JPG"
+        }
+    }
+}

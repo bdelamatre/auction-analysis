@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/bronze-bull-sculpture_d21d580a48",
+    "slug": "bronze-bull-sculpture_d21d580a48",
+    "lot_number": "1180",
+    "title": "BRONZE BULL SCULPTURE",
+    "estimate_low": 600,
+    "estimate_high": 800,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LQXPshR92i3vyH_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LUVay3oVBYeh7R_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LK10v8B7HYBxQp": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LK10v8B7HYBxQp_thz.JPG"
+        },
+        "H0134-LoJtZqT7cSSFFQ": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LoJtZqT7cSSFFQ_thz.JPG"
+        },
+        "H0134-LQXPshR92i3vyH": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LQXPshR92i3vyH_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LQXPshR92i3vyH_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LQXPshR92i3vyH.JPG"
+        },
+        "H0134-LUVay3oVBYeh7R": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LUVay3oVBYeh7R_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LUVay3oVBYeh7R_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LUVay3oVBYeh7R.JPG"
+        }
+    }
+}

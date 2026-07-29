@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/paterae-inlaid-octagonal-tea-caddy_4abc5bfbe1",
+    "slug": "paterae-inlaid-octagonal-tea-caddy_4abc5bfbe1",
+    "lot_number": "2310",
+    "title": "PATERAE INLAID OCTAGONAL TEA CADDY",
+    "estimate_low": 400,
+    "estimate_high": 600,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LgINvstORNJDJZ_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LsFxfmAl291i6S_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LeO3Zbk3qIDiZz_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LblDtF3cJQnWp0_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LTo0H7XgvjflDE": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LTo0H7XgvjflDE_thz.JPG"
+        },
+        "H0134-Li0NdbU9VUwHMt": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Li0NdbU9VUwHMt_thz.JPG"
+        },
+        "H0134-LgINvstORNJDJZ": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LgINvstORNJDJZ_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LgINvstORNJDJZ_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LgINvstORNJDJZ.JPG"
+        },
+        "H0134-LsFxfmAl291i6S": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LsFxfmAl291i6S_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LsFxfmAl291i6S_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LsFxfmAl291i6S.JPG"
+        },
+        "H0134-LeO3Zbk3qIDiZz": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LeO3Zbk3qIDiZz_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LeO3Zbk3qIDiZz_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LeO3Zbk3qIDiZz.JPG"
+        },
+        "H0134-LblDtF3cJQnWp0": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LblDtF3cJQnWp0_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LblDtF3cJQnWp0_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LblDtF3cJQnWp0.JPG"
+        }
+    }
+}

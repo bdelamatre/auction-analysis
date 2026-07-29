@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/cornelia-cowles-vetter-1880-1957-harbor-scene_29b28cd71d",
+    "slug": "cornelia-cowles-vetter-1880-1957-harbor-scene_29b28cd71d",
+    "lot_number": "1454",
+    "title": "CORNELIA COWLES VETTER (1880–1957), HARBOR SCENE",
+    "estimate_low": 300,
+    "estimate_high": 500,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L9Fgd7vx6uj7f2_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LkOUgLbIctyWrk_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LDKS3rifugI8nS_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LkNKvxy0QEfXLL_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LZg7Mk4xq7JkqG": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LZg7Mk4xq7JkqG_thz.JPG"
+        },
+        "H0134-LkPfycR108TG2F": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LkPfycR108TG2F_thz.JPG"
+        },
+        "H0134-L9Fgd7vx6uj7f2": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L9Fgd7vx6uj7f2_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L9Fgd7vx6uj7f2_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L9Fgd7vx6uj7f2.JPG"
+        },
+        "H0134-LkOUgLbIctyWrk": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LkOUgLbIctyWrk_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LkOUgLbIctyWrk_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LkOUgLbIctyWrk.JPG"
+        },
+        "H0134-LDKS3rifugI8nS": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LDKS3rifugI8nS_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LDKS3rifugI8nS_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LDKS3rifugI8nS.JPG"
+        },
+        "H0134-LkNKvxy0QEfXLL": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LkNKvxy0QEfXLL_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LkNKvxy0QEfXLL_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LkNKvxy0QEfXLL.JPG"
+        }
+    }
+}

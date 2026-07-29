@@ -1,0 +1,27 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/stow-wengenroth-american-1906-1978-the-sloop_151ae3cf9a",
+    "slug": "stow-wengenroth-american-1906-1978-the-sloop_151ae3cf9a",
+    "lot_number": "1309",
+    "title": "STOW WENGENROTH (AMERICAN, 1906-1978), THE SLOOP",
+    "estimate_low": 600,
+    "estimate_high": 800,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 1,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L8TaSPaW3anGmM_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-Lp6Pn38OVHwmwc": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lp6Pn38OVHwmwc_thz.JPG"
+        },
+        "H0134-LPLuV5pMoobvmx": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LPLuV5pMoobvmx_thz.JPG"
+        },
+        "H0134-L8TaSPaW3anGmM": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L8TaSPaW3anGmM_original.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L8TaSPaW3anGmM.JPG"
+        }
+    }
+}

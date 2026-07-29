@@ -1,0 +1,52 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/pair-of-portraits-identified-as-capt-folger-wife-_93320f1e37",
+    "slug": "pair-of-portraits-identified-as-capt-folger-wife-_93320f1e37",
+    "lot_number": "2009",
+    "title": "PAIR OF PORTRAITS IDENTIFIED AS CAPT. FOLGER & WIFE OF NANTUCKET",
+    "estimate_low": 2000,
+    "estimate_high": 3000,
+    "current_bid": 1000,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 5,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L9jQXh4zoAGP9a_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LWrkKer97IhO6l_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L6UT3aU4QkXxaP_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LJvsERYRhLSCOk_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LvrUnFYsAzA43D_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LoeK8TTeyaTuNm": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LoeK8TTeyaTuNm_thz.JPG"
+        },
+        "H0134-LiOWFCnGVjuyyK": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LiOWFCnGVjuyyK_thz.JPG"
+        },
+        "H0134-L9jQXh4zoAGP9a": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L9jQXh4zoAGP9a_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L9jQXh4zoAGP9a_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L9jQXh4zoAGP9a.JPG"
+        },
+        "H0134-LWrkKer97IhO6l": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LWrkKer97IhO6l_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LWrkKer97IhO6l_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LWrkKer97IhO6l.JPG"
+        },
+        "H0134-L6UT3aU4QkXxaP": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L6UT3aU4QkXxaP_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L6UT3aU4QkXxaP_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L6UT3aU4QkXxaP.JPG"
+        },
+        "H0134-LJvsERYRhLSCOk": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LJvsERYRhLSCOk_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LJvsERYRhLSCOk_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LJvsERYRhLSCOk.JPG"
+        },
+        "H0134-LvrUnFYsAzA43D": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LvrUnFYsAzA43D_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LvrUnFYsAzA43D_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LvrUnFYsAzA43D.JPG"
+        }
+    }
+}

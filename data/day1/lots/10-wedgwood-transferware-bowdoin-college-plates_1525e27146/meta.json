@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/10-wedgwood-transferware-bowdoin-college-plates_1525e27146",
+    "slug": "10-wedgwood-transferware-bowdoin-college-plates_1525e27146",
+    "lot_number": "1065",
+    "title": "(10) WEDGWOOD TRANSFERWARE BOWDOIN COLLEGE PLATES",
+    "estimate_low": 200,
+    "estimate_high": 300,
+    "current_bid": 50,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LfC1CU07tcoREd_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lx9OszszjQNhDA_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LdrmkRbeuwgWFS": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LdrmkRbeuwgWFS_thz.JPG"
+        },
+        "H0134-LxUWeZ0T1gtUnD": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LxUWeZ0T1gtUnD_thz.JPG"
+        },
+        "H0134-LfC1CU07tcoREd": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LfC1CU07tcoREd_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LfC1CU07tcoREd_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LfC1CU07tcoREd.JPG"
+        },
+        "H0134-Lx9OszszjQNhDA": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lx9OszszjQNhDA_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lx9OszszjQNhDA_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lx9OszszjQNhDA.JPG"
+        }
+    }
+}

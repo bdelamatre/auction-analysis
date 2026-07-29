@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/large-copper-milk-jug-with-spout_b1c263b05b",
+    "slug": "large-copper-milk-jug-with-spout_b1c263b05b",
+    "lot_number": "1057",
+    "title": "LARGE COPPER MILK JUG WITH SPOUT",
+    "estimate_low": 200,
+    "estimate_high": 300,
+    "current_bid": 50,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LVRtFUZwy9I9FJ_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lrcty7I0vxyRhX_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LfgGJqTo9IV5bl": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LfgGJqTo9IV5bl_thz.JPG"
+        },
+        "H0134-LZkDNXrjzSedrA": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LZkDNXrjzSedrA_thz.JPG"
+        },
+        "H0134-LVRtFUZwy9I9FJ": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LVRtFUZwy9I9FJ_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LVRtFUZwy9I9FJ_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LVRtFUZwy9I9FJ.JPG"
+        },
+        "H0134-Lrcty7I0vxyRhX": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lrcty7I0vxyRhX_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lrcty7I0vxyRhX_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lrcty7I0vxyRhX.JPG"
+        }
+    }
+}

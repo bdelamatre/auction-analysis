@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/emily-muir-ny-me-1904-2003_46c8cca7db",
+    "slug": "emily-muir-ny-me-1904-2003_46c8cca7db",
+    "lot_number": "3416",
+    "title": "EMILY MUIR (NY/ME, 1904-2003)",
+    "estimate_low": 2500,
+    "estimate_high": 3000,
+    "current_bid": 1200,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L6NcSkU7fP5cAE_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LykD51HMXlbNt0_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LtgF9pj26OkafJ_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LT4bF3sjKtcCt1_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LgqDxDbCjtuRsw": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LgqDxDbCjtuRsw_thz.JPG"
+        },
+        "H0134-Lm07k3dqBTh7We": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lm07k3dqBTh7We_thz.JPG"
+        },
+        "H0134-L6NcSkU7fP5cAE": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L6NcSkU7fP5cAE_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L6NcSkU7fP5cAE_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L6NcSkU7fP5cAE.JPG"
+        },
+        "H0134-LykD51HMXlbNt0": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LykD51HMXlbNt0_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LykD51HMXlbNt0_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LykD51HMXlbNt0.JPG"
+        },
+        "H0134-LtgF9pj26OkafJ": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LtgF9pj26OkafJ_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LtgF9pj26OkafJ_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LtgF9pj26OkafJ.JPG"
+        },
+        "H0134-LT4bF3sjKtcCt1": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LT4bF3sjKtcCt1_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LT4bF3sjKtcCt1_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LT4bF3sjKtcCt1.JPG"
+        }
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/joseph-heinrichs-german-american-1866-1937_a91ad50ca3",
+    "slug": "joseph-heinrichs-german-american-1866-1937_a91ad50ca3",
+    "lot_number": "3016",
+    "title": "JOSEPH HEINRICHS (GERMAN-AMERICAN, 1866-1937)",
+    "estimate_low": 1000,
+    "estimate_high": 1500,
+    "current_bid": 500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 5,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lx20nXsRCbF42T_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LYIoGez4Ne4Vjv_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LBTHnwvxH65yRS_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LDB9fTJLFWC8Af_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LR3Xoe9Ul1Xe0h_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LwEVshkMe3YZo0": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LwEVshkMe3YZo0_thz.JPG"
+        },
+        "H0134-LqX5fMkFw9x4RR": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LqX5fMkFw9x4RR_thz.JPG"
+        },
+        "H0134-Lx20nXsRCbF42T": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lx20nXsRCbF42T_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lx20nXsRCbF42T_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lx20nXsRCbF42T.JPG"
+        },
+        "H0134-LYIoGez4Ne4Vjv": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LYIoGez4Ne4Vjv_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LYIoGez4Ne4Vjv_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LYIoGez4Ne4Vjv.JPG"
+        },
+        "H0134-LBTHnwvxH65yRS": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LBTHnwvxH65yRS_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LBTHnwvxH65yRS_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LBTHnwvxH65yRS.JPG"
+        },
+        "H0134-LDB9fTJLFWC8Af": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LDB9fTJLFWC8Af_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LDB9fTJLFWC8Af_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LDB9fTJLFWC8Af.JPG"
+        },
+        "H0134-LR3Xoe9Ul1Xe0h": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LR3Xoe9Ul1Xe0h_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LR3Xoe9Ul1Xe0h_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LR3Xoe9Ul1Xe0h.JPG"
+        }
+    }
+}

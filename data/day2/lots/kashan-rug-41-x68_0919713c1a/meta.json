@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/kashan-rug-41-x68_0919713c1a",
+    "slug": "kashan-rug-41-x68_0919713c1a",
+    "lot_number": "2189",
+    "title": "KASHAN RUG (4'1\"X6'8\")",
+    "estimate_low": 1000,
+    "estimate_high": 1500,
+    "current_bid": 500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LPi9GGZCHcj5PO_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LO3XyvXmcgckEk_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LWsscz449mreK3_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LUKG64SL7gpZAH_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-Lbg7aauVNh8G3S": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lbg7aauVNh8G3S_thz.JPG"
+        },
+        "H0134-Ldr4zKjE3kNBjj": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Ldr4zKjE3kNBjj_thz.JPG"
+        },
+        "H0134-LPi9GGZCHcj5PO": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LPi9GGZCHcj5PO_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LPi9GGZCHcj5PO_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LPi9GGZCHcj5PO.JPG"
+        },
+        "H0134-LO3XyvXmcgckEk": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LO3XyvXmcgckEk_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LO3XyvXmcgckEk_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LO3XyvXmcgckEk.JPG"
+        },
+        "H0134-LWsscz449mreK3": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LWsscz449mreK3_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LWsscz449mreK3_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LWsscz449mreK3.JPG"
+        },
+        "H0134-LUKG64SL7gpZAH": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LUKG64SL7gpZAH_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LUKG64SL7gpZAH_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LUKG64SL7gpZAH.JPG"
+        }
+    }
+}

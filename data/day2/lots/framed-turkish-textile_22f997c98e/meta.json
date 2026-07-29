@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/framed-turkish-textile_22f997c98e",
+    "slug": "framed-turkish-textile_22f997c98e",
+    "lot_number": "2432",
+    "title": "FRAMED TURKISH TEXTILE",
+    "estimate_low": 500,
+    "estimate_high": 700,
+    "current_bid": 125,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LlnIjs9WueVGFq_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LXQpVAsnTXqxDn_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L8zGutAuLLt0QH_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LBTzNuxfkzDMuM": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LBTzNuxfkzDMuM_thz.JPG"
+        },
+        "H0134-Lz4IzOEyMARovz": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lz4IzOEyMARovz_thz.JPG"
+        },
+        "H0134-LlnIjs9WueVGFq": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LlnIjs9WueVGFq_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LlnIjs9WueVGFq_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LlnIjs9WueVGFq.JPG"
+        },
+        "H0134-LXQpVAsnTXqxDn": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LXQpVAsnTXqxDn_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LXQpVAsnTXqxDn_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LXQpVAsnTXqxDn.JPG"
+        },
+        "H0134-L8zGutAuLLt0QH": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L8zGutAuLLt0QH_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L8zGutAuLLt0QH_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L8zGutAuLLt0QH.JPG"
+        }
+    }
+}

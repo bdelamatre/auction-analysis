@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/mid-19th-c-portrait-of-woman-probably-swiss_7efcf95d59",
+    "slug": "mid-19th-c-portrait-of-woman-probably-swiss_7efcf95d59",
+    "lot_number": "2420",
+    "title": "MID-19TH C PORTRAIT OF WOMAN, PROBABLY SWISS",
+    "estimate_low": 800,
+    "estimate_high": 1200,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Loobt2417Id4RH_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LL5KyHAqQxyXWt_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L6Vz1OizctGNV7_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LVjF36MSzk2vxN_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LgpThNRJ23aMKS": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LgpThNRJ23aMKS_thz.JPG"
+        },
+        "H0134-LcMQvBzH9DWqE3": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LcMQvBzH9DWqE3_thz.JPG"
+        },
+        "H0134-Loobt2417Id4RH": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Loobt2417Id4RH_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Loobt2417Id4RH_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Loobt2417Id4RH.JPG"
+        },
+        "H0134-LL5KyHAqQxyXWt": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LL5KyHAqQxyXWt_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LL5KyHAqQxyXWt_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LL5KyHAqQxyXWt.JPG"
+        },
+        "H0134-L6Vz1OizctGNV7": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L6Vz1OizctGNV7_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L6Vz1OizctGNV7_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L6Vz1OizctGNV7.JPG"
+        },
+        "H0134-LVjF36MSzk2vxN": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LVjF36MSzk2vxN_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LVjF36MSzk2vxN_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LVjF36MSzk2vxN.JPG"
+        }
+    }
+}

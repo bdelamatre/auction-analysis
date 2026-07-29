@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/rare-monumental-george-washington-valley-forge-pr_dae462e671",
+    "slug": "rare-monumental-george-washington-valley-forge-pr_dae462e671",
+    "lot_number": "1068",
+    "title": "RARE MONUMENTAL GEORGE WASHINGTON VALLEY FORGE PRINT",
+    "estimate_low": 1500,
+    "estimate_high": 2000,
+    "current_bid": 750,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L0r8jnMUgICMqa_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LMdBRzdWoF6glc_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LK11b6h9dB41eb_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lf3MqWntCnOqPc_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LNcSyKD0mqvlTj": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LNcSyKD0mqvlTj_thz.JPG"
+        },
+        "H0134-LKc38fQ157Uidb": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LKc38fQ157Uidb_thz.JPG"
+        },
+        "H0134-L0r8jnMUgICMqa": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L0r8jnMUgICMqa_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L0r8jnMUgICMqa_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L0r8jnMUgICMqa.JPG"
+        },
+        "H0134-LMdBRzdWoF6glc": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LMdBRzdWoF6glc_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LMdBRzdWoF6glc_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LMdBRzdWoF6glc.JPG"
+        },
+        "H0134-LK11b6h9dB41eb": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LK11b6h9dB41eb_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LK11b6h9dB41eb_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LK11b6h9dB41eb.JPG"
+        },
+        "H0134-Lf3MqWntCnOqPc": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lf3MqWntCnOqPc_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lf3MqWntCnOqPc_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lf3MqWntCnOqPc.JPG"
+        }
+    }
+}

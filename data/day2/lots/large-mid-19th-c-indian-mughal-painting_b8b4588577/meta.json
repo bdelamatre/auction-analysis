@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/large-mid-19th-c-indian-mughal-painting_b8b4588577",
+    "slug": "large-mid-19th-c-indian-mughal-painting_b8b4588577",
+    "lot_number": "2450",
+    "title": "LARGE MID-19TH C. INDIAN MUGHAL PAINTING",
+    "estimate_low": 200,
+    "estimate_high": 300,
+    "current_bid": 50,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Ljp5gJlK8Bpmlx_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LVgIPLb1Simxvg_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LEOlvXhsa7EptX": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LEOlvXhsa7EptX_thz.JPG"
+        },
+        "H0134-LaAVqkGejwYQmA": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LaAVqkGejwYQmA_thz.JPG"
+        },
+        "H0134-Ljp5gJlK8Bpmlx": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Ljp5gJlK8Bpmlx_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Ljp5gJlK8Bpmlx_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Ljp5gJlK8Bpmlx.JPG"
+        },
+        "H0134-LVgIPLb1Simxvg": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LVgIPLb1Simxvg_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LVgIPLb1Simxvg_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LVgIPLb1Simxvg.JPG"
+        }
+    }
+}

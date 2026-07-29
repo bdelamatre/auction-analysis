@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/pierre-jules-mene-france-1810-1879_1818dcceb6",
+    "slug": "pierre-jules-mene-france-1810-1879_1818dcceb6",
+    "lot_number": "3009",
+    "title": "PIERRE JULES MENE (FRANCE, 1810-1879)",
+    "estimate_low": 600,
+    "estimate_high": 800,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LFiX5AwE6bqP3M_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L5UgDwercIY074_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LewQ7qstzEdasw_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LFqm5k0ZLLHv87": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LFqm5k0ZLLHv87_thz.JPG"
+        },
+        "H0134-LZdDroDonJ7oNE": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LZdDroDonJ7oNE_thz.JPG"
+        },
+        "H0134-LFiX5AwE6bqP3M": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LFiX5AwE6bqP3M_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LFiX5AwE6bqP3M_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LFiX5AwE6bqP3M.JPG"
+        },
+        "H0134-L5UgDwercIY074": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L5UgDwercIY074_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L5UgDwercIY074_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L5UgDwercIY074.JPG"
+        },
+        "H0134-LewQ7qstzEdasw": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LewQ7qstzEdasw_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LewQ7qstzEdasw_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LewQ7qstzEdasw.JPG"
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/oriental-rug-8-x-10_b65e225ef1",
+    "slug": "oriental-rug-8-x-10_b65e225ef1",
+    "lot_number": "2258",
+    "title": "ORIENTAL RUG (8' X 10')",
+    "estimate_low": 400,
+    "estimate_high": 600,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 1,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LDQNr8mYJHxCpy_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LgqjN9fwDvd1Jm": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LgqjN9fwDvd1Jm_thz.JPG"
+        },
+        "H0134-LMZtmZDhFcdyj8": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LMZtmZDhFcdyj8_thz.JPG"
+        },
+        "H0134-LDQNr8mYJHxCpy": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LDQNr8mYJHxCpy_original.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LDQNr8mYJHxCpy.JPG"
+        }
+    }
+}

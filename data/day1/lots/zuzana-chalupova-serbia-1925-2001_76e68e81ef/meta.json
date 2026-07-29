@@ -1,0 +1,58 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/zuzana-chalupova-serbia-1925-2001_76e68e81ef",
+    "slug": "zuzana-chalupova-serbia-1925-2001_76e68e81ef",
+    "lot_number": "1102",
+    "title": "ZUZANA CHALUPOVA (SERBIA, 1925-2001)",
+    "estimate_low": 600,
+    "estimate_high": 800,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 6,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lp6VZjOlyvmOyN_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LdpF2PQGybK54m_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L7RWmVcc76yFcu_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LsVEMq91HbmdnR_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LM16E7J4aUcodH_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LYvJUNnokHyBJR_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LJb890eRLZCyI5": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LJb890eRLZCyI5_thz.JPG"
+        },
+        "H0134-LupgBxhnQnfVix": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LupgBxhnQnfVix_thz.JPG"
+        },
+        "H0134-Lp6VZjOlyvmOyN": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lp6VZjOlyvmOyN_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lp6VZjOlyvmOyN_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lp6VZjOlyvmOyN.JPG"
+        },
+        "H0134-LdpF2PQGybK54m": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LdpF2PQGybK54m_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LdpF2PQGybK54m_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LdpF2PQGybK54m.JPG"
+        },
+        "H0134-L7RWmVcc76yFcu": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L7RWmVcc76yFcu_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L7RWmVcc76yFcu_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L7RWmVcc76yFcu.JPG"
+        },
+        "H0134-LsVEMq91HbmdnR": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LsVEMq91HbmdnR_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LsVEMq91HbmdnR_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LsVEMq91HbmdnR.JPG"
+        },
+        "H0134-LM16E7J4aUcodH": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LM16E7J4aUcodH_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LM16E7J4aUcodH_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LM16E7J4aUcodH.JPG"
+        },
+        "H0134-LYvJUNnokHyBJR": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LYvJUNnokHyBJR_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LYvJUNnokHyBJR_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LYvJUNnokHyBJR.JPG"
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/large-single-draw-brass-wood-telescope_97b8879e54",
+    "slug": "large-single-draw-brass-wood-telescope_97b8879e54",
+    "lot_number": "2025",
+    "title": "LARGE SINGLE DRAW BRASS & WOOD TELESCOPE",
+    "estimate_low": 500,
+    "estimate_high": 700,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LHSHjmry8lKLoi_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LjiQKaC21UfROG_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LqDG65kzUTtHOa_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LwWRqUx2HAvnXT": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LwWRqUx2HAvnXT_thz.JPG"
+        },
+        "H0134-LmjHGhECCfjAWJ": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LmjHGhECCfjAWJ_thz.JPG"
+        },
+        "H0134-LHSHjmry8lKLoi": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LHSHjmry8lKLoi_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LHSHjmry8lKLoi_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LHSHjmry8lKLoi.JPG"
+        },
+        "H0134-LjiQKaC21UfROG": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LjiQKaC21UfROG_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LjiQKaC21UfROG_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LjiQKaC21UfROG.JPG"
+        },
+        "H0134-LqDG65kzUTtHOa": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LqDG65kzUTtHOa_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LqDG65kzUTtHOa_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LqDG65kzUTtHOa.JPG"
+        }
+    }
+}

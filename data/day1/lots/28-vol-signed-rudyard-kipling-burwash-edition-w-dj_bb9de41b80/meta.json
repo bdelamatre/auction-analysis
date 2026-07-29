@@ -1,0 +1,58 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/28-vol-signed-rudyard-kipling-burwash-edition-w-dj_bb9de41b80",
+    "slug": "28-vol-signed-rudyard-kipling-burwash-edition-w-dj_bb9de41b80",
+    "lot_number": "1476",
+    "title": "(28 VOL) SIGNED RUDYARD KIPLING BURWASH EDITION W/ DJ",
+    "estimate_low": 3000,
+    "estimate_high": 4000,
+    "current_bid": 1500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 6,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LHE6N4t0cSijCt_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LBAYwebVpRjExL_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LmVvFerxUjfe71_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lo2NBun1BAQlXL_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Li1l7G8SlziDOI_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LTSlaJMs8hYbnH_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LIN9vtiohdfSTU": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LIN9vtiohdfSTU_thz.JPG"
+        },
+        "H0134-LwH8eUgy8dcjwW": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LwH8eUgy8dcjwW_thz.JPG"
+        },
+        "H0134-LHE6N4t0cSijCt": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LHE6N4t0cSijCt_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LHE6N4t0cSijCt_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LHE6N4t0cSijCt.JPG"
+        },
+        "H0134-LBAYwebVpRjExL": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LBAYwebVpRjExL_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LBAYwebVpRjExL_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LBAYwebVpRjExL.JPG"
+        },
+        "H0134-LmVvFerxUjfe71": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LmVvFerxUjfe71_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LmVvFerxUjfe71_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LmVvFerxUjfe71.JPG"
+        },
+        "H0134-Lo2NBun1BAQlXL": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lo2NBun1BAQlXL_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lo2NBun1BAQlXL_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lo2NBun1BAQlXL.JPG"
+        },
+        "H0134-Li1l7G8SlziDOI": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Li1l7G8SlziDOI_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Li1l7G8SlziDOI_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Li1l7G8SlziDOI.JPG"
+        },
+        "H0134-LTSlaJMs8hYbnH": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LTSlaJMs8hYbnH_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LTSlaJMs8hYbnH_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LTSlaJMs8hYbnH.JPG"
+        }
+    }
+}

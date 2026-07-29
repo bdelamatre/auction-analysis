@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/4-chinese-carved-hardwood-nesting-tables_c60de3239b",
+    "slug": "4-chinese-carved-hardwood-nesting-tables_c60de3239b",
+    "lot_number": "2482",
+    "title": "(4) CHINESE CARVED HARDWOOD NESTING TABLES",
+    "estimate_low": 600,
+    "estimate_high": 800,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LUDZIWblKwhapp_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Ltaa9fVUIPjlST_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lgrz6rQKk0BguV_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-Lan5mxF67acEVc": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lan5mxF67acEVc_thz.JPG"
+        },
+        "H0134-LzRMzig0XTO1r5": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LzRMzig0XTO1r5_thz.JPG"
+        },
+        "H0134-LUDZIWblKwhapp": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LUDZIWblKwhapp_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LUDZIWblKwhapp_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LUDZIWblKwhapp.JPG"
+        },
+        "H0134-Ltaa9fVUIPjlST": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Ltaa9fVUIPjlST_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Ltaa9fVUIPjlST_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Ltaa9fVUIPjlST.JPG"
+        },
+        "H0134-Lgrz6rQKk0BguV": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lgrz6rQKk0BguV_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lgrz6rQKk0BguV_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lgrz6rQKk0BguV.JPG"
+        }
+    }
+}

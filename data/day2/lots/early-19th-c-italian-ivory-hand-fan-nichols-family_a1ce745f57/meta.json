@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/early-19th-c-italian-ivory-hand-fan-nichols-family_a1ce745f57",
+    "slug": "early-19th-c-italian-ivory-hand-fan-nichols-family_a1ce745f57",
+    "lot_number": "2392",
+    "title": "EARLY 19TH C. ITALIAN IVORY HAND FAN, NICHOLS FAMILY",
+    "estimate_low": 250,
+    "estimate_high": 350,
+    "current_bid": 50,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LsYAbVFoVD1zZG_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LJt1uZJsAdZUbS_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LcZ1MA63rgLHOP_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LYgMsJuKuRIcce": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LYgMsJuKuRIcce_thz.JPG"
+        },
+        "H0134-LijECFWazGLcxf": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LijECFWazGLcxf_thz.JPG"
+        },
+        "H0134-LsYAbVFoVD1zZG": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LsYAbVFoVD1zZG_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LsYAbVFoVD1zZG_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LsYAbVFoVD1zZG.JPG"
+        },
+        "H0134-LJt1uZJsAdZUbS": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LJt1uZJsAdZUbS_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LJt1uZJsAdZUbS_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LJt1uZJsAdZUbS.JPG"
+        },
+        "H0134-LcZ1MA63rgLHOP": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LcZ1MA63rgLHOP_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LcZ1MA63rgLHOP_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LcZ1MA63rgLHOP.JPG"
+        }
+    }
+}

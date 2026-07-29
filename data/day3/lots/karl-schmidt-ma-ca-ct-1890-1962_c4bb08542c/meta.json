@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/karl-schmidt-ma-ca-ct-1890-1962_c4bb08542c",
+    "slug": "karl-schmidt-ma-ca-ct-1890-1962_c4bb08542c",
+    "lot_number": "3439",
+    "title": "KARL SCHMIDT (MA/CA/CT, 1890-1962)",
+    "estimate_low": 1500,
+    "estimate_high": 2000,
+    "current_bid": 750,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LLbY6XqXbrLfig_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LNEO1lTyaoMCm9_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LODELSHMuOyCQj_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L6px7lWgoGh1JM_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LGfPDgUC8pyM6c": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LGfPDgUC8pyM6c_thz.JPG"
+        },
+        "H0134-LIbHfABrvvWvaA": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LIbHfABrvvWvaA_thz.JPG"
+        },
+        "H0134-LLbY6XqXbrLfig": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LLbY6XqXbrLfig_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LLbY6XqXbrLfig_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LLbY6XqXbrLfig.JPG"
+        },
+        "H0134-LNEO1lTyaoMCm9": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LNEO1lTyaoMCm9_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LNEO1lTyaoMCm9_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LNEO1lTyaoMCm9.JPG"
+        },
+        "H0134-LODELSHMuOyCQj": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LODELSHMuOyCQj_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LODELSHMuOyCQj_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LODELSHMuOyCQj.JPG"
+        },
+        "H0134-L6px7lWgoGh1JM": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L6px7lWgoGh1JM_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L6px7lWgoGh1JM_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L6px7lWgoGh1JM.JPG"
+        }
+    }
+}

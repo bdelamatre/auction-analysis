@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/caroline-stehlin-ny-me-1877-1928_bf566da1c2",
+    "slug": "caroline-stehlin-ny-me-1877-1928_bf566da1c2",
+    "lot_number": "3447",
+    "title": "CAROLINE STEHLIN (NY/ME, 1877-1928)",
+    "estimate_low": 2000,
+    "estimate_high": 2500,
+    "current_bid": 1000,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L8BWrQ9Fzii5jC_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LkAwcYGo8pKMej_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LJ4jpPPKga5RVT_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L9WDNrnMiRRwJg_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-Lu392FOzmzSYJs": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lu392FOzmzSYJs_thz.JPG"
+        },
+        "H0134-LA7nWIc369w1QY": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LA7nWIc369w1QY_thz.JPG"
+        },
+        "H0134-L8BWrQ9Fzii5jC": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L8BWrQ9Fzii5jC_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L8BWrQ9Fzii5jC_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L8BWrQ9Fzii5jC.JPG"
+        },
+        "H0134-LkAwcYGo8pKMej": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LkAwcYGo8pKMej_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LkAwcYGo8pKMej_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LkAwcYGo8pKMej.JPG"
+        },
+        "H0134-LJ4jpPPKga5RVT": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LJ4jpPPKga5RVT_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LJ4jpPPKga5RVT_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LJ4jpPPKga5RVT.JPG"
+        },
+        "H0134-L9WDNrnMiRRwJg": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L9WDNrnMiRRwJg_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L9WDNrnMiRRwJg_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L9WDNrnMiRRwJg.JPG"
+        }
+    }
+}

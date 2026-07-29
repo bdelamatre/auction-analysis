@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/wwii-era-chelsea-us-navy-mark-i-deck-clock_ef465849c2",
+    "slug": "wwii-era-chelsea-us-navy-mark-i-deck-clock_ef465849c2",
+    "lot_number": "2056",
+    "title": "WWII ERA CHELSEA US NAVY MARK I DECK CLOCK",
+    "estimate_low": 500,
+    "estimate_high": 700,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LXwzGsNTYkhuH8_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L9ttteWchb8BTl_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LJ7qEdOLDWGqSf": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LJ7qEdOLDWGqSf_thz.JPG"
+        },
+        "H0134-LT51CDmICeicSh": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LT51CDmICeicSh_thz.JPG"
+        },
+        "H0134-LXwzGsNTYkhuH8": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LXwzGsNTYkhuH8_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LXwzGsNTYkhuH8_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LXwzGsNTYkhuH8.JPG"
+        },
+        "H0134-L9ttteWchb8BTl": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L9ttteWchb8BTl_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L9ttteWchb8BTl_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L9ttteWchb8BTl.JPG"
+        }
+    }
+}

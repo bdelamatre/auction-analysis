@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/3-mid-20th-c-miniature-views-of-switzerland_5eb498b184",
+    "slug": "3-mid-20th-c-miniature-views-of-switzerland_5eb498b184",
+    "lot_number": "1450",
+    "title": "(3) MID-20TH C. MINIATURE VIEWS OF SWITZERLAND",
+    "estimate_low": 300,
+    "estimate_high": 500,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L5M3gmPTnR2H1K_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LPpFexsCShPt0b_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LAvxadoNi2nOii": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LAvxadoNi2nOii_thz.JPG"
+        },
+        "H0134-L2MFIIHzviXSYi": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L2MFIIHzviXSYi_thz.JPG"
+        },
+        "H0134-L5M3gmPTnR2H1K": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L5M3gmPTnR2H1K_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L5M3gmPTnR2H1K_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L5M3gmPTnR2H1K.JPG"
+        },
+        "H0134-LPpFexsCShPt0b": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LPpFexsCShPt0b_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LPpFexsCShPt0b_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LPpFexsCShPt0b.JPG"
+        }
+    }
+}

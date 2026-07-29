@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/axel-olson-haldrup-denmark-1890-1977_2fbf1bc7b8",
+    "slug": "axel-olson-haldrup-denmark-1890-1977_2fbf1bc7b8",
+    "lot_number": "1290",
+    "title": "AXEL OLSON HALDRUP (DENMARK, 1890-1977)",
+    "estimate_low": 600,
+    "estimate_high": 800,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LgtKppMECCeqrL_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LBnSvmBNs2ccUP_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LOvWiGxdnh07df_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LnyFyiKpPxuGWB_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-Lnobi9nouSLTb6": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lnobi9nouSLTb6_thz.JPG"
+        },
+        "H0134-LQcj7EAjgkmIiu": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LQcj7EAjgkmIiu_thz.JPG"
+        },
+        "H0134-LgtKppMECCeqrL": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LgtKppMECCeqrL_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LgtKppMECCeqrL_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LgtKppMECCeqrL.JPG"
+        },
+        "H0134-LBnSvmBNs2ccUP": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LBnSvmBNs2ccUP_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LBnSvmBNs2ccUP_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LBnSvmBNs2ccUP.JPG"
+        },
+        "H0134-LOvWiGxdnh07df": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LOvWiGxdnh07df_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LOvWiGxdnh07df_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LOvWiGxdnh07df.JPG"
+        },
+        "H0134-LnyFyiKpPxuGWB": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LnyFyiKpPxuGWB_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LnyFyiKpPxuGWB_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LnyFyiKpPxuGWB.JPG"
+        }
+    }
+}

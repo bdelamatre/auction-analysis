@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/clara-cohan-ny-az-me-1956_66fdb85bd4",
+    "slug": "clara-cohan-ny-az-me-1956_66fdb85bd4",
+    "lot_number": "3116",
+    "title": "CLARA COHAN (NY/AZ/ME, 1956 - )",
+    "estimate_low": 2000,
+    "estimate_high": 3000,
+    "current_bid": 1000,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LWc255qfkXMGoq_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lh45B3YRoc67V1_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LgHR5DGrOPseoi_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-Le3cBmuUcnJO48": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Le3cBmuUcnJO48_thz.JPG"
+        },
+        "H0134-LE31zVZeBYjdyM": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LE31zVZeBYjdyM_thz.JPG"
+        },
+        "H0134-LWc255qfkXMGoq": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LWc255qfkXMGoq_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LWc255qfkXMGoq_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LWc255qfkXMGoq.JPG"
+        },
+        "H0134-Lh45B3YRoc67V1": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lh45B3YRoc67V1_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lh45B3YRoc67V1_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lh45B3YRoc67V1.JPG"
+        },
+        "H0134-LgHR5DGrOPseoi": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LgHR5DGrOPseoi_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LgHR5DGrOPseoi_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LgHR5DGrOPseoi.JPG"
+        }
+    }
+}

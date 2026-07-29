@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/otty-merrill-tenants-harbor-me-nyc-1947-2024_b210e1605b",
+    "slug": "otty-merrill-tenants-harbor-me-nyc-1947-2024_b210e1605b",
+    "lot_number": "3334",
+    "title": "OTTY MERRILL (TENANT'S HARBOR, ME/ NYC, 1947-2024))",
+    "estimate_low": 600,
+    "estimate_high": 800,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lxn6Drh7imcHtp_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LL1ojIkMtD4clA_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LzPYwGCmQH5CmC_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-L91d0XGh2kCytp": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L91d0XGh2kCytp_thz.JPG"
+        },
+        "H0134-LYWP7q10m3hVQc": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LYWP7q10m3hVQc_thz.JPG"
+        },
+        "H0134-Lxn6Drh7imcHtp": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lxn6Drh7imcHtp_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lxn6Drh7imcHtp_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lxn6Drh7imcHtp.JPG"
+        },
+        "H0134-LL1ojIkMtD4clA": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LL1ojIkMtD4clA_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LL1ojIkMtD4clA_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LL1ojIkMtD4clA.JPG"
+        },
+        "H0134-LzPYwGCmQH5CmC": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LzPYwGCmQH5CmC_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LzPYwGCmQH5CmC_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LzPYwGCmQH5CmC.JPG"
+        }
+    }
+}

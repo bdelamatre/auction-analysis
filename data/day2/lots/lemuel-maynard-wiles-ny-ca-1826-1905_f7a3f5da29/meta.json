@@ -1,0 +1,52 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/lemuel-maynard-wiles-ny-ca-1826-1905_f7a3f5da29",
+    "slug": "lemuel-maynard-wiles-ny-ca-1826-1905_f7a3f5da29",
+    "lot_number": "2237",
+    "title": "LEMUEL MAYNARD WILES (NY/CA, 1826-1905)",
+    "estimate_low": 1200,
+    "estimate_high": 1500,
+    "current_bid": 600,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 5,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lt3z9PEqfwpSiu_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LtbZxGyXCUSfRd_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LcwynMRl282HId_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LcUHNAm9k5btDq_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LDvomjwQ2lugTL_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-L8iVw0urlhdhNk": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L8iVw0urlhdhNk_thz.JPG"
+        },
+        "H0134-LuG8qbtvGAvQBM": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LuG8qbtvGAvQBM_thz.JPG"
+        },
+        "H0134-Lt3z9PEqfwpSiu": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lt3z9PEqfwpSiu_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lt3z9PEqfwpSiu_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lt3z9PEqfwpSiu.JPG"
+        },
+        "H0134-LtbZxGyXCUSfRd": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LtbZxGyXCUSfRd_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LtbZxGyXCUSfRd_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LtbZxGyXCUSfRd.JPG"
+        },
+        "H0134-LcwynMRl282HId": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LcwynMRl282HId_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LcwynMRl282HId_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LcwynMRl282HId.JPG"
+        },
+        "H0134-LcUHNAm9k5btDq": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LcUHNAm9k5btDq_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LcUHNAm9k5btDq_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LcUHNAm9k5btDq.JPG"
+        },
+        "H0134-LDvomjwQ2lugTL": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LDvomjwQ2lugTL_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LDvomjwQ2lugTL_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LDvomjwQ2lugTL.JPG"
+        }
+    }
+}

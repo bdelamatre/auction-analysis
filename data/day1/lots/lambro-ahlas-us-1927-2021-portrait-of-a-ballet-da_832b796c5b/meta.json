@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/lambro-ahlas-us-1927-2021-portrait-of-a-ballet-da_832b796c5b",
+    "slug": "lambro-ahlas-us-1927-2021-portrait-of-a-ballet-da_832b796c5b",
+    "lot_number": "1140",
+    "title": "LAMBRO AHLAS (US, 1927-2021) PORTRAIT OF A BALLET DANCER",
+    "estimate_low": 400,
+    "estimate_high": 600,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LMLoauCUPcSKhR_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L8vtc3YEgGrJPC_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L7wv10aszbsR5e_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LKhKojwWl0sbZk": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LKhKojwWl0sbZk_thz.JPG"
+        },
+        "H0134-L9CBiM8sONdZ0t": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L9CBiM8sONdZ0t_thz.JPG"
+        },
+        "H0134-LMLoauCUPcSKhR": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LMLoauCUPcSKhR_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LMLoauCUPcSKhR_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LMLoauCUPcSKhR.JPG"
+        },
+        "H0134-L8vtc3YEgGrJPC": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L8vtc3YEgGrJPC_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L8vtc3YEgGrJPC_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L8vtc3YEgGrJPC.JPG"
+        },
+        "H0134-L7wv10aszbsR5e": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L7wv10aszbsR5e_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L7wv10aszbsR5e_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L7wv10aszbsR5e.JPG"
+        }
+    }
+}

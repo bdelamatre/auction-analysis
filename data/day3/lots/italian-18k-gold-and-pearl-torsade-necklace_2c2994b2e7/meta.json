@@ -1,0 +1,64 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/italian-18k-gold-and-pearl-torsade-necklace_2c2994b2e7",
+    "slug": "italian-18k-gold-and-pearl-torsade-necklace_2c2994b2e7",
+    "lot_number": "3119",
+    "title": "ITALIAN 18K GOLD AND PEARL TORSADE NECKLACE",
+    "estimate_low": 5000,
+    "estimate_high": 7000,
+    "current_bid": 2500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 7,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LGd9hiDVEafGc0_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LBgaE0omqdpc91_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LjYLYawPXQzznC_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-La2UYkoyoaBCVv_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LjpUcOVTHqSCXl_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LogVYl19JyveE3_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LCuBFfShV7ngKW_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LiUuFRSWE2gE4R": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LiUuFRSWE2gE4R_thz.JPG"
+        },
+        "H0134-L98QAkZkODLrKa": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L98QAkZkODLrKa_thz.JPG"
+        },
+        "H0134-LGd9hiDVEafGc0": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LGd9hiDVEafGc0_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LGd9hiDVEafGc0_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LGd9hiDVEafGc0.JPG"
+        },
+        "H0134-LBgaE0omqdpc91": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LBgaE0omqdpc91_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LBgaE0omqdpc91_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LBgaE0omqdpc91.JPG"
+        },
+        "H0134-LjYLYawPXQzznC": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LjYLYawPXQzznC_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LjYLYawPXQzznC_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LjYLYawPXQzznC.JPG"
+        },
+        "H0134-La2UYkoyoaBCVv": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-La2UYkoyoaBCVv_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-La2UYkoyoaBCVv_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-La2UYkoyoaBCVv.JPG"
+        },
+        "H0134-LjpUcOVTHqSCXl": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LjpUcOVTHqSCXl_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LjpUcOVTHqSCXl_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LjpUcOVTHqSCXl.JPG"
+        },
+        "H0134-LogVYl19JyveE3": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LogVYl19JyveE3_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LogVYl19JyveE3_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LogVYl19JyveE3.JPG"
+        },
+        "H0134-LCuBFfShV7ngKW": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LCuBFfShV7ngKW_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LCuBFfShV7ngKW_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LCuBFfShV7ngKW.JPG"
+        }
+    }
+}

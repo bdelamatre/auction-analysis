@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/patek-philippe-18k-gold-calatrava-wristwatch_667c9ac0f7",
+    "slug": "patek-philippe-18k-gold-calatrava-wristwatch_667c9ac0f7",
+    "lot_number": "3204",
+    "title": "PATEK PHILIPPE 18K GOLD CALATRAVA WRISTWATCH",
+    "estimate_low": 6000,
+    "estimate_high": 10000,
+    "current_bid": 3000,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LbS4S4QrqPlgxh_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LCyS6hCagdNIp1_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LPijTjp3pA68fa_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-Las9MOGdp676U4": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Las9MOGdp676U4_thz.JPG"
+        },
+        "H0134-LlB71hxtpOksno": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LlB71hxtpOksno_thz.JPG"
+        },
+        "H0134-LbS4S4QrqPlgxh": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LbS4S4QrqPlgxh_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LbS4S4QrqPlgxh_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LbS4S4QrqPlgxh.JPG"
+        },
+        "H0134-LCyS6hCagdNIp1": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LCyS6hCagdNIp1_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LCyS6hCagdNIp1_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LCyS6hCagdNIp1.JPG"
+        },
+        "H0134-LPijTjp3pA68fa": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LPijTjp3pA68fa_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LPijTjp3pA68fa_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LPijTjp3pA68fa.JPG"
+        }
+    }
+}

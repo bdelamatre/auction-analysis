@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/alan-magee-me-pa-1947_fcfff947f0",
+    "slug": "alan-magee-me-pa-1947_fcfff947f0",
+    "lot_number": "3402",
+    "title": "ALAN MAGEE (ME/PA, 1947- )",
+    "estimate_low": 10000,
+    "estimate_high": 12000,
+    "current_bid": 5000,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LWNpIrCr6ARhJg_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LZQuoVCq9dTFSj_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LO9tFNocehMehi": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LO9tFNocehMehi_thz.JPG"
+        },
+        "H0134-LOdp2PNCEBkJ1S": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LOdp2PNCEBkJ1S_thz.JPG"
+        },
+        "H0134-LWNpIrCr6ARhJg": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LWNpIrCr6ARhJg_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LWNpIrCr6ARhJg_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LWNpIrCr6ARhJg.JPG"
+        },
+        "H0134-LZQuoVCq9dTFSj": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LZQuoVCq9dTFSj_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LZQuoVCq9dTFSj_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LZQuoVCq9dTFSj.JPG"
+        }
+    }
+}

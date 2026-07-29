@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/marquetry-table-attributed-to-john-jelliff-newark_eb22ed8c90",
+    "slug": "marquetry-table-attributed-to-john-jelliff-newark_eb22ed8c90",
+    "lot_number": "3060",
+    "title": "MARQUETRY TABLE ATTRIBUTED TO JOHN JELLIFF, NEWARK, NJ",
+    "estimate_low": 3000,
+    "estimate_high": 4500,
+    "current_bid": 1500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LhvzkaXFth3Cbf_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LudFoXoXK19nEu_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LoMGymUhJMzHqp_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Law4vJTuNYULRX_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LDhm5NWjPuahTT": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LDhm5NWjPuahTT_thz.JPG"
+        },
+        "H0134-L3eOI2nwrHFAvA": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L3eOI2nwrHFAvA_thz.JPG"
+        },
+        "H0134-LhvzkaXFth3Cbf": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LhvzkaXFth3Cbf_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LhvzkaXFth3Cbf_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LhvzkaXFth3Cbf.JPG"
+        },
+        "H0134-LudFoXoXK19nEu": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LudFoXoXK19nEu_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LudFoXoXK19nEu_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LudFoXoXK19nEu.JPG"
+        },
+        "H0134-LoMGymUhJMzHqp": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LoMGymUhJMzHqp_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LoMGymUhJMzHqp_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LoMGymUhJMzHqp.JPG"
+        },
+        "H0134-Law4vJTuNYULRX": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Law4vJTuNYULRX_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Law4vJTuNYULRX_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Law4vJTuNYULRX.JPG"
+        }
+    }
+}

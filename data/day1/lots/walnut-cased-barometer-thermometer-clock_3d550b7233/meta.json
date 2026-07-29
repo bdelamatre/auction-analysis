@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/walnut-cased-barometer-thermometer-clock_3d550b7233",
+    "slug": "walnut-cased-barometer-thermometer-clock_3d550b7233",
+    "lot_number": "1035",
+    "title": "WALNUT CASED BAROMETER, THERMOMETER & CLOCK",
+    "estimate_low": 300,
+    "estimate_high": 400,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LbxVn4fTdOlQIP_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lf16fcGJYoODA8_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LnOyzehqkWKf3x_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LgP6BiHz68vmvw": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LgP6BiHz68vmvw_thz.JPG"
+        },
+        "H0134-LERZJboJojLSPo": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LERZJboJojLSPo_thz.JPG"
+        },
+        "H0134-LbxVn4fTdOlQIP": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LbxVn4fTdOlQIP_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LbxVn4fTdOlQIP_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LbxVn4fTdOlQIP.JPG"
+        },
+        "H0134-Lf16fcGJYoODA8": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lf16fcGJYoODA8_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lf16fcGJYoODA8_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lf16fcGJYoODA8.JPG"
+        },
+        "H0134-LnOyzehqkWKf3x": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LnOyzehqkWKf3x_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LnOyzehqkWKf3x_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LnOyzehqkWKf3x.JPG"
+        }
+    }
+}

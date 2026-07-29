@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/mary-herrick-fenner-millbury-massachusetts-oil-on_99f0b61e4e",
+    "slug": "mary-herrick-fenner-millbury-massachusetts-oil-on_99f0b61e4e",
+    "lot_number": "1207",
+    "title": "MARY HERRICK FENNER, MILLBURY MASSACHUSETTS, OIL ON PANEL",
+    "estimate_low": 300,
+    "estimate_high": 500,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LlM5bcHp0uTSyg_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LkLV3QGwvASVUx_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LK0KeaTYKymUli_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LECje2KJS1vIz2": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LECje2KJS1vIz2_thz.JPG"
+        },
+        "H0134-LELoN9ZAe1rMp2": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LELoN9ZAe1rMp2_thz.JPG"
+        },
+        "H0134-LlM5bcHp0uTSyg": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LlM5bcHp0uTSyg_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LlM5bcHp0uTSyg_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LlM5bcHp0uTSyg.JPG"
+        },
+        "H0134-LkLV3QGwvASVUx": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LkLV3QGwvASVUx_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LkLV3QGwvASVUx_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LkLV3QGwvASVUx.JPG"
+        },
+        "H0134-LK0KeaTYKymUli": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LK0KeaTYKymUli_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LK0KeaTYKymUli_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LK0KeaTYKymUli.JPG"
+        }
+    }
+}

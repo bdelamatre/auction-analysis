@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/3-1940s-sketchbooks-by-denny-sonke-winters-ny-ca-_655b057101",
+    "slug": "3-1940s-sketchbooks-by-denny-sonke-winters-ny-ca-_655b057101",
+    "lot_number": "1480",
+    "title": "(3) 1940'S SKETCHBOOKS BY DENNY SONKE WINTERS (NY/CA/ME/MI/MEXICO, 1905-1985)",
+    "estimate_low": 600,
+    "estimate_high": 800,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L7bgIEqSmbcGBJ_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LTDyJclmOukByX_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LaLWJr7vZSuHtS_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LrxENTAxndz0k5": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LrxENTAxndz0k5_thz.JPG"
+        },
+        "H0134-L6pqBo1iqJ4Ula": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L6pqBo1iqJ4Ula_thz.JPG"
+        },
+        "H0134-L7bgIEqSmbcGBJ": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L7bgIEqSmbcGBJ_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L7bgIEqSmbcGBJ_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L7bgIEqSmbcGBJ.JPG"
+        },
+        "H0134-LTDyJclmOukByX": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LTDyJclmOukByX_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LTDyJclmOukByX_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LTDyJclmOukByX.JPG"
+        },
+        "H0134-LaLWJr7vZSuHtS": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LaLWJr7vZSuHtS_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LaLWJr7vZSuHtS_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LaLWJr7vZSuHtS.JPG"
+        }
+    }
+}

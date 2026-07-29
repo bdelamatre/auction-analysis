@@ -1,0 +1,34 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/graduated-pearl-necklace_0057bfa20b",
+    "slug": "graduated-pearl-necklace_0057bfa20b",
+    "lot_number": "1297",
+    "title": "GRADUATED PEARL NECKLACE",
+    "estimate_low": 400,
+    "estimate_high": 600,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 2,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lh63TAd0SeVbYH_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L0OIdMGiO1VlTi_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LGH85XySKuqq13": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LGH85XySKuqq13_thz.JPG"
+        },
+        "H0134-LdqCS318NTImFE": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LdqCS318NTImFE_thz.JPG"
+        },
+        "H0134-Lh63TAd0SeVbYH": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lh63TAd0SeVbYH_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lh63TAd0SeVbYH_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lh63TAd0SeVbYH.JPG"
+        },
+        "H0134-L0OIdMGiO1VlTi": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L0OIdMGiO1VlTi_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L0OIdMGiO1VlTi_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L0OIdMGiO1VlTi.JPG"
+        }
+    }
+}

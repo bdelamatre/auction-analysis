@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/persian-lavar-kerman-pictorial-rug-3-5-1-2-x-5-1-_b204cdba39",
+    "slug": "persian-lavar-kerman-pictorial-rug-3-5-1-2-x-5-1-_b204cdba39",
+    "lot_number": "2233",
+    "title": "PERSIAN LAVAR KERMAN PICTORIAL RUG (3' 5 1/2\" x 5' 1 1/2\")",
+    "estimate_low": 600,
+    "estimate_high": 800,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LivzrmRCUXlsxo_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LVDLVgV862aqQB_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L05vhlZOhuSylO_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LDKamYatd1Cg0s": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LDKamYatd1Cg0s_thz.JPG"
+        },
+        "H0134-LcuKBCxOP9tdm9": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LcuKBCxOP9tdm9_thz.JPG"
+        },
+        "H0134-LivzrmRCUXlsxo": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LivzrmRCUXlsxo_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LivzrmRCUXlsxo_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LivzrmRCUXlsxo.JPG"
+        },
+        "H0134-LVDLVgV862aqQB": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LVDLVgV862aqQB_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LVDLVgV862aqQB_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LVDLVgV862aqQB.JPG"
+        },
+        "H0134-L05vhlZOhuSylO": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L05vhlZOhuSylO_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L05vhlZOhuSylO_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L05vhlZOhuSylO.JPG"
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/whales-tooth-scrimshawn-whaling_cc94a046ee",
+    "slug": "whales-tooth-scrimshawn-whaling_cc94a046ee",
+    "lot_number": "1285",
+    "title": "WHALES TOOTH SCRIMSHAWN WHALING",
+    "estimate_low": 300,
+    "estimate_high": 400,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LN5CgC5QemfqKX_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LwcyIBdOLZPID0_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LDa9SVrk8GC2vU_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LT1ePMqMRGynLU_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-L7Ru7gUUSyi9j3": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L7Ru7gUUSyi9j3_thz.JPG"
+        },
+        "H0134-LXYDEubMWojvpU": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LXYDEubMWojvpU_thz.JPG"
+        },
+        "H0134-LN5CgC5QemfqKX": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LN5CgC5QemfqKX_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LN5CgC5QemfqKX_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LN5CgC5QemfqKX.JPG"
+        },
+        "H0134-LwcyIBdOLZPID0": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LwcyIBdOLZPID0_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LwcyIBdOLZPID0_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LwcyIBdOLZPID0.JPG"
+        },
+        "H0134-LDa9SVrk8GC2vU": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LDa9SVrk8GC2vU_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LDa9SVrk8GC2vU_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LDa9SVrk8GC2vU.JPG"
+        },
+        "H0134-LT1ePMqMRGynLU": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LT1ePMqMRGynLU_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LT1ePMqMRGynLU_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LT1ePMqMRGynLU.JPG"
+        }
+    }
+}

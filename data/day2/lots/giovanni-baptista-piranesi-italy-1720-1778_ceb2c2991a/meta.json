@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/giovanni-baptista-piranesi-italy-1720-1778_ceb2c2991a",
+    "slug": "giovanni-baptista-piranesi-italy-1720-1778_ceb2c2991a",
+    "lot_number": "2399",
+    "title": "GIOVANNI BAPTISTA PIRANESI (ITALY, 1720-1778)",
+    "estimate_low": 500,
+    "estimate_high": 800,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LUukdOBoqJDgu7_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LWY54XjCKV3TEp_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LPIQIXJJL07mdb_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LOcVguOKapgtRs": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LOcVguOKapgtRs_thz.JPG"
+        },
+        "H0134-L6SbMH0dhzsgIz": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L6SbMH0dhzsgIz_thz.JPG"
+        },
+        "H0134-LUukdOBoqJDgu7": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LUukdOBoqJDgu7_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LUukdOBoqJDgu7_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LUukdOBoqJDgu7.JPG"
+        },
+        "H0134-LWY54XjCKV3TEp": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LWY54XjCKV3TEp_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LWY54XjCKV3TEp_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LWY54XjCKV3TEp.JPG"
+        },
+        "H0134-LPIQIXJJL07mdb": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LPIQIXJJL07mdb_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LPIQIXJJL07mdb_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LPIQIXJJL07mdb.JPG"
+        }
+    }
+}

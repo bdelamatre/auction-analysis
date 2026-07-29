@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/anthony-thieme-ma-ca-1888-1954_7264c7cf55",
+    "slug": "anthony-thieme-ma-ca-1888-1954_7264c7cf55",
+    "lot_number": "1461",
+    "title": "ANTHONY THIEME (MA/CA, 1888-1954)",
+    "estimate_low": 300,
+    "estimate_high": 400,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lbdjvqv71S9zFZ_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L56yYnmj1krOnD_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LuFbMdEbCN30cr_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LNhPsqdSPMdLAf": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LNhPsqdSPMdLAf_thz.JPG"
+        },
+        "H0134-LjzNErBLFN4VxR": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LjzNErBLFN4VxR_thz.JPG"
+        },
+        "H0134-Lbdjvqv71S9zFZ": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lbdjvqv71S9zFZ_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lbdjvqv71S9zFZ_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lbdjvqv71S9zFZ.JPG"
+        },
+        "H0134-L56yYnmj1krOnD": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L56yYnmj1krOnD_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L56yYnmj1krOnD_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L56yYnmj1krOnD.JPG"
+        },
+        "H0134-LuFbMdEbCN30cr": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LuFbMdEbCN30cr_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LuFbMdEbCN30cr_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LuFbMdEbCN30cr.JPG"
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/early-20th-c-tekke-bokhara-rug-69-x-910_dc9f485c14",
+    "slug": "early-20th-c-tekke-bokhara-rug-69-x-910_dc9f485c14",
+    "lot_number": "2268",
+    "title": "EARLY 20TH C. TEKKE BOKHARA RUG (6'9\" x 9'10\")",
+    "estimate_low": 600,
+    "estimate_high": 800,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LiyqNFIn2ubKYx_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L4AmDVHneKpkXx_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LmRUbMyGi6Fk6S_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LRNd5NtIx9nsxm_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-Ll6a3XGiGGxR0D": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Ll6a3XGiGGxR0D_thz.JPG"
+        },
+        "H0134-L8Of2MZmwhYcuL": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L8Of2MZmwhYcuL_thz.JPG"
+        },
+        "H0134-LiyqNFIn2ubKYx": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LiyqNFIn2ubKYx_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LiyqNFIn2ubKYx_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LiyqNFIn2ubKYx.JPG"
+        },
+        "H0134-L4AmDVHneKpkXx": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L4AmDVHneKpkXx_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L4AmDVHneKpkXx_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L4AmDVHneKpkXx.JPG"
+        },
+        "H0134-LmRUbMyGi6Fk6S": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LmRUbMyGi6Fk6S_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LmRUbMyGi6Fk6S_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LmRUbMyGi6Fk6S.JPG"
+        },
+        "H0134-LRNd5NtIx9nsxm": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LRNd5NtIx9nsxm_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LRNd5NtIx9nsxm_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LRNd5NtIx9nsxm.JPG"
+        }
+    }
+}

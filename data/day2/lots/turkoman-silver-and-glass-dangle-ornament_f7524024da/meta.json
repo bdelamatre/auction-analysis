@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/turkoman-silver-and-glass-dangle-ornament_f7524024da",
+    "slug": "turkoman-silver-and-glass-dangle-ornament_f7524024da",
+    "lot_number": "2453",
+    "title": "TURKOMAN SILVER AND GLASS DANGLE ORNAMENT",
+    "estimate_low": 250,
+    "estimate_high": 350,
+    "current_bid": 50,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LI56UZWG8K21kP_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LZkwShMbBuXeiU_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LUJmOVDmvRJkcV_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L50oV0pAdjkVqK_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LYMlf7YiApACfy": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LYMlf7YiApACfy_thz.JPG"
+        },
+        "H0134-LEUEMi2aDMBux5": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LEUEMi2aDMBux5_thz.JPG"
+        },
+        "H0134-LI56UZWG8K21kP": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LI56UZWG8K21kP_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LI56UZWG8K21kP_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LI56UZWG8K21kP.JPG"
+        },
+        "H0134-LZkwShMbBuXeiU": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LZkwShMbBuXeiU_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LZkwShMbBuXeiU_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LZkwShMbBuXeiU.JPG"
+        },
+        "H0134-LUJmOVDmvRJkcV": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LUJmOVDmvRJkcV_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LUJmOVDmvRJkcV_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LUJmOVDmvRJkcV.JPG"
+        },
+        "H0134-L50oV0pAdjkVqK": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L50oV0pAdjkVqK_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L50oV0pAdjkVqK_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L50oV0pAdjkVqK.JPG"
+        }
+    }
+}

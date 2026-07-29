@@ -1,0 +1,52 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/gladenbeck-bronze-and-ivory-figure_2b1b09be58",
+    "slug": "gladenbeck-bronze-and-ivory-figure_2b1b09be58",
+    "lot_number": "3126",
+    "title": "GLADENBECK BRONZE AND IVORY FIGURE",
+    "estimate_low": 750,
+    "estimate_high": 1000,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 5,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L3TJXyqZ0qjkDr_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L76urkItkekQMl_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LlsOarJIyAiVsJ_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LD59x0Po6ZSDWp_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LyPxaX8MxCxp4X_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LhI6VZL6lrOytQ": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LhI6VZL6lrOytQ_thz.JPG"
+        },
+        "H0134-LDLHvb6MGl1HXU": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LDLHvb6MGl1HXU_thz.JPG"
+        },
+        "H0134-L3TJXyqZ0qjkDr": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L3TJXyqZ0qjkDr_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L3TJXyqZ0qjkDr_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L3TJXyqZ0qjkDr.JPG"
+        },
+        "H0134-L76urkItkekQMl": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L76urkItkekQMl_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L76urkItkekQMl_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L76urkItkekQMl.JPG"
+        },
+        "H0134-LlsOarJIyAiVsJ": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LlsOarJIyAiVsJ_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LlsOarJIyAiVsJ_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LlsOarJIyAiVsJ.JPG"
+        },
+        "H0134-LD59x0Po6ZSDWp": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LD59x0Po6ZSDWp_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LD59x0Po6ZSDWp_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LD59x0Po6ZSDWp.JPG"
+        },
+        "H0134-LyPxaX8MxCxp4X": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LyPxaX8MxCxp4X_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LyPxaX8MxCxp4X_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LyPxaX8MxCxp4X.JPG"
+        }
+    }
+}

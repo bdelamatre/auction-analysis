@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/remington-mdl-722-244-rem_f94afdf457",
+    "slug": "remington-mdl-722-244-rem_f94afdf457",
+    "lot_number": "1260",
+    "title": "REMINGTON MDL. 722, .244 REM",
+    "estimate_low": 300,
+    "estimate_high": 500,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L6mGTZn94PEEgg_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LmrfRxPGBsqi2b_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LypFo89OpEOM16_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LgM6PEFSPMPJDJ_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LaoCsqlz5VPhVB": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LaoCsqlz5VPhVB_thz.JPG"
+        },
+        "H0134-LaP9VVHu4Fd3Ek": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LaP9VVHu4Fd3Ek_thz.JPG"
+        },
+        "H0134-L6mGTZn94PEEgg": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L6mGTZn94PEEgg_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L6mGTZn94PEEgg_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L6mGTZn94PEEgg.JPG"
+        },
+        "H0134-LmrfRxPGBsqi2b": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LmrfRxPGBsqi2b_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LmrfRxPGBsqi2b_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LmrfRxPGBsqi2b.JPG"
+        },
+        "H0134-LypFo89OpEOM16": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LypFo89OpEOM16_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LypFo89OpEOM16_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LypFo89OpEOM16.JPG"
+        },
+        "H0134-LgM6PEFSPMPJDJ": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LgM6PEFSPMPJDJ_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LgM6PEFSPMPJDJ_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LgM6PEFSPMPJDJ.JPG"
+        }
+    }
+}

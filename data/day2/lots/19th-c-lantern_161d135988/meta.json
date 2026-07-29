@@ -1,0 +1,27 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/19th-c-lantern_161d135988",
+    "slug": "19th-c-lantern_161d135988",
+    "lot_number": "2132",
+    "title": "19TH C. LANTERN",
+    "estimate_low": 300,
+    "estimate_high": 400,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 1,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LiA8ycyD5frreO_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LFvqbnzqMrhWLU": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LFvqbnzqMrhWLU_thz.JPG"
+        },
+        "H0134-LgrEzjNsQq0e0v": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LgrEzjNsQq0e0v_thz.JPG"
+        },
+        "H0134-LiA8ycyD5frreO": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LiA8ycyD5frreO_original.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LiA8ycyD5frreO.JPG"
+        }
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/harold-condon-me-oh-1892-1934_bb05889c9f",
+    "slug": "harold-condon-me-oh-1892-1934_bb05889c9f",
+    "lot_number": "3366",
+    "title": "HAROLD CONDON (ME/OH, 1892-1934)",
+    "estimate_low": 250,
+    "estimate_high": 350,
+    "current_bid": 50,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 5,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LxGI88ANdLIw3L_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LSBIGWljk0cYkp_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lsu6esaEZZzYD0_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L6JJoxl5lioeVv_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LDbFskIAhbVaAY_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LCyG6HZdbSqbBf": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LCyG6HZdbSqbBf_thz.JPG"
+        },
+        "H0134-L4JE7EnhhHEc7r": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L4JE7EnhhHEc7r_thz.JPG"
+        },
+        "H0134-LxGI88ANdLIw3L": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LxGI88ANdLIw3L_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LxGI88ANdLIw3L_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LxGI88ANdLIw3L.JPG"
+        },
+        "H0134-LSBIGWljk0cYkp": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LSBIGWljk0cYkp_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LSBIGWljk0cYkp_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LSBIGWljk0cYkp.JPG"
+        },
+        "H0134-Lsu6esaEZZzYD0": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lsu6esaEZZzYD0_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lsu6esaEZZzYD0_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lsu6esaEZZzYD0.JPG"
+        },
+        "H0134-L6JJoxl5lioeVv": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L6JJoxl5lioeVv_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L6JJoxl5lioeVv_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L6JJoxl5lioeVv.JPG"
+        },
+        "H0134-LDbFskIAhbVaAY": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LDbFskIAhbVaAY_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LDbFskIAhbVaAY_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LDbFskIAhbVaAY.JPG"
+        }
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/kevin-beers-contemporary-maine_96ca7450fa",
+    "slug": "kevin-beers-contemporary-maine_96ca7450fa",
+    "lot_number": "3346",
+    "title": "KEVIN BEERS (CONTEMPORARY MAINE)",
+    "estimate_low": 750,
+    "estimate_high": 1000,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 5,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LKvRHWz1xC2kSo_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L91ql5xMGWbkii_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LtoNQRCgRyigdu_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L6STxPEYaaepia_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Ls5E5SZmUEdJ6k_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LIgAXka55KaYih": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LIgAXka55KaYih_thz.JPG"
+        },
+        "H0134-LQoOoBRjnrT1Dp": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LQoOoBRjnrT1Dp_thz.JPG"
+        },
+        "H0134-LKvRHWz1xC2kSo": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LKvRHWz1xC2kSo_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LKvRHWz1xC2kSo_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LKvRHWz1xC2kSo.JPG"
+        },
+        "H0134-L91ql5xMGWbkii": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L91ql5xMGWbkii_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L91ql5xMGWbkii_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L91ql5xMGWbkii.JPG"
+        },
+        "H0134-LtoNQRCgRyigdu": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LtoNQRCgRyigdu_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LtoNQRCgRyigdu_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LtoNQRCgRyigdu.JPG"
+        },
+        "H0134-L6STxPEYaaepia": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L6STxPEYaaepia_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L6STxPEYaaepia_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L6STxPEYaaepia.JPG"
+        },
+        "H0134-Ls5E5SZmUEdJ6k": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Ls5E5SZmUEdJ6k_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Ls5E5SZmUEdJ6k_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Ls5E5SZmUEdJ6k.JPG"
+        }
+    }
+}

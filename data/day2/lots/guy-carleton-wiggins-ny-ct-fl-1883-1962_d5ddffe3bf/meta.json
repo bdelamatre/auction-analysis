@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/guy-carleton-wiggins-ny-ct-fl-1883-1962_d5ddffe3bf",
+    "slug": "guy-carleton-wiggins-ny-ct-fl-1883-1962_d5ddffe3bf",
+    "lot_number": "2238",
+    "title": "GUY CARLETON WIGGINS (NY/CT/FL, 1883-1962)",
+    "estimate_low": 1000,
+    "estimate_high": 1500,
+    "current_bid": 500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LuG8qbtvGAvQBM_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lr4SjraMmkuhpW_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LPdn1YDz9oKwiY_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LRkPB1tP3MJu0T_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-Lt3z9PEqfwpSiu": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lt3z9PEqfwpSiu_thz.JPG"
+        },
+        "H0134-LT2MfUd2MTwluz": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LT2MfUd2MTwluz_thz.JPG"
+        },
+        "H0134-LuG8qbtvGAvQBM": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LuG8qbtvGAvQBM_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LuG8qbtvGAvQBM_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LuG8qbtvGAvQBM.JPG"
+        },
+        "H0134-Lr4SjraMmkuhpW": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lr4SjraMmkuhpW_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lr4SjraMmkuhpW_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lr4SjraMmkuhpW.JPG"
+        },
+        "H0134-LPdn1YDz9oKwiY": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LPdn1YDz9oKwiY_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LPdn1YDz9oKwiY_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LPdn1YDz9oKwiY.JPG"
+        },
+        "H0134-LRkPB1tP3MJu0T": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LRkPB1tP3MJu0T_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LRkPB1tP3MJu0T_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LRkPB1tP3MJu0T.JPG"
+        }
+    }
+}

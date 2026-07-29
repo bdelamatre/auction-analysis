@@ -1,0 +1,52 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/don-stone-na-ia-1929-2015-sarah-in-the-garden_db1264fa9f",
+    "slug": "don-stone-na-ia-1929-2015-sarah-in-the-garden_db1264fa9f",
+    "lot_number": "3451",
+    "title": "DON STONE NA (IA, 1929-2015) SARAH IN THE GARDEN",
+    "estimate_low": 1000,
+    "estimate_high": 1500,
+    "current_bid": 500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 5,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-La4uXzfTemALpu_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LuA1jV08u5V6qX_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L7JGbAH0widDvF_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LkRY1Kd7uBmeln_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LBIXLujp0pyq3w_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LbzRs35XeLDjAW": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LbzRs35XeLDjAW_thz.JPG"
+        },
+        "H0134-LLR08IOXMJDmek": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LLR08IOXMJDmek_thz.JPG"
+        },
+        "H0134-La4uXzfTemALpu": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-La4uXzfTemALpu_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-La4uXzfTemALpu_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-La4uXzfTemALpu.JPG"
+        },
+        "H0134-LuA1jV08u5V6qX": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LuA1jV08u5V6qX_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LuA1jV08u5V6qX_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LuA1jV08u5V6qX.JPG"
+        },
+        "H0134-L7JGbAH0widDvF": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L7JGbAH0widDvF_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L7JGbAH0widDvF_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L7JGbAH0widDvF.JPG"
+        },
+        "H0134-LkRY1Kd7uBmeln": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LkRY1Kd7uBmeln_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LkRY1Kd7uBmeln_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LkRY1Kd7uBmeln.JPG"
+        },
+        "H0134-LBIXLujp0pyq3w": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LBIXLujp0pyq3w_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LBIXLujp0pyq3w_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LBIXLujp0pyq3w.JPG"
+        }
+    }
+}

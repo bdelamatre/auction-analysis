@@ -1,0 +1,52 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/darryl-norem-1949-2012_2f0a667c41",
+    "slug": "darryl-norem-1949-2012_2f0a667c41",
+    "lot_number": "3338",
+    "title": "DARRYL NOREM (1949-2012)",
+    "estimate_low": 500,
+    "estimate_high": 700,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 5,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lbb2lFYkF0VvtP_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lbf1cXRnz9F7uH_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LocCmVqpnWuwi2_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LjialVsvR3dR9L_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LWbvZ671UU6RSC_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-L3b7xqfoqUkV4d": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L3b7xqfoqUkV4d_thz.JPG"
+        },
+        "H0134-Lj8kukcYR4GG1e": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lj8kukcYR4GG1e_thz.JPG"
+        },
+        "H0134-Lbb2lFYkF0VvtP": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lbb2lFYkF0VvtP_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lbb2lFYkF0VvtP_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lbb2lFYkF0VvtP.JPG"
+        },
+        "H0134-Lbf1cXRnz9F7uH": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lbf1cXRnz9F7uH_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lbf1cXRnz9F7uH_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lbf1cXRnz9F7uH.JPG"
+        },
+        "H0134-LocCmVqpnWuwi2": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LocCmVqpnWuwi2_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LocCmVqpnWuwi2_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LocCmVqpnWuwi2.JPG"
+        },
+        "H0134-LjialVsvR3dR9L": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LjialVsvR3dR9L_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LjialVsvR3dR9L_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LjialVsvR3dR9L.JPG"
+        },
+        "H0134-LWbvZ671UU6RSC": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LWbvZ671UU6RSC_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LWbvZ671UU6RSC_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LWbvZ671UU6RSC.JPG"
+        }
+    }
+}

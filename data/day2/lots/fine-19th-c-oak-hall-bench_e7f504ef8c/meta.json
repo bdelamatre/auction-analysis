@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/fine-19th-c-oak-hall-bench_e7f504ef8c",
+    "slug": "fine-19th-c-oak-hall-bench_e7f504ef8c",
+    "lot_number": "2077",
+    "title": "FINE 19TH C. OAK HALL BENCH",
+    "estimate_low": 2000,
+    "estimate_high": 3000,
+    "current_bid": 1000,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LxpdaaOfynLRn3_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LL0GOQHjMVRHFq_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LWUkKx5gXAUn0c_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LX8Ex2Vual2E9E_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LfQVzPtmZQfrjq": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LfQVzPtmZQfrjq_thz.JPG"
+        },
+        "H0134-Lf9EmCZwAN8vKn": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lf9EmCZwAN8vKn_thz.JPG"
+        },
+        "H0134-LxpdaaOfynLRn3": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LxpdaaOfynLRn3_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LxpdaaOfynLRn3_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LxpdaaOfynLRn3.JPG"
+        },
+        "H0134-LL0GOQHjMVRHFq": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LL0GOQHjMVRHFq_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LL0GOQHjMVRHFq_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LL0GOQHjMVRHFq.JPG"
+        },
+        "H0134-LWUkKx5gXAUn0c": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LWUkKx5gXAUn0c_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LWUkKx5gXAUn0c_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LWUkKx5gXAUn0c.JPG"
+        },
+        "H0134-LX8Ex2Vual2E9E": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LX8Ex2Vual2E9E_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LX8Ex2Vual2E9E_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LX8Ex2Vual2E9E.JPG"
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/turkish-ottoman-silver-hammam-bowl_da50761e36",
+    "slug": "turkish-ottoman-silver-hammam-bowl_da50761e36",
+    "lot_number": "2435",
+    "title": "TURKISH OTTOMAN SILVER HAMMAM BOWL",
+    "estimate_low": 600,
+    "estimate_high": 800,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LVRG8NHJZhXHwM_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L8Ph0SmcdF8P9W_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L6TBvog9JrLJ6N_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-Le5wDEdGdoJZla": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Le5wDEdGdoJZla_thz.JPG"
+        },
+        "H0134-L22YSbtEc1mlH9": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L22YSbtEc1mlH9_thz.JPG"
+        },
+        "H0134-LVRG8NHJZhXHwM": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LVRG8NHJZhXHwM_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LVRG8NHJZhXHwM_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LVRG8NHJZhXHwM.JPG"
+        },
+        "H0134-L8Ph0SmcdF8P9W": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L8Ph0SmcdF8P9W_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L8Ph0SmcdF8P9W_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L8Ph0SmcdF8P9W.JPG"
+        },
+        "H0134-L6TBvog9JrLJ6N": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L6TBvog9JrLJ6N_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L6TBvog9JrLJ6N_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L6TBvog9JrLJ6N.JPG"
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/2-rare-16th-c-german-battle-maps_739ebdd5be",
+    "slug": "2-rare-16th-c-german-battle-maps_739ebdd5be",
+    "lot_number": "2402",
+    "title": "(2) RARE 16TH C. GERMAN BATTLE MAPS",
+    "estimate_low": 400,
+    "estimate_high": 600,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LI1uh3AtyUuWOi_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LSCgjpSRCug4GS_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L1odNLFZ5SmeG5_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L2f1XpArmz8gwH_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LsMNHWYfivyjm3": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LsMNHWYfivyjm3_thz.JPG"
+        },
+        "H0134-LuiuYpxkPYFJR8": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LuiuYpxkPYFJR8_thz.JPG"
+        },
+        "H0134-LI1uh3AtyUuWOi": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LI1uh3AtyUuWOi_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LI1uh3AtyUuWOi_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LI1uh3AtyUuWOi.JPG"
+        },
+        "H0134-LSCgjpSRCug4GS": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LSCgjpSRCug4GS_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LSCgjpSRCug4GS_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LSCgjpSRCug4GS.JPG"
+        },
+        "H0134-L1odNLFZ5SmeG5": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L1odNLFZ5SmeG5_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L1odNLFZ5SmeG5_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L1odNLFZ5SmeG5.JPG"
+        },
+        "H0134-L2f1XpArmz8gwH": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L2f1XpArmz8gwH_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L2f1XpArmz8gwH_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L2f1XpArmz8gwH.JPG"
+        }
+    }
+}

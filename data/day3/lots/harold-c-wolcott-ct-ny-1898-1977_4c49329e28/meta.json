@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/harold-c-wolcott-ct-ny-1898-1977_4c49329e28",
+    "slug": "harold-c-wolcott-ct-ny-1898-1977_4c49329e28",
+    "lot_number": "3164",
+    "title": "HAROLD C. WOLCOTT (CT/NY, 1898-1977)",
+    "estimate_low": 800,
+    "estimate_high": 1200,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LNUdunpxJFqlZd_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LLdwLh9spUYSol_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L74orcOknCY4Pj_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lh476EjtGb61uy_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-L157bm9CfKooe8": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L157bm9CfKooe8_thz.JPG"
+        },
+        "H0134-LhOX0KNDwrEuja": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LhOX0KNDwrEuja_thz.JPG"
+        },
+        "H0134-LNUdunpxJFqlZd": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LNUdunpxJFqlZd_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LNUdunpxJFqlZd_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LNUdunpxJFqlZd.JPG"
+        },
+        "H0134-LLdwLh9spUYSol": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LLdwLh9spUYSol_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LLdwLh9spUYSol_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LLdwLh9spUYSol.JPG"
+        },
+        "H0134-L74orcOknCY4Pj": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L74orcOknCY4Pj_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L74orcOknCY4Pj_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L74orcOknCY4Pj.JPG"
+        },
+        "H0134-Lh476EjtGb61uy": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lh476EjtGb61uy_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lh476EjtGb61uy_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lh476EjtGb61uy.JPG"
+        }
+    }
+}

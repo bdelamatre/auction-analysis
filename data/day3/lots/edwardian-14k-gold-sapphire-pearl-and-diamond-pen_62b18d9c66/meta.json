@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/edwardian-14k-gold-sapphire-pearl-and-diamond-pen_62b18d9c66",
+    "slug": "edwardian-14k-gold-sapphire-pearl-and-diamond-pen_62b18d9c66",
+    "lot_number": "3068",
+    "title": "EDWARDIAN 14K GOLD, SAPPHIRE, PEARL, AND DIAMOND PENDANT NECKLACE",
+    "estimate_low": 2000,
+    "estimate_high": 3000,
+    "current_bid": 1000,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LfbS07WQVIQhEZ_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L2XHM37wtb2r3L_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LFZTd3jFCxGrfH_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LR543rQ2nXdCho": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LR543rQ2nXdCho_thz.JPG"
+        },
+        "H0134-LqwXE5cercT7iV": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LqwXE5cercT7iV_thz.JPG"
+        },
+        "H0134-LfbS07WQVIQhEZ": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LfbS07WQVIQhEZ_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LfbS07WQVIQhEZ_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LfbS07WQVIQhEZ.JPG"
+        },
+        "H0134-L2XHM37wtb2r3L": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L2XHM37wtb2r3L_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L2XHM37wtb2r3L_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L2XHM37wtb2r3L.JPG"
+        },
+        "H0134-LFZTd3jFCxGrfH": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LFZTd3jFCxGrfH_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LFZTd3jFCxGrfH_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LFZTd3jFCxGrfH.JPG"
+        }
+    }
+}

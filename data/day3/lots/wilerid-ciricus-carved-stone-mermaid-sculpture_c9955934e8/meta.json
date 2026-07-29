@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/wilerid-ciricus-carved-stone-mermaid-sculpture_c9955934e8",
+    "slug": "wilerid-ciricus-carved-stone-mermaid-sculpture_c9955934e8",
+    "lot_number": "3171",
+    "title": "WILERID CIRICUS CARVED STONE MERMAID SCULPTURE",
+    "estimate_low": 500,
+    "estimate_high": 700,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LyuH0FFWc4juih_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LlbHykUoo8YJnQ_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lr9SFxznPzeJXN_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LiP0LWF3UiHc3d": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LiP0LWF3UiHc3d_thz.JPG"
+        },
+        "H0134-LnZnmLVxl3pZlu": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LnZnmLVxl3pZlu_thz.JPG"
+        },
+        "H0134-LyuH0FFWc4juih": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LyuH0FFWc4juih_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LyuH0FFWc4juih_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LyuH0FFWc4juih.JPG"
+        },
+        "H0134-LlbHykUoo8YJnQ": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LlbHykUoo8YJnQ_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LlbHykUoo8YJnQ_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LlbHykUoo8YJnQ.JPG"
+        },
+        "H0134-Lr9SFxznPzeJXN": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lr9SFxznPzeJXN_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lr9SFxznPzeJXN_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lr9SFxznPzeJXN.JPG"
+        }
+    }
+}

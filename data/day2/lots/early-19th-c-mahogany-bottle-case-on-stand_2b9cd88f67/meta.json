@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/early-19th-c-mahogany-bottle-case-on-stand_2b9cd88f67",
+    "slug": "early-19th-c-mahogany-bottle-case-on-stand_2b9cd88f67",
+    "lot_number": "2084",
+    "title": "EARLY 19TH C. MAHOGANY BOTTLE CASE ON STAND",
+    "estimate_low": 400,
+    "estimate_high": 600,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LmQB4CBDy5AtnP_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LZjXbHVK0e3Liu_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LNh8vyjvsBpnmS_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-Lty4VPguneHgRh": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-Lty4VPguneHgRh_thz.JPG"
+        },
+        "H0134-LN2wAcJabpchxK": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LN2wAcJabpchxK_thz.JPG"
+        },
+        "H0134-LmQB4CBDy5AtnP": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LmQB4CBDy5AtnP_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LmQB4CBDy5AtnP_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LmQB4CBDy5AtnP.JPG"
+        },
+        "H0134-LZjXbHVK0e3Liu": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LZjXbHVK0e3Liu_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LZjXbHVK0e3Liu_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LZjXbHVK0e3Liu.JPG"
+        },
+        "H0134-LNh8vyjvsBpnmS": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LNh8vyjvsBpnmS_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LNh8vyjvsBpnmS_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LNh8vyjvsBpnmS.JPG"
+        }
+    }
+}

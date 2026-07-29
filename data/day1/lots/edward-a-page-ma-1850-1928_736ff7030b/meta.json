@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/edward-a-page-ma-1850-1928_736ff7030b",
+    "slug": "edward-a-page-ma-1850-1928_736ff7030b",
+    "lot_number": "1219",
+    "title": "EDWARD A. PAGE (MA, 1850-1928)",
+    "estimate_low": 500,
+    "estimate_high": 700,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LNMVx71BfGbGAp_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lqa3RVSyVDwk1V_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LK8Yx2fhihZuFH_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LtLHICUEbACVFk_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LvYSYm6bfSQ5kg": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LvYSYm6bfSQ5kg_thz.JPG"
+        },
+        "H0134-LBJBXimbkBLQ2M": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LBJBXimbkBLQ2M_thz.JPG"
+        },
+        "H0134-LNMVx71BfGbGAp": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LNMVx71BfGbGAp_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LNMVx71BfGbGAp_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LNMVx71BfGbGAp.JPG"
+        },
+        "H0134-Lqa3RVSyVDwk1V": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lqa3RVSyVDwk1V_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lqa3RVSyVDwk1V_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-Lqa3RVSyVDwk1V.JPG"
+        },
+        "H0134-LK8Yx2fhihZuFH": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LK8Yx2fhihZuFH_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LK8Yx2fhihZuFH_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LK8Yx2fhihZuFH.JPG"
+        },
+        "H0134-LtLHICUEbACVFk": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LtLHICUEbACVFk_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LtLHICUEbACVFk_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LtLHICUEbACVFk.JPG"
+        }
+    }
+}

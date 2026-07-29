@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/felix-cohn-19th-20th-c-germany_0f5e932b6b",
+    "slug": "felix-cohn-19th-20th-c-germany_0f5e932b6b",
+    "lot_number": "2411",
+    "title": "FELIX COHN (19TH-20TH C. GERMANY)",
+    "estimate_low": 300,
+    "estimate_high": 400,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LzctTUl3lHyamL_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LYL5CTWU83y8qZ_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LVCQZSmM4n9yn5_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LZyxsZwey9JTcm_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LLI5eZQoYtMcC7": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LLI5eZQoYtMcC7_thz.JPG"
+        },
+        "H0134-LQ3eonNNDCrtCM": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LQ3eonNNDCrtCM_thz.JPG"
+        },
+        "H0134-LzctTUl3lHyamL": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LzctTUl3lHyamL_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LzctTUl3lHyamL_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LzctTUl3lHyamL.JPG"
+        },
+        "H0134-LYL5CTWU83y8qZ": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LYL5CTWU83y8qZ_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LYL5CTWU83y8qZ_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LYL5CTWU83y8qZ.JPG"
+        },
+        "H0134-LVCQZSmM4n9yn5": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LVCQZSmM4n9yn5_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LVCQZSmM4n9yn5_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LVCQZSmM4n9yn5.JPG"
+        },
+        "H0134-LZyxsZwey9JTcm": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LZyxsZwey9JTcm_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LZyxsZwey9JTcm_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LZyxsZwey9JTcm.JPG"
+        }
+    }
+}

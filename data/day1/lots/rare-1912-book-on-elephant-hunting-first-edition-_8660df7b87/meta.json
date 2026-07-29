@@ -1,0 +1,52 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/rare-1912-book-on-elephant-hunting-first-edition-_8660df7b87",
+    "slug": "rare-1912-book-on-elephant-hunting-first-edition-_8660df7b87",
+    "lot_number": "1275",
+    "title": "RARE 1912 BOOK ON ELEPHANT HUNTING, FIRST EDITION, FIRST ISSUE",
+    "estimate_low": 600,
+    "estimate_high": 800,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 5,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LIt8JL1hsLUYfz_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LvVTTP6loLsnl5_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LvrIlhtTPkNh0w_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LCi1oWan7ZSN98_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LUsjSQoFaVUndk_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LgqrzsdJW75ahI": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LgqrzsdJW75ahI_thz.JPG"
+        },
+        "H0134-L07fqxGHIXQyVb": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L07fqxGHIXQyVb_thz.JPG"
+        },
+        "H0134-LIt8JL1hsLUYfz": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LIt8JL1hsLUYfz_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LIt8JL1hsLUYfz_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LIt8JL1hsLUYfz.JPG"
+        },
+        "H0134-LvVTTP6loLsnl5": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LvVTTP6loLsnl5_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LvVTTP6loLsnl5_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LvVTTP6loLsnl5.JPG"
+        },
+        "H0134-LvrIlhtTPkNh0w": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LvrIlhtTPkNh0w_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LvrIlhtTPkNh0w_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LvrIlhtTPkNh0w.JPG"
+        },
+        "H0134-LCi1oWan7ZSN98": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LCi1oWan7ZSN98_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LCi1oWan7ZSN98_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LCi1oWan7ZSN98.JPG"
+        },
+        "H0134-LUsjSQoFaVUndk": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LUsjSQoFaVUndk_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LUsjSQoFaVUndk_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LUsjSQoFaVUndk.JPG"
+        }
+    }
+}

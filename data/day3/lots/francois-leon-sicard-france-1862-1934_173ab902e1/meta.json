@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/francois-leon-sicard-france-1862-1934_173ab902e1",
+    "slug": "francois-leon-sicard-france-1862-1934_173ab902e1",
+    "lot_number": "3079",
+    "title": "FRANCOIS LEON SICARD (FRANCE, 1862-1934)",
+    "estimate_low": 3000,
+    "estimate_high": 5000,
+    "current_bid": 1500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L1phuQAi8EoB2o_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LAj1nLJMGwASH0_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LpnEEmTHykhjmW_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LxnKHE9SyY2NyY_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-Ln4rDHcMsY0hew": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Ln4rDHcMsY0hew_thz.JPG"
+        },
+        "H0134-Leah0UAM2DxPOw": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Leah0UAM2DxPOw_thz.JPG"
+        },
+        "H0134-L1phuQAi8EoB2o": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L1phuQAi8EoB2o_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L1phuQAi8EoB2o_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L1phuQAi8EoB2o.JPG"
+        },
+        "H0134-LAj1nLJMGwASH0": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LAj1nLJMGwASH0_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LAj1nLJMGwASH0_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LAj1nLJMGwASH0.JPG"
+        },
+        "H0134-LpnEEmTHykhjmW": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LpnEEmTHykhjmW_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LpnEEmTHykhjmW_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LpnEEmTHykhjmW.JPG"
+        },
+        "H0134-LxnKHE9SyY2NyY": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LxnKHE9SyY2NyY_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LxnKHE9SyY2NyY_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LxnKHE9SyY2NyY.JPG"
+        }
+    }
+}

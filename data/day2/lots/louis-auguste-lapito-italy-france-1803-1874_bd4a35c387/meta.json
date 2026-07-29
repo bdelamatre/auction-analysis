@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/louis-auguste-lapito-italy-france-1803-1874_bd4a35c387",
+    "slug": "louis-auguste-lapito-italy-france-1803-1874_bd4a35c387",
+    "lot_number": "2389",
+    "title": "LOUIS AUGUSTE LAPITO (ITALY/FRANCE, 1803-1874)",
+    "estimate_low": 600,
+    "estimate_high": 800,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LSAQNHLzJ23j4h_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LgDdxS6vKjH17Q_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LGX7Bq3hqIqVnH_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LV7SK9CaByAEdX_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LbtuFOYanj1o4N": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LbtuFOYanj1o4N_thz.JPG"
+        },
+        "H0134-LRx00kfe8Yk6NW": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LRx00kfe8Yk6NW_thz.JPG"
+        },
+        "H0134-LSAQNHLzJ23j4h": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LSAQNHLzJ23j4h_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LSAQNHLzJ23j4h_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LSAQNHLzJ23j4h.JPG"
+        },
+        "H0134-LgDdxS6vKjH17Q": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LgDdxS6vKjH17Q_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LgDdxS6vKjH17Q_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LgDdxS6vKjH17Q.JPG"
+        },
+        "H0134-LGX7Bq3hqIqVnH": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LGX7Bq3hqIqVnH_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LGX7Bq3hqIqVnH_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LGX7Bq3hqIqVnH.JPG"
+        },
+        "H0134-LV7SK9CaByAEdX": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LV7SK9CaByAEdX_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LV7SK9CaByAEdX_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LV7SK9CaByAEdX.JPG"
+        }
+    }
+}

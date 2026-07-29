@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/bruce-backman-turner-ma-1941_626d68c920",
+    "slug": "bruce-backman-turner-ma-1941_626d68c920",
+    "lot_number": "1388",
+    "title": "BRUCE BACKMAN TURNER (MA, 1941 - )",
+    "estimate_low": 300,
+    "estimate_high": 400,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L3ovxMlqavzKs2_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LvPKxvtsiUgU8h_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L9uiL96UxBS3xs_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LGOKHeG34wXGwS_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LGzj4rznACgnV8": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LGzj4rznACgnV8_thz.JPG"
+        },
+        "H0134-LONWfHovTOgdN1": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LONWfHovTOgdN1_thz.JPG"
+        },
+        "H0134-L3ovxMlqavzKs2": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L3ovxMlqavzKs2_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L3ovxMlqavzKs2_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L3ovxMlqavzKs2.JPG"
+        },
+        "H0134-LvPKxvtsiUgU8h": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LvPKxvtsiUgU8h_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LvPKxvtsiUgU8h_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LvPKxvtsiUgU8h.JPG"
+        },
+        "H0134-L9uiL96UxBS3xs": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L9uiL96UxBS3xs_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L9uiL96UxBS3xs_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L9uiL96UxBS3xs.JPG"
+        },
+        "H0134-LGOKHeG34wXGwS": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LGOKHeG34wXGwS_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LGOKHeG34wXGwS_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LGOKHeG34wXGwS.JPG"
+        }
+    }
+}

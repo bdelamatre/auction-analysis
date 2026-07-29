@@ -1,0 +1,52 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/jack-cassinetto-ca-1944-2018_afdd3b9d3a",
+    "slug": "jack-cassinetto-ca-1944-2018_afdd3b9d3a",
+    "lot_number": "3174",
+    "title": "JACK CASSINETTO (CA, 1944-2018)",
+    "estimate_low": 1500,
+    "estimate_high": 2000,
+    "current_bid": 750,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 5,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LE63XyZ6DfnSTt_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LBpsiCx9V5EkdW_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LM7toT2zwjjyF7_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LYZSRkdjpjHm0r_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L9T1yQnAOWMFuP_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LfssqBPvjcLV4c": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LfssqBPvjcLV4c_thz.JPG"
+        },
+        "H0134-LFyvJhLPhC0nFZ": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LFyvJhLPhC0nFZ_thz.JPG"
+        },
+        "H0134-LE63XyZ6DfnSTt": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LE63XyZ6DfnSTt_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LE63XyZ6DfnSTt_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LE63XyZ6DfnSTt.JPG"
+        },
+        "H0134-LBpsiCx9V5EkdW": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LBpsiCx9V5EkdW_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LBpsiCx9V5EkdW_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LBpsiCx9V5EkdW.JPG"
+        },
+        "H0134-LM7toT2zwjjyF7": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LM7toT2zwjjyF7_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LM7toT2zwjjyF7_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LM7toT2zwjjyF7.JPG"
+        },
+        "H0134-LYZSRkdjpjHm0r": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LYZSRkdjpjHm0r_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LYZSRkdjpjHm0r_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LYZSRkdjpjHm0r.JPG"
+        },
+        "H0134-L9T1yQnAOWMFuP": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L9T1yQnAOWMFuP_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L9T1yQnAOWMFuP_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L9T1yQnAOWMFuP.JPG"
+        }
+    }
+}

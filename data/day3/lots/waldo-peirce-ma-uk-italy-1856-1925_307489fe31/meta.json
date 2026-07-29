@@ -1,0 +1,58 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/waldo-peirce-ma-uk-italy-1856-1925_307489fe31",
+    "slug": "waldo-peirce-ma-uk-italy-1856-1925_307489fe31",
+    "lot_number": "3427",
+    "title": "WALDO PEIRCE (MA/UK/ITALY, 1856-1925)",
+    "estimate_low": 4000,
+    "estimate_high": 6000,
+    "current_bid": 2000,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 6,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LbX6vX3K6VN2pw_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LwxpL1ck7P7lVP_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L6IGOESRXOoxDu_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L99yi4IlwIYo7D_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LYLtheVrZsFSgW_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LxyuakVoHGys2P_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LunXbhVlkaErWh": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LunXbhVlkaErWh_thz.JPG"
+        },
+        "H0134-LnWCUtNUY0nNWJ": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LnWCUtNUY0nNWJ_thz.JPG"
+        },
+        "H0134-LbX6vX3K6VN2pw": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LbX6vX3K6VN2pw_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LbX6vX3K6VN2pw_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LbX6vX3K6VN2pw.JPG"
+        },
+        "H0134-LwxpL1ck7P7lVP": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LwxpL1ck7P7lVP_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LwxpL1ck7P7lVP_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LwxpL1ck7P7lVP.JPG"
+        },
+        "H0134-L6IGOESRXOoxDu": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L6IGOESRXOoxDu_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L6IGOESRXOoxDu_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L6IGOESRXOoxDu.JPG"
+        },
+        "H0134-L99yi4IlwIYo7D": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L99yi4IlwIYo7D_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L99yi4IlwIYo7D_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L99yi4IlwIYo7D.JPG"
+        },
+        "H0134-LYLtheVrZsFSgW": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LYLtheVrZsFSgW_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LYLtheVrZsFSgW_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LYLtheVrZsFSgW.JPG"
+        },
+        "H0134-LxyuakVoHGys2P": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LxyuakVoHGys2P_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LxyuakVoHGys2P_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LxyuakVoHGys2P.JPG"
+        }
+    }
+}

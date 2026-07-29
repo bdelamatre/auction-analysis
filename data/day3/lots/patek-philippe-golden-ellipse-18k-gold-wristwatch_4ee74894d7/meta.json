@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/patek-philippe-golden-ellipse-18k-gold-wristwatch_4ee74894d7",
+    "slug": "patek-philippe-golden-ellipse-18k-gold-wristwatch_4ee74894d7",
+    "lot_number": "3185",
+    "title": "PATEK PHILIPPE GOLDEN ELLIPSE 18K GOLD WRISTWATCH",
+    "estimate_low": 8000,
+    "estimate_high": 15000,
+    "current_bid": 4000,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lwbqe6FBl7DXLK_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L1TqNpTngDK5XN_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LC6rtiQr8OC0nu_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LUNKeQyXWz2ej5": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LUNKeQyXWz2ej5_thz.JPG"
+        },
+        "H0134-L1VlVGxURjiQS2": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L1VlVGxURjiQS2_thz.JPG"
+        },
+        "H0134-Lwbqe6FBl7DXLK": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lwbqe6FBl7DXLK_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lwbqe6FBl7DXLK_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lwbqe6FBl7DXLK.JPG"
+        },
+        "H0134-L1TqNpTngDK5XN": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L1TqNpTngDK5XN_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L1TqNpTngDK5XN_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L1TqNpTngDK5XN.JPG"
+        },
+        "H0134-LC6rtiQr8OC0nu": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LC6rtiQr8OC0nu_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LC6rtiQr8OC0nu_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LC6rtiQr8OC0nu.JPG"
+        }
+    }
+}

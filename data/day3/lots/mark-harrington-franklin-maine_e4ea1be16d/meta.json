@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/mark-harrington-franklin-maine_e4ea1be16d",
+    "slug": "mark-harrington-franklin-maine_e4ea1be16d",
+    "lot_number": "3307",
+    "title": "MARK HARRINGTON (FRANKLIN, MAINE)",
+    "estimate_low": 2000,
+    "estimate_high": 2500,
+    "current_bid": 1000,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lk9STydHKXVaex_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LbvZWqTFVxPt8B_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L35wa5d1fK4azR_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LD1Rhgcz8WCHyR_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-Lik9XowuMCzXJ8": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lik9XowuMCzXJ8_thz.JPG"
+        },
+        "H0134-LFirwNhoIleAt9": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LFirwNhoIleAt9_thz.JPG"
+        },
+        "H0134-Lk9STydHKXVaex": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lk9STydHKXVaex_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lk9STydHKXVaex_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lk9STydHKXVaex.JPG"
+        },
+        "H0134-LbvZWqTFVxPt8B": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LbvZWqTFVxPt8B_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LbvZWqTFVxPt8B_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LbvZWqTFVxPt8B.JPG"
+        },
+        "H0134-L35wa5d1fK4azR": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L35wa5d1fK4azR_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L35wa5d1fK4azR_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L35wa5d1fK4azR.JPG"
+        },
+        "H0134-LD1Rhgcz8WCHyR": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LD1Rhgcz8WCHyR_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LD1Rhgcz8WCHyR_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LD1Rhgcz8WCHyR.JPG"
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/2-1960s-banjos-one-with-case_ad520dc8af",
+    "slug": "2-1960s-banjos-one-with-case_ad520dc8af",
+    "lot_number": "1218",
+    "title": "(2) 1960'S BANJOS (ONE WITH CASE)",
+    "estimate_low": 300,
+    "estimate_high": 500,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LvYSYm6bfSQ5kg_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LjeHaEL8oLJZdP_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LSknofHlUkeeHa_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L4YrV9X1bjo2LW_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LHe400CL8gDWLO": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LHe400CL8gDWLO_thz.JPG"
+        },
+        "H0134-LNMVx71BfGbGAp": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LNMVx71BfGbGAp_thz.JPG"
+        },
+        "H0134-LvYSYm6bfSQ5kg": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LvYSYm6bfSQ5kg_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LvYSYm6bfSQ5kg_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LvYSYm6bfSQ5kg.JPG"
+        },
+        "H0134-LjeHaEL8oLJZdP": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LjeHaEL8oLJZdP_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LjeHaEL8oLJZdP_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LjeHaEL8oLJZdP.JPG"
+        },
+        "H0134-LSknofHlUkeeHa": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LSknofHlUkeeHa_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LSknofHlUkeeHa_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LSknofHlUkeeHa.JPG"
+        },
+        "H0134-L4YrV9X1bjo2LW": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L4YrV9X1bjo2LW_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L4YrV9X1bjo2LW_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L4YrV9X1bjo2LW.JPG"
+        }
+    }
+}

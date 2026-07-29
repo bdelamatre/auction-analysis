@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/tim-nguyen-20th-21st-c-honoulu_13d37f4da9",
+    "slug": "tim-nguyen-20th-21st-c-honoulu_13d37f4da9",
+    "lot_number": "3298",
+    "title": "TIM NGUYEN (20TH-21ST C. HONOULU)",
+    "estimate_low": 5000,
+    "estimate_high": 7000,
+    "current_bid": 2500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LX4RFgh9CVXDwz_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LCaXCk01WzevGO_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Ldw4QRufs8tyTo_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LLhXRcwNPGHwr5_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LAk0ZleVlh5D8a": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LAk0ZleVlh5D8a_thz.JPG"
+        },
+        "H0134-LvS8B9y5eWeIgc": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LvS8B9y5eWeIgc_thz.JPG"
+        },
+        "H0134-LX4RFgh9CVXDwz": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LX4RFgh9CVXDwz_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LX4RFgh9CVXDwz_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LX4RFgh9CVXDwz.JPG"
+        },
+        "H0134-LCaXCk01WzevGO": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LCaXCk01WzevGO_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LCaXCk01WzevGO_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LCaXCk01WzevGO.JPG"
+        },
+        "H0134-Ldw4QRufs8tyTo": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Ldw4QRufs8tyTo_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Ldw4QRufs8tyTo_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Ldw4QRufs8tyTo.JPG"
+        },
+        "H0134-LLhXRcwNPGHwr5": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LLhXRcwNPGHwr5_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LLhXRcwNPGHwr5_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LLhXRcwNPGHwr5.JPG"
+        }
+    }
+}

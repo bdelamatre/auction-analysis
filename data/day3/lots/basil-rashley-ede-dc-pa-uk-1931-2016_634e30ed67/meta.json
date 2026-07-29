@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/basil-rashley-ede-dc-pa-uk-1931-2016_634e30ed67",
+    "slug": "basil-rashley-ede-dc-pa-uk-1931-2016_634e30ed67",
+    "lot_number": "3084",
+    "title": "BASIL RASHLEY EDE (DC/PA/UK, 1931-2016)",
+    "estimate_low": 800,
+    "estimate_high": 1200,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LX3XMt2nsGoBdv_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LI9ByuclZC6R4r_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LEKfFgVaExKy5c_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LyWJrLw0oGMEyi_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-Lj83v1V85aAD1p": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-Lj83v1V85aAD1p_thz.JPG"
+        },
+        "H0134-LnUdxjl9qhUPq5": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LnUdxjl9qhUPq5_thz.JPG"
+        },
+        "H0134-LX3XMt2nsGoBdv": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LX3XMt2nsGoBdv_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LX3XMt2nsGoBdv_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LX3XMt2nsGoBdv.JPG"
+        },
+        "H0134-LI9ByuclZC6R4r": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LI9ByuclZC6R4r_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LI9ByuclZC6R4r_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LI9ByuclZC6R4r.JPG"
+        },
+        "H0134-LEKfFgVaExKy5c": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LEKfFgVaExKy5c_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LEKfFgVaExKy5c_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LEKfFgVaExKy5c.JPG"
+        },
+        "H0134-LyWJrLw0oGMEyi": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LyWJrLw0oGMEyi_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LyWJrLw0oGMEyi_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LyWJrLw0oGMEyi.JPG"
+        }
+    }
+}

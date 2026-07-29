@@ -1,0 +1,46 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/set-of-12-regency-style-spider-web-cane-chairs_caf350a83a",
+    "slug": "set-of-12-regency-style-spider-web-cane-chairs_caf350a83a",
+    "lot_number": "3216",
+    "title": "SET OF (12) REGENCY STYLE SPIDER WEB CANE CHAIRS",
+    "estimate_low": 1200,
+    "estimate_high": 1800,
+    "current_bid": 600,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 4,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LeVrov8lopgMj4_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LifNu0GQTU8eYR_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LgYtSQrZNnr1EX_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LjMpHg9oW6l7y5_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-L8mMVknqU6nfyl": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L8mMVknqU6nfyl_thz.JPG"
+        },
+        "H0134-LVnQQHXH89rl3Z": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LVnQQHXH89rl3Z_thz.JPG"
+        },
+        "H0134-LeVrov8lopgMj4": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LeVrov8lopgMj4_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LeVrov8lopgMj4_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LeVrov8lopgMj4.JPG"
+        },
+        "H0134-LifNu0GQTU8eYR": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LifNu0GQTU8eYR_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LifNu0GQTU8eYR_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LifNu0GQTU8eYR.JPG"
+        },
+        "H0134-LgYtSQrZNnr1EX": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LgYtSQrZNnr1EX_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LgYtSQrZNnr1EX_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LgYtSQrZNnr1EX.JPG"
+        },
+        "H0134-LjMpHg9oW6l7y5": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LjMpHg9oW6l7y5_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LjMpHg9oW6l7y5_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LjMpHg9oW6l7y5.JPG"
+        }
+    }
+}

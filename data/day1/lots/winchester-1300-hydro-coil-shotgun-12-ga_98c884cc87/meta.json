@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/winchester-1300-hydro-coil-shotgun-12-ga_98c884cc87",
+    "slug": "winchester-1300-hydro-coil-shotgun-12-ga_98c884cc87",
+    "lot_number": "1263",
+    "title": "WINCHESTER 1300 HYDRO-COIL SHOTGUN, 12 GA",
+    "estimate_low": 300,
+    "estimate_high": 500,
+    "current_bid": 100,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LEt2btlN4mBrG1_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LNnhcJS4zKv9li_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LGmNu3uhRJZSQi_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LZ2xUPZsrNfQ5V": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LZ2xUPZsrNfQ5V_thz.JPG"
+        },
+        "H0134-LwvtlrCheqskXb": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LwvtlrCheqskXb_thz.JPG"
+        },
+        "H0134-LEt2btlN4mBrG1": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LEt2btlN4mBrG1_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LEt2btlN4mBrG1_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LEt2btlN4mBrG1.JPG"
+        },
+        "H0134-LNnhcJS4zKv9li": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LNnhcJS4zKv9li_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LNnhcJS4zKv9li_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LNnhcJS4zKv9li.JPG"
+        },
+        "H0134-LGmNu3uhRJZSQi": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LGmNu3uhRJZSQi_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LGmNu3uhRJZSQi_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LGmNu3uhRJZSQi.JPG"
+        }
+    }
+}

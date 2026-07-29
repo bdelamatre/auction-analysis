@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/andre-gittelon-gisson-ny-ct-france-1921-2003_b5be346c91",
+    "slug": "andre-gittelon-gisson-ny-ct-france-1921-2003_b5be346c91",
+    "lot_number": "1116",
+    "title": "ANDRE (GITTELON) GISSON (NY/CT/FRANCE, 1921-2003)",
+    "estimate_low": 700,
+    "estimate_high": 900,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LigGxP1YL5cBBm_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LXWH3gwK6RnKwq_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L1fhecYT9y98bq_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LzoWd3d7h1FGj9": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LzoWd3d7h1FGj9_thz.JPG"
+        },
+        "H0134-LuHOLQoFoOqvHC": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LuHOLQoFoOqvHC_thz.JPG"
+        },
+        "H0134-LigGxP1YL5cBBm": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LigGxP1YL5cBBm_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LigGxP1YL5cBBm_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LigGxP1YL5cBBm.JPG"
+        },
+        "H0134-LXWH3gwK6RnKwq": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LXWH3gwK6RnKwq_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LXWH3gwK6RnKwq_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-LXWH3gwK6RnKwq.JPG"
+        },
+        "H0134-L1fhecYT9y98bq": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L1fhecYT9y98bq_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L1fhecYT9y98bq_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/16/816716/H0134-L1fhecYT9y98bq.JPG"
+        }
+    }
+}

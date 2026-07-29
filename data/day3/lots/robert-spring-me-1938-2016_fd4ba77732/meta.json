@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/robert-spring-me-1938-2016_fd4ba77732",
+    "slug": "robert-spring-me-1938-2016_fd4ba77732",
+    "lot_number": "3444",
+    "title": "ROBERT SPRING (ME, 1938-2016)",
+    "estimate_low": 1000,
+    "estimate_high": 1500,
+    "current_bid": 500,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LJfpmibkI2Bnr5_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L08ZgTOO9jE6u3_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LEs3x7A2v1IcNz_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-LgrjgHNjAkMTiG": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LgrjgHNjAkMTiG_thz.JPG"
+        },
+        "H0134-LR46KZKoJFj1wn": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LR46KZKoJFj1wn_thz.JPG"
+        },
+        "H0134-LJfpmibkI2Bnr5": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LJfpmibkI2Bnr5_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LJfpmibkI2Bnr5_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LJfpmibkI2Bnr5.JPG"
+        },
+        "H0134-L08ZgTOO9jE6u3": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L08ZgTOO9jE6u3_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L08ZgTOO9jE6u3_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-L08ZgTOO9jE6u3.JPG"
+        },
+        "H0134-LEs3x7A2v1IcNz": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LEs3x7A2v1IcNz_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LEs3x7A2v1IcNz_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/18/816718/H0134-LEs3x7A2v1IcNz.JPG"
+        }
+    }
+}

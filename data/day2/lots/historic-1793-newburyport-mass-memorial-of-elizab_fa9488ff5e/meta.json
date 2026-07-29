@@ -1,0 +1,40 @@
+{
+    "url": "https://live.thomastonauction.com/auction-lot/historic-1793-newburyport-mass-memorial-of-elizab_fa9488ff5e",
+    "slug": "historic-1793-newburyport-mass-memorial-of-elizab_fa9488ff5e",
+    "lot_number": "2169",
+    "title": "HISTORIC 1793 NEWBURYPORT MASS MEMORIAL OF ELIZABETH TITCOMB",
+    "estimate_low": 600,
+    "estimate_high": 800,
+    "current_bid": 250,
+    "bid_count": 3,
+    "description": null,
+    "image_count": 3,
+    "images": [
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LteltAcUjplwxn_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LTfiWijoFRkeys_original.JPG",
+        "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LnKDSJwOrNcZLd_original.JPG"
+    ],
+    "image_variants": {
+        "H0134-L00vKRPHDFqAJ1": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-L00vKRPHDFqAJ1_thz.JPG"
+        },
+        "H0134-LTHnw2XdyouHvq": {
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LTHnw2XdyouHvq_thz.JPG"
+        },
+        "H0134-LteltAcUjplwxn": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LteltAcUjplwxn_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LteltAcUjplwxn_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LteltAcUjplwxn.JPG"
+        },
+        "H0134-LTfiWijoFRkeys": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LTfiWijoFRkeys_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LTfiWijoFRkeys_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LTfiWijoFRkeys.JPG"
+        },
+        "H0134-LnKDSJwOrNcZLd": {
+            "original": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LnKDSJwOrNcZLd_original.JPG",
+            "thz": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LnKDSJwOrNcZLd_thz.JPG",
+            "default": "https://image.invaluable.com/housePhotos/thomastonauction/17/816717/H0134-LnKDSJwOrNcZLd.JPG"
+        }
+    }
+}
