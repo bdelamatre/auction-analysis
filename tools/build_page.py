@@ -40,6 +40,7 @@ RATES = {
     "gold_10k": (53.63, "10K gold .417"),
     "gold_14k": (75.23, "14K gold .585"),
     "gold_18k": (96.45, "18K gold .750"),
+    "gold_22k": (117.93, "22K gold .917"),
     "gold_filled": (0.0, "Gold-filled"),
     "plated": (0.0, "Plated"),
     "none": (0.0, "No precious metal"),
@@ -511,13 +512,14 @@ def screened_row(row, gid, label, thumb_src):
     e = html.escape
     cat, per = classify(row)
     return (
-        '<div class="entry srow" data-lot="{lot}" data-verdict="screened" data-status="screened"'
+        '<div class="entry srow" data-lot="{lot}" data-verdict="pass" data-status="brief"'
         ' data-day="{day}" data-category="{cat}" data-period="{per}" data-group="{gid}"'
-        ' data-vrank="9" data-market="0" data-resale="0" data-est="{est}" data-bid="{bid}"'
-        ' data-melt="0" data-margin="-99999" data-search="{search}">'
+        ' data-level="brief" data-vrank="8" data-market="0" data-resale="0" data-est="{est}"'
+        ' data-bid="{bid}" data-melt="0" data-margin="-99999" data-search="{search}">'
         '<a class="rthumb" href="{url}" target="_blank" rel="noopener">{img}</a>'
         '<div class="rmain"><div class="rtop"><b>Lot {lotn}</b>'
-        '<span class="rday">{dayname}</span><span class="rest">est {est_r}</span></div>'
+        '<span class="rday">{dayname}</span><span class="rest">est {est_r}</span>'
+        '<span class="rverdict">PASS</span></div>'
         '<h4>{title}</h4>'
         '<div class="tags"><span class="tag cat">{catlabel}</span>'
         '<span class="tag per">{perlabel}</span><span class="tag grp">{grp}</span></div>'
@@ -564,7 +566,10 @@ def render(lots, verdicts, valuations, method, embed=False):
 
     cards = []
     for row, v in analysed:
-        val = valuations.get(row["lot"], {})
+        val = dict(valuations.get(row["lot"], {}))
+        for k in ("market", "resale", "melt", "gems", "category", "period", "spread"):
+            if k in v and k not in val:
+                val[k] = v[k]
         src = ""
         if row["images"]:
             src = thumb_data_uri(row["images"][0]) if embed else row["images"][0]
@@ -640,7 +645,8 @@ def main():
     OUT.write_text(page, encoding="utf-8")
     print("wrote {} ({:,} bytes)".format(OUT.name, OUT.stat().st_size))
 
-    missing = [r["lot"] for r, _ in analysed if r["lot"] not in valuations]
+    missing = [r["lot"] for r, v in analysed
+               if r["lot"] not in valuations and "market" not in v]
     if missing:
         print("WARNING: analysed lots with no valuation:", missing)
 
@@ -749,6 +755,10 @@ header .sub{{font-size:.85rem;color:var(--on-dim);margin:0 0 12px}}
 .chip[aria-pressed=true] .n{{color:var(--on-dim)}}
 .selects{{display:grid;grid-template-columns:1fr 1fr;gap:5px;margin-top:5px}}
 .selects .wide{{grid-column:1/-1}}
+#more{{margin-top:4px}}
+#more>summary{{cursor:pointer;font-family:var(--sans);font-size:.64rem;letter-spacing:.09em;text-transform:uppercase;color:var(--link);padding:3px 0;list-style-position:inside}}
+#more[open]>summary{{margin-bottom:3px}}
+.rverdict{{font-family:var(--sans);font-size:.58rem;letter-spacing:.08em;text-transform:uppercase;background:var(--pass-bg);color:var(--badge-fg);padding:1px 5px;border-radius:2px}}
 .selects label,.sorts label{{display:block}}
 .selects span,.sorts span{{font-family:var(--sans);font-size:.56rem;letter-spacing:.09em;text-transform:uppercase;color:var(--muted)}}
 select{{width:100%;font-family:var(--serif);font-size:.85rem;padding:5px 6px;border:1px solid var(--line);background:var(--panel);color:var(--ink);border-radius:2px}}
@@ -867,7 +877,7 @@ a{{color:var(--link)}}
 <header>
   <h1>Summer Grandeur 2026 &mdash; buying brief</h1>
   <p class="sub">Thomaston Place Auction Galleries &middot; August 28&ndash;30 2026 &middot;
-     {n_total} lots reviewed &middot; {n_analysed} written up &middot; {n_screened} screened in bulk</p>
+     {n_total} lots &middot; every one has a verdict &middot; {n_analysed} assessed in full</p>
   <div class="metals">{metals}</div>
 </header>
 
@@ -907,6 +917,7 @@ a{{color:var(--link)}}
     <button class="chip" data-filter="all" aria-pressed="true">All</button>
     {chips}
   </div>
+  <details id="more"><summary>More filters &amp; sorting</summary>
   <div class="row">
     <button class="chip" data-filter="day" data-value="day1">Day 1</button>
     <button class="chip" data-filter="day" data-value="day2">Day 2</button>
@@ -914,8 +925,8 @@ a{{color:var(--link)}}
     <button class="chip" data-filter="starred">&#9733; Starred</button>
   </div>
   <div class="row">
-    <button class="chip" data-filter="detail" data-value="full">Full write-ups</button>
-    <button class="chip" data-filter="detail" data-value="screened">Screened only</button>
+    <button class="chip" data-filter="detail" data-value="full">Assessed in full</button>
+    <button class="chip" data-filter="detail" data-value="screened">Category-level PASS</button>
     <button class="chip" data-filter="status" data-value="antique">Antique</button>
     <button class="chip" data-filter="status" data-value="border">Border</button>
     <button class="chip" data-filter="status" data-value="modern">Modern</button>
@@ -925,8 +936,8 @@ a{{color:var(--link)}}
       <select id="fcat"><option value="">All categories</option>{cat_opts}</select></label>
     <label><span>Period / style</span>
       <select id="fper"><option value="">All periods</option>{per_opts}</select></label>
-    <label class="wide"><span>Screening group</span>
-      <select id="fgrp"><option value="">All screening groups</option>{grp_opts}</select></label>
+    <label class="wide"><span>Reason for PASS (category-level calls)</span>
+      <select id="fgrp"><option value="">All reasons</option>{grp_opts}</select></label>
   </div>
   <div class="sorts">
     <label><span>Sort by</span><select id="s1">
@@ -950,6 +961,7 @@ a{{color:var(--link)}}
     </select></label>
     <button id="dir" aria-pressed="false">&uarr; Asc</button>
   </div>
+  </details>
   <input id="q" type="search" placeholder="Search lots, makers, materials&hellip;" autocomplete="off">
   <div class="count" id="count"></div>
 </div>
@@ -959,10 +971,12 @@ a{{color:var(--link)}}
 {cards}
 </div>
 
-<h2 class="sec">Why lots were set aside</h2>
-<p class="lead">The compact rows above each carry one of these reasons as their third tag. Filter to any
-one of them with the screening-group menu. They carry no value estimates, because I have not analysed
-them individually and will not put a number on something I have not looked at.</p>
+<h2 class="sec">The category-level PASS reasons</h2>
+<p class="lead">Every lot in the sale has a verdict. The ones marked PASS as a compact row got that verdict
+from one of the reasons below rather than from an individual write-up &mdash; a reasoned call applied to a lot
+that clearly fits an identified pattern. They carry no value estimates, because I will not put a number on
+something I have not costed individually. Say which category to deepen next and those rows become full
+write-ups with market, resale and melt figures, exactly as the jewellery now has.</p>
 <div class="legend">{legend}</div>
 </main>
 
@@ -1016,7 +1030,7 @@ them individually and will not put a number on something I have not looked at.</
   function apply(){{
     var full=0, scr=0;
     lots.forEach(function(el){{
-      var ok=true, d=el.dataset, isScr=d.verdict==="screened";
+      var ok=true, d=el.dataset, isScr=d.level==="brief";
       if(state.detail==="full" && isScr) ok=false;
       if(state.detail==="screened" && !isScr) ok=false;
       if(state.verdict && d.verdict!==state.verdict) ok=false;
@@ -1030,8 +1044,8 @@ them individually and will not put a number on something I have not looked at.</
       el.style.display=ok?"":"none";
       if(ok){{ if(isScr) scr++; else full++; }}
     }});
-    countEl.textContent=(full+scr)+" of 1500 lots shown \\u2014 "+full+
-      " written up, "+scr+" screened";
+    countEl.textContent=(full+scr)+" of 1500 shown \\u2014 "+full+
+      " assessed in full, "+scr+" category-level PASS";
   }}
 
   document.querySelectorAll(".chip").forEach(function(c){{

@@ -371,10 +371,18 @@ missing.
 
 **Coverage: all 1,500 lots across all three days have been triaged. No gaps.**
 
-- **127 lots written up in full** (9 STRONG BUY, 49 BUY, 1 STRETCH-WORTHY, 33 BUY IF
-  CHEAP, 15 CHECK FIRST, 20 PASS). Every one carries all nine required fields.
-- **1,373 lots screened in bulk** into 23 reasoned groups, every lot accounted for, all of them
-  browsable as rows in the main list (see §11).
+- **Every lot has a verdict.** Nothing is "screened out" any more — the buyer asked for the
+  whole sale evaluated, including the passes.
+- **235 lots assessed in full** (9 STRONG BUY, 55 BUY, 1 STRETCH-WORTHY, 49 BUY IF CHEAP,
+  24 CHECK FIRST, 97 PASS). Every one carries all nine required fields plus my market and
+  resale estimates, and a melt/stones block where there is metal.
+- **All 116 jewellery and watch lots are done individually** — that was the buyer's explicit
+  priority. Melt is worked out on every gold and silver piece.
+- **1,265 lots carry a category-level PASS**: a reasoned call applied to a lot that clearly
+  fits an identified pattern (wrong coast, above band, modern repro, and so on). These are
+  the next thing to deepen; do it a category at a time on request.
+- The 23 category-level PASS reasons are listed in a legend on the page and filterable from the
+  "Reason for PASS" menu.
   The largest are: above the budget band (272), general no-fit (177), Maine artists
   reviewed but not pursued (156), listed painters (118), Chinese/Asian decorative (112),
   fine jewellery and watches (98).
@@ -392,10 +400,13 @@ Maine watercolour.
 
 ### Priorities from here
 
-1. **Preview is now the bottleneck, not analysis.** Six of the ten §10 questions need a
-   scale, a loupe or an opened album — book the 15–27 August preview or a virtual one.
-2. Deepen the bulk-screened groups if wanted — the marine fittings (42) and Maine
-   artists (156) buckets are the two most likely to hide something.
+1. **Preview is now the bottleneck on the written-up lots.** Six of the ten §10 questions need
+   a scale, a loupe or an opened album — book the 15–27 August preview or a virtual one. The
+   jewellery adds more: lot 3147 (Cross pen — solid or gold-filled?), 3198 and 3200 (gold watch
+   cases — solid or capped?), 3094 (natural or Linde synthetic star ruby?), 2498 (Type A jadeite
+   or dyed?), 3243–3245 (ancient intaglios or modern casts?).
+2. **Deepen the remaining category-level PASSes** one category at a time. Silver, marine and
+   Maine artists are the three most likely to repay it.
 3. Re-check `current_bid` before the sale: the figures in `data/` are a scrape-time
    snapshot, not live.
 
