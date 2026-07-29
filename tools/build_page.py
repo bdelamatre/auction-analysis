@@ -145,6 +145,12 @@ def classify(row):
         if rx.search(title):
             cat = key
             break
+    # A title that is only an artist's name and dates is a picture, not a
+    # "decorative" object -- without this the whole Day 3 Maine artist section
+    # lands in the catch-all bucket.
+    if cat == "decorative" and (ARTIST_DATES.search(title)
+                                or re.search(r"\((?:[A-Z]{2}[/,)]|CONTEMPORARY)", title)):
+        cat = "painting"
     per = None
     for key, rx in PER_RULES:
         if rx.search(title):

@@ -373,14 +373,21 @@ missing.
 
 - **Every lot has a verdict.** Nothing is "screened out" any more — the buyer asked for the
   whole sale evaluated, including the passes.
-- **235 lots assessed in full** (9 STRONG BUY, 55 BUY, 1 STRETCH-WORTHY, 49 BUY IF CHEAP,
-  24 CHECK FIRST, 97 PASS). Every one carries all nine required fields plus my market and
+- **357 lots assessed in full** (9 STRONG BUY, 71 BUY, 1 STRETCH-WORTHY, 86 BUY IF CHEAP,
+  24 CHECK FIRST, 166 PASS). Every one carries all nine required fields plus my market and
   resale estimates, and a melt/stones block where there is metal.
-- **All 116 jewellery and watch lots are done individually** — that was the buyer's explicit
-  priority. Melt is worked out on every gold and silver piece.
-- **1,265 lots carry a category-level PASS**: a reasoned call applied to a lot that clearly
-  fits an identified pattern (wrong coast, above band, modern repro, and so on). These are
-  the next thing to deepen; do it a category at a time on request.
+- **Complete categories:** jewellery (95), watches and clocks (21), silver and gold (52),
+  marine and whaling (102). Nothing left to do in those four.
+- **1,143 lots still on a category-level PASS.** By category: paintings 516, decorative 191,
+  furniture 99, ceramics 82, textiles/rugs 52, sculpture 43, arms 39, books 37, prints 24,
+  toys 19, folk art 15, vehicles 11, glass 7, tools 7. The buyer wants all of them assessed
+  individually; work through it a category at a time and update this list.
+- **Melt is worked out on every gold and silver piece** in the completed categories. Three
+  lots are estimated below their own metal at the working gold price: **3198** (IWC 18K),
+  **3200** (14K Omega De Ville) and **3069** (14K brooch, the only one in band).
+- A category-level PASS is a reasoned call applied to a lot that clearly fits an identified
+  pattern (wrong coast, above band, modern repro). It is **not** an individual assessment and
+  must not be described as one.
 - The 23 category-level PASS reasons are listed in a legend on the page and filterable from the
   "Reason for PASS" menu.
   The largest are: above the budget band (272), general no-fit (177), Maine artists
