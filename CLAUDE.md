@@ -26,8 +26,10 @@ data/
       meta.json            # structured fields (see below)
       lot.html             # raw lot page capture (~85 KB each)
       images/NNN.jpg       # local full-size photos — every lot has at least one
+                           # NOT in git: stored in Cloudflare R2, see docs/R2-SETUP.md
 thomaston-scrape.php       # the scraper that built data/ (probe/run/status/report modes)
 cacert.pem                 # CA bundle for the scraper, not project data
+scripts/r2.sh              # push/pull the lot images between disk and R2
 
 tools/parse_lots.py        # data/ -> build/lots.json + build/titles-{day}.txt
 tools/build_page.py        # lots.json + analysis/ -> summer-grandeur-2026.html
@@ -37,6 +39,11 @@ summer-grandeur-2026.html  # THE DELIVERABLE — single-file, mobile-first
 ```
 
 **Rebuild the page with:** `python3 tools/parse_lots.py && python3 tools/build_page.py`
+
+**The images are not in a fresh clone.** They are 2.06 GB across 5,222 files and live in
+Cloudflare R2 (`docs/R2-SETUP.md`). Run `scripts/r2.sh pull` before any analysis that
+depends on §7, and before taking `summer-grandeur-2026.html` into the gallery — its
+thumbnails point at the local paths on purpose.
 
 **`meta.json` fields:** `url`, `slug`, `lot_number` (string), `title`, `estimate_low`,
 `estimate_high`, `current_bid`, `bid_count`, `description`, `image_count`, `images`
