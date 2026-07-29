@@ -416,8 +416,13 @@ def card(row, v, val, thumb_src):
     spec = val.get("melt") or {}
     _, melt, refined, _ = melt_figures(spec) if spec else (None, None, None, None)
     # Midpoint of my market range, not the low end: the low end is the pessimistic
-    # case and made almost every lot look negative, which is not a useful signal.
-    margin = (sum(market) / 2 - (v.get("target") or 0) * ALL_IN) if (market and v.get("target")) else None
+    # case and made almost every lot look negative. But where the range spans more
+    # than 3x it encodes UNCERTAINTY (an unresolved medium, period or process), not
+    # market variance, and a midpoint there is meaningless -- so no margin is shown
+    # and the lot is kept out of the value ranking rather than topping it.
+    margin = None
+    if market and v.get("target") and market[0] and market[1] / market[0] <= 3:
+        margin = sum(market) / 2 - v["target"] * ALL_IN
 
     crits = "".join('<span class="tag">{}</span>'.format(e(CRITERIA_LABEL.get(c, c)))
                     for c in v.get("criteria", []))
@@ -430,7 +435,7 @@ def card(row, v, val, thumb_src):
                              " ".join(v.get("criteria", [])), v.get("analysis", "")]).lower())
 
     return """
-<article class="lot" data-lot="{lot}" data-verdict="{vslug}" data-status="{status}" data-day="{day}"
+<article class="entry card" data-lot="{lot}" data-verdict="{vslug}" data-status="{status}" data-day="{day}"
   data-category="{cat}" data-period="{per}" data-vrank="{vrank}" data-market="{mkt}" data-resale="{rsl}"
   data-est="{est}" data-bid="{bidv}" data-melt="{meltv}" data-margin="{marg}" data-search="{search}">
   <div class="lot-head">
@@ -497,6 +502,40 @@ def card(row, v, val, thumb_src):
         patience=e(v.get("patience", "")), src=src)
 
 
+def screened_row(row, gid, label, thumb_src):
+    """A compact, filterable, sortable row for a lot that was screened in bulk.
+
+    These live in the same list as the full write-ups so the page genuinely
+    browses all 1,500 lots rather than hiding 1,373 of them in an accordion.
+    """
+    e = html.escape
+    cat, per = classify(row)
+    return (
+        '<div class="entry srow" data-lot="{lot}" data-verdict="screened" data-status="screened"'
+        ' data-day="{day}" data-category="{cat}" data-period="{per}" data-group="{gid}"'
+        ' data-vrank="9" data-market="0" data-resale="0" data-est="{est}" data-bid="{bid}"'
+        ' data-melt="0" data-margin="-99999" data-search="{search}">'
+        '<a class="rthumb" href="{url}" target="_blank" rel="noopener">{img}</a>'
+        '<div class="rmain"><div class="rtop"><b>Lot {lotn}</b>'
+        '<span class="rday">{dayname}</span><span class="rest">est {est_r}</span></div>'
+        '<h4>{title}</h4>'
+        '<div class="tags"><span class="tag cat">{catlabel}</span>'
+        '<span class="tag per">{perlabel}</span><span class="tag grp">{grp}</span></div>'
+        '</div></div>'
+    ).format(
+        lot=row["lot"] or 9999, lotn=row["lot"] or "--", day=row["day"],
+        dayname={"day1": "Day 1", "day2": "Day 2", "day3": "Day 3"}[row["day"]],
+        cat=cat, per=per, gid=gid, est=(row["est_low"] or 0), bid=(row["current_bid"] or 0),
+        est_r="{} - {}".format(money(row["est_low"]), money(row["est_high"])),
+        search=e(" ".join([str(row["lot"]), row["title"], label,
+                           CAT_LABEL.get(cat, ""), PER_LABEL.get(per, "")]).lower()),
+        url=e(row["url"] or "#"),
+        img=('<img loading="lazy" src="{}" alt="Lot {}">'.format(e(thumb_src), row["lot"])
+             if thumb_src else ""),
+        title=e(row["title"]), catlabel=e(CAT_LABEL.get(cat, cat)),
+        perlabel=e(PER_LABEL.get(per, per)), grp=e(label))
+
+
 def thumb_data_uri(path, box=420, quality=58):
     """420 px gives 2x for the 210 px display size without bloating the file."""
     from PIL import Image
@@ -531,25 +570,26 @@ def render(lots, verdicts, valuations, method, embed=False):
             src = thumb_data_uri(row["images"][0]) if embed else row["images"][0]
         cards.append(card(row, v, val, src))
 
-    screen_html = []
-    for gid, g in sorted(screened.items(), key=lambda kv: -len(kv[1]["rows"])):
-        items = []
-        for r in sorted(g["rows"], key=lambda r: r["lot"] or 0):
-            c, p = classify(r)
-            items.append(
-                '<li data-category="{c}" data-period="{p}" data-day="{d}" data-search="{s}">'
-                '<a href="{u}" target="_blank" rel="noopener"><b>{n}</b> {t}</a>'
-                '<span class="se">{e}</span></li>'.format(
-                    c=c, p=p, d=r["day"], s=html.escape((str(r["lot"]) + " " + r["title"]).lower()),
-                    u=html.escape(r["url"] or "#"), n=r["lot"] or "--",
-                    t=html.escape(r["title"]), e=money(r["est_low"])))
-        screen_html.append(
-            '<details class="screen" data-search="{s}"><summary><b>{label}</b>'
-            '<span class="n">{n} lots</span></summary><p class="reason">{reason}</p>'
-            '<ul>{items}</ul></details>'.format(
-                s=html.escape((g["label"] + " " + g["reason"]).lower()),
-                label=html.escape(g["label"]), n=len(g["rows"]),
-                reason=html.escape(g["reason"]), items="".join(items)))
+    # Screened lots join the same list, ordered by lot number after the write-ups.
+    flat = []
+    for gid, g in screened.items():
+        for r in g["rows"]:
+            flat.append((r, gid, g["label"]))
+    flat.sort(key=lambda t: (t[0]["day"], t[0]["lot"] or 0))
+    for r, gid, label in flat:
+        src = ""
+        if r["images"]:
+            src = thumb_data_uri(r["images"][0], box=88, quality=52) if embed else r["images"][0]
+        cards.append(screened_row(r, gid, label, src))
+
+    legend = "".join(
+        '<details class="lg"><summary><b>{label}</b><span class="n">{n}</span></summary>'
+        '<p>{reason}</p></details>'.format(
+            label=html.escape(g["label"]), n=len(g["rows"]), reason=html.escape(g["reason"]))
+        for gid, g in sorted(screened.items(), key=lambda kv: -len(kv[1]["rows"])))
+    grp_opts = "".join(
+        '<option value="{}">{} ({})</option>'.format(gid, html.escape(g["label"]), len(g["rows"]))
+        for gid, g in sorted(screened.items(), key=lambda kv: -len(kv[1]["rows"])))
 
     metals = "".join('<div><span>{}</span><b>{}</b><i>{}</i></div>'.format(*m) for m in METALS)
     chips = "".join('<button class="chip" data-filter="verdict" data-value="{}">{} '
@@ -559,8 +599,8 @@ def render(lots, verdicts, valuations, method, embed=False):
     per_opts = "".join('<option value="{}">{}</option>'.format(k, lbl) for k, lbl in PERIODS)
 
     return TEMPLATE.format(
-        cards="\n".join(cards), screens="\n".join(screen_html), metals=metals, chips=chips,
-        cat_opts=cat_opts, per_opts=per_opts,
+        cards="\n".join(cards), legend=legend, metals=metals, chips=chips,
+        cat_opts=cat_opts, per_opts=per_opts, grp_opts=grp_opts,
         n_analysed=len(analysed), n_screened=sum(len(g["rows"]) for g in screened.values()),
         n_total=len(lots),
         m_market=html.escape(method["market"]), m_resale=html.escape(method["resale"]),
@@ -708,6 +748,7 @@ header .sub{{font-size:.85rem;color:var(--on-dim);margin:0 0 12px}}
 .chip[aria-pressed=true]{{background:var(--spruce);color:var(--on);border-color:var(--spruce)}}
 .chip[aria-pressed=true] .n{{color:var(--on-dim)}}
 .selects{{display:grid;grid-template-columns:1fr 1fr;gap:5px;margin-top:5px}}
+.selects .wide{{grid-column:1/-1}}
 .selects label,.sorts label{{display:block}}
 .selects span,.sorts span{{font-family:var(--sans);font-size:.56rem;letter-spacing:.09em;text-transform:uppercase;color:var(--muted)}}
 select{{width:100%;font-family:var(--serif);font-size:.85rem;padding:5px 6px;border:1px solid var(--line);background:var(--panel);color:var(--ink);border-radius:2px}}
@@ -717,13 +758,13 @@ select{{width:100%;font-family:var(--serif);font-size:.85rem;padding:5px 6px;bor
 #q{{width:100%;font-family:var(--serif);font-size:.95rem;padding:7px 9px;border:1px solid var(--line);background:var(--panel);color:var(--ink);margin-top:5px;border-radius:2px}}
 .count{{font-family:var(--mono);font-size:.7rem;color:var(--muted);padding:5px 2px 0}}
 main{{padding:12px 10px 40px;max-width:880px;margin:0 auto}}
-.lot{{background:var(--paper);border:1px solid var(--line);border-left:4px solid var(--muted);margin:0 0 14px;border-radius:2px}}
-.lot[data-verdict=strong-buy]{{border-left-color:var(--verdigris)}}
-.lot[data-verdict=buy]{{border-left-color:var(--spruce-2)}}
-.lot[data-verdict=stretch-worthy]{{border-left-color:var(--brass)}}
-.lot[data-verdict=buy-if-cheap]{{border-left-color:var(--cheap-bg)}}
-.lot[data-verdict=check-first]{{border-left-color:var(--check-bg)}}
-.lot[data-verdict=pass]{{border-left-color:var(--oxblood);opacity:.9}}
+.card{{background:var(--paper);border:1px solid var(--line);border-left:4px solid var(--muted);margin:0 0 14px;border-radius:2px}}
+.card[data-verdict=strong-buy]{{border-left-color:var(--verdigris)}}
+.card[data-verdict=buy]{{border-left-color:var(--spruce-2)}}
+.card[data-verdict=stretch-worthy]{{border-left-color:var(--brass)}}
+.card[data-verdict=buy-if-cheap]{{border-left-color:var(--cheap-bg)}}
+.card[data-verdict=check-first]{{border-left-color:var(--check-bg)}}
+.card[data-verdict=pass]{{border-left-color:var(--oxblood);opacity:.9}}
 .lot-head{{display:grid;grid-template-columns:130px minmax(0,1fr);grid-template-areas:"thumb id" "thumb verdict";gap:6px 12px;padding:10px;border-bottom:1px solid var(--line)}}
 .lot-id{{min-width:0;grid-area:id}}
 .thumb{{grid-area:thumb}}
@@ -789,15 +830,24 @@ main{{padding:12px 10px 40px;max-width:880px;margin:0 auto}}
 .lotlink{{font-family:var(--sans);font-size:.66rem;letter-spacing:.08em;text-transform:uppercase;color:var(--link)}}
 h2.sec{{font-family:var(--sans);font-weight:600;letter-spacing:.08em;text-transform:uppercase;font-size:.9rem;
   border-bottom:2px solid var(--spruce);padding-bottom:5px;margin:30px 0 12px}}
-.screen{{background:var(--paper);border:1px solid var(--line);margin:0 0 8px;border-radius:2px}}
-.screen summary{{padding:9px 10px;cursor:pointer;font-family:var(--sans);font-size:.8rem;letter-spacing:.03em}}
-.screen summary .n{{font-family:var(--mono);font-size:.7rem;color:var(--muted);float:right}}
-.screen .reason{{padding:0 10px;font-size:.87rem;color:var(--ink-2);margin:0 0 8px}}
-.screen ul{{list-style:none;margin:0;padding:0 10px 10px;max-height:340px;overflow-y:auto}}
-.screen li{{font-size:.8rem;padding:3px 0;border-bottom:1px dotted var(--line)}}
-.screen li a{{color:var(--ink);text-decoration:none}}
-.screen li b{{font-family:var(--mono);color:var(--brass);margin-right:5px}}
-.screen li .se{{font-family:var(--mono);font-size:.72rem;color:var(--muted);float:right}}
+/* Compact row: a screened lot, in the same list as the write-ups. */
+.srow{{display:grid;grid-template-columns:56px minmax(0,1fr);gap:9px;align-items:start;
+  background:var(--paper);border:1px solid var(--line);border-left:4px solid var(--line);
+  padding:7px 9px;margin:0 0 5px;border-radius:2px}}
+.srow img{{width:56px;height:56px;object-fit:cover;border:1px solid var(--line);background:var(--panel);display:block}}
+.rmain{{min-width:0}}
+.rtop{{display:flex;gap:8px;align-items:baseline;flex-wrap:wrap;font-family:var(--mono);font-size:.7rem;color:var(--muted)}}
+.rtop b{{color:var(--ink)}}
+.rtop .rday{{color:var(--brass)}}
+.srow h4{{font-family:var(--sans);font-weight:400;font-size:.82rem;line-height:1.25;
+  margin:2px 0 4px;letter-spacing:.02em;overflow-wrap:break-word}}
+.tag.grp{{background:transparent;border:1px solid var(--line);color:var(--muted)}}
+.lead{{font-size:.87rem;color:var(--ink-2);margin-top:0}}
+.legend{{display:grid;gap:5px}}
+.lg{{background:var(--paper);border:1px solid var(--line);border-radius:2px}}
+.lg summary{{padding:7px 9px;cursor:pointer;font-family:var(--sans);font-size:.76rem;letter-spacing:.03em}}
+.lg summary .n{{font-family:var(--mono);font-size:.7rem;color:var(--muted);float:right}}
+.lg p{{padding:0 9px 8px;margin:0;font-size:.86rem;color:var(--ink-2)}}
 footer{{background:var(--spruce);color:var(--on-dim);padding:18px 16px;font-size:.8rem}}
 footer b{{color:var(--on)}}
 a{{color:var(--link)}}
@@ -835,7 +885,10 @@ a{{color:var(--link)}}
       <dt>Stones</dt><dd>{m_gems}</dd>
       <dt>Margin at target</dt><dd>The midpoint of my market range minus the all-in cost at my target
       bid. Positive means you are buying under market after premium and tax; negative means you are
-      paying up for it. Sort by this to rank the whole list on value rather than on my verdict.</dd>
+      paying up for it. Sort by this to rank the whole list on value rather than on my verdict.
+      Deliberately blank where my market range spans more than three-fold &mdash; that width is
+      unresolved uncertainty (a medium, a period, a print process), not value, and averaging it would
+      float the least-known lots to the top of the ranking.</dd>
       <dt>Category and period</dt><dd>Hand-set on the 127 written-up lots. On the 1,373 bulk-screened
       lots they are assigned automatically from the catalogue title, so treat those as a rough index
       rather than a considered judgement. Value estimates are NOT given for screened lots &mdash;
@@ -855,19 +908,25 @@ a{{color:var(--link)}}
     {chips}
   </div>
   <div class="row">
-    <button class="chip" data-filter="status" data-value="antique">Antique</button>
-    <button class="chip" data-filter="status" data-value="border">Border</button>
-    <button class="chip" data-filter="status" data-value="modern">Modern</button>
     <button class="chip" data-filter="day" data-value="day1">Day 1</button>
     <button class="chip" data-filter="day" data-value="day2">Day 2</button>
     <button class="chip" data-filter="day" data-value="day3">Day 3</button>
     <button class="chip" data-filter="starred">&#9733; Starred</button>
+  </div>
+  <div class="row">
+    <button class="chip" data-filter="detail" data-value="full">Full write-ups</button>
+    <button class="chip" data-filter="detail" data-value="screened">Screened only</button>
+    <button class="chip" data-filter="status" data-value="antique">Antique</button>
+    <button class="chip" data-filter="status" data-value="border">Border</button>
+    <button class="chip" data-filter="status" data-value="modern">Modern</button>
   </div>
   <div class="selects">
     <label><span>Category</span>
       <select id="fcat"><option value="">All categories</option>{cat_opts}</select></label>
     <label><span>Period / style</span>
       <select id="fper"><option value="">All periods</option>{per_opts}</select></label>
+    <label class="wide"><span>Screening group</span>
+      <select id="fgrp"><option value="">All screening groups</option>{grp_opts}</select></label>
   </div>
   <div class="sorts">
     <label><span>Sort by</span><select id="s1">
@@ -900,12 +959,11 @@ a{{color:var(--link)}}
 {cards}
 </div>
 
-<h2 class="sec">Screened out in bulk</h2>
-<p style="font-size:.87rem;color:#4A4038;margin-top:0">Every remaining lot in the sale, grouped by the
-reason it was set aside. The noise is visible but compressed &mdash; nothing is silently missing. These
-respond to the category, period, day and search filters; they carry no value estimates, because I have
-not analysed them individually.</p>
-{screens}
+<h2 class="sec">Why lots were set aside</h2>
+<p class="lead">The compact rows above each carry one of these reasons as their third tag. Filter to any
+one of them with the screening-group menu. They carry no value estimates, because I have not analysed
+them individually and will not put a number on something I have not looked at.</p>
+<div class="legend">{legend}</div>
 </main>
 
 <footer>
@@ -916,10 +974,10 @@ not analysed them individually.</p>
 
 <script>
 (function(){{
-  var state={{verdict:null,status:null,day:null,category:"",period:"",starred:false,q:""}};
+  var state={{verdict:null,status:null,day:null,detail:null,category:"",period:"",group:"",
+              starred:false,q:""}};
   var box=document.getElementById("lots");
-  var lots=[].slice.call(document.querySelectorAll(".lot"));
-  var screens=[].slice.call(document.querySelectorAll(".screen"));
+  var lots=[].slice.call(document.querySelectorAll(".entry"));
   var countEl=document.getElementById("count");
   var s1=document.getElementById("s1"), s2=document.getElementById("s2"), dir=document.getElementById("dir");
   var desc=false, stars={{}};
@@ -927,6 +985,7 @@ not analysed them individually.</p>
 
   lots.forEach(function(el){{
     var b=el.querySelector(".star"), id=el.dataset.lot;
+    if(!b) return;                       // compact rows carry no star button
     if(stars[id]) b.setAttribute("aria-pressed","true");
     b.addEventListener("click",function(){{
       var on=b.getAttribute("aria-pressed")==="true";
@@ -955,56 +1014,39 @@ not analysed them individually.</p>
   }}
 
   function apply(){{
-    var n=0;
+    var full=0, scr=0;
     lots.forEach(function(el){{
-      var ok=true, d=el.dataset;
+      var ok=true, d=el.dataset, isScr=d.verdict==="screened";
+      if(state.detail==="full" && isScr) ok=false;
+      if(state.detail==="screened" && !isScr) ok=false;
       if(state.verdict && d.verdict!==state.verdict) ok=false;
       if(state.status && d.status!==state.status) ok=false;
       if(state.day && d.day!==state.day) ok=false;
       if(state.category && d.category!==state.category) ok=false;
       if(state.period && d.period!==state.period) ok=false;
+      if(state.group && d.group!==state.group) ok=false;
       if(state.starred && !stars[d.lot]) ok=false;
       if(state.q && d.search.indexOf(state.q)===-1) ok=false;
       el.style.display=ok?"":"none";
-      if(ok) n++;
+      if(ok){{ if(isScr) scr++; else full++; }}
     }});
-    // Screened groups answer to category, period, day and search only -- the
-    // verdict and star filters are meaningless for lots with no verdict.
-    var hideScreens = state.verdict || state.starred || state.status;
-    var sn=0;
-    screens.forEach(function(g){{
-      if(hideScreens){{ g.style.display="none"; return; }}
-      var shown=0;
-      [].slice.call(g.querySelectorAll("li")).forEach(function(li){{
-        var ok=true, d=li.dataset;
-        if(state.category && d.category!==state.category) ok=false;
-        if(state.period && d.period!==state.period) ok=false;
-        if(state.day && d.day!==state.day) ok=false;
-        if(state.q && d.search.indexOf(state.q)===-1 &&
-           g.dataset.search.indexOf(state.q)===-1) ok=false;
-        li.style.display=ok?"":"none";
-        if(ok) shown++;
-      }});
-      g.style.display=shown?"":"none";
-      sn+=shown;
-      var c=g.querySelector("summary .n");
-      if(c) c.textContent=shown+" lots";
-    }});
-    countEl.textContent=n+" analysed lot"+(n===1?"":"s")+
-      (hideScreens?"":" + "+sn+" screened")+" shown";
+    countEl.textContent=(full+scr)+" of 1500 lots shown \\u2014 "+full+
+      " written up, "+scr+" screened";
   }}
 
   document.querySelectorAll(".chip").forEach(function(c){{
     c.addEventListener("click",function(){{
       var f=c.dataset.filter;
-      if(f==="all"){{ state.verdict=state.status=state.day=null; state.starred=false;
-        state.category=state.period=""; document.getElementById("fcat").value="";
-        document.getElementById("fper").value=""; }}
+      if(f==="all"){{ state.verdict=state.status=state.day=state.detail=null; state.starred=false;
+        state.category=state.period=state.group="";
+        document.getElementById("fcat").value=""; document.getElementById("fper").value="";
+        document.getElementById("fgrp").value=""; }}
       else if(f==="starred"){{ state.starred=!state.starred; }}
       else {{ state[f]=(state[f]===c.dataset.value)?null:c.dataset.value; }}
       document.querySelectorAll(".chip").forEach(function(o){{
         var of=o.dataset.filter, on=false;
-        if(of==="all") on=!state.verdict&&!state.status&&!state.day&&!state.starred&&!state.category&&!state.period;
+        if(of==="all") on=!state.verdict&&!state.status&&!state.day&&!state.detail&&!state.starred
+                          &&!state.category&&!state.period&&!state.group;
         else if(of==="starred") on=state.starred;
         else on=state[of]===o.dataset.value;
         o.setAttribute("aria-pressed",String(on));
@@ -1015,6 +1057,7 @@ not analysed them individually.</p>
 
   document.getElementById("fcat").addEventListener("change",function(e){{ state.category=e.target.value; apply(); }});
   document.getElementById("fper").addEventListener("change",function(e){{ state.period=e.target.value; apply(); }});
+  document.getElementById("fgrp").addEventListener("change",function(e){{ state.group=e.target.value; apply(); }});
   s1.addEventListener("change",sortLots);
   s2.addEventListener("change",sortLots);
   dir.addEventListener("click",function(){{
