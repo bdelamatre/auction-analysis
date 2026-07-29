@@ -1,0 +1,185 @@
+[
+{"lot":1047,"verdict":"BUY IF CHEAP","criteria":["antique"],"date":"early-to-mid 19th c.","status":"antique","evidence":"Unverified",
+ "category":"tools","period":"federal","market":[120,280],"resale":[70,190],
+ "melt":{"metal":"none","note":"Wrought iron. The word 'silver' does not appear -- this lot classified into silver only by keyword accident. No precious metal."},
+ "analysis":"Two early hand-forged iron ladles. Genuine blacksmith-made kitchen ironwork, and the hammer facets and irregular weld lines are effectively impossible to fake convincingly at this price. Honest, dated, useful objects.","problems":"No date claim from the house. Early ironwork is worth little because supply is deep -- every New England farm produced this. Check for cracks at the socket and whether the handles have been shortened.","target":110,"ceiling":220,"patience":"Very high. Forged kitchen iron is a constant at Maine sales.","star":false},
+
+{"lot":1235,"verdict":"PASS","criteria":[],"date":"late 20th c.","status":"modern","evidence":"Inferred",
+ "category":"arms","period":"contemporary","market":[1800,2600],"resale":[1400,2100],
+ "melt":{"metal":"none","note":"'Silver Pigeon' is Beretta's model name, not a material. No silver content whatsoever."},
+ "analysis":"A Beretta 687 Silver Pigeon III in 28 gauge. A good modern sporting over-under, well regarded and holding its value, but a contemporary firearm fits none of the five criteria.","problems":"Out of band at $2,000-2,500. Also the transfer paperwork: buying a shotgun at auction means an FFL transfer, which is friction for a collection that is otherwise furniture, silver and pictures.","target":0,"ceiling":0,"patience":"Not applicable -- out of band and out of criteria.","star":false},
+
+{"lot":1237,"verdict":"PASS","criteria":[],"date":"late 20th c.","status":"modern","evidence":"Inferred",
+ "category":"arms","period":"contemporary","market":[1300,2000],"resale":[1000,1600],
+ "melt":{"metal":"none","note":"Model name only. No silver."},
+ "analysis":"A Beretta Silver Pigeon in 12 gauge, the commoner gauge and the cheaper of the two Beretta lots. Same reasoning as 1235.","problems":"Out of band and out of criteria. One of roughly fifty firearms lots in Day 1, none of which touches the brief.","target":0,"ceiling":0,"patience":"Not applicable.","star":false},
+
+{"lot":2281,"verdict":"PASS","criteria":["metal","antique","named"],"date":"c.1765-1785","status":"antique","evidence":"Catalogued",
+ "category":"silver","period":"georgian","market":[2500,4000],"resale":[2000,3200],
+ "melt":{"metal":"sterling","net_g":[900,1400],"basis":"four cast or loaded candlesticks. CRITICAL: if these are loaded (a thin sterling shell filled with pitch and a base-metal rod) the net silver is perhaps a third of the gross weight. Cast sticks are solid and much heavier. Establish which before believing any figure."},
+ "analysis":"Four George III sterling candlesticks by Daniel Smith and Robert Sharp -- a first-rank London partnership and a properly documented named maker. A matched set of four is substantially better than a pair. The silver could run $1,340 to $2,090 even on the loaded assumption, so the estimate is not far above metal.","problems":"Out of band at $2,500-3,500. The loaded-versus-cast question is the one that matters: loaded sticks also dent and split at the base seam, and a repaired candlestick is worth much less. Check all four match in height and hallmark date.","target":0,"ceiling":0,"patience":"Not applicable -- out of band, but this is the best Georgian silver in the sale after the Cripps mug.","star":true},
+
+{"lot":2292,"verdict":"PASS","criteria":["metal","antique","named"],"date":"c.1740-1760","status":"antique","evidence":"Catalogued",
+ "category":"silver","period":"georgian","market":[1500,2600],"resale":[1200,2000],
+ "melt":{"metal":"sterling","net_g":[350,550],"basis":"tazza -- a footed salver, solid sheet silver throughout, so gross is close to net"},
+ "analysis":"A George II sterling tazza by William Cripps -- the same maker as lot 2300, the mug I rated the best sterling buy in the sale. This is the larger, grander piece: a footed salver in solid sheet silver with roughly $520 to $820 of metal underneath a $1,600-2,500 estimate.","problems":"Out of band at $1,600-2,500 with an $800 opening. Worth knowing that both Cripps lots are in the same sale, because a bidder who wants Cripps may split their money between them -- which is mildly good for your chances on 2300. Check the centre for thinning from over-polishing, the usual fault on salvers.","target":0,"ceiling":0,"patience":"Not applicable -- out of band.","star":true},
+
+{"lot":2308,"verdict":"BUY IF CHEAP","criteria":["metal","antique"],"date":"19th c.","status":"antique","evidence":"Catalogued",
+ "category":"silver","period":"victorian","market":[220,400],"resale":[160,300],
+ "melt":{"metal":"sterling","net_g":[90,130],"basis":"5 spoons -- tablespoon or dessert size given the estimate, so heavier than teaspoons at roughly 18-26 g each"},
+ "analysis":"Five 19th-century English sterling spoons. The larger cousins of the teaspoon lots at 2320, 2323 and 2325 -- fewer pieces but more metal each, so roughly $135 to $195 of silver against a $300-500 estimate.","problems":"The estimate sits above melt, so the premium is for the hallmarks and the age rather than the metal. Buy at or below $250. Check they are a matched set rather than five odd spoons, and look at bowl tips for wear-through.","target":230,"ceiling":340,"patience":"Very high. English sterling flatware is the most consistently available precious metal at any sale.","star":false},
+
+{"lot":2325,"verdict":"BUY IF CHEAP","criteria":["metal","antique"],"date":"19th c.","status":"antique","evidence":"Catalogued",
+ "category":"silver","period":"victorian","market":[150,270],"resale":[110,200],
+ "melt":{"metal":"sterling","net_g":[70,90],"basis":"5 teaspoons at roughly 14-18 g each"},
+ "analysis":"Five 19th-century English sterling teaspoons at $200-300 -- the smallest of the four English spoon lots. Roughly $105 to $135 of silver, so the estimate is well above metal and this is bought for the hallmarks rather than the bullion.","problems":"At $200 you are paying about 50% over melt for five spoons. There are four comparable spoon lots in Day 2 (2308, 2320, 2323, 2325); bid whichever the room ignores and let the others go.","target":160,"ceiling":250,"patience":"Very high.","star":false},
+
+{"lot":2435,"verdict":"BUY IF CHEAP","criteria":["metal"],"date":"19th to early 20th c.","status":"border","evidence":"Unverified",
+ "category":"silver","period":"victorian","market":[400,750],"resale":[280,550],
+ "melt":{"metal":"sterling","net_g":[150,280],"refiner":0.78,"basis":"hammam bowl, raised from sheet. Ottoman silver is commonly .800 or lower rather than sterling, so this is the optimistic case and a refiner will discount unmarked foreign alloy harder than 87%."},
+ "analysis":"An Ottoman Turkish silver hammam bowl -- a bath bowl, raised and often chased with a central boss. These are handsome, functional objects with a real following, and at $600-800 with roughly $220 to $420 of silver the metal covers a good share of the estimate.","problems":"Purity is unmarked and untested; Ottoman silver runs well below sterling. Check for splits at the rim and for old repairs to the boss, which is where they are dented. Modern Turkish tourist reproductions of this form exist and are lighter.","target":380,"ceiling":650,"patience":"Moderate. Hammam bowls appear periodically in Islamic and Continental sales.","star":false},
+
+{"lot":2437,"verdict":"PASS","criteria":["metal"],"date":"19th to early 20th c.","status":"border","evidence":"Unverified",
+ "category":"silver","period":"victorian","market":[700,1300],"resale":[500,1000],
+ "melt":{"metal":"sterling","net_g":[200,350],"refiner":0.78,"basis":"wine bowl; Persian silver is typically .840-.900 but unmarked, so treat as indicative"},
+ "analysis":"A Persian silver wine bowl chased with gazelles. Qajar-period Persian silver is well made and the animal decoration is characteristic. Roughly $300 to $520 of metal against a $1,000-1,500 estimate.","problems":"Out of band. The estimate is three to four times the metal, which for unmarked, undated, unsigned Persian silver is optimistic -- this is a category where the decorative appeal has to carry the price and the market for it is narrow outside specialist sales.","target":0,"ceiling":0,"patience":"Not applicable -- out of band.","star":false},
+
+{"lot":2446,"verdict":"BUY IF CHEAP","criteria":["antique"],"date":"19th c.","status":"antique","evidence":"Catalogued",
+ "category":"sculpture","period":"victorian","market":[350,650],"resale":[240,480],
+ "melt":{"metal":"none","note":"Silver INLAID iron -- the silver is wire koftgari inlay in an iron body, a decorative technique with negligible recoverable metal. Do not read 'silver' here as content."},
+ "analysis":"A 19th-century Persian silver-inlaid iron bird on a stand. Koftgari inlay is a genuine craft tradition and a figural bird is more interesting than the usual boxes and bowls. Catalogued to the century, so the age is the house's claim.","problems":"The silver inlay wears off with handling and polishing, and losses are the normal condition fault -- check how much of the pattern survives. Also confirm the bird and stand belong together; married assemblies are common.","target":300,"ceiling":560,"patience":"Moderate.","star":false},
+
+{"lot":2453,"verdict":"BUY IF CHEAP","criteria":["metal"],"date":"late 19th to early 20th c.","status":"border","evidence":"Unverified",
+ "category":"jewellery","period":"edwardian","market":[180,350],"resale":[110,250],
+ "melt":{"metal":"sterling","net_g":[25,45],"refiner":0.75,"basis":"Turkoman tribal silver, usually well below sterling -- optimistic case"},
+ "gems":{"resale":[0,20],"note":"Glass dangles. No value."},
+ "analysis":"A Turkoman silver and glass dangle ornament, one of four Turkoman lots (2453-2456). The cheapest of the group and therefore the one where the ethnographic interest is best value.","problems":"Same purity and reproduction caveats as the rest of the Central Asian group -- test the metal, and be aware that Afghan and Pakistani workshops still make these in the same forms. Period pieces show wear at the suspension points.","target":170,"ceiling":300,"patience":"High.","star":false},
+
+{"lot":2455,"verdict":"BUY IF CHEAP","criteria":["metal"],"date":"late 19th to early 20th c.","status":"border","evidence":"Unverified",
+ "category":"jewellery","period":"edwardian","market":[350,650],"resale":[240,480],
+ "melt":{"metal":"sterling","net_g":[40,75],"refiner":0.75,"basis":"egme hood ornament -- these are substantial pieces; gilt surface adds nothing"},
+ "gems":{"resale":[15,50],"note":"Carnelian cabochons. Abundant and cheap."},
+ "analysis":"A Tekke Turkoman gilt silver and carnelian egme -- a hood or headdress ornament. Tekke is the most collected of the Turkoman groups and an egme is a proper ceremonial object rather than a trinket, so this is the best of the four Turkoman lots. Bidding is already at $275.","problems":"Purity untested and gilding is surface only. The active bidding suggests someone in the room knows the material. Check the suspension loops and that the carnelians are all present -- missing stones are common and the settings are hard to refill.","target":320,"ceiling":560,"patience":"Moderate. Tekke egmes are less common than the general run of tribal silver.","star":false},
+
+{"lot":2456,"verdict":"BUY IF CHEAP","criteria":["metal"],"date":"late 19th to early 20th c.","status":"border","evidence":"Unverified",
+ "category":"jewellery","period":"edwardian","market":[400,700],"resale":[280,520],
+ "melt":{"metal":"sterling","net_g":[50,90],"refiner":0.75,"basis":"neck ornament with dangles -- the largest of the Turkoman group"},
+ "gems":{"resale":[0,20],"note":"Glass. No value."},
+ "analysis":"A Turkoman silver and glass dangle neck ornament, the largest and most expensive of the four. More metal than the others -- perhaps $75 to $135 -- but the $600-800 estimate is well above that, so you are paying for scale and display presence.","problems":"Same caveats throughout. The dangles tangle and detach; count them and check the chains. At $600 the premium over metal is roughly fivefold, which is a lot for unmarked tribal silver.","target":380,"ceiling":620,"patience":"High.","star":false},
+
+{"lot":2460,"verdict":"BUY IF CHEAP","criteria":["metal"],"date":"20th c.","status":"modern","evidence":"Unverified",
+ "category":"jewellery","period":"midcentury","market":[350,650],"resale":[240,480],
+ "melt":{"metal":"sterling","net_g":[60,110],"refiner":0.75,"basis":"belt ornament; Moroccan silver commonly .800 or lower"},
+ "gems":{"resale":[0,0],"note":"Enamel only."},
+ "analysis":"A Moroccan silver and enamel belt ornament. The largest of the North African group and the one with the most metal -- perhaps $90 to $165 -- against a $600-800 estimate.","problems":"One photograph for a $700 object is thin. Purity untested, no date, and the enamel will have losses. My market read is below the house's on this one.","target":330,"ceiling":580,"patience":"High.","star":false},
+
+{"lot":2462,"verdict":"BUY IF CHEAP","criteria":["metal"],"date":"19th to 20th c.","status":"border","evidence":"Unverified",
+ "category":"jewellery","period":"victorian","market":[220,450],"resale":[150,330],
+ "melt":{"metal":"sterling","net_g":[60,120],"refiner":0.78,"basis":"4 tupu shawl pins. Andean silver varies widely; colonial-era pieces are often high-grade coin silver, later ones much lower."},
+ "analysis":"Four Andean silver shawl pins -- tupus, the traditional Quechua and Aymara fastening. Four of them gives a range to compare, and the flat spoon-headed form is distinctive. Roughly $90 to $180 of silver against $300-500.","problems":"One photograph for four objects. Dating Andean silver is genuinely hard: the forms continued unchanged into the 20th century and tourist-market pins are common. Look for wear at the pin shank and old repairs.","target":210,"ceiling":400,"patience":"Moderate.","star":false},
+
+{"lot":2464,"verdict":"BUY IF CHEAP","criteria":["metal"],"date":"c.1912-1949","status":"border","evidence":"Inferred",
+ "category":"silver","period":"edwardian","market":[300,550],"resale":[220,420],
+ "melt":{"metal":"sterling","net_g":[80,150],"refiner":0.80,"basis":"two plates plus the inset dollar coins. Chinese export silver is usually .900 or thereabouts; the inset coins are themselves .890 silver Yuan Shikai or similar dollars."},
+ "analysis":"Two Republic of China silver plates with inset silver dollar coins. An unusual hybrid: the plates carry silver content and the inset coins have their own numismatic interest, which for genuine Yuan Shikai 'Fatman' dollars is real -- those trade independently of their metal.","problems":"The coins are the variable and Chinese silver dollars are the most counterfeited coins in the world. If genuine they may be worth more than the plates; if cast fakes they add nothing. Look for correct edge reeding and weight. Prising them out to check is not an option, so this is partly a gamble.","target":280,"ceiling":480,"patience":"Moderate.","star":false},
+
+{"lot":2469,"verdict":"PASS","criteria":["metal","antique"],"date":"c.1880-1920","status":"border","evidence":"Unverified",
+ "category":"silver","period":"edwardian","market":[2200,3500],"resale":[1700,2800],
+ "melt":{"metal":"sterling","net_g":[600,1000],"refiner":0.82,"basis":"punch bowl, raised from heavy sheet. Chinese export silver typically .900, slightly below sterling."},
+ "analysis":"A Chinese export silver punch bowl. These are substantial pieces -- roughly $890 to $1,490 of metal -- and the export silver market has strengthened considerably as Chinese buyers repatriate the category. Usually chased with dragons, bamboo or figural panels.","problems":"Out of band at $2,500-3,500. Look for the maker's mark and the retailer's chop, which is what separates a documented piece from anonymous export ware and can double the value. Check the base for splits, since punch bowls were used.","target":0,"ceiling":0,"patience":"Not applicable -- out of band.","star":false},
+
+{"lot":3053,"verdict":"PASS","criteria":["metal","named","nouveau"],"date":"c.1875-1890","status":"antique","evidence":"Inferred",
+ "category":"silver","period":"nouveau","market":[3000,5500],"resale":[2400,4400],
+ "melt":{"metal":"sterling","net_g":[500,800],"basis":"water pitcher, hand-raised"},
+ "analysis":"A Tiffany hammered sterling Japonesque pitcher. This is the most important piece of silver in the sale and genuinely museum-adjacent -- Tiffany's Japanesque work of the 1870s and 80s under Edward C. Moore is the high point of American silver design, and it trades far above metal. The silver is roughly $745 to $1,190 against a $3,000-5,000 estimate, and in this case the premium is entirely justified.","problems":"Comprehensively out of band. Worth seeing at preview precisely because it shows what genuinely important silver looks like, which calibrates everything else. Check for the correct Moore-era marks and any applied copper or gold mixed-metal decoration, which is the most desirable variant.","target":0,"ceiling":0,"patience":"Not applicable -- out of band.","star":true},
+
+{"lot":3054,"verdict":"PASS","criteria":["metal","named"],"date":"c.1880-1900","status":"antique","evidence":"Inferred",
+ "category":"silver","period":"nouveau","market":[2000,3500],"resale":[1600,2800],
+ "melt":{"metal":"sterling","net_g":[550,850],"basis":"12 pieces of flatware, mixed sizes"},
+ "analysis":"Twelve pieces of Tiffany 'Lap Over Edge' sterling flatware. Lap Over Edge is one of Tiffany's Aesthetic-movement patterns, hand-hammered with applied naturalistic decoration, and the etched variants are highly collected. Roughly $820 to $1,270 of silver against a $2,000-3,000 estimate.","problems":"Out of band. Check whether these are the plain or the etched Lap Over Edge -- the etched pieces are worth several times the plain, and 'Lap Over Edge' alone does not distinguish them. Two photographs for twelve pieces is inadequate.","target":0,"ceiling":0,"patience":"Not applicable -- out of band.","star":true},
+
+{"lot":3055,"verdict":"PASS","criteria":["metal","named"],"date":"late 19th to early 20th c.","status":"border","evidence":"Unverified",
+ "category":"silver","period":"edwardian","market":[1300,2000],"resale":[1050,1600],
+ "melt":{"metal":"sterling","net_g":[450,700],"basis":"oval footed centre bowl"},
+ "analysis":"A Tiffany sterling oval footed centre bowl. Roughly $670 to $1,040 of silver against a $1,400-1,600 estimate, so the Tiffany name is adding roughly a 50-100% premium over metal -- which for Tiffany hollowware is normal and defensible.","problems":"Out of band, though closer than most of the Tiffany run. Date it from the mark: Tiffany's marks changed with each company president and that fixes the decade, converting an unverified date into an inferred one.","target":0,"ceiling":0,"patience":"Not applicable -- out of band.","star":false},
+
+{"lot":3056,"verdict":"BUY IF CHEAP","criteria":["metal","named"],"date":"c.1900-1930","status":"border","evidence":"Unverified",
+ "category":"silver","period":"edwardian","market":[700,1200],"resale":[550,950],
+ "melt":{"metal":"sterling","net_g":[180,300],"basis":"3 serving pieces at roughly 60-100 g each"},
+ "analysis":"A three-piece Tiffany 'Children on Parade' sterling serving set. Children on Parade is a charming, distinctive Tiffany pattern with figural relief, and figural patterns carry a premium over plain ones. Roughly $270 to $450 of silver against an $800-1,200 estimate -- so this is name and pattern rather than metal.","problems":"Only just inside the band at the low estimate. Figural patterns wear at the high points of the relief, which is exactly where the charm is -- check the children's faces are still crisp rather than polished flat. Confirm all three pieces are Tiffany and the same pattern.","target":700,"ceiling":1000,"patience":"Moderate. Tiffany figural patterns are collected and appear regularly.","star":true},
+
+{"lot":3057,"verdict":"BUY","criteria":["metal","named"],"date":"20th c.","status":"modern","evidence":"Unverified",
+ "category":"silver","period":"edwardian","market":[450,800],"resale":[350,620],
+ "melt":{"metal":"sterling","net_g":[110,180],"basis":"ice tongs -- more substantial than they look, being sprung sheet with cast grips"},
+ "analysis":"Tiffany 'St. James' pattern sterling ice tongs at $600-800. St. James is a solid, well-regarded Tiffany pattern and single serving pieces are the affordable way into Tiffany silver -- roughly $165 to $270 of metal, with the rest being the mark. Inside the band and one of only three Tiffany lots that is.","problems":"Ice tongs are a single-purpose object, which limits the audience on resale. Check the spring still has tension and the grips are not splayed -- bent tongs are hard to correct without stress-cracking the silver. Confirm the pattern name against the Tiffany mark.","target":450,"ceiling":700,"patience":"Moderate. Tiffany serving pieces appear regularly; specific patterns less predictably.","star":true},
+
+{"lot":3058,"verdict":"BUY","criteria":["metal","named"],"date":"20th c.","status":"modern","evidence":"Unverified",
+ "category":"silver","period":"edwardian","market":[500,850],"resale":[400,670],
+ "melt":{"metal":"sterling","net_g":[200,320],"basis":"creamer and covered sugar -- two hollowware pieces, so decent weight"},
+ "analysis":"A Tiffany 'Hamilton' pattern sterling creamer and sugar set at $600-800. Roughly $300 to $480 of silver, so about half the low estimate is metal and the rest is Tiffany -- the best metal-to-name ratio of the Tiffany lots inside the band, and hollowware is more useful than a single serving implement.","problems":"Check both pieces carry the Tiffany mark and match in pattern and date letter; married creamer-and-sugar pairs are common. Look inside the creamer for splits at the handle joins and check the sugar lid fits its own bowl.","target":520,"ceiling":780,"patience":"Moderate.","star":true},
+
+{"lot":3061,"verdict":"PASS","criteria":["metal","named"],"date":"20th c.","status":"modern","evidence":"Unverified",
+ "category":"silver","period":"midcentury","market":[900,1500],"resale":[700,1200],
+ "melt":{"metal":"sterling","net_g":[250,400],"basis":"compote -- footed bowl"},
+ "analysis":"A Georg Jensen sterling compote. Jensen is the one 20th-century silver name that reliably commands a large premium over metal, and the Danish modern aesthetic has held its market better than almost any other silver category. Roughly $370 to $600 of metal against $1,000-1,500.","problems":"Out of band. Jensen is also extensively faked and the marks were changed several times -- confirm the mark form matches the claimed period, and beware pieces marked 'Sterling Denmark' without the Jensen device.","target":0,"ceiling":0,"patience":"Not applicable -- out of band.","star":false},
+
+{"lot":3063,"verdict":"PASS","criteria":["metal","antique"],"date":"19th c.","status":"antique","evidence":"Catalogued",
+ "category":"silver","period":"victorian","market":[2500,4500],"resale":[1800,3400],
+ "melt":{"metal":"sterling","net_g":[150,300],"refiner":0.80,"basis":"MOUNTS ONLY -- this is a rock crystal or cut-glass urn with silver mounts, so the body is not metal. Austrian silver is commonly .800 rather than sterling."},
+ "analysis":"A 19th-century Austrian silver-mounted crystal urn, catalogued to the century. Handsome Historicist work, and Viennese silver-mounted crystal of this period is finely made.","problems":"Out of band at $3,000-5,000. Note the standing principle: 'silver mounted' means the metal is a collar and frame on a glass body, so despite the price there is only perhaps $180 to $360 of silver here. The value is the crystal cutting and the mount work, and both are vulnerable -- check the crystal for chips at the rim and foot, which are expensive and often impossible to repair.","target":0,"ceiling":0,"patience":"Not applicable -- out of band.","star":false},
+
+{"lot":3101,"verdict":"PASS","criteria":["metal"],"date":"late 19th to early 20th c.","status":"border","evidence":"Unverified",
+ "category":"silver","period":"edwardian","market":[3500,6000],"resale":[2800,4800],
+ "melt":{"metal":"sterling","net_g":[1500,2500],"refiner":0.82,"basis":"monumental tray -- the heaviest single silver object in the sale. Russian silver is .875 (84 zolotnik), slightly below sterling."},
+ "analysis":"A monumental Russian or Baltic silver serving tray. This is the largest lump of silver in the sale: at 1,500 to 2,500 grams the metal alone is roughly $2,235 to $3,725, which underwrites most of the $4,000-6,000 estimate. Russian silver has a strong dedicated market.","problems":"Out of band. Two photographs for a major piece is poor disclosure. The critical thing is the marks -- Russian silver is heavily faked with spurious Faberge and Khlebnikov marks, and an unmarked or wrongly marked tray is worth metal only. Also check for engraved presentation inscriptions, which cut both ways: they date and localise the piece but the market discounts them.","target":0,"ceiling":0,"patience":"Not applicable -- out of band.","star":false},
+
+{"lot":3103,"verdict":"PASS","criteria":["metal","named"],"date":"c.1880-1910","status":"border","evidence":"Unverified",
+ "category":"silver","period":"edwardian","market":[4500,7500],"resale":[3500,6000],
+ "melt":{"metal":"sterling","net_g":[1200,2000],"refiner":0.82,"basis":"8-piece beverage service; Russian .875"},
+ "analysis":"An eight-piece Ivan Khlebnikov Russian silver beverage service. Khlebnikov was one of the great Moscow silversmiths, a supplier to the Imperial court and second only to Faberge in reputation. Roughly $1,790 to $2,980 of metal against a $5,000-7,000 estimate, with the balance being a genuinely major maker.","problems":"Far out of band. Khlebnikov marks are among the most forged in the trade -- at this price authentication is essential, and the kokoshnik assay marks must be right for the claimed period. The best Russian silver in the sale but not remotely accessible on this budget.","target":0,"ceiling":0,"patience":"Not applicable -- out of band.","star":false},
+
+{"lot":3141,"verdict":"BUY IF CHEAP","criteria":["metal","antique"],"date":"c.1900-1925","status":"border","evidence":"Inferred",
+ "category":"silver","period":"edwardian","market":[250,500],"resale":[180,380],
+ "melt":{"metal":"sterling","net_g":[80,130],"refiner":0.82,"basis":"cigarette case; Continental cases are often .800-.900 rather than sterling"},
+ "analysis":"An early 20th-century enamel and silver erotic cigarette case at $300-500. These were an Austrian and German speciality -- an enamelled scene concealed inside the lid -- and the risque subject is precisely what the collectors want, so they trade well above plain cases. Roughly $100 to $160 of metal, so this is bought for the enamel and the novelty.","problems":"Enamel condition is everything: chips, hairlines and losses to the painted scene are common and effectively unrestorable. Check the hinge and that the case still closes flush. Also confirm the enamel is genuinely period rather than a later applied transfer, which exists.","target":250,"ceiling":450,"patience":"Moderate. Erotic enamel cases appear periodically and are consistently sought after.","star":true},
+
+{"lot":3143,"verdict":"PASS","criteria":["metal","named"],"date":"20th c.","status":"modern","evidence":"Inferred",
+ "category":"silver","period":"midcentury","market":[2800,4000],"resale":[2300,3300],
+ "melt":{"metal":"sterling","net_g":[1800,2600],"basis":"56 pieces of flatware. NOTE: Francis I knife blades are stainless steel with weighted sterling handles, so a large part of the gross weight is not recoverable silver -- deduct the blades before calculating."},
+ "analysis":"A cased 56-piece Reed & Barton 'Francis I' service. Francis I is the most recognisable American sterling pattern ever made and the one with the deepest secondary market -- which cuts both ways, because supply is enormous. The recoverable silver is roughly $2,680 to $3,875 even after deducting knife blades, so the $3,000-3,500 estimate is essentially at metal.","problems":"Out of band. Worth noting as the clearest case in the sale of a big-name pattern trading at scrap: Francis I was made in such quantity that the pattern premium has collapsed. Check whether the pieces are Reed & Barton originals or later reissues, and count against the case slots.","target":0,"ceiling":0,"patience":"Not applicable -- out of band, and Francis I services are continuously available.","star":false},
+
+{"lot":3144,"verdict":"BUY IF CHEAP","criteria":["metal"],"date":"20th c.","status":"modern","evidence":"Unverified",
+ "category":"silver","period":"midcentury","market":[600,1000],"resale":[500,800],
+ "melt":{"metal":"sterling","net_g":[350,550],"basis":"two serving dishes -- hollowware, so substantial. Confirm they are not weighted or lined."},
+ "analysis":"Two sterling serving dishes at $800-1,000, with no maker named. Roughly $520 to $820 of silver, so the metal covers most or all of the low estimate -- this is close to a bullion lot with a serving function attached, which for a collection is a perfectly sound way to own silver.","problems":"No maker stated, which is why it is cheap relative to the Tiffany lots -- and also why it will trade at metal. Weigh them. Check they are not weighted bases (a pitch-filled foot) which would cut the recoverable silver substantially. Six photographs, so the marks should be readable.","target":650,"ceiling":950,"patience":"High. Anonymous sterling hollowware is always available and usually trades near melt.","star":true},
+
+{"lot":3145,"verdict":"PASS","criteria":["metal","named"],"date":"c.1890-1920","status":"border","evidence":"Unverified",
+ "category":"silver","period":"edwardian","market":[900,1400],"resale":[750,1150],
+ "melt":{"metal":"sterling","net_g":[450,700],"basis":"water pitcher, raised sheet"},
+ "analysis":"A Dominick & Haff sterling water pitcher. Dominick & Haff were a good New York maker, later absorbed by Reed & Barton, and their hollowware is well made. Roughly $670 to $1,040 of silver against a $1,000-1,200 estimate -- so essentially metal plus a small maker premium.","problems":"Out of band, just. This is one of three sterling water pitchers in Day 3 (3145, 3146, 3163) plus the Tiffany at 3053 -- four pitchers in one sale will compete with each other, which would matter if any were in band.","target":0,"ceiling":0,"patience":"Not applicable -- out of band.","star":false},
+
+{"lot":3146,"verdict":"PASS","criteria":["metal","named"],"date":"c.1890-1910","status":"border","evidence":"Unverified",
+ "category":"silver","period":"nouveau","market":[1100,1800],"resale":[900,1450],
+ "melt":{"metal":"sterling","net_g":[500,750],"basis":"hand-hammered pitcher"},
+ "analysis":"A Gorham hand-hammered sterling pitcher. Hand-hammered Gorham of this period overlaps with their Aesthetic and Martele work, which is the desirable end of American silver -- if this is genuinely hand-raised rather than machine-planished it is a better object than the estimate suggests. Roughly $745 to $1,115 of metal against $1,200-1,600.","problems":"Out of band. Establish whether the hammering is genuine hand work (irregular, overlapping facets of varying depth) or a machine-applied finish (regular, uniform). Gorham date marks are a full alphabet system and will fix the year exactly.","target":0,"ceiling":0,"patience":"Not applicable -- out of band.","star":true},
+
+{"lot":3161,"verdict":"PASS","criteria":["metal","named"],"date":"20th c.","status":"modern","evidence":"Unverified",
+ "category":"silver","period":"midcentury","market":[1100,1600],"resale":[900,1300],
+ "melt":{"metal":"sterling","net_g":[600,950],"basis":"3 pieces of hollowware by Wallace and International"},
+ "analysis":"Three pieces of sterling hollowware by Wallace and International. Both are competent mid-century American makers with no collector premium, so this is a metal lot: roughly $890 to $1,415 of silver against a $1,400-1,600 estimate.","problems":"Out of band. Mixed makers in one lot means it will always sell as scrap rather than as a set. Check for weighted bases, which are common on mid-century candlesticks and compotes and cut the recoverable silver.","target":0,"ceiling":0,"patience":"Not applicable -- out of band.","star":false},
+
+{"lot":3162,"verdict":"PASS","criteria":["metal","named"],"date":"c.1880-1900","status":"antique","evidence":"Inferred",
+ "category":"silver","period":"victorian","market":[1100,1700],"resale":[900,1350],
+ "melt":{"metal":"sterling","net_g":[400,650],"basis":"bride's basket frame. If the glass liner is present it is not silver -- deduct it."},
+ "analysis":"A Whiting sterling bride's basket. Whiting was a first-rate American maker and bride's baskets are a distinctly Victorian form -- a footed frame with a swing handle, originally holding a coloured glass bowl. Roughly $600 to $970 of metal against $1,400-1,600.","problems":"Out of band. The critical question is whether the original glass liner survives: a complete bride's basket is worth substantially more than a bare frame, and most frames have lost their glass. Check the handle hinges, which fail.","target":0,"ceiling":0,"patience":"Not applicable -- out of band.","star":false},
+
+{"lot":3163,"verdict":"PASS","criteria":["metal","named"],"date":"20th c.","status":"modern","evidence":"Unverified",
+ "category":"silver","period":"midcentury","market":[1100,1600],"resale":[900,1300],
+ "melt":{"metal":"sterling","net_g":[500,750],"basis":"water pitcher"},
+ "analysis":"A Reed & Barton sterling water pitcher -- the third of the three American pitchers and the one with the least maker cachet. Roughly $745 to $1,115 of silver against a $1,400-1,600 estimate, so metal plus very little.","problems":"Out of band. With four sterling pitchers in the same sale this is the one most likely to go cheap, but even so the estimate starts above the band.","target":0,"ceiling":0,"patience":"Not applicable -- out of band.","star":false},
+
+{"lot":3217,"verdict":"BUY","criteria":["metal"],"date":"20th c.","status":"modern","evidence":"Unverified",
+ "category":"silver","period":"midcentury","market":[600,1000],"resale":[500,800],
+ "melt":{"metal":"sterling","net_g":[300,500],"basis":"5 assorted serving pieces at roughly 60-100 g each"},
+ "analysis":"Five assorted sterling serving pieces at $800-1,000 with eight photographs, so the marks should be readable. Roughly $450 to $745 of silver, which covers most of the low estimate. 'Assorted' means mixed makers and patterns, which is why it is cheap -- and for a buyer who wants usable sterling rather than a matched service, that is an advantage rather than a defect.","problems":"Weigh it and read the marks: if any piece turns out to be Tiffany, Gorham Martele or a similarly premium maker, the lot is worth considerably more than its metal. Check serving-piece tips for wear and the joins on any pierced pieces, which crack.","target":600,"ceiling":950,"patience":"High. Mixed sterling serving lots are a staple and reliably trade near metal.","star":true}
+]
