@@ -544,8 +544,14 @@ def screened_row(row, gid, label, thumb_src):
         perlabel=e(PER_LABEL.get(per, per)), grp=e(label))
 
 
-def thumb_data_uri(path, box=420, quality=58):
-    """420 px gives 2x for the 210 px display size without bloating the file."""
+def thumb_data_uri(path, box=250, quality=55):
+    """Sized for the 210 px desktop display, not 2x.
+
+    At 420 px the published page reached 15.6 MB with 684 full cards and would
+    have hit ~22 MB at full coverage -- unusable on a phone in a gallery, which
+    is the whole point of the deliverable. 250 px costs a little crispness on
+    retina and keeps the finished page under 10 MB.
+    """
     from PIL import Image
     with Image.open(ROOT / path) as im:
         im = im.convert("RGB")
