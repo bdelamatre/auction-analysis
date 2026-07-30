@@ -373,15 +373,17 @@ missing.
 
 - **Every lot has a verdict.** Nothing is "screened out" any more — the buyer asked for the
   whole sale evaluated, including the passes.
-- **357 lots assessed in full** (9 STRONG BUY, 71 BUY, 1 STRETCH-WORTHY, 86 BUY IF CHEAP,
-  24 CHECK FIRST, 166 PASS). Every one carries all nine required fields plus my market and
+- **684 lots assessed in full** (9 STRONG BUY, 116 BUY, 1 STRETCH-WORTHY, 173 BUY IF CHEAP,
+  32 CHECK FIRST, 353 PASS). Every one carries all nine required fields plus my market and
   resale estimates, and a melt/stones block where there is metal.
 - **Complete categories:** jewellery (95), watches and clocks (21), silver and gold (52),
-  marine and whaling (102). Nothing left to do in those four.
-- **1,143 lots still on a category-level PASS.** By category: paintings 516, decorative 191,
-  furniture 99, ceramics 82, textiles/rugs 52, sculpture 43, arms 39, books 37, prints 24,
-  toys 19, folk art 15, vehicles 11, glass 7, tools 7. The buyer wants all of them assessed
-  individually; work through it a category at a time and update this list.
+  marine and whaling (102, one stray left). Day 3's Maine artist section and all Day 1
+  paintings are also done.
+- **By day:** Day 1 231/502, Day 2 139/509, Day 3 314/489.
+- **816 lots still on a category-level PASS.** By category: paintings 192 (all Day 2 now),
+  decorative 190, furniture 99, ceramics 82, textiles/rugs 52, sculpture 43, arms 39, books 37,
+  prints 22, toys 19, folk art 15, vehicles 11, glass 7, tools 7. The buyer wants all of them
+  assessed individually; work through it a category at a time and update this list.
 - **Melt is worked out on every gold and silver piece** in the completed categories. Three
   lots are estimated below their own metal at the working gold price: **3198** (IWC 18K),
   **3200** (14K Omega De Ville) and **3069** (14K brooch, the only one in band).
@@ -394,6 +396,21 @@ missing.
   reviewed but not pursued (156), listed painters (118), Chinese/Asian decorative (112),
   fine jewellery and watches (98).
 - The old 1142–1161 gap is closed; those lots are triaged.
+
+### Cataloguing errors found so far
+
+Worth knowing because they show how much of this catalogue is not specialist work, and
+because two of them affect attribution directly:
+
+- **1112** dates John Manship 1977-2000 (he lived 1927-2000)
+- **1122** places William Meyerowitz in California (Massachusetts/New York)
+- **1424** gives Tony Bell's death year as a truncated "199"
+- **1455** catalogues a $400-500 lot as Walt Kuhn, a major Armory Show modernist — check, don't believe
+- **3002** reverses Jules Moigniez's dates as 1935-1894
+- **3425/3426 vs 3427/3428** give two irreconcilable identities for "Waldo Peirce"
+- **3451** places Don Stone in Iowa; **3443** misspells Sweden; **1022** misspells Hungary
+- **3477/3478/3479** give Andrew Wyeth's death year as 2019 (he died 2009)
+- **2358** attributes an "18th-century" painting to an artist who died in 1652
 
 ### Where the value landed
 
