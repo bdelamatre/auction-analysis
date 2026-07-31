@@ -559,7 +559,10 @@ def screened_row(row, gid, label, thumb_src):
         perlabel=e(PER_LABEL.get(per, per)), grp=e(label))
 
 
-def thumb_data_uri(path, box=250, quality=55):
+# Sized to keep the published artifact under the 16 MB ceiling. The recovered
+# catalogue descriptions cost about a megabyte of text, so the thumbnails give
+# a little back. The card thumb renders at ~112px, so 230 is still 2x.
+def thumb_data_uri(path, box=230, quality=48):
     """Sized for the 210 px desktop display, not 2x.
 
     At 420 px the published page reached 15.6 MB with 684 full cards and would
