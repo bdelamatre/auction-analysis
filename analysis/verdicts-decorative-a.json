@@ -1645,28 +1645,27 @@
  },
  {
   "lot": 1416,
-  "verdict": "PASS",
+  "verdict": "BUY IF CHEAP",
   "criteria": [
-   "maker",
    "maine"
   ],
   "date": "20th c.",
   "status": "modern",
-  "evidence": "Unverified",
+  "evidence": "Catalogued",
   "category": "painting",
   "period": "modern",
   "market": [
-   100,
-   300
+   200,
+   450
   ],
   "resale": [
-   70,
-   210
+   140,
+   310
   ],
-  "analysis": "A Coan oil of coastal houses, $250-350. A coastal subject with a single-name signature and no first name, dates or record -- the standing principle on unidentified signatures applies.",
-  "problems": "No first name, no dates, no dimensions. The coastal subject is the only appeal and there is a great deal of it in this sale.",
-  "target": 0,
-  "ceiling": 0,
+  "analysis": "The description names the subject and it is squarely on the Maine criterion: 'MAINE LOBSTERMAN'S HOME, oil on canvas. In whitewashed silver frame, signed lower right.' Not just a generic coastal scene -- a named Maine working subject, and a large canvas at 23 1/2 x 35 1/2 in. At $250-350 for a signed Maine oil of that size, inside the band, this is a reasonable wall picture even though the hand behind it is unidentified.",
+  "problems": "'Coan' is a surname with no first name, no dates and no auction record -- the standing principle on unidentified signatures applies and there is no maker premium here. Modern, so nothing on the age criterion; it earns its place on regional subject alone, which should be said plainly. A whitewashed silver frame is a decorator's choice and may want replacing. Deep supply: Maine lobstering subjects are the single most painted theme in the state.",
+  "target": 200,
+  "ceiling": 325,
   "patience": "Very high.",
   "star": false
  },

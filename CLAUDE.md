@@ -452,10 +452,16 @@ category-level calls remaining.**
 
 ### Blocks identified and treated as one decision
 
-- The **Wyeth block is closed.** All eleven lots 1162–1172 are accounted for and none is a signed
-  edition print. 1166/1167/1168/1170/1171 are each matted flush to the image with no margin,
-  no signature and no edition — a signed impression is never matted that way, because the pencil
-  signature in the margin is the entire value.
+- The **Wyeth block, 1162–1172**, with one correction. Ten of the eleven are reproductions:
+  1163 a giclée, 1164 a 1993 Aaron Ashley commercial print, 1169 three Helga portfolios, and
+  1166/1167/1168/1170/1171 each matted flush to the image with no margin, no signature and no
+  edition — a signed impression is never matted that way, because the pencil signature in the
+  margin is the entire value. **But 1172 is not one of them.** Its description names a process,
+  a year and an institutional publisher: *"Young Fisherman and Dory", 1966, **lithograph,
+  published by Farnsworth Art Museum, Rockland, Maine**.* That is a genuine edition lithograph
+  from the Wyeth museum fifteen minutes up Route 1. I had written that the cataloguer "reverted
+  to no description at all" — there was a description; I could not see it. Assume unsigned
+  unless the sheet says otherwise.
 - **Day 1 Chinese decorative, 1341–1445** — ~30 lots almost all estimated $300–400. The flat rate
   is the tell: a decorator's collection lotted at a default price, not valued individually.
 - **Day 2 rug consignment, 2172–2271** — thirty carpets, and **only 2268 carries a date**. The

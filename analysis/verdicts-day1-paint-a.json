@@ -966,30 +966,30 @@
  },
  {
   "lot": 1172,
-  "verdict": "PASS",
+  "verdict": "BUY IF CHEAP",
   "criteria": [
-   "maine",
-   "named"
+   "maker",
+   "maine"
   ],
-  "date": "20th c. reproduction likely",
+  "date": "1966",
   "status": "modern",
-  "evidence": "Unverified",
+  "evidence": "Catalogued",
   "category": "prints",
   "period": "contemporary",
   "market": [
-   70,
-   220
+   300,
+   700
   ],
   "resale": [
-   35,
-   150
+   210,
+   480
   ],
-  "analysis": "Wyeth at $300-500, immediately after the named-process block -- so the cataloguer had just finished describing giclees and portfolios and reverted to no description at all.",
-  "problems": "That reversion is itself informative. Four photographs. Same assumption.",
-  "target": 0,
-  "ceiling": 170,
-  "patience": "Irrelevant.",
-  "star": false
+  "analysis": "I got this one wrong, and the reason is instructive. My note read 'the cataloguer had just finished describing giclees and portfolios and reverted to no description at all' -- but there is a description, I simply could not see it, and it is the most specific in the entire Wyeth block: '\"Young Fisherman and Dory\", 1966, LITHOGRAPH, PUBLISHED BY FARNSWORTH ART MUSEUM, ROCKLAND, MAINE. In weathered wood frame, under museum glass.' A named process, a named year and a named institutional publisher -- and the Farnsworth is the Wyeth museum, fifteen minutes up Route 1 from the saleroom. That is a genuine edition lithograph issued by the institution most closely associated with the artist, not a decorative reproduction, and it is a different object from the giclee at 1163 or the 1993 Aaron Ashley print at 1164. A large sheet too, 20 x 32 in. Inside the band at $300-500.",
+  "problems": "No signature is mentioned, and museum-published editions were frequently issued unsigned or signed on a colophon rather than the sheet -- so do not assume a pencil signature and do not pay for one. That is the difference between a $300 print and a $1,500 one. 1966 puts it sixty years the wrong side of the antique line, so it earns its place on the Maine and maker criteria only. Check the sheet edges under the mat for a plate or blind stamp and for an edition number. 'Museum glass' is a good sign for condition but hides the margins.",
+  "target": 300,
+  "ceiling": 450,
+  "patience": "Moderate. Farnsworth-published Wyeth lithographs surface periodically in Maine sales; they are far less common than the open reproductions that make up the rest of this block.",
+  "star": true
  },
  {
   "lot": 1431,
