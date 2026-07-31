@@ -464,9 +464,15 @@ category-level calls remaining.**
   unless the sheet says otherwise.
 - **Day 1 Chinese decorative, 1341–1445** — ~30 lots almost all estimated $300–400. The flat rate
   is the tell: a decorator's collection lotted at a default price, not valued individually.
-- **Day 2 rug consignment, 2172–2271** — thirty carpets, and **only 2268 carries a date**. The
-  oriental rug market has fallen further than almost any decorative category since 2010; these
-  estimates are at or above it and nearly all are above band.
+- **Day 2 rug consignment, 2172–2271** — thirty-one carpets, and **not one description carries a
+  date**. (2268 is dated "early 20th c." in its *title* only.) That is worth sitting with: the
+  same cataloguer dates the paintings and furniture interleaved through the same lot range to the
+  year. The oriental rug market has fallen further than almost any decorative category since
+  2010; these estimates are at or above it and nearly all are above band.
+  The three **Day 1** Caucasian rugs are the exception and are all catalogued to the century in
+  their descriptions — **1378** (Karabagh, with an original 19th-c. tag verso), **1380** (Shirvan
+  kelim, last quarter 19th c., but with "extensive wear, tears, & holes") and **1475**
+  (Daghestan prayer rug, late 19th c., end loss and selvage damage).
 - **Studio pottery, 1135–1151** — nine lots, all post-war, gallery-priced.
 - **Riflescopes 1243–1265, Remington bullet knives 1245–1267 (six lots), RIAA awards 1323–1327,
   Irish pub fittings 3026/3029/3031, anonymous animal bronzes 1180/3018/3023/3173** — each one
