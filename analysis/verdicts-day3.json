@@ -1,8 +1,11 @@
 [
-{
+ {
   "lot": 3347,
   "verdict": "STRONG BUY",
-  "criteria": ["maine", "named"],
+  "criteria": [
+   "maine",
+   "named"
+  ],
   "date": "c.1930-1960",
   "status": "modern",
   "evidence": "Inferred",
@@ -13,11 +16,14 @@
   "patience": "Moderate. Berry woodblocks appear regularly at Maine sales, which is precisely why you should not overpay -- but signed, artist-printed impressions of named lighthouse subjects are the desirable end of his output.",
   "star": true,
   "sources": "Signature, title and 'imp' annotation read directly off the lot photographs."
-},
-{
+ },
+ {
   "lot": 3348,
   "verdict": "BUY",
-  "criteria": ["maine", "named"],
+  "criteria": [
+   "maine",
+   "named"
+  ],
   "date": "c.1930-1960",
   "status": "modern",
   "evidence": "Inferred",
@@ -27,11 +33,14 @@
   "ceiling": 380,
   "patience": "Moderate, and improved by having four chances in a row.",
   "star": true
-},
-{
+ },
+ {
   "lot": 3349,
   "verdict": "BUY",
-  "criteria": ["maine", "named"],
+  "criteria": [
+   "maine",
+   "named"
+  ],
   "date": "c.1930-1960",
   "status": "modern",
   "evidence": "Inferred",
@@ -41,11 +50,14 @@
   "ceiling": 380,
   "patience": "Moderate.",
   "star": false
-},
-{
+ },
+ {
   "lot": 3350,
   "verdict": "BUY",
-  "criteria": ["maine", "named"],
+  "criteria": [
+   "maine",
+   "named"
+  ],
   "date": "c.1930-1960",
   "status": "modern",
   "evidence": "Inferred",
@@ -55,11 +67,14 @@
   "ceiling": 420,
   "patience": "Moderate.",
   "star": true
-},
-{
+ },
+ {
   "lot": 3487,
   "verdict": "STRONG BUY",
-  "criteria": ["maine", "antique"],
+  "criteria": [
+   "maine",
+   "antique"
+  ],
   "date": "late 19th c.",
   "status": "antique",
   "evidence": "Catalogued",
@@ -69,11 +84,15 @@
   "ceiling": 420,
   "patience": "Moderate. Anonymous period Maine views are not rare, but they are consistently undervalued and this one is catalogued to the century.",
   "star": true
-},
-{
+ },
+ {
   "lot": 3380,
   "verdict": "BUY",
-  "criteria": ["maine", "named", "antique"],
+  "criteria": [
+   "maine",
+   "named",
+   "antique"
+  ],
   "date": "c.1875-1903",
   "status": "antique",
   "evidence": "Inferred",
@@ -83,11 +102,14 @@
   "ceiling": 800,
   "patience": "Low to moderate. Period Maine marine painters with dates this early are the scarce end of the regional market.",
   "star": true
-},
-{
+ },
+ {
   "lot": 3437,
   "verdict": "BUY",
-  "criteria": ["maine", "named"],
+  "criteria": [
+   "maine",
+   "named"
+  ],
   "date": "c.1900-1940",
   "status": "border",
   "evidence": "Inferred",
@@ -97,11 +119,14 @@
   "ceiling": 400,
   "patience": "Moderate.",
   "star": false
-},
-{
+ },
+ {
   "lot": 3345,
   "verdict": "BUY IF CHEAP",
-  "criteria": ["maine", "named"],
+  "criteria": [
+   "maine",
+   "named"
+  ],
   "date": "c.1880-1927",
   "status": "border",
   "evidence": "Inferred",
@@ -111,11 +136,14 @@
   "ceiling": 420,
   "patience": "Moderate.",
   "star": false
-},
-{
+ },
+ {
   "lot": 3397,
   "verdict": "BUY",
-  "criteria": ["maine", "named"],
+  "criteria": [
+   "maine",
+   "named"
+  ],
   "date": "late 20th c.",
   "status": "modern",
   "evidence": "Inferred",
@@ -125,11 +153,14 @@
   "ceiling": 300,
   "patience": "Moderate. Magee prints appear regularly at Maine sales.",
   "star": true
-},
-{
+ },
+ {
   "lot": 3398,
   "verdict": "BUY",
-  "criteria": ["maine", "named"],
+  "criteria": [
+   "maine",
+   "named"
+  ],
   "date": "late 20th c.",
   "status": "modern",
   "evidence": "Inferred",
@@ -139,11 +170,14 @@
   "ceiling": 400,
   "patience": "Moderate.",
   "star": false
-},
-{
+ },
+ {
   "lot": 3440,
   "verdict": "BUY",
-  "criteria": ["maine", "named"],
+  "criteria": [
+   "maine",
+   "named"
+  ],
   "date": "mid-to-late 20th c.",
   "status": "modern",
   "evidence": "Inferred",
@@ -153,11 +187,14 @@
   "ceiling": 650,
   "patience": "Moderate to high. Sisson appears at most Maine sales, which argues against stretching.",
   "star": true
-},
-{
+ },
+ {
   "lot": 3467,
   "verdict": "CHECK FIRST",
-  "criteria": ["maine", "named"],
+  "criteria": [
+   "maine",
+   "named"
+  ],
   "date": "c.1890-1940",
   "status": "border",
   "evidence": "Unverified",
@@ -167,11 +204,13 @@
   "ceiling": 400,
   "patience": "High. Woodbury attributions of this kind are common and rarely firm up.",
   "star": true
-},
-{
+ },
+ {
   "lot": 3448,
   "verdict": "BUY IF CHEAP",
-  "criteria": ["maine"],
+  "criteria": [
+   "maine"
+  ],
   "date": "mid-to-late 20th c.",
   "status": "modern",
   "evidence": "Inferred",
@@ -181,11 +220,14 @@
   "ceiling": 320,
   "patience": "High within Maine.",
   "star": false
-},
-{
+ },
+ {
   "lot": 3366,
   "verdict": "BUY IF CHEAP",
-  "criteria": ["maine", "named"],
+  "criteria": [
+   "maine",
+   "named"
+  ],
   "date": "c.1915-1934",
   "status": "border",
   "evidence": "Inferred",
@@ -195,11 +237,14 @@
   "ceiling": 330,
   "patience": "Moderate.",
   "star": false
-},
-{
+ },
+ {
   "lot": 3309,
   "verdict": "BUY IF CHEAP",
-  "criteria": ["maine", "named"],
+  "criteria": [
+   "maine",
+   "named"
+  ],
   "date": "late 20th c.",
   "status": "modern",
   "evidence": "Inferred",
@@ -209,11 +254,14 @@
   "ceiling": 600,
   "patience": "High. Maine studio pottery is well supplied.",
   "star": false
-},
-{
+ },
+ {
   "lot": 3038,
   "verdict": "BUY",
-  "criteria": ["maine", "antique"],
+  "criteria": [
+   "maine",
+   "antique"
+  ],
   "date": "early-to-mid 20th c.",
   "status": "border",
   "evidence": "Unverified",
@@ -223,11 +271,13 @@
   "ceiling": 650,
   "patience": "Moderate. Old Towns appear regularly in Maine but sound original ones at this money are the better end.",
   "star": true
-},
-{
+ },
+ {
   "lot": 3010,
   "verdict": "BUY",
-  "criteria": ["antique"],
+  "criteria": [
+   "antique"
+  ],
   "date": "late 19th to early 20th c.",
   "status": "border",
   "evidence": "Unverified",
@@ -237,11 +287,13 @@
   "ceiling": 500,
   "patience": "Low to moderate. Affordable trade signs are genuinely scarce -- the category has been strong for years and prices reflect it.",
   "star": true
-},
-{
+ },
+ {
   "lot": 3020,
   "verdict": "BUY IF CHEAP",
-  "criteria": ["antique"],
+  "criteria": [
+   "antique"
+  ],
   "date": "late 19th to early 20th c.",
   "status": "border",
   "evidence": "Unverified",
@@ -251,11 +303,14 @@
   "ceiling": 290,
   "patience": "Moderate.",
   "star": false
-},
-{
+ },
+ {
   "lot": 3009,
   "verdict": "CHECK FIRST",
-  "criteria": ["named", "antique"],
+  "criteria": [
+   "named",
+   "antique"
+  ],
   "date": "19th c. cast or later recast",
   "status": "border",
   "evidence": "Inferred",
@@ -265,11 +320,14 @@
   "ceiling": 700,
   "patience": "High for the recasts, which are everywhere. Low for genuine period casts -- but you must establish which you are looking at first.",
   "star": true
-},
-{
+ },
+ {
   "lot": 3002,
   "verdict": "CHECK FIRST",
-  "criteria": ["named", "antique"],
+  "criteria": [
+   "named",
+   "antique"
+  ],
   "date": "19th c. cast or later recast",
   "status": "border",
   "evidence": "Inferred",
@@ -279,11 +337,14 @@
   "ceiling": 600,
   "patience": "High.",
   "star": false
-},
-{
+ },
+ {
   "lot": 3015,
   "verdict": "CHECK FIRST",
-  "criteria": ["named", "antique"],
+  "criteria": [
+   "named",
+   "antique"
+  ],
   "date": "19th c. cast or later recast",
   "status": "border",
   "evidence": "Inferred",
@@ -293,11 +354,14 @@
   "ceiling": 600,
   "patience": "High.",
   "star": false
-},
-{
+ },
+ {
   "lot": 3220,
   "verdict": "BUY",
-  "criteria": ["metal", "named"],
+  "criteria": [
+   "metal",
+   "named"
+  ],
   "date": "20th c.",
   "status": "modern",
   "evidence": "Inferred",
@@ -307,25 +371,38 @@
   "ceiling": 620,
   "patience": "Moderate. Tiffany flatware appears regularly but rarely this cheap.",
   "star": true
-},
-{
+ },
+ {
   "lot": 3188,
-  "verdict": "BUY",
-  "criteria": ["metal"],
+  "verdict": "STRONG BUY",
+  "criteria": [
+   "metal"
+  ],
   "date": "20th c.",
   "status": "modern",
-  "evidence": "Inferred",
-  "analysis": "A 14K gold and amethyst gentleman's dress set at $300-400 is the cheapest gold lot in the entire sale by a wide margin -- the rest of the Day 3 jewellery runs from $500 to $18,000. Dress sets are unfashionable, which is the only reason this is cheap, and 14K is 58.5% gold at $75.23 a gram.",
-  "problems": "Weigh the gold and deduct the amethysts before calculating anything -- the stones have negligible value and stone weight in a dress set can be a third of the gross. A set with, say, 12 grams of net gold is about $900 of metal, which would make this a clear buy; a set with 4 grams is $300 and the estimate is fair rather than cheap. This is entirely a weighing exercise and one photograph is not enough to judge it. Confirm all pieces are present -- dress sets are studs plus links and incomplete sets are common.",
-  "target": 300,
-  "ceiling": 450,
+  "evidence": "Catalogued",
+  "analysis": "The catalogued weight turns this into the clearest metal-floor buy in the sale. A pair of cufflinks and three matching shirt studs, each an oval cabochon amethyst in a 14K yellow gold mount, all stamped, 7.2 dwt tw -- that is 11.2 g gross. Deducting generously for five cabochon amethysts leaves roughly 7.6-9.2 g of 14K, which at the brief's deliberately conservative $75.23 a gram is $572-692 of gold, or $497-602 after a refiner takes its 87%. The estimate is $300-400. Metal alone is worth more than the top estimate, and it is comfortably inside the band. Dress sets are deeply unfashionable, which is the only reason this is priced where it is -- and unfashionable-but-real is exactly what this collection is built to find.",
+  "problems": "Amethyst is quartz and worth almost nothing; do not let the stones do any work in the valuation. The deduction above is deliberately generous to the stones, so the real gold content is probably higher, not lower. Confirm all five pieces are stamped 14K rather than four gold and one replaced -- mismatched dress sets are common. Cufflink backs and stud posts are sometimes base metal even on a gold set; they are a small fraction of the weight but check. If it runs past $560 the metal argument is gone.",
+  "target": 400,
+  "ceiling": 560,
   "patience": "Moderate. Gold dress sets appear periodically and are consistently underbid.",
-  "star": true
-},
-{
+  "star": true,
+  "market": [
+   550,
+   850
+  ],
+  "resale": [
+   500,
+   650
+  ]
+ },
+ {
   "lot": 3211,
   "verdict": "BUY",
-  "criteria": ["metal", "antique"],
+  "criteria": [
+   "metal",
+   "antique"
+  ],
   "date": "mid-to-late 19th c.",
   "status": "antique",
   "evidence": "Inferred",
@@ -335,11 +412,14 @@
   "ceiling": 550,
   "patience": "Moderate. Victorian mourning jewellery is a steady category but 10K American examples are less common than British 9K and 15K.",
   "star": true
-},
-{
+ },
+ {
   "lot": 3181,
   "verdict": "BUY IF CHEAP",
-  "criteria": ["metal", "antique"],
+  "criteria": [
+   "metal",
+   "antique"
+  ],
   "date": "late 19th to early 20th c.",
   "status": "border",
   "evidence": "Unverified",
@@ -349,11 +429,13 @@
   "ceiling": 700,
   "patience": "Moderate.",
   "star": false
-},
-{
+ },
+ {
   "lot": 3096,
   "verdict": "PASS",
-  "criteria": ["named"],
+  "criteria": [
+   "named"
+  ],
   "date": "late 19th to early 20th c.",
   "status": "border",
   "evidence": "Inferred",
@@ -363,25 +445,39 @@
   "ceiling": 450,
   "patience": "High. Pocket watches are a deep market with continuous supply.",
   "star": false
-},
-{
+ },
+ {
   "lot": 3210,
-  "verdict": "BUY IF CHEAP",
-  "criteria": ["metal", "antique"],
+  "verdict": "BUY",
+  "criteria": [
+   "metal",
+   "antique"
+  ],
   "date": "late 19th to early 20th c.",
   "status": "border",
-  "evidence": "Unverified",
-  "analysis": "An antique 18K gold open-face pendant watch at $600-800. Unlike the gold-filled Howard two hundred lots earlier, this is solid 18K -- 75% gold at $96.45 a gram -- so there is a genuine metal floor underneath it.",
-  "problems": "Pendant watch cases are thin and the movement, crystal and dial are not gold, so the net gold weight is much less than the gross. A small pendant watch case might hold 8 to 12 grams of gold, roughly $770 to $1,160 -- which would make this good value, but the range is wide enough that weighing it is essential rather than optional. Check whether the movement runs; a dead movement in a gold case is a melt proposition.",
-  "target": 500,
-  "ceiling": 780,
+  "evidence": "Catalogued",
+  "analysis": "Now underpinned by a catalogued weight. An 18K open-face pendant watch with an unsigned manual movement, white enamel dial with Roman numerals, and a finely engraved guilloche case back with a monogram cartouche -- 13.7 dwt tw, which is 21.3 g gross. A pendant watch case is thin and the movement, dial and crystal are not gold, so deducting 45-65% for those leaves roughly 7.5-11.7 g of 18K: $719-1,129 of gold at the brief's working price, $626-982 after a refiner. Against a $600-800 estimate the metal is at or above the low end, and the watch runs. Inside the band with a real floor under it.",
+  "problems": "The movement is unsigned, so there is no horological name to add value -- this is a gold case with a watch in it, and it should be bought that way. Weigh the case separately at preview if the house will allow it, because the 45-65% deduction is the whole argument and it is my estimate, not theirs. Enamel dials chip at the winding hole and the edges; check under the bezel. 'Running at time of cataloging' is not the same as keeping time.",
+  "target": 600,
+  "ceiling": 800,
   "patience": "Moderate.",
-  "star": true
-},
-{
+  "star": true,
+  "market": [
+   700,
+   1100
+  ],
+  "resale": [
+   620,
+   900
+  ]
+ },
+ {
   "lot": 3241,
   "verdict": "BUY IF CHEAP",
-  "criteria": ["metal", "antique"],
+  "criteria": [
+   "metal",
+   "antique"
+  ],
   "date": "1850",
   "status": "antique",
   "evidence": "Catalogued",
@@ -391,11 +487,13 @@
   "ceiling": 650,
   "patience": "Moderate.",
   "star": false
-},
-{
+ },
+ {
   "lot": 3155,
   "verdict": "PASS",
-  "criteria": ["metal"],
+  "criteria": [
+   "metal"
+  ],
   "date": "20th c.",
   "status": "modern",
   "evidence": "Inferred",
@@ -405,11 +503,14 @@
   "ceiling": 400,
   "patience": "High.",
   "star": false
-},
-{
+ },
+ {
   "lot": 3077,
   "verdict": "BUY",
-  "criteria": ["metal", "named"],
+  "criteria": [
+   "metal",
+   "named"
+  ],
   "date": "c.1940-1960",
   "status": "modern",
   "evidence": "Inferred",
@@ -419,11 +520,14 @@
   "ceiling": 560,
   "patience": "Moderate. Spratling appears periodically and holds value well.",
   "star": true
-},
-{
+ },
+ {
   "lot": 3136,
   "verdict": "BUY",
-  "criteria": ["antique", "named"],
+  "criteria": [
+   "antique",
+   "named"
+  ],
   "date": "19th c.",
   "status": "antique",
   "evidence": "Catalogued",
@@ -433,11 +537,13 @@
   "ceiling": 420,
   "patience": "Moderate. American shelf and wall clocks are common but calendar models less so.",
   "star": true
-},
-{
+ },
+ {
   "lot": 3046,
   "verdict": "BUY IF CHEAP",
-  "criteria": ["antique"],
+  "criteria": [
+   "antique"
+  ],
   "date": "Victorian",
   "status": "antique",
   "evidence": "Catalogued",
@@ -447,11 +553,13 @@
   "ceiling": 500,
   "patience": "Moderate.",
   "star": false
-},
-{
+ },
+ {
   "lot": 3041,
   "verdict": "PASS",
-  "criteria": ["antique"],
+  "criteria": [
+   "antique"
+  ],
   "date": "c.1870",
   "status": "antique",
   "evidence": "Catalogued",
@@ -461,11 +569,14 @@
   "ceiling": 0,
   "patience": "Not applicable -- out of band.",
   "star": false
-},
-{
+ },
+ {
   "lot": 3049,
   "verdict": "PASS",
-  "criteria": ["nouveau", "named"],
+  "criteria": [
+   "nouveau",
+   "named"
+  ],
   "date": "c.1900-1920",
   "status": "antique",
   "evidence": "Inferred",
@@ -475,11 +586,14 @@
   "ceiling": 0,
   "patience": "Not applicable -- out of band.",
   "star": false
-},
-{
+ },
+ {
   "lot": 3351,
   "verdict": "PASS",
-  "criteria": ["maine", "named"],
+  "criteria": [
+   "maine",
+   "named"
+  ],
   "date": "c.1930-1970",
   "status": "modern",
   "evidence": "Inferred",
@@ -489,11 +603,13 @@
   "ceiling": 0,
   "patience": "Not applicable -- out of band.",
   "star": false
-},
-{
+ },
+ {
   "lot": 3126,
   "verdict": "PASS",
-  "criteria": ["nouveau"],
+  "criteria": [
+   "nouveau"
+  ],
   "date": "c.1900-1930",
   "status": "border",
   "evidence": "Inferred",
@@ -503,11 +619,14 @@
   "ceiling": 0,
   "patience": "Irrelevant.",
   "star": false
-},
-{
+ },
+ {
   "lot": 3303,
   "verdict": "BUY IF CHEAP",
-  "criteria": ["maine", "named"],
+  "criteria": [
+   "maine",
+   "named"
+  ],
   "date": "contemporary",
   "status": "modern",
   "evidence": "Inferred",
@@ -517,11 +636,14 @@
   "ceiling": 0,
   "patience": "Not applicable -- out of band.",
   "star": false
-},
-{
+ },
+ {
   "lot": 3305,
   "verdict": "BUY IF CHEAP",
-  "criteria": ["maine", "named"],
+  "criteria": [
+   "maine",
+   "named"
+  ],
   "date": "contemporary",
   "status": "modern",
   "evidence": "Inferred",
@@ -531,5 +653,5 @@
   "ceiling": 850,
   "patience": "Very high -- the artist is alive and working twenty minutes away.",
   "star": false
-}
+ }
 ]

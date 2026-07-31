@@ -12,6 +12,7 @@ Writes build/lots.json and build/titles-{day}.txt.
 """
 
 import csv
+import html
 import json
 import re
 from pathlib import Path
@@ -51,6 +52,28 @@ TAGS = {
     "print": r"print|litho|etching|engraving|woodblock|wood engraving|serigraph|giclee|gicl[eé]e|collotype|collograph|collagraph",
 }
 TAGS = {k: re.compile(v, re.I) for k, v in TAGS.items()}
+
+
+# The catalogue description lives in the lotDescriptionFields div of the saved
+# lot.html, one <div> per paragraph: body text, then usually a condition line,
+# then a dimensions line. meta.json's own "description" key is null for every
+# lot, so this is the only place the text survives on disk.
+DESC_BLOCK = re.compile(
+    r'<div id="lotDescriptionFields">(.*?)\n\s*</div>\s*\n\s*<aside', re.S
+)
+DIM_RE = re.compile(r"\b(?:height|width|length|size|os|ss|diam)\b[^|]*?\d", re.I)
+
+
+def description(lot_dir: Path) -> list:
+    """Return the catalogue description as a list of paragraphs, or []."""
+    path = lot_dir / "lot.html"
+    if not path.is_file():
+        return []
+    match = DESC_BLOCK.search(path.read_text(encoding="utf-8", errors="replace"))
+    if not match:
+        return []
+    text = html.unescape(re.sub(r"<[^>]+>", "\n", match.group(1)))
+    return [" ".join(line.split()) for line in text.split("\n") if line.strip()]
 
 
 def title_from_slug(slug: str) -> str:
@@ -97,12 +120,16 @@ def main() -> None:
                 ]
 
             raw_number = (meta.get("lot_number") or "").strip()
+            desc = description(meta_path.parent)
+            dims = [p for p in desc if DIM_RE.search(p)]
             lots.append(
                 {
                     "day": day,
                     "lot": int(raw_number) if raw_number.isdigit() else None,
                     "slug": slug,
                     "title": title,
+                    "desc": desc,
+                    "dims": dims[-1] if dims else None,
                     "est_low": meta.get("estimate_low"),
                     "est_high": meta.get("estimate_high"),
                     "current_bid": meta.get("current_bid"),

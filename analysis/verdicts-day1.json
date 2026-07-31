@@ -1,8 +1,10 @@
 [
-{
+ {
   "lot": 1017,
   "verdict": "CHECK FIRST",
-  "criteria": ["antique"],
+  "criteria": [
+   "antique"
+  ],
   "date": "c.1790-1820 or c.1900-1920",
   "status": "border",
   "evidence": "Unverified",
@@ -12,26 +14,32 @@
   "ceiling": 320,
   "patience": "High. Candlestands run at every Maine sale and a good period one turns up two or three times a year. Do not stretch on an unverified example when the next one is a month away.",
   "star": true
-},
-{
+ },
+ {
   "lot": 1033,
   "verdict": "BUY",
-  "criteria": ["nouveau", "metal", "antique"],
-  "date": "c.1900-1910",
+  "criteria": [
+   "nouveau",
+   "metal",
+   "antique"
+  ],
+  "date": "Early 20th c.",
   "status": "antique",
-  "evidence": "Inferred",
-  "analysis": "This is the real thing. The photographs show a genuine period Alvin silver overlay on green glass with a ginkgo-and-whiplash design, and the base carries an impressed pattern number reading V1084C alongside the remains of a sterling mark. The overlay is chased with fine engraved detail in the leaf fans rather than being flat cast, and the glass is full of small seed bubbles consistent with turn-of-the-century production. Alvin overlay is authentic American Art Nouveau -- criterion three, cleanly met, at a price the real French names never reach.",
-  "problems": "Height is still unresolved and it matters more than anything else here: the photographs are shot against seamless white with no scale reference, which is exactly how a small vase is made to look large. Twelve-to-fourteen inch examples ask well over $3,000; a four-and-a-half inch one is a couple of hundred. Measure it at preview before bidding. Also check the overlay edges for lifting and the glass beneath for hairlines.",
+  "evidence": "Catalogued",
+  "analysis": "This is the real thing, and the catalogue description now settles what the photographs could not. Thomaston describes an early-20th-century high-shouldered vase in cased green opalescent glass, POSSIBLY BY LOETZ, with Alvin silver overlay in a floral motif, marked at the base edge with the Alvin A and '999/1000 Fine, V10846'. Two things follow. The height is 8 in. -- the open question in the brief, now closed, and it is a desk-scale vase rather than the larger form the seamless-white photograph implied. And the overlay is marked 999/1000, which is fine silver rather than sterling; that is normal for Alvin overlay and it slightly raises the metal quality while leaving the quantity trivial. The Loetz suggestion is the catalogue's own and is worth taking seriously on a cased green opalescent body, though 'possibly' is the house declining to commit.",
+  "problems": "The height question is closed at 8 in.; what remains is the overlay's condition, which is where silver overlay lots are won and lost -- look for lifting at the edges of the floral work, grey polished-thin patches where a century of cleaning has worn the silver, and hairlines in the glass beneath the metal. 'Possibly by Loetz' is an attribution the house will not stand behind, so do not pay a Loetz premium for it. The silver content is a skin and has no meaningful melt floor whatever the fineness mark says.",
   "target": 300,
   "ceiling": 500,
   "patience": "Moderate. Alvin overlay appears a few times a year in New England, but examples with this quality of engraved detail and intact silver are less common than the plain scrollwork ones.",
   "star": true,
   "sources": "Height figures are from the prior session's research, not re-verified here."
-},
-{
+ },
+ {
   "lot": 1066,
   "verdict": "BUY IF CHEAP",
-  "criteria": ["metal"],
+  "criteria": [
+   "metal"
+  ],
   "date": "c.1940-1960",
   "status": "modern",
   "evidence": "Inferred",
@@ -41,39 +49,61 @@
   "ceiling": 190,
   "patience": "Very high. Sterling cases turn up constantly, often in job lots where they cost less than melt.",
   "star": false
-},
-{
+ },
+ {
   "lot": 1069,
-  "verdict": "CHECK FIRST",
-  "criteria": ["antique"],
-  "date": "1846 if original",
-  "status": "border",
+  "verdict": "BUY",
+  "criteria": [
+   "antique"
+  ],
+  "date": "1846",
+  "status": "antique",
   "evidence": "Catalogued",
-  "analysis": "Thomaston has committed to an 1846 N. Currier imprint, which is a claim you can hold the house to, and the Boston Tea Party is a desirable subject. The trouble is that the Currier images are the most reproduced in American printmaking -- calendar reissues, Travelers Insurance giveaways and 1930s facsimiles run into the millions, and many carry the original imprint line because it was part of the image being copied.",
-  "problems": "The whole verdict turns on process, and this is exactly what looking at the sheet settles. A period hand-coloured lithograph shows a continuous greasy tone with visible stone grain and watercolour sitting on the surface in uneven washes. A facsimile shows a regular dot rosette under magnification and colour that registers too perfectly. Take a loupe to the preview. Also check for trimmed margins, which kill the value of an original.",
-  "target": 150,
-  "ceiling": 260,
+  "analysis": "The description closes this one. Thomaston names it as 'The Destruction of Tea at Boston Harbor', a HAND COLORED LITHOGRAPH BY NATHANIEL CURRIER for Saxony & Major at 39 Nassau near Fulton Street, New York. That is a specific, checkable printing address, and it is the address Currier worked from in the 1840s -- exactly consistent with the catalogued 1846 date. A named lithographer, a named printer, a named street address and a hand-coloured stone lithograph is not the language used for a 20th-century facsimile. The open question in the brief about whether 1069 and 1070 are originals or later facsimiles is closed in favour of originals. An 1846 N. Currier small folio of the Boston Tea Party at $300-400 is a genuine 180-year-old American historical print inside the band.",
+  "problems": "Verify the imprint line on the sheet matches the catalogue's Saxony & Major attribution -- that is a two-minute check with the frame in hand and it is the whole basis of the date. Hand colouring fades and the paper will be toned; it is matted under glass so the margins and any foxing are hidden. Small folio is the modest end of the Currier market and the Tea Party is a common subject, so the ceiling is the ceiling.",
+  "target": 250,
+  "ceiling": 380,
   "patience": "High for the reproductions, low for genuine large-folio Curriers. Since you cannot yet tell which this is, price it as the common case.",
-  "star": true
-},
-{
+  "star": true,
+  "market": [
+   350,
+   700
+  ],
+  "resale": [
+   240,
+   480
+  ]
+ },
+ {
   "lot": 1070,
-  "verdict": "CHECK FIRST",
-  "criteria": ["antique"],
-  "date": "1867 if original",
-  "status": "border",
+  "verdict": "BUY",
+  "criteria": [
+   "antique"
+  ],
+  "date": "1867",
+  "status": "antique",
   "evidence": "Catalogued",
-  "analysis": "Same consignment logic as 1069 and the same test applies, but this one is catalogued as a large folio, which is where the genuine Currier & Ives money is. Harness racing was the firm's most commercially successful subject line and the large folios of trotting scenes are properly collected. If the sheet is right, the $800-1,200 estimate is not unreasonable and it will run past the budget.",
-  "problems": "Large folio is also the size most often reproduced, precisely because the originals are valuable. Beyond the dot test, check the margins for the full publication line and look at the paper edges for the soft deckle of period stock rather than a guillotined modern edge. Foxing and light-staining are usual and forgivable; trimming and backing are not.",
-  "target": 400,
-  "ceiling": 700,
+  "analysis": "Also closed by the description, and this is the better of the two. The catalogue gives the full title -- 'Ethan Allen And Mate and Dexter, in Their Wonderful Race Over the Fashion Course, L.I., June 21st, 1867' -- describes it as hand coloured, and supplies the historical context of a $2,000 match race. A large folio Currier & Ives trotting subject with the complete title line is the firm's most commercially successful category, and the specificity of the cataloguing argues for a period impression rather than one of the 20th-century calendar reproductions. $800-1,200 is at the top of the band but a genuine large folio harness racing print supports it.",
+  "problems": "The catalogue notes one noticeable spot in the sky and minor gilding loss to the frame; a spot in an open sky area is the worst place for it on a print like this and it is a real discount. Large folio is also the size most reproduced, so still put a loupe on the sheet for a dot rosette against continuous stone tone before bidding to the ceiling. Matted under glass, so the margins and the full publication line are hidden.",
+  "target": 575,
+  "ceiling": 850,
   "patience": "Moderate. Genuine large-folio trotting prints appear a few times a year, but rarely inside this budget unless condition is poor.",
-  "star": true
-},
-{
+  "star": true,
+  "market": [
+   700,
+   1600
+  ],
+  "resale": [
+   480,
+   1100
+  ]
+ },
+ {
   "lot": 1088,
   "verdict": "BUY IF CHEAP",
-  "criteria": ["antique"],
+  "criteria": [
+   "antique"
+  ],
   "date": "late 19th to early 20th c.",
   "status": "border",
   "evidence": "Unverified",
@@ -83,39 +113,62 @@
   "ceiling": 200,
   "patience": "High. Horological tool lots are a Thomaston staple and turn up several times a year.",
   "star": false
-},
-{
+ },
+ {
   "lot": 1110,
-  "verdict": "CHECK FIRST",
-  "criteria": ["maine", "named"],
-  "date": "c.1890-1930",
-  "status": "border",
-  "evidence": "Inferred",
-  "analysis": "Charles Herbert Woodbury founded the Ogunquit colony and is one of the names that anchors the Maine coastal market, so the interest is real. But the catalogue gives only the artist's name and dates, with no medium stated -- and with Woodbury the medium is the entire valuation. An oil is $3,000 and up and out of reach; a watercolour sits in the middle; an etching is $150-300 and squarely in band.",
-  "problems": "The estimate of $800-1,200 suggests the house thinks it is better than an etching, which argues against the cheap outcome. Establish the medium before you bid a dollar. If it turns out to be an etching, the estimate is wrong on the high side and the room may still chase it on the name.",
-  "target": 300,
-  "ceiling": 600,
+  "verdict": "PASS",
+  "criteria": [
+   "maine",
+   "named"
+  ],
+  "date": "c.1910-1940",
+  "status": "modern",
+  "evidence": "Catalogued",
+  "analysis": "Medium resolved, and it changes the picture. The catalogue calls it 'Crashing Whitecaps, OIL ON UPSON BOARD, signed lower right and marked \"Maine\"'. So it is an oil, not the etching that would have made it cheap -- and Upson board is a pressed wallboard first made in the 1900s-10s, which dates the painting to the second half of Woodbury's career and confirms it cannot be an early work. A signed Woodbury oil of a Maine subject, 19 1/2 x 29 1/2 in., is a $900-2,200 picture. The house's $800-1,200 estimate is if anything light. The open question in the brief is closed: it is an oil, and that puts it out of the band rather than into it.",
+  "problems": "Above the band once the medium is known -- an oil at this size will not stop at $1,000. The frame is catalogued as damaged gold gesso, which is a cost rather than a bonus. Upson board is dimensionally unstable and warps and delaminates with humidity; check the panel is flat and the paint film is not lifting along the board edges. Note 3467 is a second Woodbury question in this sale, catalogued only 'attributed to' at $300-400 -- that is the cheaper way in, and now the more interesting one.",
+  "target": 0,
+  "ceiling": 0,
   "patience": "Moderate for Woodbury generally, high for the etchings specifically -- those come up constantly and cheaply.",
-  "star": true
-},
-{
+  "star": true,
+  "market": [
+   900,
+   2200
+  ],
+  "resale": [
+   620,
+   1520
+  ]
+ },
+ {
   "lot": 1115,
-  "verdict": "BUY IF CHEAP",
-  "criteria": ["metal"],
-  "date": "c.1900-1935",
-  "status": "border",
-  "evidence": "Inferred",
-  "analysis": "The photographs settle the melt question well enough to act on. This is a five-piece cased set -- an open salt, a pepper caster, a lidded mustard and two spoons -- and every piece is small. A cobalt glass liner is clearly visible in the salt and the mustard almost certainly has its own under the lid. These are light Edwardian-to-George-V shapes, not Georgian weight.",
-  "problems": "Deduct both glass liners before you calculate anything: the gross catalogue weight on sets like this is routinely a third glass. Realistically the net silver sits at the bottom of the $93-to-$231 band the prior session sketched, so call it $150-185 of metal and $130-160 after a refiner's cut. The $300-500 estimate is well above that, which means you are paying for the case and the completeness, not the silver.",
-  "target": 160,
-  "ceiling": 240,
+  "verdict": "PASS",
+  "criteria": [
+   "metal"
+  ],
+  "date": "1931-1932",
+  "status": "modern",
+  "evidence": "Catalogued",
+  "analysis": "The description closes the weight question exactly and, in doing so, sinks the lot on age. This is a Cooper Brothers & Sons condiment set, Birmingham, 1931, with the two spoons hallmarked Sheffield 1932, and the catalogue states 6.14 ozt tw WITHOUT THE GLASS LINERS -- a stated net weight, which is unusually good practice. That is 191 g of sterling, about $285 of metal and $248 after a refiner. But 1931 is five years the wrong side of the antique line, so the age criterion fails outright on a catalogued date. I had inferred Edwardian-to-George-V from the photographs and put it in the border bucket; the hallmark says otherwise.",
+  "problems": "Post-1926 by the hallmark, so no age criterion. The metal is real but modest and a $300-500 estimate asks roughly $400-660 all-in against $248 of refiner value -- you are paying for a cased set, not for silver. Cased condiment sets in this pattern are abundant. The cobalt liners are original and intact, which is the one genuinely good thing here, and liners are what these always lose.",
+  "target": 0,
+  "ceiling": 0,
   "patience": "Very high. Cased condiment sets are a standing fixture of English silver consignments and frequently fail to sell.",
-  "star": false
-},
-{
+  "star": false,
+  "market": [
+   190,
+   320
+  ],
+  "resale": [
+   130,
+   220
+  ]
+ },
+ {
   "lot": 1121,
   "verdict": "PASS",
-  "criteria": ["metal"],
+  "criteria": [
+   "metal"
+  ],
   "date": "2000",
   "status": "modern",
   "evidence": "Catalogued",
@@ -125,11 +178,13 @@
   "ceiling": 140,
   "patience": "Irrelevant -- these are manufactured in quantity and available online continuously below melt.",
   "star": false
-},
-{
+ },
+ {
   "lot": 1164,
   "verdict": "PASS",
-  "criteria": ["maine"],
+  "criteria": [
+   "maine"
+  ],
   "date": "1993",
   "status": "modern",
   "evidence": "Catalogued",
@@ -140,11 +195,13 @@
   "patience": "Irrelevant -- Aaron Ashley Wyeth reproductions are common and cheap.",
   "star": true,
   "sources": "Read directly off the lot photographs: trademark banner in image 2, copyright line in image 3."
-},
-{
+ },
+ {
   "lot": 1163,
   "verdict": "PASS",
-  "criteria": ["maine"],
+  "criteria": [
+   "maine"
+  ],
   "date": "post-1990",
   "status": "modern",
   "evidence": "Catalogued",
@@ -154,11 +211,13 @@
   "ceiling": 80,
   "patience": "Irrelevant.",
   "star": false
-},
-{
+ },
+ {
   "lot": 1169,
   "verdict": "PASS",
-  "criteria": ["maine"],
+  "criteria": [
+   "maine"
+  ],
   "date": "1987",
   "status": "modern",
   "evidence": "Catalogued",
@@ -168,11 +227,13 @@
   "ceiling": 110,
   "patience": "Irrelevant -- continuously available.",
   "star": false
-},
-{
+ },
+ {
   "lot": 1165,
   "verdict": "PASS",
-  "criteria": ["maine"],
+  "criteria": [
+   "maine"
+  ],
   "date": "20th c., unstated",
   "status": "modern",
   "evidence": "Unverified",
@@ -182,11 +243,14 @@
   "ceiling": 110,
   "patience": "Irrelevant.",
   "star": false
-},
-{
+ },
+ {
   "lot": 1308,
   "verdict": "BUY",
-  "criteria": ["maine", "named"],
+  "criteria": [
+   "maine",
+   "named"
+  ],
   "date": "c.1930-1970",
   "status": "modern",
   "evidence": "Inferred",
@@ -196,11 +260,14 @@
   "ceiling": 450,
   "patience": "Moderate to high. Wengenroth turns up regularly at Maine sales, but a block of nine lets you be selective on subject and condition rather than taking what appears.",
   "star": true
-},
-{
+ },
+ {
   "lot": 1316,
   "verdict": "BUY",
-  "criteria": ["maine", "named"],
+  "criteria": [
+   "maine",
+   "named"
+  ],
   "date": "c.1930-1970",
   "status": "modern",
   "evidence": "Inferred",
@@ -210,11 +277,14 @@
   "ceiling": 475,
   "patience": "Moderate. The named coastal subjects are the ones that recur least often at this price.",
   "star": true
-},
-{
+ },
+ {
   "lot": 1284,
   "verdict": "BUY",
-  "criteria": ["maine", "antique"],
+  "criteria": [
+   "maine",
+   "antique"
+  ],
   "date": "late 19th to early 20th c.",
   "status": "border",
   "evidence": "Unverified",
@@ -224,22 +294,32 @@
   "ceiling": 550,
   "patience": "Low to moderate. Maine steamship broadsides are genuinely uncommon compared with the general run of nautical prints.",
   "star": true
-},
-{
+ },
+ {
   "lot": 1181,
-  "verdict": "CHECK FIRST",
-  "criteria": ["maine"],
-  "date": "c.1900-1940 typical",
+  "verdict": "BUY",
+  "criteria": [
+   "maine"
+  ],
+  "date": "c.1910-1950",
   "status": "border",
-  "evidence": "Unverified",
-  "analysis": "Two albums and a metal box of postcards is a lottery ticket whose value is entirely in the contents. Real-photo postcards of named midcoast towns -- Bath, Wiscasset, Waldoboro, Rockland waterfronts, shipyards, launchings -- sell $10 to $50 each, so a single album with fifty good Maine RPPCs justifies the whole estimate several times over. Two albums of European tourist views and printed greetings is a $60 lot.",
-  "problems": "The two photographs show the albums closed and the box shut, which tells you nothing. This is the single most preview-dependent lot in Day 1: you must open them. Real-photo cards have a matte photographic surface and a stamp box printed with AZO, VELOX or similar; printed cards show a dot screen under a loupe.",
-  "target": 200,
-  "ceiling": 450,
+  "evidence": "Catalogued",
+  "analysis": "The albums are described and the answer is good. Thomaston lists a metal cash box of primarily European cards and souvenir sets, PLUS two albums 'both including many Massachusetts, MAINE and New Hampshire views, one with a nice group of REAL PHOTO images', and -- the detail that matters -- one album with twelve cards of the OLD ORCHARD BEACH FIRE OF 1907 published by The Lakeside Press, Portland, and eleven of the San Francisco 1906 earthquake. That is Maine disaster real-photo material from a Portland publisher, which is a specific and collected niche, plus a New England real-photo run. The brief called this the most preview-dependent lot in Day 1; the catalogue has largely answered it, and favourably.",
+  "problems": "Still a lottery in the sense that nobody has counted the Maine cards or named the towns, and the bulk of the box is European souvenir sets, which are worth very little. The value concentrates in the real-photo album and the Old Orchard Beach group. Postcards in old albums are frequently stuck to the pages or hinged with corners that have bitten into the image; check whether cards can be removed. Open both albums at preview and count the Maine real photos -- that is still the number that decides it.",
+  "target": 400,
+  "ceiling": 575,
   "patience": "Moderate. Postcard lots are common but Maine-specific real-photo groupings are what you are actually hunting and those are not.",
-  "star": true
-},
-{
+  "star": true,
+  "market": [
+   500,
+   1100
+  ],
+  "resale": [
+   350,
+   760
+  ]
+ },
+ {
   "lot": 1131,
   "verdict": "PASS",
   "criteria": [],
@@ -252,11 +332,14 @@
   "ceiling": 130,
   "patience": "Very high.",
   "star": false
-},
-{
+ },
+ {
   "lot": 1129,
   "verdict": "CHECK FIRST",
-  "criteria": ["named", "antique"],
+  "criteria": [
+   "named",
+   "antique"
+  ],
   "date": "c.1910-1930",
   "status": "border",
   "evidence": "Inferred",
@@ -266,11 +349,13 @@
   "ceiling": 520,
   "patience": "Moderate.",
   "star": false
-},
-{
+ },
+ {
   "lot": 1098,
   "verdict": "CHECK FIRST",
-  "criteria": ["nouveau"],
+  "criteria": [
+   "nouveau"
+  ],
   "date": "c.1925-1935",
   "status": "modern",
   "evidence": "Inferred",
@@ -280,11 +365,15 @@
   "ceiling": 300,
   "patience": "Very high. Deco figures of this type run at every general sale.",
   "star": false
-},
-{
+ },
+ {
   "lot": 1344,
   "verdict": "BUY",
-  "criteria": ["metal", "antique", "named"],
+  "criteria": [
+   "metal",
+   "antique",
+   "named"
+  ],
   "date": "c.1830-1860",
   "status": "antique",
   "evidence": "Inferred",
@@ -294,11 +383,13 @@
   "ceiling": 420,
   "patience": "High. Coin silver spoons are a constant, though named-maker groups of twelve are less common than mixed lots.",
   "star": true
-},
-{
+ },
+ {
   "lot": 1023,
   "verdict": "BUY IF CHEAP",
-  "criteria": ["antique"],
+  "criteria": [
+   "antique"
+  ],
   "date": "19th c.",
   "status": "antique",
   "evidence": "Catalogued",
@@ -308,8 +399,8 @@
   "ceiling": 300,
   "patience": "High.",
   "star": false
-},
-{
+ },
+ {
   "lot": 1026,
   "verdict": "PASS",
   "criteria": [],
@@ -322,11 +413,13 @@
   "ceiling": 350,
   "patience": "Very high. Cane lots run at most sales.",
   "star": false
-},
-{
+ },
+ {
   "lot": 1109,
   "verdict": "BUY",
-  "criteria": ["antique"],
+  "criteria": [
+   "antique"
+  ],
   "date": "early 19th c.",
   "status": "antique",
   "evidence": "Catalogued",
@@ -336,11 +429,14 @@
   "ceiling": 380,
   "patience": "Low to moderate. Painted boxes with secret compartments are genuinely uncommon and this is the sort of thing that does not come round often at this money.",
   "star": true
-},
-{
+ },
+ {
   "lot": 1073,
   "verdict": "BUY",
-  "criteria": ["antique", "named"],
+  "criteria": [
+   "antique",
+   "named"
+  ],
   "date": "c.1860-1900",
   "status": "antique",
   "evidence": "Inferred",
@@ -350,11 +446,14 @@
   "ceiling": 560,
   "patience": "Moderate. They appear regularly in tool sales but rarely in general antique auctions where the tool crowd may not be watching.",
   "star": true
-},
-{
+ },
+ {
   "lot": 1085,
   "verdict": "BUY IF CHEAP",
-  "criteria": ["antique", "named"],
+  "criteria": [
+   "antique",
+   "named"
+  ],
   "date": "c.1890-1920",
   "status": "border",
   "evidence": "Inferred",
@@ -364,11 +463,14 @@
   "ceiling": 300,
   "patience": "High. Cased drafting sets are common; complete ones by the top makers less so.",
   "star": false
-},
-{
+ },
+ {
   "lot": 1132,
   "verdict": "BUY",
-  "criteria": ["maine", "antique"],
+  "criteria": [
+   "maine",
+   "antique"
+  ],
   "date": "c.1890",
   "status": "antique",
   "evidence": "Catalogued",
@@ -378,11 +480,13 @@
   "ceiling": 420,
   "patience": "Low. Named-town Maine fire regalia is genuinely uncommon and this is the honest case for going past comp.",
   "star": true
-},
-{
+ },
+ {
   "lot": 1086,
   "verdict": "BUY IF CHEAP",
-  "criteria": ["maine"],
+  "criteria": [
+   "maine"
+  ],
   "date": "unstated",
   "status": "border",
   "evidence": "Unverified",
@@ -392,11 +496,14 @@
   "ceiling": 300,
   "patience": "Moderate.",
   "star": false
-},
-{
+ },
+ {
   "lot": 1229,
   "verdict": "STRETCH-WORTHY",
-  "criteria": ["maine", "antique"],
+  "criteria": [
+   "maine",
+   "antique"
+  ],
   "date": "1863",
   "status": "antique",
   "evidence": "Catalogued",
@@ -406,11 +513,14 @@
   "ceiling": 1000,
   "patience": "Very low. Identified Maine regimental material with a Gettysburg association is genuinely rare and this is the sort of lot where going to the top of the band is defensible.",
   "star": true
-},
-{
+ },
+ {
   "lot": 1293,
   "verdict": "BUY",
-  "criteria": ["antique", "marine"],
+  "criteria": [
+   "antique",
+   "marine"
+  ],
   "date": "19th c.",
   "status": "antique",
   "evidence": "Catalogued",
@@ -420,11 +530,14 @@
   "ceiling": 560,
   "patience": "Moderate. Painted chests are common; documented shipwrights' chests with original surface less so.",
   "star": true
-},
-{
+ },
+ {
   "lot": 1282,
   "verdict": "CHECK FIRST",
-  "criteria": ["antique", "named"],
+  "criteria": [
+   "antique",
+   "named"
+  ],
   "date": "1731-1771 or later reissue",
   "status": "border",
   "evidence": "Inferred",
@@ -434,11 +547,14 @@
   "ceiling": 520,
   "patience": "Moderate. Individual Catesby plates surface regularly but genuine ones inside this budget are usually the less showy subjects.",
   "star": true
-},
-{
+ },
+ {
   "lot": 1332,
   "verdict": "CHECK FIRST",
-  "criteria": ["nouveau", "named"],
+  "criteria": [
+   "nouveau",
+   "named"
+  ],
   "date": "c.1895-1910",
   "status": "antique",
   "evidence": "Inferred",
@@ -448,11 +564,15 @@
   "ceiling": 850,
   "patience": "Low to moderate. Genuine period Nouveau posters are exactly what this buyer says they want and they do not appear often at Thomaston.",
   "star": true
-},
-{
+ },
+ {
   "lot": 1484,
   "verdict": "CHECK FIRST",
-  "criteria": ["maine", "named", "antique"],
+  "criteria": [
+   "maine",
+   "named",
+   "antique"
+  ],
   "date": "c.1860-1890 if a period wood engraving",
   "status": "border",
   "evidence": "Inferred",
@@ -462,11 +582,13 @@
   "ceiling": 900,
   "patience": "High for the engravings themselves, which are common and cheap individually. The reason to look is if this is a substantial group at one money.",
   "star": true
-},
-{
+ },
+ {
   "lot": 1006,
   "verdict": "BUY IF CHEAP",
-  "criteria": ["antique"],
+  "criteria": [
+   "antique"
+  ],
   "date": "c.1900",
   "status": "border",
   "evidence": "Catalogued",
@@ -476,11 +598,13 @@
   "ceiling": 380,
   "patience": "High. Iceboxes run constantly.",
   "star": false
-},
-{
+ },
+ {
   "lot": 1016,
   "verdict": "BUY",
-  "criteria": ["antique"],
+  "criteria": [
+   "antique"
+  ],
   "date": "19th c.",
   "status": "antique",
   "evidence": "Catalogued",
@@ -490,11 +614,13 @@
   "ceiling": 450,
   "patience": "Moderate. Genuine period cloches are less common than the market's supply of reproductions suggests.",
   "star": false
-},
-{
+ },
+ {
   "lot": 1155,
   "verdict": "BUY IF CHEAP",
-  "criteria": ["antique"],
+  "criteria": [
+   "antique"
+  ],
   "date": "19th c.",
   "status": "antique",
   "evidence": "Catalogued",
@@ -504,11 +630,14 @@
   "ceiling": 360,
   "patience": "High. Scent bottles are a standing category.",
   "star": false
-},
-{
+ },
+ {
   "lot": 1477,
   "verdict": "BUY",
-  "criteria": ["antique", "named"],
+  "criteria": [
+   "antique",
+   "named"
+  ],
   "date": "c.1790-1830",
   "status": "antique",
   "evidence": "Inferred",
@@ -518,11 +647,13 @@
   "ceiling": 400,
   "patience": "High. Antique maps are a deep and steady market with plenty of supply.",
   "star": false
-},
-{
+ },
+ {
   "lot": 1492,
   "verdict": "BUY",
-  "criteria": ["antique"],
+  "criteria": [
+   "antique"
+  ],
   "date": "c.1830",
   "status": "antique",
   "evidence": "Catalogued",
@@ -532,11 +663,14 @@
   "ceiling": 320,
   "patience": "Moderate. Manuscript cookbooks appear a few times a year and are usually cheap because nobody in the room can read them quickly.",
   "star": true
-},
-{
+ },
+ {
   "lot": 1486,
   "verdict": "BUY IF CHEAP",
-  "criteria": ["maine", "antique"],
+  "criteria": [
+   "maine",
+   "antique"
+  ],
   "date": "1862",
   "status": "antique",
   "evidence": "Catalogued",
@@ -546,11 +680,13 @@
   "ceiling": 300,
   "patience": "Moderate.",
   "star": false
-},
-{
+ },
+ {
   "lot": 1049,
   "verdict": "BUY IF CHEAP",
-  "criteria": ["antique"],
+  "criteria": [
+   "antique"
+  ],
   "date": "18th c.",
   "status": "antique",
   "evidence": "Catalogued",
@@ -560,11 +696,13 @@
   "ceiling": 220,
   "patience": "Very high.",
   "star": false
-},
-{
+ },
+ {
   "lot": 1177,
   "verdict": "BUY IF CHEAP",
-  "criteria": ["antique"],
+  "criteria": [
+   "antique"
+  ],
   "date": "c.1876",
   "status": "antique",
   "evidence": "Catalogued",
@@ -574,11 +712,14 @@
   "ceiling": 520,
   "patience": "Moderate.",
   "star": false
-},
-{
+ },
+ {
   "lot": 1212,
   "verdict": "BUY IF CHEAP",
-  "criteria": ["antique", "named"],
+  "criteria": [
+   "antique",
+   "named"
+  ],
   "date": "c.1860-1890",
   "status": "antique",
   "evidence": "Inferred",
@@ -588,8 +729,8 @@
   "ceiling": 500,
   "patience": "Moderate.",
   "star": false
-},
-{
+ },
+ {
   "lot": 1450,
   "verdict": "PASS",
   "criteria": [],
@@ -602,11 +743,13 @@
   "ceiling": 150,
   "patience": "Irrelevant.",
   "star": false
-},
-{
+ },
+ {
   "lot": 1467,
   "verdict": "PASS",
-  "criteria": ["named"],
+  "criteria": [
+   "named"
+  ],
   "date": "mid-20th c. reproduction",
   "status": "modern",
   "evidence": "Unverified",
@@ -616,8 +759,8 @@
   "ceiling": 200,
   "patience": "Irrelevant -- continuously available.",
   "star": false
-},
-{
+ },
+ {
   "lot": 1495,
   "verdict": "PASS",
   "criteria": [],
@@ -630,11 +773,13 @@
   "ceiling": 150,
   "patience": "Irrelevant.",
   "star": false
-},
-{
+ },
+ {
   "lot": 1010,
   "verdict": "PASS",
-  "criteria": ["nouveau"],
+  "criteria": [
+   "nouveau"
+  ],
   "date": "c.1925-1935",
   "status": "modern",
   "evidence": "Inferred",
@@ -644,5 +789,5 @@
   "ceiling": 150,
   "patience": "Irrelevant.",
   "star": false
-}
+ }
 ]

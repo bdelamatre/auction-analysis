@@ -1,151 +1,3056 @@
 {
-"_method": {
+ "_method": {
   "market": "My own estimate of what the lot would realistically fetch today in a retail or well-attended auction setting -- not the house estimate, which on this sale runs ahead of the market in several categories. A range, because condition questions are still open on most of these.",
   "resale": "What the buyer would actually NET if they had to let it go: regional auction hammer less a 20-25% seller's commission, or a refiner's 87% on melt-grade metal, or private/eBay net where that is the better route. This is the number the brief's real question turns on -- 'if I ever had to let it go, what do I lose?'",
-  "melt": "Weights are MY ESTIMATES from the form and the photographs. The scraped meta.json carries no weights and no descriptions, so not one figure here is a catalogued weight. Every one needs the scale at preview before it is treated as fact. Rates are the brief's deliberately conservative working spot; refiner net is 87%, the middle of the 85-90% band.",
+  "melt": "Weights on the 119 lots whose catalogue description states one are now the CATALOGUED weight, taken from the lot page and shown on the card. The catalogue weight is gross, so a deduction for stones, glass, enamel and liners is applied and named in the basis line -- that deduction is still my estimate. On every other precious-metal lot the weight remains my own estimate from the form and the photographs and needs the scale at preview. Rates are the brief's deliberately conservative working figures; a refiner pays about 87% of calculated melt.",
   "gems": "Secondary-market reality, not replacement value. Small melee diamonds, and coloured stones of this era that are routinely heat-treated or synthetic, recover very little on resale -- typically 10-30% of retail and often less. Where a stone is likely a doublet or composite it is called out."
-},
-"lots": [
-{"lot":1006,"category":"furniture","period":"victorian","market":[250,450],"resale":[150,300]},
-{"lot":1010,"category":"decorative","period":"deco","market":[120,220],"resale":[60,140],"melt":{"metal":"none","note":"No precious metal. Ivory content is a legal constraint, not a value."}},
-{"lot":1016,"category":"glass","period":"victorian","market":[250,450],"resale":[160,320]},
-{"lot":1017,"category":"furniture","period":"undetermined","market":[250,600],"resale":[150,420],"spread":"The range is the whole problem: period Federal at the top, Colonial Revival at the bottom, same object."},
-{"lot":1023,"category":"glass","period":"victorian","market":[200,350],"resale":[130,250],"melt":{"metal":"sterling","net_g":[8,15],"basis":"collar and cap only -- 'silver mounted' means a glass body"}},
-{"lot":1026,"category":"decorative","period":"victorian","market":[350,650],"resale":[220,450],"melt":{"metal":"gold_filled","note":"Gold-filled: a thin gold layer over base metal. No melt floor at all, whatever the title implies."}},
-{"lot":1033,"category":"glass","period":"nouveau","market":[400,900],"resale":[280,650],"melt":{"metal":"sterling","net_g":[15,25],"basis":"applied overlay only, very thin"},"spread":"Range is height-driven and height is still unmeasured. A 12-14in example is the top; 4.5in is the bottom."},
-{"lot":1049,"category":"decorative","period":"georgian","market":[120,250],"resale":[70,160]},
-{"lot":1066,"category":"silver","period":"midcentury","market":[150,260],"resale":[110,190],"melt":{"metal":"sterling","net_g":[93,150],"basis":"3-5 ozt case, less steel hinge and interior gilding"}},
-{"lot":1069,"category":"prints","period":"victorian","market":[100,500],"resale":[60,350],"spread":"Top of the range is a period 1846 N. Currier impression; bottom is a 20th-century facsimile. The loupe decides which."},
-{"lot":1070,"category":"prints","period":"victorian","market":[300,1200],"resale":[200,850],"spread":"Genuine large-folio trotting print at the top, facsimile at the bottom."},
-{"lot":1073,"category":"tools","period":"victorian","market":[350,650],"resale":[250,500]},
-{"lot":1085,"category":"tools","period":"edwardian","market":[150,320],"resale":[90,220]},
-{"lot":1086,"category":"folkart","period":"undetermined","market":[150,350],"resale":[90,250]},
-{"lot":1088,"category":"tools","period":"undetermined","market":[100,300],"resale":[60,200]},
-{"lot":1098,"category":"sculpture","period":"deco","market":[150,350],"resale":[90,240],"spread":"Bronze at the top, spelter at the bottom -- and spelter is the likelier case."},
-{"lot":1109,"category":"furniture","period":"federal","market":[250,500],"resale":[160,360]},
-{"lot":1110,"category":"painting","period":"edwardian","market":[200,3000],"resale":[130,2100],"spread":"Etching at $200, watercolour in the middle, oil at $3,000. The medium is unstated and it is the entire valuation."},
-{"lot":1115,"category":"silver","period":"edwardian","market":[200,320],"resale":[140,240],"melt":{"metal":"sterling","net_g":[85,130],"basis":"5 small pieces less two cobalt glass liners, confirmed present in the photographs"}},
-{"lot":1121,"category":"silver","period":"contemporary","market":[150,220],"resale":[130,180],"melt":{"metal":"fine_silver","net_g":[113,113],"refiner":0.80,"basis":"quarter pound avoirdupois = 113 g; gilt surface, so a refiner discounts below the usual 87%"}},
-{"lot":1129,"category":"sculpture","period":"deco","market":[250,550],"resale":[160,400]},
-{"lot":1131,"category":"sculpture","period":"deco","market":[60,130],"resale":[30,90],"melt":{"metal":"none","note":"Thin metal shell over a composition core. No metal value worth calculating."}},
-{"lot":1132,"category":"folkart","period":"victorian","market":[250,500],"resale":[150,350]},
-{"lot":1155,"category":"glass","period":"victorian","market":[200,380],"resale":[130,270]},
-{"lot":1163,"category":"prints","period":"contemporary","market":[40,90],"resale":[15,50]},
-{"lot":1164,"category":"prints","period":"contemporary","market":[50,110],"resale":[20,70],"spread":"A 1993 Aaron Ashley commercial reproduction. The frame and glass may be the more valuable half of the lot."},
-{"lot":1165,"category":"prints","period":"contemporary","market":[60,140],"resale":[25,90]},
-{"lot":1169,"category":"books","period":"contemporary","market":[90,300],"resale":[50,200]},
-{"lot":1177,"category":"toys","period":"victorian","market":[300,700],"resale":[180,500]},
-{"lot":1181,"category":"books","period":"edwardian","market":[150,800],"resale":[100,600],"spread":"Top of the range assumes a good run of midcoast Maine real-photo cards at $10-50 each. Bottom assumes European tourist views."},
-{"lot":1212,"category":"decorative","period":"victorian","market":[250,500],"resale":[150,350]},
-{"lot":1229,"category":"arms","period":"victorian","market":[800,2000],"resale":[550,1500]},
-{"lot":1282,"category":"prints","period":"georgian","market":[200,700],"resale":[130,500],"spread":"Period 18th-century plate at the top; 1974 Beehive facsimile at the bottom."},
-{"lot":1284,"category":"prints","period":"edwardian","market":[250,700],"resale":[160,500]},
-{"lot":1293,"category":"marine","period":"victorian","market":[350,700],"resale":[220,500]},
-{"lot":1308,"category":"prints","period":"midcentury","market":[250,550],"resale":[160,400]},
-{"lot":1316,"category":"prints","period":"midcentury","market":[300,600],"resale":[200,450]},
-{"lot":1332,"category":"prints","period":"nouveau","market":[400,1500],"resale":[260,1100],"spread":"Period stone lithographs at the top, 1970s poster-revival reprints at the bottom."},
-{"lot":1344,"category":"silver","period":"federal","market":[250,450],"resale":[180,330],"melt":{"metal":"coin","net_g":[170,215],"basis":"12 teaspoons at roughly 14-18 g each"}},
-{"lot":1450,"category":"painting","period":"midcentury","market":[80,200],"resale":[40,130]},
-{"lot":1467,"category":"prints","period":"midcentury","market":[80,250],"resale":[40,170]},
-{"lot":1477,"category":"books","period":"georgian","market":[220,420],"resale":[150,300]},
-{"lot":1484,"category":"prints","period":"victorian","market":[300,1200],"resale":[200,850],"spread":"Range reflects whether this is one Harper's wood engraving or a substantial group of them."},
-{"lot":1486,"category":"books","period":"victorian","market":[150,320],"resale":[90,220]},
-{"lot":1492,"category":"books","period":"federal","market":[180,400],"resale":[110,280]},
-{"lot":1495,"category":"prints","period":"deco","market":[100,250],"resale":[50,160]},
-
-{"lot":2004,"category":"marine","period":"victorian","market":[1500,3500],"resale":[1000,2600]},
-{"lot":2026,"category":"folkart","period":"victorian","market":[2500,6000],"resale":[1700,4500]},
-{"lot":2042,"category":"tools","period":"victorian","market":[280,550],"resale":[180,400]},
-{"lot":2055,"category":"books","period":"federal","market":[400,800],"resale":[250,580]},
-{"lot":2068,"category":"marine","period":"georgian","market":[350,700],"resale":[220,500]},
-{"lot":2071,"category":"marine","period":"victorian","market":[250,500],"resale":[160,360]},
-{"lot":2072,"category":"marine","period":"victorian","market":[220,420],"resale":[140,300]},
-{"lot":2075,"category":"marine","period":"victorian","market":[150,320],"resale":[90,220]},
-{"lot":2081,"category":"marine","period":"victorian","market":[280,550],"resale":[180,400]},
-{"lot":2082,"category":"tools","period":"victorian","market":[400,800],"resale":[260,580],"spread":"Complete cased set at the top; missing scope or shades takes it to the bottom."},
-{"lot":2085,"category":"tools","period":"victorian","market":[200,420],"resale":[120,300]},
-{"lot":2093,"category":"marine","period":"edwardian","market":[500,1000],"resale":[320,720]},
-{"lot":2095,"category":"books","period":"federal","market":[450,900],"resale":[300,650]},
-{"lot":2102,"category":"books","period":"federal","market":[350,700],"resale":[220,500]},
-{"lot":2107,"category":"books","period":"federal","market":[200,400],"resale":[130,280]},
-{"lot":2118,"category":"ceramics","period":"federal","market":[450,900],"resale":[300,650]},
-{"lot":2122,"category":"furniture","period":"georgian","market":[450,900],"resale":[300,650]},
-{"lot":2123,"category":"folkart","period":"victorian","market":[280,550],"resale":[180,400]},
-{"lot":2127,"category":"furniture","period":"georgian","market":[300,650],"resale":[200,470]},
-{"lot":2128,"category":"folkart","period":"victorian","market":[200,420],"resale":[120,300]},
-{"lot":2130,"category":"decorative","period":"undetermined","market":[120,280],"resale":[70,190]},
-{"lot":2133,"category":"textiles","period":"victorian","market":[250,500],"resale":[150,360]},
-{"lot":2139,"category":"furniture","period":"victorian","market":[350,750],"resale":[220,540]},
-{"lot":2154,"category":"furniture","period":"georgian","market":[450,900],"resale":[300,650]},
-{"lot":2157,"category":"silver","period":"victorian","market":[250,450],"resale":[180,330],"melt":{"metal":"coin","net_g":[170,215],"basis":"12 teaspoons at roughly 14-18 g each"}},
-{"lot":2158,"category":"silver","period":"federal","market":[300,500],"resale":[200,360],"melt":{"metal":"coin","net_g":[65,110],"basis":"single ladle; sauce size at the bottom, soup or punch size at the top"}},
-{"lot":2159,"category":"silver","period":"federal","market":[280,480],"resale":[190,350],"melt":{"metal":"coin","net_g":[70,90],"basis":"6 c.1800 teaspoons, lighter than later examples at roughly 12-15 g each"}},
-{"lot":2243,"category":"books","period":"pre1700","market":[450,900],"resale":[300,650]},
-{"lot":2279,"category":"decorative","period":"georgian","market":[180,350],"resale":[110,250],"melt":{"metal":"none","note":"Pewter. No meaningful melt value -- bought as period tableware."}},
-{"lot":2286,"category":"silver","period":"georgian","market":[150,280],"resale":[100,200],"melt":{"metal":"sterling","net_g":[55,95],"basis":"skewer, 2-3 ozt"}},
-{"lot":2288,"category":"furniture","period":"georgian","market":[400,800],"resale":[260,580]},
-{"lot":2295,"category":"furniture","period":"pre1700","market":[500,1000],"resale":[320,720]},
-{"lot":2300,"category":"silver","period":"georgian","market":[700,1100],"resale":[500,800],"melt":{"metal":"sterling","net_g":[311,435],"basis":"pint baluster mug, 10-14 ozt. This is the one lot in the sale where the melt floor sits close under the house's low estimate rather than far below it -- which is the whole argument for it."}},
-{"lot":2302,"category":"furniture","period":"pre1700","market":[400,800],"resale":[260,580]},
-{"lot":2311,"category":"decorative","period":"georgian","market":[250,450],"resale":[150,320],"melt":{"metal":"none","note":"Pewter -- no melt floor."}},
-{"lot":2312,"category":"furniture","period":"georgian","market":[300,600],"resale":[190,430]},
-{"lot":2313,"category":"decorative","period":"victorian","market":[350,650],"resale":[220,470],"melt":{"metal":"none","note":"Pewter -- no melt floor."}},
-{"lot":2320,"category":"silver","period":"victorian","market":[280,420],"resale":[200,310],"melt":{"metal":"sterling","net_g":[175,205],"basis":"12 teaspoons at roughly 15-17 g each"}},
-{"lot":2321,"category":"prints","period":"victorian","market":[300,600],"resale":[190,430]},
-{"lot":2323,"category":"silver","period":"victorian","market":[180,300],"resale":[130,220],"melt":{"metal":"sterling","net_g":[110,135],"basis":"8 teaspoons at roughly 14-17 g each"}},
-{"lot":2324,"category":"furniture","period":"pre1700","market":[350,1200],"resale":[220,850],"spread":"The estimate is the house telling you what its specialists actually think. Genuine 16th-century at the top; heavily restored or much later at the bottom."},
-{"lot":2326,"category":"prints","period":"georgian","market":[220,450],"resale":[140,320]},
-{"lot":2360,"category":"decorative","period":"victorian","market":[180,320],"resale":[100,220],"melt":{"metal":"sterling","net_g":[10,20],"basis":"mounts only"}},
-
-{"lot":3002,"category":"sculpture","period":"victorian","market":[350,800],"resale":[220,580],"spread":"Period sand cast at the top; 20th-century recast at the bottom, and the recast is the likelier case."},
-{"lot":3009,"category":"sculpture","period":"victorian","market":[400,1000],"resale":[260,720],"spread":"Period cast at the top; posthumous recast at the bottom."},
-{"lot":3010,"category":"folkart","period":"undetermined","market":[300,700],"resale":[190,500]},
-{"lot":3015,"category":"sculpture","period":"victorian","market":[300,900],"resale":[190,650],"spread":"Bonheur's sculptural output is small and much that carries her name is a later cast or an outright reproduction."},
-{"lot":3020,"category":"ceramics","period":"victorian","market":[180,320],"resale":[110,220]},
-{"lot":3038,"category":"vehicles","period":"edwardian","market":[400,900],"resale":[250,650]},
-{"lot":3041,"category":"furniture","period":"victorian","market":[1200,2500],"resale":[800,1800]},
-{"lot":3046,"category":"sculpture","period":"victorian","market":[300,600],"resale":[190,430]},
-{"lot":3049,"category":"glass","period":"nouveau","market":[20000,40000],"resale":[15000,32000]},
-{"lot":3077,"category":"silver","period":"midcentury","market":[450,900],"resale":[300,650],"melt":{"metal":"sterling","net_g":[50,110],"basis":"silver mounts and lid only -- the rosewood body is not metal"}},
-{"lot":3096,"category":"watches","period":"victorian","market":[350,650],"resale":[220,470],"melt":{"metal":"gold_filled","note":"Gold-FILLED, not gold. No melt floor. What you are buying is the movement grade."}},
-{"lot":3126,"category":"sculpture","period":"deco","market":[600,1400],"resale":[350,950],"spread":"Resale is depressed well below market by the ivory content -- interstate sale is restricted and the documentation will not come with the lot."},
-{"lot":3136,"category":"watches","period":"victorian","market":[280,500],"resale":[180,360]},
-{"lot":3155,"category":"jewellery","period":"midcentury","market":[350,600],"resale":[260,400],
-  "melt":{"metal":"gold_14k","net_g":[3,5],"basis":"ring shank and head, stones deducted"},
-  "gems":{"resale":[30,90],"note":"Opal is a strong candidate for a doublet or composite at this price -- look for a flat join line at the girdle, which would take the stone to near-nil. Small melee diamonds recover perhaps $20-60 on the secondary market. The estimate assumes the stones carry real value; they very likely do not."}},
-{"lot":3181,"category":"jewellery","period":"edwardian","market":[500,800],"resale":[350,620],
-  "melt":{"metal":"gold_10k","net_g":[6,9],"basis":"brooch body; 10K is only 41.7% gold"},
-  "gems":{"resale":[0,0],"note":"No stones. Enamel has no recoverable value and is expensive to restore properly."}},
-{"lot":3188,"category":"jewellery","period":"midcentury","market":[600,950],"resale":[550,750],
-  "melt":{"metal":"gold_14k","net_g":[8,12],"basis":"studs plus links, amethysts deducted"},
-  "gems":{"resale":[20,50],"note":"Amethyst is abundant and cheap -- essentially no secondary value. The whole case here is the gold, and on my weight estimate the melt alone exceeds the house's high estimate."}},
-{"lot":3210,"category":"watches","period":"edwardian","market":[700,1100],"resale":[700,900],
-  "melt":{"metal":"gold_18k","net_g":[8,12],"basis":"case only -- movement, dial and crystal are not gold"},
-  "gems":{"resale":[0,0],"note":"No stones."}},
-{"lot":3211,"category":"jewellery","period":"victorian","market":[350,550],"resale":[260,420],
-  "melt":{"metal":"gold_10k","net_g":[5,8],"basis":"brooch body less the glazed hair compartment"},
-  "gems":{"resale":[0,0],"note":"No stones. The hair work under glass is historical interest, not value, and is ruined if moisture has got in."}},
-{"lot":3220,"category":"silver","period":"nouveau","market":[450,750],"resale":[330,560],"melt":{"metal":"sterling","net_g":[200,320],"basis":"4 serving pieces at roughly 50-80 g each"}},
-{"lot":3241,"category":"jewellery","period":"victorian","market":[400,700],"resale":[300,550],
-  "melt":{"metal":"gold_10k","net_g":[8,12],"basis":"KARAT UNCONFIRMED. Costed at 10K as the conservative case; Victorian 'gold' without a karat mark is often 9K or lower, and can be gold-filled. If it proves 14K the melt rises by about 40%."},
-  "gems":{"resale":[0,0],"note":"Mother-of-pearl only -- decorative, no recoverable value."}},
-{"lot":3303,"category":"painting","period":"contemporary","market":[1500,2500],"resale":[700,1500],"spread":"Living local artist: resale is well below market because the work can be bought from the studio."},
-{"lot":3305,"category":"painting","period":"contemporary","market":[700,1000],"resale":[350,700]},
-{"lot":3309,"category":"ceramics","period":"contemporary","market":[350,700],"resale":[200,500]},
-{"lot":3345,"category":"painting","period":"edwardian","market":[250,500],"resale":[150,360]},
-{"lot":3347,"category":"prints","period":"midcentury","market":[300,600],"resale":[200,450],"spread":"Signed and artist-printed ('imp') puts it at the top of Berry's range; the foxing pulls it back toward the middle."},
-{"lot":3348,"category":"prints","period":"midcentury","market":[250,500],"resale":[160,370]},
-{"lot":3349,"category":"prints","period":"midcentury","market":[250,500],"resale":[160,370]},
-{"lot":3350,"category":"prints","period":"midcentury","market":[280,550],"resale":[180,400]},
-{"lot":3351,"category":"painting","period":"midcentury","market":[10000,16000],"resale":[7000,12000]},
-{"lot":3366,"category":"painting","period":"deco","market":[200,400],"resale":[120,280]},
-{"lot":3380,"category":"painting","period":"victorian","market":[500,1000],"resale":[320,720]},
-{"lot":3397,"category":"prints","period":"contemporary","market":[180,350],"resale":[110,250]},
-{"lot":3398,"category":"prints","period":"contemporary","market":[250,450],"resale":[150,320]},
-{"lot":3437,"category":"painting","period":"deco","market":[250,450],"resale":[150,320]},
-{"lot":3440,"category":"painting","period":"midcentury","market":[400,800],"resale":[250,580]},
-{"lot":3448,"category":"painting","period":"midcentury","market":[180,400],"resale":[100,280]},
-{"lot":3467,"category":"painting","period":"edwardian","market":[250,500],"resale":[150,360],"spread":"Priced as the anonymous period coastal work it currently is. A firmed-up Woodbury attribution would be a different object entirely."},
-{"lot":3487,"category":"painting","period":"victorian","market":[280,500],"resale":[180,360]}
-]
+ },
+ "lots": [
+  {
+   "lot": 1006,
+   "category": "furniture",
+   "period": "victorian",
+   "market": [
+    250,
+    450
+   ],
+   "resale": [
+    150,
+    300
+   ]
+  },
+  {
+   "lot": 1010,
+   "category": "decorative",
+   "period": "deco",
+   "market": [
+    120,
+    220
+   ],
+   "resale": [
+    60,
+    140
+   ],
+   "melt": {
+    "metal": "none",
+    "note": "No precious metal. Ivory content is a legal constraint, not a value."
+   }
+  },
+  {
+   "lot": 1016,
+   "category": "glass",
+   "period": "victorian",
+   "market": [
+    250,
+    450
+   ],
+   "resale": [
+    160,
+    320
+   ]
+  },
+  {
+   "lot": 1017,
+   "category": "furniture",
+   "period": "undetermined",
+   "market": [
+    250,
+    600
+   ],
+   "resale": [
+    150,
+    420
+   ],
+   "spread": "The range is the whole problem: period Federal at the top, Colonial Revival at the bottom, same object."
+  },
+  {
+   "lot": 1023,
+   "category": "glass",
+   "period": "victorian",
+   "market": [
+    200,
+    350
+   ],
+   "resale": [
+    130,
+    250
+   ],
+   "melt": {
+    "metal": "sterling",
+    "net_g": [
+     8,
+     15
+    ],
+    "basis": "collar and cap only -- 'silver mounted' means a glass body"
+   }
+  },
+  {
+   "lot": 1026,
+   "category": "decorative",
+   "period": "victorian",
+   "market": [
+    350,
+    650
+   ],
+   "resale": [
+    220,
+    450
+   ],
+   "melt": {
+    "metal": "gold_filled",
+    "note": "Gold-filled: a thin gold layer over base metal. No melt floor at all, whatever the title implies."
+   }
+  },
+  {
+   "lot": 1033,
+   "category": "glass",
+   "period": "nouveau",
+   "market": [
+    400,
+    900
+   ],
+   "resale": [
+    280,
+    650
+   ],
+   "melt": {
+    "metal": "sterling",
+    "net_g": [
+     15,
+     25
+    ],
+    "basis": "applied overlay only, very thin"
+   },
+   "spread": "Range is height-driven and height is still unmeasured. A 12-14in example is the top; 4.5in is the bottom."
+  },
+  {
+   "lot": 1049,
+   "category": "decorative",
+   "period": "georgian",
+   "market": [
+    120,
+    250
+   ],
+   "resale": [
+    70,
+    160
+   ]
+  },
+  {
+   "lot": 1066,
+   "category": "silver",
+   "period": "midcentury",
+   "market": [
+    150,
+    260
+   ],
+   "resale": [
+    110,
+    190
+   ],
+   "melt": {
+    "metal": "sterling",
+    "net_g": [
+     111.9,
+     115.4
+    ],
+    "basis": "Catalogued weight 3.71 ozt = 115 g gross; solid metal, only findings and solder deducted."
+   }
+  },
+  {
+   "lot": 1069,
+   "category": "prints",
+   "period": "victorian",
+   "market": [
+    100,
+    500
+   ],
+   "resale": [
+    60,
+    350
+   ],
+   "spread": "Top of the range is a period 1846 N. Currier impression; bottom is a 20th-century facsimile. The loupe decides which."
+  },
+  {
+   "lot": 1070,
+   "category": "prints",
+   "period": "victorian",
+   "market": [
+    300,
+    1200
+   ],
+   "resale": [
+    200,
+    850
+   ],
+   "spread": "Genuine large-folio trotting print at the top, facsimile at the bottom."
+  },
+  {
+   "lot": 1073,
+   "category": "tools",
+   "period": "victorian",
+   "market": [
+    350,
+    650
+   ],
+   "resale": [
+    250,
+    500
+   ]
+  },
+  {
+   "lot": 1085,
+   "category": "tools",
+   "period": "edwardian",
+   "market": [
+    150,
+    320
+   ],
+   "resale": [
+    90,
+    220
+   ]
+  },
+  {
+   "lot": 1086,
+   "category": "folkart",
+   "period": "undetermined",
+   "market": [
+    150,
+    350
+   ],
+   "resale": [
+    90,
+    250
+   ]
+  },
+  {
+   "lot": 1088,
+   "category": "tools",
+   "period": "undetermined",
+   "market": [
+    100,
+    300
+   ],
+   "resale": [
+    60,
+    200
+   ]
+  },
+  {
+   "lot": 1098,
+   "category": "sculpture",
+   "period": "deco",
+   "market": [
+    150,
+    350
+   ],
+   "resale": [
+    90,
+    240
+   ],
+   "spread": "Bronze at the top, spelter at the bottom -- and spelter is the likelier case."
+  },
+  {
+   "lot": 1109,
+   "category": "furniture",
+   "period": "federal",
+   "market": [
+    250,
+    500
+   ],
+   "resale": [
+    160,
+    360
+   ]
+  },
+  {
+   "lot": 1110,
+   "category": "painting",
+   "period": "edwardian",
+   "market": [
+    200,
+    3000
+   ],
+   "resale": [
+    130,
+    2100
+   ],
+   "spread": "Etching at $200, watercolour in the middle, oil at $3,000. The medium is unstated and it is the entire valuation."
+  },
+  {
+   "lot": 1115,
+   "category": "silver",
+   "period": "edwardian",
+   "market": [
+    200,
+    320
+   ],
+   "resale": [
+    140,
+    240
+   ],
+   "melt": {
+    "metal": "sterling",
+    "net_g": [
+     191.0,
+     191.0
+    ],
+    "basis": "Catalogued weight 6.14 ozt = 191 g gross; catalogue states the weight net of the non-metal part."
+   }
+  },
+  {
+   "lot": 1121,
+   "category": "silver",
+   "period": "contemporary",
+   "market": [
+    150,
+    220
+   ],
+   "resale": [
+    130,
+    180
+   ],
+   "melt": {
+    "metal": "fine_silver",
+    "net_g": [
+     120.7,
+     124.4
+    ],
+    "basis": "Catalogued weight 4.0 ozt = 124 g gross; solid metal, only findings and solder deducted."
+   }
+  },
+  {
+   "lot": 1129,
+   "category": "sculpture",
+   "period": "deco",
+   "market": [
+    250,
+    550
+   ],
+   "resale": [
+    160,
+    400
+   ]
+  },
+  {
+   "lot": 1131,
+   "category": "sculpture",
+   "period": "deco",
+   "market": [
+    60,
+    130
+   ],
+   "resale": [
+    30,
+    90
+   ],
+   "melt": {
+    "metal": "none",
+    "note": "Thin metal shell over a composition core. No metal value worth calculating."
+   }
+  },
+  {
+   "lot": 1132,
+   "category": "folkart",
+   "period": "victorian",
+   "market": [
+    250,
+    500
+   ],
+   "resale": [
+    150,
+    350
+   ]
+  },
+  {
+   "lot": 1155,
+   "category": "glass",
+   "period": "victorian",
+   "market": [
+    200,
+    380
+   ],
+   "resale": [
+    130,
+    270
+   ]
+  },
+  {
+   "lot": 1163,
+   "category": "prints",
+   "period": "contemporary",
+   "market": [
+    40,
+    90
+   ],
+   "resale": [
+    15,
+    50
+   ]
+  },
+  {
+   "lot": 1164,
+   "category": "prints",
+   "period": "contemporary",
+   "market": [
+    50,
+    110
+   ],
+   "resale": [
+    20,
+    70
+   ],
+   "spread": "A 1993 Aaron Ashley commercial reproduction. The frame and glass may be the more valuable half of the lot."
+  },
+  {
+   "lot": 1165,
+   "category": "prints",
+   "period": "contemporary",
+   "market": [
+    60,
+    140
+   ],
+   "resale": [
+    25,
+    90
+   ]
+  },
+  {
+   "lot": 1169,
+   "category": "books",
+   "period": "contemporary",
+   "market": [
+    90,
+    300
+   ],
+   "resale": [
+    50,
+    200
+   ]
+  },
+  {
+   "lot": 1177,
+   "category": "toys",
+   "period": "victorian",
+   "market": [
+    300,
+    700
+   ],
+   "resale": [
+    180,
+    500
+   ]
+  },
+  {
+   "lot": 1181,
+   "category": "books",
+   "period": "edwardian",
+   "market": [
+    150,
+    800
+   ],
+   "resale": [
+    100,
+    600
+   ],
+   "spread": "Top of the range assumes a good run of midcoast Maine real-photo cards at $10-50 each. Bottom assumes European tourist views."
+  },
+  {
+   "lot": 1212,
+   "category": "decorative",
+   "period": "victorian",
+   "market": [
+    250,
+    500
+   ],
+   "resale": [
+    150,
+    350
+   ]
+  },
+  {
+   "lot": 1229,
+   "category": "arms",
+   "period": "victorian",
+   "market": [
+    800,
+    2000
+   ],
+   "resale": [
+    550,
+    1500
+   ]
+  },
+  {
+   "lot": 1282,
+   "category": "prints",
+   "period": "georgian",
+   "market": [
+    200,
+    700
+   ],
+   "resale": [
+    130,
+    500
+   ],
+   "spread": "Period 18th-century plate at the top; 1974 Beehive facsimile at the bottom."
+  },
+  {
+   "lot": 1284,
+   "category": "prints",
+   "period": "edwardian",
+   "market": [
+    250,
+    700
+   ],
+   "resale": [
+    160,
+    500
+   ]
+  },
+  {
+   "lot": 1293,
+   "category": "marine",
+   "period": "victorian",
+   "market": [
+    350,
+    700
+   ],
+   "resale": [
+    220,
+    500
+   ]
+  },
+  {
+   "lot": 1308,
+   "category": "prints",
+   "period": "midcentury",
+   "market": [
+    250,
+    550
+   ],
+   "resale": [
+    160,
+    400
+   ]
+  },
+  {
+   "lot": 1316,
+   "category": "prints",
+   "period": "midcentury",
+   "market": [
+    300,
+    600
+   ],
+   "resale": [
+    200,
+    450
+   ]
+  },
+  {
+   "lot": 1332,
+   "category": "prints",
+   "period": "nouveau",
+   "market": [
+    400,
+    1500
+   ],
+   "resale": [
+    260,
+    1100
+   ],
+   "spread": "Period stone lithographs at the top, 1970s poster-revival reprints at the bottom."
+  },
+  {
+   "lot": 1344,
+   "category": "silver",
+   "period": "federal",
+   "market": [
+    250,
+    450
+   ],
+   "resale": [
+    180,
+    330
+   ],
+   "melt": {
+    "metal": "coin",
+    "net_g": [
+     244.1,
+     251.6
+    ],
+    "basis": "Catalogued weight 8.09 ozt = 252 g gross; solid metal, only findings and solder deducted."
+   }
+  },
+  {
+   "lot": 1450,
+   "category": "painting",
+   "period": "midcentury",
+   "market": [
+    80,
+    200
+   ],
+   "resale": [
+    40,
+    130
+   ]
+  },
+  {
+   "lot": 1467,
+   "category": "prints",
+   "period": "midcentury",
+   "market": [
+    80,
+    250
+   ],
+   "resale": [
+    40,
+    170
+   ]
+  },
+  {
+   "lot": 1477,
+   "category": "books",
+   "period": "georgian",
+   "market": [
+    220,
+    420
+   ],
+   "resale": [
+    150,
+    300
+   ]
+  },
+  {
+   "lot": 1484,
+   "category": "prints",
+   "period": "victorian",
+   "market": [
+    300,
+    1200
+   ],
+   "resale": [
+    200,
+    850
+   ],
+   "spread": "Range reflects whether this is one Harper's wood engraving or a substantial group of them."
+  },
+  {
+   "lot": 1486,
+   "category": "books",
+   "period": "victorian",
+   "market": [
+    150,
+    320
+   ],
+   "resale": [
+    90,
+    220
+   ]
+  },
+  {
+   "lot": 1492,
+   "category": "books",
+   "period": "federal",
+   "market": [
+    180,
+    400
+   ],
+   "resale": [
+    110,
+    280
+   ]
+  },
+  {
+   "lot": 1495,
+   "category": "prints",
+   "period": "deco",
+   "market": [
+    100,
+    250
+   ],
+   "resale": [
+    50,
+    160
+   ]
+  },
+  {
+   "lot": 2004,
+   "category": "marine",
+   "period": "victorian",
+   "market": [
+    1500,
+    3500
+   ],
+   "resale": [
+    1000,
+    2600
+   ]
+  },
+  {
+   "lot": 2026,
+   "category": "folkart",
+   "period": "victorian",
+   "market": [
+    2500,
+    6000
+   ],
+   "resale": [
+    1700,
+    4500
+   ]
+  },
+  {
+   "lot": 2042,
+   "category": "tools",
+   "period": "victorian",
+   "market": [
+    280,
+    550
+   ],
+   "resale": [
+    180,
+    400
+   ]
+  },
+  {
+   "lot": 2055,
+   "category": "books",
+   "period": "federal",
+   "market": [
+    400,
+    800
+   ],
+   "resale": [
+    250,
+    580
+   ]
+  },
+  {
+   "lot": 2068,
+   "category": "marine",
+   "period": "georgian",
+   "market": [
+    350,
+    700
+   ],
+   "resale": [
+    220,
+    500
+   ]
+  },
+  {
+   "lot": 2071,
+   "category": "marine",
+   "period": "victorian",
+   "market": [
+    250,
+    500
+   ],
+   "resale": [
+    160,
+    360
+   ]
+  },
+  {
+   "lot": 2072,
+   "category": "marine",
+   "period": "victorian",
+   "market": [
+    220,
+    420
+   ],
+   "resale": [
+    140,
+    300
+   ]
+  },
+  {
+   "lot": 2075,
+   "category": "marine",
+   "period": "victorian",
+   "market": [
+    150,
+    320
+   ],
+   "resale": [
+    90,
+    220
+   ]
+  },
+  {
+   "lot": 2081,
+   "category": "marine",
+   "period": "victorian",
+   "market": [
+    280,
+    550
+   ],
+   "resale": [
+    180,
+    400
+   ]
+  },
+  {
+   "lot": 2082,
+   "category": "tools",
+   "period": "victorian",
+   "market": [
+    400,
+    800
+   ],
+   "resale": [
+    260,
+    580
+   ],
+   "spread": "Complete cased set at the top; missing scope or shades takes it to the bottom."
+  },
+  {
+   "lot": 2085,
+   "category": "tools",
+   "period": "victorian",
+   "market": [
+    200,
+    420
+   ],
+   "resale": [
+    120,
+    300
+   ]
+  },
+  {
+   "lot": 2093,
+   "category": "marine",
+   "period": "edwardian",
+   "market": [
+    500,
+    1000
+   ],
+   "resale": [
+    320,
+    720
+   ]
+  },
+  {
+   "lot": 2095,
+   "category": "books",
+   "period": "federal",
+   "market": [
+    450,
+    900
+   ],
+   "resale": [
+    300,
+    650
+   ]
+  },
+  {
+   "lot": 2100,
+   "melt": {
+    "metal": "sterling",
+    "net_g": [
+     57.3,
+     90.0
+    ],
+    "basis": "Catalogued weight 5.26 ozt = 164 g gross; case silver only; movement, dial and glass deducted."
+   }
+  },
+  {
+   "lot": 2102,
+   "category": "books",
+   "period": "federal",
+   "market": [
+    350,
+    700
+   ],
+   "resale": [
+    220,
+    500
+   ]
+  },
+  {
+   "lot": 2107,
+   "category": "books",
+   "period": "federal",
+   "market": [
+    200,
+    400
+   ],
+   "resale": [
+    130,
+    280
+   ]
+  },
+  {
+   "lot": 2118,
+   "category": "ceramics",
+   "period": "federal",
+   "market": [
+    450,
+    900
+   ],
+   "resale": [
+    300,
+    650
+   ]
+  },
+  {
+   "lot": 2122,
+   "category": "furniture",
+   "period": "georgian",
+   "market": [
+    450,
+    900
+   ],
+   "resale": [
+    300,
+    650
+   ]
+  },
+  {
+   "lot": 2123,
+   "category": "folkart",
+   "period": "victorian",
+   "market": [
+    280,
+    550
+   ],
+   "resale": [
+    180,
+    400
+   ]
+  },
+  {
+   "lot": 2127,
+   "category": "furniture",
+   "period": "georgian",
+   "market": [
+    300,
+    650
+   ],
+   "resale": [
+    200,
+    470
+   ]
+  },
+  {
+   "lot": 2128,
+   "category": "folkart",
+   "period": "victorian",
+   "market": [
+    200,
+    420
+   ],
+   "resale": [
+    120,
+    300
+   ]
+  },
+  {
+   "lot": 2130,
+   "category": "decorative",
+   "period": "undetermined",
+   "market": [
+    120,
+    280
+   ],
+   "resale": [
+    70,
+    190
+   ]
+  },
+  {
+   "lot": 2133,
+   "category": "textiles",
+   "period": "victorian",
+   "market": [
+    250,
+    500
+   ],
+   "resale": [
+    150,
+    360
+   ]
+  },
+  {
+   "lot": 2139,
+   "category": "furniture",
+   "period": "victorian",
+   "market": [
+    350,
+    750
+   ],
+   "resale": [
+    220,
+    540
+   ]
+  },
+  {
+   "lot": 2154,
+   "category": "furniture",
+   "period": "georgian",
+   "market": [
+    450,
+    900
+   ],
+   "resale": [
+    300,
+    650
+   ]
+  },
+  {
+   "lot": 2157,
+   "category": "silver",
+   "period": "victorian",
+   "market": [
+    250,
+    450
+   ],
+   "resale": [
+    180,
+    330
+   ],
+   "melt": {
+    "metal": "coin",
+    "net_g": [
+     213.3,
+     219.9
+    ],
+    "basis": "Catalogued weight 7.07 ozt = 220 g gross; solid metal, only findings and solder deducted."
+   }
+  },
+  {
+   "lot": 2158,
+   "category": "silver",
+   "period": "federal",
+   "market": [
+    300,
+    500
+   ],
+   "resale": [
+    200,
+    360
+   ],
+   "melt": {
+    "metal": "coin",
+    "net_g": [
+     164.4,
+     169.5
+    ],
+    "basis": "Catalogued weight 5.45 ozt = 170 g gross; solid metal, only findings and solder deducted."
+   }
+  },
+  {
+   "lot": 2159,
+   "category": "silver",
+   "period": "federal",
+   "market": [
+    280,
+    480
+   ],
+   "resale": [
+    190,
+    350
+   ],
+   "melt": {
+    "metal": "coin",
+    "net_g": [
+     78.1,
+     80.6
+    ],
+    "basis": "Catalogued weight 2.59 ozt = 81 g gross; solid metal, only findings and solder deducted."
+   }
+  },
+  {
+   "lot": 2160,
+   "melt": {
+    "metal": "none",
+    "net_g": [
+     82.1,
+     82.1
+    ],
+    "basis": "Catalogued weight 2.64 ozt = 82 g gross; gross as catalogued."
+   }
+  },
+  {
+   "lot": 2243,
+   "category": "books",
+   "period": "pre1700",
+   "market": [
+    450,
+    900
+   ],
+   "resale": [
+    300,
+    650
+   ]
+  },
+  {
+   "lot": 2279,
+   "category": "decorative",
+   "period": "georgian",
+   "market": [
+    180,
+    350
+   ],
+   "resale": [
+    110,
+    250
+   ],
+   "melt": {
+    "metal": "none",
+    "note": "Pewter. No meaningful melt value -- bought as period tableware."
+   }
+  },
+  {
+   "lot": 2281,
+   "melt": {
+    "metal": "sterling",
+    "net_g": [
+     2064.0,
+     2064.0
+    ],
+    "basis": "Catalogued weight 16.59 ozt each x 4 = 2064 g gross; catalogue states the weight net of the non-metal part."
+   }
+  },
+  {
+   "lot": 2286,
+   "category": "silver",
+   "period": "georgian",
+   "market": [
+    150,
+    280
+   ],
+   "resale": [
+    100,
+    200
+   ],
+   "melt": {
+    "metal": "sterling",
+    "net_g": [
+     15.7,
+     16.2
+    ],
+    "basis": "Catalogued weight 0.52 ozt = 16 g gross; solid metal, only findings and solder deducted."
+   }
+  },
+  {
+   "lot": 2288,
+   "category": "furniture",
+   "period": "georgian",
+   "market": [
+    400,
+    800
+   ],
+   "resale": [
+    260,
+    580
+   ]
+  },
+  {
+   "lot": 2292,
+   "melt": {
+    "metal": "sterling",
+    "net_g": [
+     850.2,
+     876.5
+    ],
+    "basis": "Catalogued weight 28.18 ozt = 876 g gross; solid metal, only findings and solder deducted."
+   }
+  },
+  {
+   "lot": 2295,
+   "category": "furniture",
+   "period": "pre1700",
+   "market": [
+    500,
+    1000
+   ],
+   "resale": [
+    320,
+    720
+   ]
+  },
+  {
+   "lot": 2300,
+   "category": "silver",
+   "period": "georgian",
+   "market": [
+    700,
+    1100
+   ],
+   "resale": [
+    500,
+    800
+   ],
+   "melt": {
+    "metal": "sterling",
+    "net_g": [
+     297.5,
+     306.7
+    ],
+    "basis": "Catalogued weight 9.86 ozt = 307 g gross; solid metal, only findings and solder deducted."
+   }
+  },
+  {
+   "lot": 2302,
+   "category": "furniture",
+   "period": "pre1700",
+   "market": [
+    400,
+    800
+   ],
+   "resale": [
+    260,
+    580
+   ]
+  },
+  {
+   "lot": 2308,
+   "melt": {
+    "metal": "sterling",
+    "net_g": [
+     202.4,
+     208.7
+    ],
+    "basis": "Catalogued weight 6.71 ozt = 209 g gross; solid metal, only findings and solder deducted."
+   }
+  },
+  {
+   "lot": 2311,
+   "category": "decorative",
+   "period": "georgian",
+   "market": [
+    250,
+    450
+   ],
+   "resale": [
+    150,
+    320
+   ],
+   "melt": {
+    "metal": "none",
+    "note": "Pewter -- no melt floor."
+   }
+  },
+  {
+   "lot": 2312,
+   "category": "furniture",
+   "period": "georgian",
+   "market": [
+    300,
+    600
+   ],
+   "resale": [
+    190,
+    430
+   ]
+  },
+  {
+   "lot": 2313,
+   "category": "decorative",
+   "period": "victorian",
+   "market": [
+    350,
+    650
+   ],
+   "resale": [
+    220,
+    470
+   ],
+   "melt": {
+    "metal": "none",
+    "note": "Pewter -- no melt floor."
+   }
+  },
+  {
+   "lot": 2320,
+   "category": "silver",
+   "period": "victorian",
+   "market": [
+    280,
+    420
+   ],
+   "resale": [
+    200,
+    310
+   ],
+   "melt": {
+    "metal": "sterling",
+    "net_g": [
+     158.1,
+     163.0
+    ],
+    "basis": "Catalogued weight 5.24 ozt = 163 g gross; solid metal, only findings and solder deducted."
+   }
+  },
+  {
+   "lot": 2321,
+   "category": "prints",
+   "period": "victorian",
+   "market": [
+    300,
+    600
+   ],
+   "resale": [
+    190,
+    430
+   ]
+  },
+  {
+   "lot": 2323,
+   "category": "silver",
+   "period": "victorian",
+   "market": [
+    180,
+    300
+   ],
+   "resale": [
+    130,
+    220
+   ],
+   "melt": {
+    "metal": "sterling",
+    "net_g": [
+     119.2,
+     122.9
+    ],
+    "basis": "Catalogued weight 3.95 ozt = 123 g gross; solid metal, only findings and solder deducted."
+   }
+  },
+  {
+   "lot": 2324,
+   "category": "furniture",
+   "period": "pre1700",
+   "market": [
+    350,
+    1200
+   ],
+   "resale": [
+    220,
+    850
+   ],
+   "spread": "The estimate is the house telling you what its specialists actually think. Genuine 16th-century at the top; heavily restored or much later at the bottom."
+  },
+  {
+   "lot": 2325,
+   "melt": {
+    "metal": "sterling",
+    "net_g": [
+     111.0,
+     114.5
+    ],
+    "basis": "Catalogued weight 3.68 ozt = 114 g gross; solid metal, only findings and solder deducted."
+   }
+  },
+  {
+   "lot": 2326,
+   "category": "prints",
+   "period": "georgian",
+   "market": [
+    220,
+    450
+   ],
+   "resale": [
+    140,
+    320
+   ]
+  },
+  {
+   "lot": 2360,
+   "category": "decorative",
+   "period": "victorian",
+   "market": [
+    180,
+    320
+   ],
+   "resale": [
+    100,
+    220
+   ],
+   "melt": {
+    "metal": "sterling",
+    "net_g": [
+     10,
+     20
+    ],
+    "basis": "mounts only"
+   }
+  },
+  {
+   "lot": 2435,
+   "melt": {
+    "metal": "sterling",
+    "net_g": [
+     275.8,
+     284.3
+    ],
+    "basis": "Catalogued weight 9.14 ozt = 284 g gross; solid metal, only findings and solder deducted."
+   }
+  },
+  {
+   "lot": 2453,
+   "melt": {
+    "metal": "sterling",
+    "net_g": [
+     126.5,
+     153.6
+    ],
+    "basis": "Catalogued weight 5.81 ozt = 181 g gross; heavy applied stone, glass and enamel deducted."
+   }
+  },
+  {
+   "lot": 2454,
+   "melt": {
+    "metal": "sterling",
+    "net_g": [
+     40.1,
+     63.0
+    ],
+    "basis": "Catalogued weight 3.68 ozt = 114 g gross; case silver only; movement, dial and glass deducted."
+   }
+  },
+  {
+   "lot": 2455,
+   "melt": {
+    "metal": "sterling",
+    "net_g": [
+     201.6,
+     244.8
+    ],
+    "basis": "Catalogued weight 9.26 ozt = 288 g gross; heavy applied stone, glass and enamel deducted."
+   }
+  },
+  {
+   "lot": 2456,
+   "melt": {
+    "metal": "sterling",
+    "net_g": [
+     132.4,
+     208.0
+    ],
+    "basis": "Catalogued weight 12.16 ozt = 378 g gross; case silver only; movement, dial and glass deducted."
+   }
+  },
+  {
+   "lot": 2457,
+   "melt": {
+    "metal": "sterling",
+    "net_g": [
+     538.2,
+     653.5
+    ],
+    "basis": "Catalogued weight 24.72 ozt = 769 g gross; heavy applied stone, glass and enamel deducted."
+   }
+  },
+  {
+   "lot": 2458,
+   "melt": {
+    "metal": "sterling",
+    "net_g": [
+     131.5,
+     135.6
+    ],
+    "basis": "Catalogued weight 4.36 ozt = 136 g gross; solid metal, only findings and solder deducted."
+   }
+  },
+  {
+   "lot": 2459,
+   "melt": {
+    "metal": "sterling",
+    "net_g": [
+     127.2,
+     154.4
+    ],
+    "basis": "Catalogued weight 5.84 ozt = 182 g gross; heavy applied stone, glass and enamel deducted."
+   }
+  },
+  {
+   "lot": 2460,
+   "melt": {
+    "metal": "sterling",
+    "net_g": [
+     222.5,
+     270.2
+    ],
+    "basis": "Catalogued weight 10.22 ozt = 318 g gross; heavy applied stone, glass and enamel deducted."
+   }
+  },
+  {
+   "lot": 2461,
+   "melt": {
+    "metal": "sterling",
+    "net_g": [
+     40.1,
+     48.6
+    ],
+    "basis": "Catalogued weight 1.84 ozt = 57 g gross; heavy applied stone, glass and enamel deducted."
+   }
+  },
+  {
+   "lot": 2462,
+   "melt": {
+    "metal": "sterling",
+    "net_g": [
+     134.8,
+     148.9
+    ],
+    "basis": "Catalogued weight 5.04 ozt = 157 g gross; small accent stones deducted."
+   }
+  },
+  {
+   "lot": 2464,
+   "melt": {
+    "metal": "coin",
+    "net_g": [
+     101.7,
+     104.8
+    ],
+    "basis": "Catalogued weight 3.37 ozt = 105 g gross; solid metal, only findings and solder deducted."
+   }
+  },
+  {
+   "lot": 2469,
+   "melt": {
+    "metal": "coin",
+    "net_g": [
+     1096.1,
+     1130.0
+    ],
+    "basis": "Catalogued weight 36.33 ozt = 1130 g gross; solid metal, only findings and solder deducted."
+   }
+  },
+  {
+   "lot": 2498,
+   "melt": {
+    "metal": "gold_14k",
+    "net_g": [
+     8.0,
+     9.7
+    ],
+    "basis": "Catalogued weight 7.6 dwt = 12 g gross; a named principal stone and its setting deducted."
+   }
+  },
+  {
+   "lot": 3002,
+   "category": "sculpture",
+   "period": "victorian",
+   "market": [
+    350,
+    800
+   ],
+   "resale": [
+    220,
+    580
+   ],
+   "spread": "Period sand cast at the top; 20th-century recast at the bottom, and the recast is the likelier case."
+  },
+  {
+   "lot": 3009,
+   "category": "sculpture",
+   "period": "victorian",
+   "market": [
+    400,
+    1000
+   ],
+   "resale": [
+    260,
+    720
+   ],
+   "spread": "Period cast at the top; posthumous recast at the bottom."
+  },
+  {
+   "lot": 3010,
+   "category": "folkart",
+   "period": "undetermined",
+   "market": [
+    300,
+    700
+   ],
+   "resale": [
+    190,
+    500
+   ]
+  },
+  {
+   "lot": 3015,
+   "category": "sculpture",
+   "period": "victorian",
+   "market": [
+    300,
+    900
+   ],
+   "resale": [
+    190,
+    650
+   ],
+   "spread": "Bonheur's sculptural output is small and much that carries her name is a later cast or an outright reproduction."
+  },
+  {
+   "lot": 3020,
+   "category": "ceramics",
+   "period": "victorian",
+   "market": [
+    180,
+    320
+   ],
+   "resale": [
+    110,
+    220
+   ]
+  },
+  {
+   "lot": 3038,
+   "category": "vehicles",
+   "period": "edwardian",
+   "market": [
+    400,
+    900
+   ],
+   "resale": [
+    250,
+    650
+   ]
+  },
+  {
+   "lot": 3041,
+   "category": "furniture",
+   "period": "victorian",
+   "market": [
+    1200,
+    2500
+   ],
+   "resale": [
+    800,
+    1800
+   ]
+  },
+  {
+   "lot": 3046,
+   "category": "sculpture",
+   "period": "victorian",
+   "market": [
+    300,
+    600
+   ],
+   "resale": [
+    190,
+    430
+   ]
+  },
+  {
+   "lot": 3049,
+   "category": "glass",
+   "period": "nouveau",
+   "market": [
+    20000,
+    40000
+   ],
+   "resale": [
+    15000,
+    32000
+   ]
+  },
+  {
+   "lot": 3053,
+   "melt": {
+    "metal": "sterling",
+    "net_g": [
+     859.6,
+     886.1
+    ],
+    "basis": "Catalogued weight 28.49 ozt = 886 g gross; solid metal, only findings and solder deducted."
+   }
+  },
+  {
+   "lot": 3054,
+   "melt": {
+    "metal": "sterling",
+    "net_g": [
+     1051.1,
+     1083.6
+    ],
+    "basis": "Catalogued weight 34.84 ozt = 1084 g gross; solid metal, only findings and solder deducted."
+   }
+  },
+  {
+   "lot": 3055,
+   "melt": {
+    "metal": "sterling",
+    "net_g": [
+     856.2,
+     882.7
+    ],
+    "basis": "Catalogued weight 28.38 ozt = 883 g gross; solid metal, only findings and solder deducted."
+   }
+  },
+  {
+   "lot": 3056,
+   "melt": {
+    "metal": "sterling",
+    "net_g": [
+     375.6,
+     387.2
+    ],
+    "basis": "Catalogued weight 12.45 ozt = 387 g gross; solid metal, only findings and solder deducted."
+   }
+  },
+  {
+   "lot": 3057,
+   "melt": {
+    "metal": "sterling",
+    "net_g": [
+     103.8,
+     107.0
+    ],
+    "basis": "Catalogued weight 3.44 ozt = 107 g gross; solid metal, only findings and solder deducted."
+   }
+  },
+  {
+   "lot": 3058,
+   "melt": {
+    "metal": "sterling",
+    "net_g": [
+     366.9,
+     378.2
+    ],
+    "basis": "Catalogued weight 12.16 ozt = 378 g gross; solid metal, only findings and solder deducted."
+   }
+  },
+  {
+   "lot": 3061,
+   "melt": {
+    "metal": "sterling",
+    "net_g": [
+     595.0,
+     613.4
+    ],
+    "basis": "Catalogued weight 19.72 ozt = 613 g gross; solid metal, only findings and solder deducted."
+   }
+  },
+  {
+   "lot": 3065,
+   "melt": {
+    "metal": "gold_14k",
+    "net_g": [
+     12.7,
+     13.1
+    ],
+    "basis": "Catalogued weight 8.4 dwt = 13 g gross; solid metal, only findings and solder deducted."
+   }
+  },
+  {
+   "lot": 3066,
+   "melt": {
+    "metal": "platinum",
+    "net_g": [
+     5.9,
+     5.9
+    ],
+    "basis": "Catalogued weight 3.8 dwt = 6 g gross; gross as catalogued.",
+    "note": "Platinum. The brief sets no working platinum price and I have not sourced one, so no melt is computed here."
+   }
+  },
+  {
+   "lot": 3067,
+   "melt": {
+    "metal": "gold_14k",
+    "net_g": [
+     4.1,
+     6.4
+    ],
+    "basis": "Catalogued weight 7.5 dwt = 12 g gross; case silver only; movement, dial and glass deducted."
+   }
+  },
+  {
+   "lot": 3068,
+   "melt": {
+    "metal": "gold_14k",
+    "net_g": [
+     3.5,
+     4.2
+    ],
+    "basis": "Catalogued weight 3.3 dwt = 5 g gross; a named principal stone and its setting deducted."
+   }
+  },
+  {
+   "lot": 3069,
+   "melt": {
+    "metal": "gold_14k",
+    "net_g": [
+     4.1,
+     4.6
+    ],
+    "basis": "Catalogued weight 3.1 dwt = 5 g gross; small accent stones deducted."
+   }
+  },
+  {
+   "lot": 3070,
+   "melt": {
+    "metal": "gold_14k",
+    "net_g": [
+     19.5,
+     21.6
+    ],
+    "basis": "Catalogued weight 14.6 dwt = 23 g gross; small accent stones deducted."
+   }
+  },
+  {
+   "lot": 3071,
+   "melt": {
+    "metal": "gold_14k",
+    "net_g": [
+     7.7,
+     9.3
+    ],
+    "basis": "Catalogued weight 7.3 dwt = 11 g gross; a named principal stone and its setting deducted."
+   }
+  },
+  {
+   "lot": 3072,
+   "melt": {
+    "metal": "gold_14k",
+    "net_g": [
+     5.6,
+     6.8
+    ],
+    "basis": "Catalogued weight 5.3 dwt = 8 g gross; a named principal stone and its setting deducted."
+   }
+  },
+  {
+   "lot": 3073,
+   "melt": {
+    "metal": "gold_14k",
+    "net_g": [
+     28.7,
+     29.5
+    ],
+    "basis": "Catalogued weight 19.0 dwt = 30 g gross; solid metal, only findings and solder deducted."
+   }
+  },
+  {
+   "lot": 3074,
+   "melt": {
+    "metal": "gold_18k",
+    "net_g": [
+     11.6,
+     12.0
+    ],
+    "basis": "Catalogued weight 7.7 dwt = 12 g gross; solid metal, only findings and solder deducted."
+   }
+  },
+  {
+   "lot": 3075,
+   "melt": {
+    "metal": "gold_18k",
+    "net_g": [
+     11.0,
+     11.4
+    ],
+    "basis": "Catalogued weight 7.3 dwt = 11 g gross; solid metal, only findings and solder deducted."
+   }
+  },
+  {
+   "lot": 3077,
+   "category": "silver",
+   "period": "midcentury",
+   "market": [
+    450,
+    900
+   ],
+   "resale": [
+    300,
+    650
+   ],
+   "melt": {
+    "metal": "sterling",
+    "net_g": [
+     50,
+     110
+    ],
+    "basis": "silver mounts and lid only -- the rosewood body is not metal"
+   }
+  },
+  {
+   "lot": 3090,
+   "melt": {
+    "metal": "gold_18k",
+    "net_g": [
+     11.6,
+     14.1
+    ],
+    "basis": "Catalogued weight 10.7 dwt = 17 g gross; heavy applied stone, glass and enamel deducted."
+   }
+  },
+  {
+   "lot": 3091,
+   "melt": {
+    "metal": "gold_14k",
+    "net_g": [
+     7.8,
+     9.4
+    ],
+    "basis": "Catalogued weight 7.4 dwt = 12 g gross; a named principal stone and its setting deducted."
+   }
+  },
+  {
+   "lot": 3092,
+   "melt": {
+    "metal": "gold_18k",
+    "net_g": [
+     14.7,
+     16.3
+    ],
+    "basis": "Catalogued weight 11.0 dwt = 17 g gross; small accent stones deducted."
+   }
+  },
+  {
+   "lot": 3093,
+   "melt": {
+    "metal": "gold_14k",
+    "net_g": [
+     3.3,
+     5.2
+    ],
+    "basis": "Catalogued weight 6.1 dwt = 9 g gross; case silver only; movement, dial and glass deducted."
+   }
+  },
+  {
+   "lot": 3094,
+   "melt": {
+    "metal": "gold_14k",
+    "net_g": [
+     11.2,
+     13.5
+    ],
+    "basis": "Catalogued weight 10.6 dwt = 16 g gross; a named principal stone and its setting deducted."
+   }
+  },
+  {
+   "lot": 3095,
+   "melt": {
+    "metal": "gold_14k",
+    "net_g": [
+     6.7,
+     7.4
+    ],
+    "basis": "Catalogued weight 5.0 dwt = 8 g gross; small accent stones deducted."
+   }
+  },
+  {
+   "lot": 3096,
+   "category": "watches",
+   "period": "victorian",
+   "market": [
+    350,
+    650
+   ],
+   "resale": [
+    220,
+    470
+   ],
+   "melt": {
+    "metal": "gold_filled",
+    "note": "Gold-FILLED, not gold. No melt floor. What you are buying is the movement grade."
+   }
+  },
+  {
+   "lot": 3097,
+   "melt": {
+    "metal": "gold_14k",
+    "net_g": [
+     5.1,
+     5.6
+    ],
+    "basis": "Catalogued weight 3.8 dwt = 6 g gross; small accent stones deducted."
+   }
+  },
+  {
+   "lot": 3101,
+   "melt": {
+    "metal": "sterling",
+    "net_g": [
+     3046.6,
+     3140.8
+    ],
+    "basis": "Catalogued weight 100.98 ozt = 3141 g gross; solid metal, only findings and solder deducted."
+   }
+  },
+  {
+   "lot": 3103,
+   "melt": {
+    "metal": "sterling",
+    "net_g": [
+     2163.8,
+     2230.7
+    ],
+    "basis": "Catalogued weight 71.72 ozt = 2231 g gross; solid metal, only findings and solder deducted."
+   }
+  },
+  {
+   "lot": 3117,
+   "melt": {
+    "metal": "gold_18k",
+    "net_g": [
+     104.1,
+     107.3
+    ],
+    "basis": "Catalogued weight 69.0 dwt = 107 g gross; solid metal, only findings and solder deducted."
+   }
+  },
+  {
+   "lot": 3118,
+   "melt": {
+    "metal": "gold_14k",
+    "net_g": [
+     4.8,
+     5.7
+    ],
+    "basis": "Catalogued weight 4.5 dwt = 7 g gross; a named principal stone and its setting deducted."
+   }
+  },
+  {
+   "lot": 3119,
+   "melt": {
+    "metal": "gold_18k",
+    "net_g": [
+     47.2,
+     52.2
+    ],
+    "basis": "Catalogued weight 35.3 dwt = 55 g gross; small accent stones deducted."
+   }
+  },
+  {
+   "lot": 3120,
+   "melt": {
+    "metal": "gold_14k",
+    "net_g": [
+     7.2,
+     8.7
+    ],
+    "basis": "Catalogued weight 6.8 dwt = 11 g gross; a named principal stone and its setting deducted."
+   }
+  },
+  {
+   "lot": 3121,
+   "melt": {
+    "metal": "gold_18k",
+    "net_g": [
+     4.2,
+     5.2
+    ],
+    "basis": "Catalogued weight 3.9 dwt = 6 g gross; heavy applied stone, glass and enamel deducted."
+   }
+  },
+  {
+   "lot": 3122,
+   "melt": {
+    "metal": "platinum",
+    "net_g": [
+     21.9,
+     21.9
+    ],
+    "basis": "Catalogued weight 14.1 dwt = 22 g gross; gross as catalogued.",
+    "note": "Platinum. The brief sets no working platinum price and I have not sourced one, so no melt is computed here."
+   }
+  },
+  {
+   "lot": 3124,
+   "melt": {
+    "metal": "platinum",
+    "net_g": [
+     4.2,
+     4.2
+    ],
+    "basis": "Catalogued weight 2.7 dwt = 4 g gross; gross as catalogued.",
+    "note": "Platinum. The brief sets no working platinum price and I have not sourced one, so no melt is computed here."
+   }
+  },
+  {
+   "lot": 3126,
+   "category": "sculpture",
+   "period": "deco",
+   "market": [
+    600,
+    1400
+   ],
+   "resale": [
+    350,
+    950
+   ],
+   "spread": "Resale is depressed well below market by the ivory content -- interstate sale is restricted and the documentation will not come with the lot."
+  },
+  {
+   "lot": 3136,
+   "category": "watches",
+   "period": "victorian",
+   "market": [
+    280,
+    500
+   ],
+   "resale": [
+    180,
+    360
+   ]
+  },
+  {
+   "lot": 3141,
+   "melt": {
+    "metal": "coin",
+    "net_g": [
+     114.3,
+     138.8
+    ],
+    "basis": "Catalogued weight 5.25 ozt = 163 g gross; heavy applied stone, glass and enamel deducted."
+   }
+  },
+  {
+   "lot": 3143,
+   "melt": {
+    "metal": "none",
+    "net_g": [
+     1843.8,
+     1843.8
+    ],
+    "basis": "Catalogued weight 59.28 ozt = 1844 g gross; gross as catalogued."
+   }
+  },
+  {
+   "lot": 3144,
+   "melt": {
+    "metal": "sterling",
+    "net_g": [
+     580.2,
+     598.1
+    ],
+    "basis": "Catalogued weight 19.23 ozt = 598 g gross; solid metal, only findings and solder deducted."
+   }
+  },
+  {
+   "lot": 3145,
+   "melt": {
+    "metal": "sterling",
+    "net_g": [
+     634.2,
+     653.8
+    ],
+    "basis": "Catalogued weight 21.02 ozt = 654 g gross; solid metal, only findings and solder deducted."
+   }
+  },
+  {
+   "lot": 3146,
+   "melt": {
+    "metal": "sterling",
+    "net_g": [
+     835.1,
+     860.9
+    ],
+    "basis": "Catalogued weight 27.68 ozt = 861 g gross; solid metal, only findings and solder deducted."
+   }
+  },
+  {
+   "lot": 3148,
+   "melt": {
+    "metal": "gold_18k",
+    "net_g": [
+     11.6,
+     12.0
+    ],
+    "basis": "Catalogued weight 7.7 dwt = 12 g gross; solid metal, only findings and solder deducted."
+   }
+  },
+  {
+   "lot": 3149,
+   "melt": {
+    "metal": "gold_14k",
+    "net_g": [
+     9.9,
+     12.0
+    ],
+    "basis": "Catalogued weight 9.1 dwt = 14 g gross; heavy applied stone, glass and enamel deducted."
+   }
+  },
+  {
+   "lot": 3150,
+   "melt": {
+    "metal": "gold_18k",
+    "net_g": [
+     18.7,
+     22.6
+    ],
+    "basis": "Catalogued weight 17.7 dwt = 28 g gross; a named principal stone and its setting deducted."
+   }
+  },
+  {
+   "lot": 3151,
+   "melt": {
+    "metal": "gold_18k",
+    "net_g": [
+     30.2,
+     36.6
+    ],
+    "basis": "Catalogued weight 27.7 dwt = 43 g gross; heavy applied stone, glass and enamel deducted."
+   }
+  },
+  {
+   "lot": 3152,
+   "melt": {
+    "metal": "gold_18k",
+    "net_g": [
+     2.9,
+     3.6
+    ],
+    "basis": "Catalogued weight 2.7 dwt = 4 g gross; heavy applied stone, glass and enamel deducted."
+   }
+  },
+  {
+   "lot": 3153,
+   "melt": {
+    "metal": "gold_18k",
+    "net_g": [
+     8.0,
+     9.7
+    ],
+    "basis": "Catalogued weight 7.6 dwt = 12 g gross; a named principal stone and its setting deducted."
+   }
+  },
+  {
+   "lot": 3154,
+   "melt": {
+    "metal": "platinum",
+    "net_g": [
+     3.7,
+     3.7
+    ],
+    "basis": "Catalogued weight 2.4 dwt = 4 g gross; gross as catalogued.",
+    "note": "Platinum. The brief sets no working platinum price and I have not sourced one, so no melt is computed here."
+   }
+  },
+  {
+   "lot": 3155,
+   "category": "jewellery",
+   "period": "midcentury",
+   "market": [
+    350,
+    600
+   ],
+   "resale": [
+    260,
+    400
+   ],
+   "melt": {
+    "metal": "gold_14k",
+    "net_g": [
+     2.9,
+     3.3
+    ],
+    "basis": "Catalogued weight 2.2 dwt = 3 g gross; small accent stones deducted."
+   },
+   "gems": {
+    "resale": [
+     30,
+     90
+    ],
+    "note": "Opal is a strong candidate for a doublet or composite at this price -- look for a flat join line at the girdle, which would take the stone to near-nil. Small melee diamonds recover perhaps $20-60 on the secondary market. The estimate assumes the stones carry real value; they very likely do not."
+   }
+  },
+  {
+   "lot": 3156,
+   "melt": {
+    "metal": "gold_18k",
+    "net_g": [
+     59.8,
+     66.0
+    ],
+    "basis": "Catalogued weight 44.7 dwt = 70 g gross; small accent stones deducted."
+   }
+  },
+  {
+   "lot": 3161,
+   "melt": {
+    "metal": "sterling",
+    "net_g": [
+     840.5,
+     866.5
+    ],
+    "basis": "Catalogued weight 27.86 ozt = 867 g gross; solid metal, only findings and solder deducted."
+   }
+  },
+  {
+   "lot": 3162,
+   "melt": {
+    "metal": "sterling",
+    "net_g": [
+     875.8,
+     902.9
+    ],
+    "basis": "Catalogued weight 29.03 ozt = 903 g gross; solid metal, only findings and solder deducted."
+   }
+  },
+  {
+   "lot": 3163,
+   "melt": {
+    "metal": "sterling",
+    "net_g": [
+     965.5,
+     995.3
+    ],
+    "basis": "Catalogued weight 32.00 ozt = 995 g gross; solid metal, only findings and solder deducted."
+   }
+  },
+  {
+   "lot": 3180,
+   "melt": {
+    "metal": "gold_14k",
+    "net_g": [
+     2.9,
+     3.4
+    ],
+    "basis": "Catalogued weight 2.7 dwt = 4 g gross; a named principal stone and its setting deducted."
+   }
+  },
+  {
+   "lot": 3181,
+   "category": "jewellery",
+   "period": "edwardian",
+   "market": [
+    500,
+    800
+   ],
+   "resale": [
+    350,
+    620
+   ],
+   "melt": {
+    "metal": "gold_10k",
+    "net_g": [
+     5.4,
+     6.6
+    ],
+    "basis": "Catalogued weight 5.0 dwt = 8 g gross; heavy applied stone, glass and enamel deducted."
+   },
+   "gems": {
+    "resale": [
+     0,
+     0
+    ],
+    "note": "No stones. Enamel has no recoverable value and is expensive to restore properly."
+   }
+  },
+  {
+   "lot": 3182,
+   "melt": {
+    "metal": "gold_18k",
+    "net_g": [
+     3.2,
+     5.0
+    ],
+    "basis": "Catalogued weight 5.9 dwt = 9 g gross; case silver only; movement, dial and glass deducted."
+   }
+  },
+  {
+   "lot": 3183,
+   "melt": {
+    "metal": "platinum",
+    "net_g": [
+     16.8,
+     16.8
+    ],
+    "basis": "Catalogued weight 10.8 dwt = 17 g gross; gross as catalogued.",
+    "note": "Platinum. The brief sets no working platinum price and I have not sourced one, so no melt is computed here."
+   }
+  },
+  {
+   "lot": 3186,
+   "melt": {
+    "metal": "gold_18k",
+    "net_g": [
+     11.9,
+     14.4
+    ],
+    "basis": "Catalogued weight 10.9 dwt = 17 g gross; heavy applied stone, glass and enamel deducted."
+   }
+  },
+  {
+   "lot": 3188,
+   "category": "jewellery",
+   "period": "midcentury",
+   "market": [
+    600,
+    950
+   ],
+   "resale": [
+    550,
+    750
+   ],
+   "melt": {
+    "metal": "gold_14k",
+    "net_g": [
+     7.6,
+     9.2
+    ],
+    "basis": "Catalogued weight 7.2 dwt = 11 g gross; a named principal stone and its setting deducted."
+   },
+   "gems": {
+    "resale": [
+     20,
+     50
+    ],
+    "note": "Amethyst is abundant and cheap -- essentially no secondary value. The whole case here is the gold, and on my weight estimate the melt alone exceeds the house's high estimate."
+   }
+  },
+  {
+   "lot": 3191,
+   "melt": {
+    "metal": "gold_14k",
+    "net_g": [
+     3.4,
+     4.1
+    ],
+    "basis": "Catalogued weight 3.2 dwt = 5 g gross; a named principal stone and its setting deducted."
+   }
+  },
+  {
+   "lot": 3193,
+   "melt": {
+    "metal": "gold_14k",
+    "net_g": [
+     2.1,
+     2.6
+    ],
+    "basis": "Catalogued weight 2.0 dwt = 3 g gross; a named principal stone and its setting deducted."
+   }
+  },
+  {
+   "lot": 3194,
+   "melt": {
+    "metal": "gold_14k",
+    "net_g": [
+     22.8,
+     35.8
+    ],
+    "basis": "Catalogued weight 41.9 dwt = 65 g gross; case silver only; movement, dial and glass deducted."
+   }
+  },
+  {
+   "lot": 3195,
+   "melt": {
+    "metal": "gold_14k",
+    "net_g": [
+     1.9,
+     2.3
+    ],
+    "basis": "Catalogued weight 1.8 dwt = 3 g gross; a named principal stone and its setting deducted."
+   }
+  },
+  {
+   "lot": 3197,
+   "melt": {
+    "metal": "platinum",
+    "net_g": [
+     5.3,
+     5.3
+    ],
+    "basis": "Catalogued weight 3.4 dwt = 5 g gross; gross as catalogued.",
+    "note": "Platinum. The brief sets no working platinum price and I have not sourced one, so no melt is computed here."
+   }
+  },
+  {
+   "lot": 3199,
+   "melt": {
+    "metal": "gold_14k",
+    "net_g": [
+     5.7,
+     6.9
+    ],
+    "basis": "Catalogued weight 5.4 dwt = 8 g gross; a named principal stone and its setting deducted."
+   }
+  },
+  {
+   "lot": 3201,
+   "melt": {
+    "metal": "gold_14k",
+    "net_g": [
+     7.1,
+     8.5
+    ],
+    "basis": "Catalogued weight 6.7 dwt = 10 g gross; a named principal stone and its setting deducted."
+   }
+  },
+  {
+   "lot": 3203,
+   "melt": {
+    "metal": "gold_14k",
+    "net_g": [
+     11.8,
+     13.0
+    ],
+    "basis": "Catalogued weight 8.8 dwt = 14 g gross; small accent stones deducted."
+   }
+  },
+  {
+   "lot": 3205,
+   "melt": {
+    "metal": "gold_14k",
+    "net_g": [
+     7.6,
+     9.3
+    ],
+    "basis": "Catalogued weight 7.0 dwt = 11 g gross; heavy applied stone, glass and enamel deducted."
+   }
+  },
+  {
+   "lot": 3207,
+   "melt": {
+    "metal": "gold_18k",
+    "net_g": [
+     13.0,
+     14.3
+    ],
+    "basis": "Catalogued weight 9.7 dwt = 15 g gross; small accent stones deducted."
+   }
+  },
+  {
+   "lot": 3209,
+   "melt": {
+    "metal": "gold_14k",
+    "net_g": [
+     4.5,
+     5.0
+    ],
+    "basis": "Catalogued weight 3.4 dwt = 5 g gross; small accent stones deducted."
+   }
+  },
+  {
+   "lot": 3210,
+   "category": "watches",
+   "period": "edwardian",
+   "market": [
+    700,
+    1100
+   ],
+   "resale": [
+    700,
+    900
+   ],
+   "melt": {
+    "metal": "gold_18k",
+    "net_g": [
+     7.5,
+     11.7
+    ],
+    "basis": "Catalogued weight 13.7 dwt = 21 g gross; case silver only; movement, dial and glass deducted."
+   },
+   "gems": {
+    "resale": [
+     0,
+     0
+    ],
+    "note": "No stones."
+   }
+  },
+  {
+   "lot": 3211,
+   "category": "jewellery",
+   "period": "victorian",
+   "market": [
+    350,
+    550
+   ],
+   "resale": [
+    260,
+    420
+   ],
+   "melt": {
+    "metal": "gold_10k",
+    "net_g": [
+     4.4,
+     5.3
+    ],
+    "basis": "Catalogued weight 4.0 dwt = 6 g gross; heavy applied stone, glass and enamel deducted."
+   },
+   "gems": {
+    "resale": [
+     0,
+     0
+    ],
+    "note": "No stones. The hair work under glass is historical interest, not value, and is ruined if moisture has got in."
+   }
+  },
+  {
+   "lot": 3217,
+   "melt": {
+    "metal": "sterling",
+    "net_g": [
+     504.1,
+     519.7
+    ],
+    "basis": "Catalogued weight 16.71 ozt = 520 g gross; solid metal, only findings and solder deducted."
+   }
+  },
+  {
+   "lot": 3220,
+   "category": "silver",
+   "period": "nouveau",
+   "market": [
+    450,
+    750
+   ],
+   "resale": [
+    330,
+    560
+   ],
+   "melt": {
+    "metal": "sterling",
+    "net_g": [
+     305.3,
+     314.8
+    ],
+    "basis": "Catalogued weight 10.12 ozt = 315 g gross; solid metal, only findings and solder deducted."
+   }
+  },
+  {
+   "lot": 3224,
+   "melt": {
+    "metal": "gold_22k",
+    "net_g": [
+     48.4,
+     49.9
+    ],
+    "basis": "Catalogued weight 32.1 dwt = 50 g gross; solid metal, only findings and solder deducted."
+   }
+  },
+  {
+   "lot": 3225,
+   "melt": {
+    "metal": "gold_22k",
+    "net_g": [
+     49.0,
+     50.5
+    ],
+    "basis": "Catalogued weight 32.5 dwt = 51 g gross; solid metal, only findings and solder deducted."
+   }
+  },
+  {
+   "lot": 3226,
+   "melt": {
+    "metal": "gold_22k",
+    "net_g": [
+     44.7,
+     46.0
+    ],
+    "basis": "Catalogued weight 29.6 dwt = 46 g gross; solid metal, only findings and solder deducted."
+   }
+  },
+  {
+   "lot": 3227,
+   "melt": {
+    "metal": "gold_22k",
+    "net_g": [
+     35.6,
+     36.7
+    ],
+    "basis": "Catalogued weight 23.6 dwt = 37 g gross; solid metal, only findings and solder deducted."
+   }
+  },
+  {
+   "lot": 3228,
+   "melt": {
+    "metal": "gold_22k",
+    "net_g": [
+     25.4,
+     28.1
+    ],
+    "basis": "Catalogued weight 19.0 dwt = 30 g gross; small accent stones deducted."
+   }
+  },
+  {
+   "lot": 3229,
+   "melt": {
+    "metal": "gold_14k",
+    "net_g": [
+     13.4,
+     16.3
+    ],
+    "basis": "Catalogued weight 12.3 dwt = 19 g gross; heavy applied stone, glass and enamel deducted."
+   }
+  },
+  {
+   "lot": 3230,
+   "melt": {
+    "metal": "platinum",
+    "net_g": [
+     4.5,
+     4.5
+    ],
+    "basis": "Catalogued weight 2.9 dwt = 5 g gross; gross as catalogued.",
+    "note": "Platinum. The brief sets no working platinum price and I have not sourced one, so no melt is computed here."
+   }
+  },
+  {
+   "lot": 3231,
+   "melt": {
+    "metal": "gold_14k",
+    "net_g": [
+     2.8,
+     3.4
+    ],
+    "basis": "Catalogued weight 2.6 dwt = 4 g gross; heavy applied stone, glass and enamel deducted."
+   }
+  },
+  {
+   "lot": 3232,
+   "melt": {
+    "metal": "gold_14k",
+    "net_g": [
+     11.7,
+     18.4
+    ],
+    "basis": "Catalogued weight 21.5 dwt = 33 g gross; case silver only; movement, dial and glass deducted."
+   }
+  },
+  {
+   "lot": 3233,
+   "melt": {
+    "metal": "gold_14k",
+    "net_g": [
+     4.4,
+     4.9
+    ],
+    "basis": "Catalogued weight 3.3 dwt = 5 g gross; small accent stones deducted."
+   }
+  },
+  {
+   "lot": 3234,
+   "melt": {
+    "metal": "gold_14k",
+    "net_g": [
+     39.7,
+     40.9
+    ],
+    "basis": "Catalogued weight 26.3 dwt = 41 g gross; solid metal, only findings and solder deducted."
+   }
+  },
+  {
+   "lot": 3235,
+   "melt": {
+    "metal": "gold_14k",
+    "net_g": [
+     8.8,
+     9.8
+    ],
+    "basis": "Catalogued weight 6.6 dwt = 10 g gross; small accent stones deducted."
+   }
+  },
+  {
+   "lot": 3236,
+   "melt": {
+    "metal": "gold_14k",
+    "net_g": [
+     25.0,
+     25.8
+    ],
+    "basis": "Catalogued weight 16.6 dwt = 26 g gross; solid metal, only findings and solder deducted."
+   }
+  },
+  {
+   "lot": 3237,
+   "melt": {
+    "metal": "gold_14k",
+    "net_g": [
+     16.8,
+     20.4
+    ],
+    "basis": "Catalogued weight 15.4 dwt = 24 g gross; heavy applied stone, glass and enamel deducted."
+   }
+  },
+  {
+   "lot": 3240,
+   "melt": {
+    "metal": "gold_18k",
+    "net_g": [
+     5.9,
+     7.1
+    ],
+    "basis": "Catalogued weight 5.4 dwt = 8 g gross; heavy applied stone, glass and enamel deducted."
+   }
+  },
+  {
+   "lot": 3241,
+   "category": "jewellery",
+   "period": "victorian",
+   "market": [
+    400,
+    700
+   ],
+   "resale": [
+    300,
+    550
+   ],
+   "melt": {
+    "metal": "gold_10k",
+    "net_g": [
+     8,
+     12
+    ],
+    "basis": "KARAT UNCONFIRMED. Costed at 10K as the conservative case; Victorian 'gold' without a karat mark is often 9K or lower, and can be gold-filled. If it proves 14K the melt rises by about 40%."
+   },
+   "gems": {
+    "resale": [
+     0,
+     0
+    ],
+    "note": "Mother-of-pearl only -- decorative, no recoverable value."
+   }
+  },
+  {
+   "lot": 3242,
+   "melt": {
+    "metal": "gold_14k",
+    "net_g": [
+     5.0,
+     6.0
+    ],
+    "basis": "Catalogued weight 4.7 dwt = 7 g gross; a named principal stone and its setting deducted."
+   }
+  },
+  {
+   "lot": 3303,
+   "category": "painting",
+   "period": "contemporary",
+   "market": [
+    1500,
+    2500
+   ],
+   "resale": [
+    700,
+    1500
+   ],
+   "spread": "Living local artist: resale is well below market because the work can be bought from the studio."
+  },
+  {
+   "lot": 3305,
+   "category": "painting",
+   "period": "contemporary",
+   "market": [
+    700,
+    1000
+   ],
+   "resale": [
+    350,
+    700
+   ]
+  },
+  {
+   "lot": 3309,
+   "category": "ceramics",
+   "period": "contemporary",
+   "market": [
+    350,
+    700
+   ],
+   "resale": [
+    200,
+    500
+   ]
+  },
+  {
+   "lot": 3345,
+   "category": "painting",
+   "period": "edwardian",
+   "market": [
+    250,
+    500
+   ],
+   "resale": [
+    150,
+    360
+   ]
+  },
+  {
+   "lot": 3347,
+   "category": "prints",
+   "period": "midcentury",
+   "market": [
+    300,
+    600
+   ],
+   "resale": [
+    200,
+    450
+   ],
+   "spread": "Signed and artist-printed ('imp') puts it at the top of Berry's range; the foxing pulls it back toward the middle."
+  },
+  {
+   "lot": 3348,
+   "category": "prints",
+   "period": "midcentury",
+   "market": [
+    250,
+    500
+   ],
+   "resale": [
+    160,
+    370
+   ]
+  },
+  {
+   "lot": 3349,
+   "category": "prints",
+   "period": "midcentury",
+   "market": [
+    250,
+    500
+   ],
+   "resale": [
+    160,
+    370
+   ]
+  },
+  {
+   "lot": 3350,
+   "category": "prints",
+   "period": "midcentury",
+   "market": [
+    280,
+    550
+   ],
+   "resale": [
+    180,
+    400
+   ]
+  },
+  {
+   "lot": 3351,
+   "category": "painting",
+   "period": "midcentury",
+   "market": [
+    10000,
+    16000
+   ],
+   "resale": [
+    7000,
+    12000
+   ]
+  },
+  {
+   "lot": 3366,
+   "category": "painting",
+   "period": "deco",
+   "market": [
+    200,
+    400
+   ],
+   "resale": [
+    120,
+    280
+   ]
+  },
+  {
+   "lot": 3380,
+   "category": "painting",
+   "period": "victorian",
+   "market": [
+    500,
+    1000
+   ],
+   "resale": [
+    320,
+    720
+   ]
+  },
+  {
+   "lot": 3397,
+   "category": "prints",
+   "period": "contemporary",
+   "market": [
+    180,
+    350
+   ],
+   "resale": [
+    110,
+    250
+   ]
+  },
+  {
+   "lot": 3398,
+   "category": "prints",
+   "period": "contemporary",
+   "market": [
+    250,
+    450
+   ],
+   "resale": [
+    150,
+    320
+   ]
+  },
+  {
+   "lot": 3437,
+   "category": "painting",
+   "period": "deco",
+   "market": [
+    250,
+    450
+   ],
+   "resale": [
+    150,
+    320
+   ]
+  },
+  {
+   "lot": 3440,
+   "category": "painting",
+   "period": "midcentury",
+   "market": [
+    400,
+    800
+   ],
+   "resale": [
+    250,
+    580
+   ]
+  },
+  {
+   "lot": 3448,
+   "category": "painting",
+   "period": "midcentury",
+   "market": [
+    180,
+    400
+   ],
+   "resale": [
+    100,
+    280
+   ]
+  },
+  {
+   "lot": 3467,
+   "category": "painting",
+   "period": "edwardian",
+   "market": [
+    250,
+    500
+   ],
+   "resale": [
+    150,
+    360
+   ],
+   "spread": "Priced as the anonymous period coastal work it currently is. A firmed-up Woodbury attribution would be a different object entirely."
+  },
+  {
+   "lot": 3487,
+   "category": "painting",
+   "period": "victorian",
+   "market": [
+    280,
+    500
+   ],
+   "resale": [
+    180,
+    360
+   ]
+  }
+ ]
 }

@@ -43,6 +43,11 @@ RATES = {
     "gold_22k": (117.93, "22K gold .917"),
     "gold_filled": (0.0, "Gold-filled"),
     "plated": (0.0, "Plated"),
+    # The brief sets deliberately conservative working prices for gold and silver
+    # and warns against pulling a spot price off a dealer's marketing page. It sets
+    # none for platinum, and I have not sourced one, so no platinum melt is computed.
+    # Every platinum lot in this sale is above the budget band regardless.
+    "platinum": (0.0, "Platinum - no working spot price in the brief"),
     "none": (0.0, "No precious metal"),
 }
 
@@ -437,9 +442,17 @@ def card(row, v, val, thumb_src):
               if val.get("spread") else "")
     src = ('<p class="src"><b>Where the numbers come from.</b> {}</p>'.format(e(v["sources"]))
            if v.get("sources") else "")
+    # The house's own words, straight off the lot page. Kept visually separate
+    # from my analysis so it is always obvious which is which.
+    cat_desc = ""
+    if row.get("desc"):
+        cat_desc = ('<details class="hdesc"><summary>Thomaston\'s description</summary>{}</details>'
+                    .format("".join("<p>{}</p>".format(e(p)) for p in row["desc"])))
+
     searchable = e(" ".join([str(lot), row["title"], verdict, v.get("date", ""),
                              CAT_LABEL.get(cat, ""), PER_LABEL.get(per, ""),
-                             " ".join(v.get("criteria", [])), v.get("analysis", "")]).lower())
+                             " ".join(v.get("criteria", [])), v.get("analysis", ""),
+                             " ".join(row.get("desc") or [])]).lower())
 
     return """
 <article class="entry card" data-lot="{lot}" data-verdict="{vslug}" data-status="{status}" data-day="{day}"
@@ -463,6 +476,7 @@ def card(row, v, val, thumb_src):
   <div class="lot-body">
     <p>{analysis}</p>
     <div class="problems"><b>Problems.</b> {problems}</div>
+    {catdesc}
     <div class="vals">
       <div class="v-mkt"><span>My market estimate</span><b>{market}</b></div>
       <div class="v-rsl"><span>If you resold it</span><b>{resale}</b></div>
@@ -496,6 +510,7 @@ def card(row, v, val, thumb_src):
         crits=crits, verdict=e(verdict),
         keyflag='<div class="keyflag">key lot</div>' if v.get("star") else "",
         analysis=e(v.get("analysis", "")), problems=e(v.get("problems", "")),
+        catdesc=cat_desc,
         market=rng(market), resale=rng(resale),
         marginrow=('<div class="v-mar"><span>Margin at target</span><b class="{}">{}</b></div>'.format(
             "good" if margin and margin > 0 else "stop",
@@ -819,6 +834,14 @@ main{{padding:12px 10px 40px;max-width:880px;margin:0 auto}}
 .lot-body p{{margin:0 0 9px}}
 .problems{{background:var(--warm-panel);border-left:2px solid var(--brass);padding:7px 9px;font-size:.9rem;margin:0 0 10px}}
 .problems b,.patience b,.src b,.spread b,.mnote b{{font-family:var(--sans);font-size:.66rem;letter-spacing:.07em;text-transform:uppercase;color:var(--oxblood)}}
+.hdesc{{border:1px dashed var(--line);border-radius:3px;margin:0 0 10px;font-size:.86rem}}
+.hdesc>summary{{cursor:pointer;padding:6px 9px;font-family:var(--sans);font-size:.66rem;letter-spacing:.07em;text-transform:uppercase;color:var(--link);list-style:none}}
+.hdesc>summary::-webkit-details-marker{{display:none}}
+.hdesc>summary::before{{content:"\\25B8 ";display:inline-block;transition:transform .15s}}
+.hdesc[open]>summary::before{{transform:rotate(90deg)}}
+.hdesc[open]>summary{{border-bottom:1px dashed var(--line)}}
+.hdesc p{{margin:0;padding:7px 9px;color:var(--ink-2)}}
+.hdesc p + p{{border-top:1px dotted var(--line)}}
 .vals{{display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:1px;background:var(--line);border:1px solid var(--line);margin:0 0 10px}}
 .vals div{{background:var(--cool-panel);padding:6px 8px}}
 .vals span{{display:block;font-family:var(--sans);font-size:.58rem;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}}
