@@ -502,6 +502,7 @@ def card(row, v, val, thumb_src):
       <div class="dateline"><b>{date}</b> &middot; <span class="ev ev-{evslug}">{evidence}</span>
         &middot; <span class="st st-{status}">{status}</span></div>
       <div class="tags"><span class="tag cat">{catlabel}</span><span class="tag per">{perlabel}</span>{crits}</div>
+      <div class="gal-nums">{est_r}<i> house</i>{gal_target}</div>
     </div>
     <div class="verdict-wrap">
       <div class="verdict v-{vslug}">{verdict}</div>
@@ -561,6 +562,7 @@ def card(row, v, val, thumb_src):
         bid=money(row["current_bid"]),
         target=money(v.get("target")) if v.get("target") else "--",
         ceiling=money(ceiling) if ceiling else "--",
+        gal_target=('  &middot;  {}<i> tgt</i>'.format(money(v["target"])) if v.get("target") else ""),
         est_fee=fees_rng(row["est_low"], row["est_high"]),
         bid_fee=fees(row["current_bid"]), target_fee=fees(v.get("target")),
         ceiling_fee=fees(ceiling),
@@ -920,6 +922,67 @@ main{{padding:12px 10px 40px;max-width:880px;margin:0 auto}}
 .underflag{{margin-top:4px;font-family:var(--sans);font-size:.55rem;letter-spacing:.07em;
   text-transform:uppercase;color:var(--badge-fg);background:var(--brass);
   border-radius:2px;padding:2px 5px;text-align:center;cursor:help}}
+.views{{display:flex;gap:4px;margin:6px 0 2px}}
+.vbtn{{flex:1;font-family:var(--sans);font-size:.66rem;letter-spacing:.08em;text-transform:uppercase;
+  border:1px solid var(--line);background:var(--panel);color:var(--link);border-radius:2px;
+  padding:7px 6px;cursor:pointer;min-height:34px}}
+.vbtn[aria-pressed="true"]{{background:var(--spruce);color:var(--on);border-color:var(--spruce)}}
+.gal-nums{{display:none;font-family:var(--mono);font-size:.72rem;color:var(--ink-2);margin-top:3px}}
+.gal-nums i{{font-style:normal;color:var(--muted);font-size:.62rem;letter-spacing:.04em}}
+
+/* ---- GALLERY: image-forward grid. Reuses the card's own thumbnail, so the
+   published artifact carries exactly one copy of each image. The verdict and
+   star ride on top of the picture rather than under it, which keeps every tile
+   the same height and lets the eye run down the images. ---- */
+#lots.view-gallery{{display:grid;grid-template-columns:repeat(auto-fill,minmax(148px,1fr));gap:10px}}
+#lots.view-gallery .entry{{margin:0;border-left-width:1px;border-top:3px solid var(--muted);
+  display:flex;flex-direction:column}}
+#lots.view-gallery .lot-body{{display:none}}
+#lots.view-gallery .lot-head{{display:block;padding:0;border-bottom:0;position:relative}}
+#lots.view-gallery .thumb{{display:block}}
+#lots.view-gallery .thumb img{{width:100%;height:auto;aspect-ratio:1;object-fit:contain;
+  border:0;border-bottom:1px solid var(--line);background:#FFFFFF}}
+#lots.view-gallery .verdict-wrap{{position:absolute;top:0;left:0;right:0;padding:5px;
+  aspect-ratio:1;display:flex;justify-content:space-between;align-items:flex-start;gap:4px;
+  pointer-events:none}}
+#lots.view-gallery .verdict{{pointer-events:auto;font-size:.55rem;padding:2px 5px;
+  box-shadow:0 1px 3px rgba(0,0,0,.3)}}
+#lots.view-gallery .star{{pointer-events:auto;font-size:1rem;line-height:1;
+  text-shadow:0 1px 3px rgba(0,0,0,.45)}}
+#lots.view-gallery .keyflag{{position:absolute;right:5px;bottom:5px;margin:0;
+  font-size:.5rem;padding:1px 4px;background:var(--panel);border:1px solid var(--brass);
+  color:var(--brass);border-radius:2px;box-shadow:0 1px 3px rgba(0,0,0,.25)}}
+#lots.view-gallery .underflag{{position:absolute;left:5px;bottom:5px;margin:0;
+  font-size:.5rem;padding:1px 4px;box-shadow:0 1px 3px rgba(0,0,0,.3)}}
+#lots.view-gallery .lot-id{{padding:6px 8px 8px;display:flex;flex-direction:column;flex:1}}
+#lots.view-gallery .lot-id h3{{font-size:.76rem;line-height:1.22;margin:2px 0 4px;
+  display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}}
+#lots.view-gallery .dateline,#lots.view-gallery .tags{{display:none}}
+#lots.view-gallery .gal-nums{{display:block;margin-top:auto}}
+/* ---- LIST: one dense line per lot, for scanning a whole day quickly ---- */
+#lots.view-list .entry{{margin:0 0 -1px;border-left-width:3px;border-radius:0}}
+#lots.view-list .lot-body{{display:none}}
+#lots.view-list .lot-head{{grid-template-columns:40px minmax(0,1fr) auto;
+  grid-template-areas:"thumb id verdict";align-items:center;gap:2px 9px;padding:5px 9px}}
+#lots.view-list .thumb img{{width:40px;height:40px;object-fit:cover}}
+#lots.view-list .lot-no{{font-size:.66rem}}
+#lots.view-list .lot-id h3{{font-size:.78rem;margin:0;white-space:nowrap;
+  overflow:hidden;text-overflow:ellipsis}}
+#lots.view-list .dateline,#lots.view-list .tags{{display:none}}
+#lots.view-list .gal-nums{{display:block;font-size:.66rem;margin-top:1px}}
+#lots.view-list .verdict-wrap{{flex-direction:row;align-items:center;gap:5px;flex-wrap:nowrap}}
+#lots.view-list .verdict{{font-size:.54rem;padding:2px 5px}}
+#lots.view-list .keyflag{{display:none}}
+#lots.view-list .underflag{{font-size:.48rem;padding:1px 4px;margin:0}}
+#lots.view-list .star{{font-size:.95rem}}
+/* On a narrow screen the "house under" badge squeezes the figures onto a second
+   line and the rows stop scanning evenly. The badge stays in Gallery and Cards,
+   and the filter chip still finds them. */
+@media(max-width:520px){{ #lots.view-list .underflag{{display:none}} }}
+@media(min-width:680px){{
+  #lots.view-gallery{{grid-template-columns:repeat(auto-fill,minmax(186px,1fr));gap:12px}}
+  #lots.view-gallery .lot-id h3{{font-size:.82rem}}
+}}
 .band{{border:1px solid var(--line);border-radius:3px;padding:8px 10px;margin:0 0 8px;background:var(--paper)}}
 .band-h{{display:flex;align-items:center;gap:8px;margin-bottom:4px}}
 .band-h>span{{font-family:var(--sans);font-size:.62rem;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}}
@@ -1039,6 +1102,11 @@ a{{color:var(--link)}}
   <div class="row">
     <button class="chip" data-filter="all" aria-pressed="true">All</button>
     {chips}
+  </div>
+  <div class="views" role="group" aria-label="View">
+    <button class="vbtn" data-view="cards" aria-pressed="true">Cards</button>
+    <button class="vbtn" data-view="gallery" aria-pressed="false">Gallery</button>
+    <button class="vbtn" data-view="list" aria-pressed="false">List</button>
   </div>
   <details id="more"><summary>Budget, more filters &amp; sorting</summary>
   <div class="band">
@@ -1208,6 +1276,22 @@ write-ups with market, resale and melt figures, exactly as the jewellery now has
     countEl.textContent=(full+scr)+" of 1500 shown"+band;
   }}
 
+  // View is a class on the container, so every filter, sort and star keeps
+  // working untouched -- and the gallery reuses each card's own thumbnail
+  // rather than a second copy, which matters for the published artifact's size.
+  var VIEWS=["cards","gallery","list"];
+  function setView(v){{
+    if(VIEWS.indexOf(v)===-1) v="cards";
+    VIEWS.forEach(function(x){{ box.classList.toggle("view-"+x, x===v && x!=="cards"); }});
+    document.querySelectorAll(".vbtn").forEach(function(b){{
+      b.setAttribute("aria-pressed", String(b.dataset.view===v));
+    }});
+    try{{ localStorage.setItem("sg26view", v); }}catch(e){{}}
+  }}
+  document.querySelectorAll(".vbtn").forEach(function(b){{
+    b.addEventListener("click", function(){{ setView(b.dataset.view); }});
+  }});
+
   function on(id,ev,fn){{ var el=document.getElementById(id); if(el) el.addEventListener(ev,fn); }}
 
   function usd(n){{ return "$"+Math.round(n).toString().replace(/\\B(?=(\\d{{3}})+(?!\\d))/g,","); }}
@@ -1326,6 +1410,9 @@ write-ups with market, resale and melt figures, exactly as the jewellery now has
   document.getElementById("q").addEventListener("input",function(e){{
     state.q=e.target.value.trim().toLowerCase(); apply();
   }});
+  var savedView="cards";
+  try{{ savedView=localStorage.getItem("sg26view")||"cards"; }}catch(e){{}}
+  setView(savedView);
   drawBand(); sortLots(); apply();
 }})();
 </script>

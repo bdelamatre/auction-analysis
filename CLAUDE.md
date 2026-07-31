@@ -405,6 +405,14 @@ gallery.
 The prior session's page (`summer-grandeur-day1-lots-1001-1181.html`) is **not in the
 repo**, so build fresh to the same spec:
 
+- **Three views**, switched from a button row in the filter bar and remembered in
+  `localStorage` between visits:
+  **Cards** (the full write-up), **Gallery** (image-forward grid, ~2 tiles on a phone,
+  verdict and flags overlaid on the picture, lot number, title, house estimate and my target)
+  and **List** (one 62 px row per lot for scanning a whole day fast).
+  All three are the *same* DOM restyled by a class on `#lots`, so every filter, sort and star
+  keeps working and — importantly — the published artifact still carries exactly one copy of
+  each image. Do not build a view that duplicates thumbnails; the artifact is near its 16 MB cap.
 - Sticky filter bar: verdict chips, age chips, free-text search, ★ starred list
 - Per-lot card: linked thumbnail, title, dateline with evidence class, criteria + category +
   period tags, analysis, problems block, **my market estimate, resale value and margin at
