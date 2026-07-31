@@ -181,7 +181,7 @@ def load_verdicts():
     out = {}
     for path in sorted(ANALYSIS.glob("verdicts-*.json")):
         for row in json.loads(path.read_text(encoding="utf-8")):
-            out[row["lot"]] = row
+            out[row.get("slug") or row["lot"]] = row
     return out
 
 
@@ -564,14 +564,14 @@ def thumb_data_uri(path, box=250, quality=55):
 def render(lots, verdicts, valuations, method, embed=False):
     analysed, screened = [], {}
     for row in lots:
-        v = verdicts.get(row["lot"])
+        v = verdicts.get(row["lot"]) or verdicts.get(row["slug"])
         if v:
             analysed.append((row, v))
         else:
             gid, label, reason = screen(row)
             screened.setdefault(gid, {"label": label, "reason": reason, "rows": []})["rows"].append(row)
 
-    analysed.sort(key=lambda rv: (VERDICT_ORDER.index(rv[1]["verdict"]), rv[0]["lot"]))
+    analysed.sort(key=lambda rv: (VERDICT_ORDER.index(rv[1]["verdict"]), rv[0]["lot"] or 10**9))
     counts = {v: 0 for v in VERDICT_ORDER}
     for _, v in analysed:
         counts[v["verdict"]] += 1
