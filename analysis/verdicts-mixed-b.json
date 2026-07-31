@@ -854,9 +854,9 @@
   "criteria": [
    "artnouveau"
   ],
-  "date": "c.1900 if right",
-  "status": "unverified",
-  "evidence": "Unverified",
+  "date": "c.1890",
+  "status": "antique",
+  "evidence": "Catalogued",
   "category": "sculpture",
   "period": "artnouveau",
   "market": [
@@ -867,8 +867,8 @@
    350,
    1040
   ],
-  "analysis": "A 'bronze Art Nouveau pitcher', $2,000-3,000 -- the highest-estimated Art Nouveau object in the sale and the one with the least said about it. No maker, no foundry, no date, no country. The Art Nouveau criterion in this brief is specifically about genuine period work rather than Nouveau-style revival, and nothing here establishes which this is.",
-  "problems": "Above budget at $2,640-3,960 all-in, on an attribution that consists of a style name. Nouveau-style bronze has been produced continuously since the 1960s and the revival castings are heavy, crisp and convincing. At this estimate the house is asking for period money without making a period claim.",
+  "analysis": "The description gives it a date and a subject, both of which I said were missing. 'CIRCA 1890 cast bronze, unsigned, PROBABLY FRENCH, having a Writhing Nude Woman grasping the rim of an oversized Pirate's Head from behind, tricorn crown providing the pouring spout, also having high relief and chased decoration of flowering branches'. So it is catalogued as antique, and the subject is genuinely extraordinary -- a symbolist grotesque rather than the generic 'Art Nouveau pitcher' the title suggests. The date makes the Art Nouveau criterion arguable rather than empty, since c.1890 is the movement's actual period.",
+  "problems": "Above the band at $2,640-3,960 all-in, which is why this remains a pass. Still unsigned and with no foundry mark, so 'probably French' is as far as the attribution goes and there is no name to underwrite the price. Symbolist bronzes of this kind were also cast well into the 20th century from original models. At $2,000-3,000 the house is asking period money on a period claim it will not sign.",
   "target": 0,
   "ceiling": 0,
   "patience": "High. Nouveau-style bronze is everywhere; genuine signed period work is not, and it is not this.",
@@ -1228,27 +1228,29 @@
  },
  {
   "lot": 1184,
-  "verdict": "PASS",
-  "criteria": [],
-  "date": "c.1930-1955",
-  "status": "modern",
-  "evidence": "Unverified",
+  "verdict": "BUY IF CHEAP",
+  "criteria": [
+   "antique"
+  ],
+  "date": "c.1900-1930",
+  "status": "border",
+  "evidence": "Catalogued",
   "category": "toys",
   "period": "midcentury",
   "market": [
-   125,
-   350
+   350,
+   800
   ],
   "resale": [
-   85,
-   240
+   240,
+   550
   ],
-  "analysis": "Six 'antique' Halloween decorations, $350-450. No maker, no date. Given the Luhrs attribution on 1182 in the same consignment, assume the same 1930s-50s window.",
-  "problems": "'Antique' used as an adjective for mid-century material. No maker, no date. Highest estimate in the Halloween group with the least information.",
-  "target": 0,
-  "ceiling": 0,
-  "patience": "High.",
-  "star": false
+  "analysis": "I passed this as undated mid-century paper. The description dates every piece and two of them clear the antique line: 'German Devil in Flames, CA 1900, 19\" x 8\"; German Howling Black Cat Head, CA 1920, 12\" x 14\"; H. E. Luhrs Skull & Cross Bones, ca 1930 ... H. E. Luhrs Black Cat Head'. Early German embossed papier-mache and cardboard Halloween is the top of the vintage Halloween market -- well above the American Luhrs material of the 1930s-50s that makes up the rest of this consignment -- and a 19-inch c.1900 German Devil is a significant piece in that field on its own. This is the one lot in the five-lot Halloween block worth pursuing.",
+  "problems": "Mixed lot: two early German pieces carrying the value, the rest 1930s Luhrs at $30-60 each. Embossed papier-mache and cardboard is fragile and these are large -- expect edge chips, creases, fading and old tape repairs, and the cellophane on the Luhrs skull will have yellowed and split. Condition drives everything in this category and the catalogue says nothing about it. Border rather than antique because only part of the lot predates 1926.",
+  "target": 275,
+  "ceiling": 425,
+  "patience": "Moderate. American vintage Halloween is deep supply; early German diecuts are not.",
+  "star": true
  },
  {
   "lot": 1185,
@@ -1328,9 +1330,9 @@
   "lot": 1190,
   "verdict": "PASS",
   "criteria": [],
-  "date": "c.1935-1955",
-  "status": "modern",
-  "evidence": "Inferred",
+  "date": "c.1921-1934",
+  "status": "border",
+  "evidence": "Catalogued",
   "category": "toys",
   "period": "midcentury",
   "market": [
@@ -1341,8 +1343,8 @@
    50,
    140
   ],
-  "analysis": "A Rich Toys horse-drawn wagon pull toy, $200-300. Rich Toys of Clinton, Iowa and later Tupelo made lithographed-wood pull toys from the 1920s through the 1950s. A pleasant object, firmly post-1926 in practice, with a modest collector market.",
-  "problems": "Post-1926. Lithographed paper on wood chips and lifts, and condition is everything in this field. Estimate is above the market for common Rich Toys pieces.",
+  "analysis": "The description narrows the date and adds the damage. 'Vintage Painted Wood and Metal Horse and Dairy Delivery Wagon, by Illinois maker Rich Toys (1921-34), with driver figure and pull cord.' The 1921-34 window straddles the antique line, so this is border rather than modern -- but the rest of the description is why it stays a pass.",
+  "problems": "'Missing horse tail and milk bottles; modifications to delivery wagon.' The milk bottles are the whole charm of a dairy wagon and they are gone; 'modifications' on a toy means somebody has altered it, which is worse than wear. Lithographed and painted wood toys live or die on originality and this one has lost both parts and integrity.",
   "target": 0,
   "ceiling": 0,
   "patience": "Very high.",

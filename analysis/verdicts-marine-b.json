@@ -269,11 +269,12 @@
   "lot": 2062,
   "verdict": "BUY IF CHEAP",
   "criteria": [
+   "antique",
    "marine"
   ],
-  "date": "early-to-mid 20th c.",
-  "status": "modern",
-  "evidence": "Unverified",
+  "date": "1907",
+  "status": "antique",
+  "evidence": "Catalogued",
   "category": "marine",
   "period": "midcentury",
   "market": [
@@ -284,8 +285,8 @@
    480,
    950
   ],
-  "analysis": "A ship's medical safe from the Mauretania, marked Opium and Heroin. The companion to 2040 and, if the Mauretania attribution holds, the better of the two -- Mauretania is a famous name and Cunard material is widely collected.",
-  "problems": "Out of band at $1,000-1,500. Establish the attribution: liner memorabilia is extensively faked because the names sell, and a stencilled ship name on a tin box is trivially easy to add.",
+  "analysis": "The description dates and names it: 'Heavy Tin Box in red over black paint, with front mounted brass latch and lock, marked on top in white lettering: \"1907, MAURITANIA, Cunard Line, Swan Hunter & Wigham Richardson, Newcastle\"; and the front marked \"Opium\" and \"Heroin\" in gold over green panels.' Mauretania was the Blue Riband holder and one of the most famous liners ever built, launched 1906 at Swan Hunter, so the 1907 date is right for her maiden year. If genuine this is pre-1926 marine material with a named ship -- both criteria at once.",
+  "problems": "Treat the lettering with real suspicion. A working ship's medical safe would be marked with its contents and perhaps the line; it would not carry the build year, the shipbuilder's name and the yard's town painted on the lid, because nobody aboard needed that information. That is display copy, and it is exactly how maritime decorator pieces are made. Note also that the ship's name is spelled MAURITANIA here and Mauretania in the record -- the Cunard liner used the Latin spelling with an 'e'. Above the band at $1,320-1,980 all-in in any case.",
   "target": 0,
   "ceiling": 0,
   "patience": "Not applicable -- out of band.",

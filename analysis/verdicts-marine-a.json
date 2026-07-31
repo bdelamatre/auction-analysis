@@ -1114,11 +1114,12 @@
   "lot": 2040,
   "verdict": "BUY IF CHEAP",
   "criteria": [
+   "antique",
    "marine"
   ],
-  "date": "early-to-mid 20th c.",
-  "status": "modern",
-  "evidence": "Unverified",
+  "date": "1925",
+  "status": "antique",
+  "evidence": "Catalogued",
   "category": "marine",
   "period": "midcentury",
   "market": [
@@ -1129,8 +1130,8 @@
    480,
    950
   ],
-  "analysis": "A ship's tin drug safe from the Rawalpindi, marked 'Cocaine'. A genuinely interesting object -- ships carried controlled drugs in locked safes and the labelling is startling to modern eyes, which is most of the appeal. The Rawalpindi was an armed merchant cruiser sunk in 1939, so a named-vessel attribution has real weight if it holds.",
-  "problems": "Out of band at $1,000-1,500. Establish what the Rawalpindi attribution rests on. Note 2062 is a second ship's medical safe from the Mauretania at the same estimate -- two in one sale from a single consignment, and neither is in band.",
+  "analysis": "Same consignment and the same reading as 2062. 'Black Painted Heavy Duty Tin Box, with side handles, the lid with ochre lettering: \"1925, RAWALPINDI, P&O Lines, Harland & Wolff, Greenock, 590 Passengers\", the face with red and gold ornate \"Cocaine\" painted label.' Rawalpindi was a real P&O liner of 1925, later an armed merchant cruiser sunk by Scharnhorst and Gneisenau in 1939, so the reference is sound and 1925 clears the antique line by a year.",
+  "problems": "The same objection, and stronger here: '590 Passengers' painted on the lid of a drug safe is not information any crew needed, and Harland & Wolff's Greenock yard being spelled out is decorator copy. Two near-identical boxes for two famous ships in one consignment is itself a pattern worth distrusting. Above the band at $1,320-1,980 all-in.",
   "target": 0,
   "ceiling": 0,
   "patience": "Not applicable -- out of band.",
@@ -1140,10 +1141,11 @@
   "lot": 2041,
   "verdict": "PASS",
   "criteria": [
+   "antique",
    "marine"
   ],
-  "date": "20th c.",
-  "status": "modern",
+  "date": "1922-1934",
+  "status": "border",
   "evidence": "Catalogued",
   "category": "books",
   "period": "midcentury",
@@ -1155,8 +1157,8 @@
    1400,
    2600
   ],
-  "analysis": "A complete set of 26 titles in 27 volumes of first-edition Marine Research Society books, described as near mint. The Marine Research Society published the standard American maritime reference works of the 1920s and 30s and a complete run in first edition is genuinely hard to assemble.",
-  "problems": "Out of band at $2,500-3,500. Also 20th-century, so no antique claim. Complete sets are worth more than the sum of parts but only to the one buyer who wants the whole run.",
+  "analysis": "The description makes this a much more specific object than the title did: the complete first-edition run of the Marine Research Association of Salem, organised 1922, published 1922-1934, twenty-six titles in twenty-seven volumes from 'Sailing Ships of New England' (1922) to 'Goin' Fishin'' (1934), all in fine condition with original dust jackets in Brodart protectors. That is the foundational American maritime-history publishing programme and a complete jacketed run is genuinely scarce -- dust jackets on 1920s American books survive at a tiny rate.",
+  "problems": "Above the band at $3,300-4,620 all-in, which is the only reason this is a pass. The 1922-1934 window straddles the antique line so it is border, not antique. 'Fine condition' is the consignor's word; check the jackets for chips and the Brodart for trapped moisture.",
   "target": 0,
   "ceiling": 0,
   "patience": "Not applicable -- out of band.",
