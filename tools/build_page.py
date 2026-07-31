@@ -924,13 +924,29 @@ main{{padding:12px 10px 40px;max-width:880px;margin:0 auto}}
 .band-h{{display:flex;align-items:center;gap:8px;margin-bottom:4px}}
 .band-h>span{{font-family:var(--sans);font-size:.62rem;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}}
 .band-h>output{{font-family:var(--mono);font-size:.76rem;color:var(--ink);margin-right:auto}}
-#bandreset{{font-family:var(--sans);font-size:.6rem;letter-spacing:.06em;text-transform:uppercase;
-  border:1px solid var(--line);background:var(--panel);color:var(--link);border-radius:2px;padding:3px 7px;cursor:pointer}}
-#bandreset:hover{{border-color:var(--verdigris)}}
 .band label{{display:flex;align-items:center;gap:8px;margin:2px 0}}
+.band-nums{{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin:2px 0 4px}}
+.band-nums input{{flex:1;min-width:0;width:100%;font-family:var(--mono);font-size:.9rem;
+  padding:7px 8px;border:1px solid var(--line);border-radius:3px;background:var(--panel);color:var(--ink)}}
+.band-presets{{display:flex;flex-wrap:wrap;gap:5px;margin-top:7px}}
+.band-presets button{{flex:1 1 auto;font-family:var(--sans);font-size:.62rem;letter-spacing:.05em;
+  text-transform:uppercase;border:1px solid var(--line);background:var(--panel);color:var(--link);
+  border-radius:2px;padding:6px 8px;cursor:pointer;min-height:32px}}
+.band-presets button:hover{{border-color:var(--verdigris)}}
 .band label i{{font-style:normal;font-family:var(--sans);font-size:.58rem;letter-spacing:.08em;
   text-transform:uppercase;color:var(--muted);width:26px;flex:none}}
-.band input[type=range]{{flex:1;min-width:0;accent-color:var(--verdigris);height:22px}}
+.band input[type=range]{{flex:1;min-width:0;accent-color:var(--verdigris);height:34px;margin:0;
+  background:transparent;-webkit-appearance:none;appearance:none;
+  touch-action:none;cursor:pointer}}
+.band input[type=range]:focus{{outline:none}}
+.band input[type=range]:focus-visible{{outline:2px solid var(--verdigris);outline-offset:2px}}
+.band input[type=range]::-webkit-slider-runnable-track{{height:6px;border-radius:3px;background:var(--track)}}
+.band input[type=range]::-moz-range-track{{height:6px;border-radius:3px;background:var(--track)}}
+.band input[type=range]::-webkit-slider-thumb{{-webkit-appearance:none;appearance:none;
+  width:26px;height:26px;margin-top:-10px;border-radius:50%;background:var(--verdigris);
+  border:2px solid var(--panel);box-shadow:0 1px 3px rgba(0,0,0,.35)}}
+.band input[type=range]::-moz-range-thumb{{width:26px;height:26px;border-radius:50%;
+  background:var(--verdigris);border:2px solid var(--panel);box-shadow:0 1px 3px rgba(0,0,0,.35)}}
 .band-note{{margin:5px 0 0;font-size:.7rem;color:var(--muted);line-height:1.4}}
 .grid .fee{{display:block;font-family:var(--mono);font-size:.62rem;font-style:normal;color:var(--muted);margin-top:2px;line-height:1.3;overflow-wrap:break-word}}
 .grid .good,.vals .good{{color:var(--good)}} .grid .stop,.vals .stop{{color:var(--stop)}}
@@ -1026,18 +1042,26 @@ a{{color:var(--link)}}
   </div>
   <details id="more"><summary>Budget, more filters &amp; sorting</summary>
   <div class="band">
-    <div class="band-h">
-      <span>Hammer budget</span>
-      <output id="bandout"></output>
-      <button id="bandreset" type="button">My band</button>
+    <div class="band-h"><span>Hammer budget</span><output id="bandout"></output></div>
+    <div class="band-nums">
+      <label><i>Min</i><input id="nmin" type="number" min="0" max="200000" step="25" value="0"
+        inputmode="numeric" aria-label="minimum hammer price in dollars"></label>
+      <label><i>Max</i><input id="nmax" type="number" min="0" max="200000" step="25"
+        inputmode="numeric" placeholder="no limit" aria-label="maximum hammer price in dollars"></label>
     </div>
-    <label><i>Min</i><input id="bmin" type="range" min="0" max="2000" step="25" value="0"
-      aria-label="minimum hammer price"></label>
-    <label><i>Max</i><input id="bmax" type="range" min="0" max="2000" step="25" value="2000"
-      aria-label="maximum hammer price"></label>
-    <p class="band-note">Shows every lot whose house estimate <em>overlaps</em> the range, so a
-      lot estimated $300&ndash;800 still appears at a $500 ceiling &mdash; it may yet hammer low.
-      &ldquo;My band&rdquo; snaps to the brief&rsquo;s $100&ndash;1,000.</p>
+    <label class="band-sl"><i>Min</i><input id="bmin" type="range" min="0" max="2000" step="25"
+      value="0" aria-label="minimum hammer price slider"></label>
+    <label class="band-sl"><i>Max</i><input id="bmax" type="range" min="0" max="2000" step="25"
+      value="2000" aria-label="maximum hammer price slider"></label>
+    <div class="band-presets">
+      <button type="button" data-lo="100" data-hi="1000">My band</button>
+      <button type="button" data-lo="0" data-hi="300">Under $300</button>
+      <button type="button" data-lo="0" data-hi="500">Under $500</button>
+      <button type="button" data-lo="0" data-hi="2000">Any</button>
+    </div>
+    <p class="band-note">Type a figure, drag a slider, or tap a preset &mdash; all three drive the
+      same filter. Shows every lot whose house estimate <em>overlaps</em> the range, so a lot
+      estimated $300&ndash;800 still appears at a $500 ceiling: it may yet hammer low.</p>
   </div>
   <div class="row">
     <button class="chip" data-filter="day" data-value="day1">Day 1</button>
@@ -1115,6 +1139,7 @@ write-ups with market, resale and melt figures, exactly as the jewellery now has
   var s1=document.getElementById("s1"), s2=document.getElementById("s2"), dir=document.getElementById("dir");
   var bmin=document.getElementById("bmin"), bmax=document.getElementById("bmax");
   var bandout=document.getElementById("bandout");
+  var nmin=document.getElementById("nmin"), nmax=document.getElementById("nmax");
   var ALL_IN={allin:.5f};                 // 1.25 online premium x 1.055 Maine sales tax
   var desc=false, stars={{}};
   try{{stars=JSON.parse(localStorage.getItem("sg26stars")||"{{}}");}}catch(e){{stars={{}};}}
@@ -1183,31 +1208,95 @@ write-ups with market, resale and melt figures, exactly as the jewellery now has
     countEl.textContent=(full+scr)+" of 1500 shown"+band;
   }}
 
+  function on(id,ev,fn){{ var el=document.getElementById(id); if(el) el.addEventListener(ev,fn); }}
+
   function usd(n){{ return "$"+Math.round(n).toString().replace(/\\B(?=(\\d{{3}})+(?!\\d))/g,","); }}
 
-  function drawBand(){{
-    // Keep the two thumbs from crossing over each other.
-    if(+bmin.value > +bmax.value){{
-      if(document.activeElement===bmin) bmax.value=bmin.value; else bmin.value=bmax.value;
+  // One source of truth: state.bmin/bmax. The two sliders, the two number boxes
+  // and the presets are all just ways of writing to it. A range input is the least
+  // reliable of the three across browsers -- it cannot be typed into, its thumb is a
+  // small target, and Safari has its own ideas -- so it is never the only way in.
+  function drawBand(src){{
+    if(state.bmin>state.bmax){{
+      if(src==="min") state.bmax=state.bmin; else state.bmin=state.bmax;
     }}
-    state.bmin=+bmin.value; state.bmax=+bmax.value;
+    state.bmin=Math.max(0,state.bmin);
+    state.bmax=Math.max(state.bmin,state.bmax);
     var hi=state.bmax>=BAND_MAX;
+    if(document.activeElement!==bmin) bmin.value=Math.min(state.bmin,BAND_MAX);
+    if(document.activeElement!==bmax) bmax.value=Math.min(state.bmax,BAND_MAX);
+    if(document.activeElement!==nmin) nmin.value=state.bmin?state.bmin:0;
+    if(document.activeElement!==nmax) nmax.value=hi?"":state.bmax;
     bandout.textContent=usd(state.bmin)+" \\u2013 "+(hi?"no limit":usd(state.bmax))+
       " hammer  \\u00b7  "+usd(state.bmin*ALL_IN)+" \\u2013 "+
       (hi?"no limit":usd(state.bmax*ALL_IN))+" all-in";
   }}
-  function setBand(lo,hi){{ bmin.value=lo; bmax.value=hi; drawBand(); apply(); }}
+  function setBand(lo,hi){{ state.bmin=lo; state.bmax=hi; drawBand(); apply(); }}
 
-  bmin.addEventListener("input",function(){{ drawBand(); apply(); }});
-  bmax.addEventListener("input",function(){{ drawBand(); apply(); }});
-  document.getElementById("bandreset").addEventListener("click",function(){{ setBand(100,1000); }});
+  // A native range input is unusable on a touchscreen: tapping the track does
+  // nothing and the thumb is a ~20px target you have to hit exactly. Since this
+  // page is meant to be used on a phone in the gallery, drive the value from the
+  // pointer instead -- tap or drag anywhere on the track and the thumb follows.
+  // touch-action:none in the CSS stops the browser stealing the drag as a scroll.
+  function bindRange(el){{
+    function setFromX(clientX){{
+      var r=el.getBoundingClientRect();
+      if(!r.width) return;
+      var min=+el.min, max=+el.max, step=+el.step||1;
+      var t=Math.max(0,Math.min(1,(clientX-r.left)/r.width));
+      var v=Math.round((min+t*(max-min))/step)*step;
+      if(v!==+el.value){{
+        el.value=v;
+        if(el===bmin) state.bmin=v; else state.bmax=v;
+        drawBand(el===bmin?"min":"max"); apply();
+      }}
+    }}
+    el.addEventListener("pointerdown",function(ev){{
+      if(ev.button) return;                       // left button / touch / pen only
+      el.focus();
+      try{{ el.setPointerCapture(ev.pointerId); }}catch(e){{}}
+      setFromX(ev.clientX);
+      ev.preventDefault();
+    }});
+    el.addEventListener("pointermove",function(ev){{
+      var held=true;
+      try{{ held=el.hasPointerCapture(ev.pointerId); }}catch(e){{ held=ev.buttons===1; }}
+      if(held){{ setFromX(ev.clientX); ev.preventDefault(); }}
+    }});
+    function release(ev){{ try{{ el.releasePointerCapture(ev.pointerId); }}catch(e){{}} }}
+    el.addEventListener("pointerup",release);
+    el.addEventListener("pointercancel",release);
+    // Keyboard (arrows, Home/End) still uses the native input event.
+    el.addEventListener("input",function(){{
+      if(el===bmin) state.bmin=+el.value; else state.bmax=+el.value;
+      drawBand(el===bmin?"min":"max"); apply();
+    }});
+    el.addEventListener("keydown",function(ev){{ ev.stopPropagation(); }});
+  }}
+  bindRange(bmin); bindRange(bmax);
+
+  function readNums(src){{
+    var lo=parseFloat(nmin.value), hi=parseFloat(nmax.value);
+    state.bmin=isNaN(lo)?0:Math.max(0,lo);
+    state.bmax=(nmax.value.trim()==="" || isNaN(hi))?BAND_MAX:Math.max(0,hi);
+    drawBand(src); apply();
+  }}
+  nmin.addEventListener("input",function(){{ readNums("min"); }});
+  nmax.addEventListener("input",function(){{ readNums("max"); }});
+  // Re-normalise once the box loses focus, so a half-typed "3" is not left showing.
+  nmin.addEventListener("blur",function(){{ drawBand(); }});
+  nmax.addEventListener("blur",function(){{ drawBand(); }});
+
+  document.querySelectorAll(".band-presets button").forEach(function(bt){{
+    bt.addEventListener("click",function(){{ setBand(+bt.dataset.lo,+bt.dataset.hi); }});
+  }});
 
   document.querySelectorAll(".chip").forEach(function(c){{
     c.addEventListener("click",function(){{
       var f=c.dataset.filter;
       if(f==="all"){{ state.verdict=state.status=state.day=state.detail=null; state.starred=false; state.under=false;
         state.category=state.period=state.group="";
-        bmin.value=0; bmax.value=BAND_MAX; drawBand();
+        state.bmin=0; state.bmax=BAND_MAX; drawBand();
         document.getElementById("fcat").value=""; document.getElementById("fper").value="";
       }}
       else if(f==="starred"){{ state.starred=!state.starred; }}
@@ -1226,8 +1315,8 @@ write-ups with market, resale and melt figures, exactly as the jewellery now has
     }});
   }});
 
-  document.getElementById("fcat").addEventListener("change",function(e){{ state.category=e.target.value; apply(); }});
-  document.getElementById("fper").addEventListener("change",function(e){{ state.period=e.target.value; apply(); }});
+  on("fcat","change",function(e){{ state.category=e.target.value; apply(); }});
+  on("fper","change",function(e){{ state.period=e.target.value; apply(); }});
   s1.addEventListener("change",sortLots);
   s2.addEventListener("change",sortLots);
   dir.addEventListener("click",function(){{
