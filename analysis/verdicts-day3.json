@@ -190,20 +190,28 @@
  },
  {
   "lot": 3467,
-  "verdict": "CHECK FIRST",
+  "verdict": "BUY IF CHEAP",
   "criteria": [
    "maine",
    "named"
   ],
   "date": "c.1890-1940",
   "status": "border",
-  "evidence": "Unverified",
-  "analysis": "Attributed to Charles Herbert Woodbury at $300-400. The Ogunquit colony founder at a tenth of his usual price, and the word doing all the work is 'attributed'. Per the standing principles this is a hopeful label rather than an attribution and should be priced as the anonymous work it currently is.",
-  "problems": "If it were signed and certain, it would not be $300. Ask what the attribution rests on. Note this is the second Woodbury question in the sale alongside lot 1110 on Day 1 -- worth resolving both at the same preview visit. Priced as an anonymous period coastal work it is fine; priced as a Woodbury it is a mistake.",
-  "target": 250,
-  "ceiling": 400,
+  "evidence": "Catalogued",
+  "analysis": "This is the brief's 'cheaper Woodbury question' and the description answers it: 'Scuttlebutt, WATERCOLOR AND PENCIL ON PAPER, UNSIGNED. Depicting crew resting on deck of a fishing boat.' So the medium is settled -- watercolour and pencil, not the oil that put 1110 out of band -- and the sheet is small at 8 1/2 x 11 1/2 in. An attributed, unsigned Woodbury watercolour of a working-boat subject at $300-400 is inside the band, and the subject is exactly the Ogunquit-colony marine material the Maine criterion is for.",
+  "problems": "Unsigned, and 'attributed to' is the house declining to warrant it -- so you are buying a good watercolour that may or may not be by Woodbury, and should pay accordingly. Woodbury's watercolours are loose and rapid, which makes them both characteristic and easy to imitate; compare the handling of the water and the figures against known sheets. Small sheet in a large frame, so the presentation is doing some work. With 1110 confirmed as an out-of-band oil, this is the only Woodbury in the sale that is reachable.",
+  "target": 225,
+  "ceiling": 375,
   "patience": "High. Woodbury attributions of this kind are common and rarely firm up.",
-  "star": true
+  "star": true,
+  "market": [
+   200,
+   600
+  ],
+  "resale": [
+   140,
+   410
+  ]
  },
  {
   "lot": 3448,
