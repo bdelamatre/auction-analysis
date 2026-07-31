@@ -51,13 +51,22 @@ no separate index, so build one when parsing.
 
 **Data realities, verified:**
 
-- **`description` is `null` in all 1,500 `meta.json` files**, and the
-  `lotDescriptionFields` div in every `lot.html` is empty — descriptions load client-side
-  and were not captured. The hand-off hoped full descriptions (dimensions, weights,
-  hallmarks, condition notes) would be on disk; **they are not**. Weights and condition
-  must come from the photographs, the live lot page (`url` in meta.json), or preview.
-- **Local images are the real unlock.** ~5,200 JPGs, every lot covered. The prior chat
-  session could not see any photograph; you can. Use them (see §7).
+- **The full catalogue description IS on disk, for all 1,500 lots.** An earlier version of
+  this file said the opposite — that `lotDescriptionFields` was empty in every `lot.html`
+  and descriptions loaded client-side. That was wrong, and it was wrong for a long time.
+  `description` is indeed `null` in every `meta.json`, but the `lotDescriptionFields` div
+  in `lot.html` holds the complete text: one `<div>` per paragraph, typically body
+  description, then a condition line, then a dimensions line. `tools/parse_lots.py` now
+  extracts it to `desc` (list of paragraphs) and `dims` in `build/lots.json`, and every
+  card on the page shows it under "Thomaston's description".
+  **Do not re-derive from photographs anything the description already states.**
+- What the descriptions carry: **1,261 lots with dimensions, 119 with a stated silver or
+  gold weight, 442 with a year, 619 noting a signature or mark, 277 with condition notes.**
+  They also carry makers, hallmark towns and dates, provenance, and karat marks that the
+  titles omit entirely.
+- **The photographs are still the second source, not the first.** ~5,200 JPGs, every lot
+  covered (see §7). Read the description, then check it against the images — several
+  catalogue claims in this sale do not survive that comparison, which is the point.
 - `lots.csv` has a few rows with empty titles — fall back to `meta.json` or the slug.
 - Bid data (`current_bid`, `bid_count`) is a snapshot from scrape time, not live.
 - **The prior session's HTML page was never uploaded**, so the deliverable was rebuilt
@@ -214,14 +223,30 @@ freely.
 
 ---
 
-## 7. Use the images — this is the whole reason for the move to Claude Code
+## 7. Read the description first, then the images
 
-The chat session **could not see any lot photographs** — all 71 existing verdicts rest on
-titles, estimates, and market knowledge alone. The photos are now local
-(`data/{day}/lots/{slug}/images/`), every lot has at least one, and you can open them.
-This is the single biggest capability gain and it converts CHECK FIRST verdicts into real
-calls. It matters even more now that we know full descriptions were never captured (§1) —
-the images are the only condition evidence on disk.
+**Order matters.** The catalogue description is on disk for every lot (§1) and it states
+dimensions, weights, hallmark years, makers, provenance and condition that no photograph
+can give you. Read it before forming a view. Then use the images to test it — because a
+material share of this catalogue does not survive that test, and finding where it fails is
+most of the value in the analysis.
+
+Two worked examples from this sale. Lot **1115** looked Edwardian in the photographs and I
+dated it that way; the description gives a Birmingham **1931** hallmark, which fails the
+antique line outright. Lot **2402** is catalogued as "16th c."; the plates themselves depict
+the Battle of Wimpfen, **1622**. The first is the description correcting me. The second is
+me correcting the description. You need both directions.
+
+The photos are local (`data/{day}/lots/{slug}/images/`), every lot has at least one, and
+you can open them. Together with the descriptions they convert CHECK FIRST verdicts into
+real calls: the description tells you what the house says it is, the photograph tells you
+whether that is true.
+
+The images remain the **only** evidence for anything the cataloguer did not choose to
+mention — and what a catalogue omits is itself information. The Wyeth block is the case in
+point: seven of those lots say only "print" with no process named, and no description
+fills that gap. What settled them was looking at the sheets and seeing every one matted
+flush to the image with no margin, hence no signature, hence no edition.
 
 For flagged lots, actually look for:
 
@@ -312,23 +337,27 @@ portraits.
 
 ## 10. Open questions on already-analysed lots
 
-The images have now been read against every question below. Four are **closed**; the rest
-need a scale, a scale-pan or a loupe and therefore need preview. (Full descriptions are
-not on disk — see §1 — so anything the photos can't settle needs the live lot page or the
-15–27 August preview.)
+Both the photographs and — since the descriptions were recovered from `lot.html` (§1) —
+the catalogue's own text have been read against every question below. **Eight of the ten
+rows are now closed.** Only **1088** (what is actually in the watchmaker's tools) and
+**1017** (period Federal or Colonial Revival) still need the room.
+
+Read this table as a worked example of the method: the images closed three, the recovered
+descriptions closed five more, and two of those five **reversed a call I had already
+made** — 1115 and 1110 both went the wrong way once the catalogue's own words were read.
 
 | Lot | Question | Status |
 |---|---|---|
 | 1164 | Collotype or collagraph? | **CLOSED — neither.** The sheet carries a printed trademark banner "A COLLOGRAPH Print" plus "© 1993 Aaron Ashley Inc., Yonkers, N.Y." and "Made in U.S.A." No pencil signature, no edition. A 1990s commercial reproduction worth $50–100. **The collotype hypothesis was wrong** and the $1,000–2,000 comps do not apply. |
 | 1121 | Actual weight and fineness | **CLOSED — trap confirmed.** Gilt silver Washington Mint Sacagawea novelty in its box and capsule. Quarter pound ≈ 3.6 ozt ≈ $182, and the plating makes a refiner discount it further. Estimate is ~3× melt. |
-| 1115 | Net silver weight, less glass liners | **CLOSED enough to act.** Five small pieces — salt, pepper, lidded mustard, two spoons — with a cobalt liner clearly visible. Edwardian-to-George-V weights, so melt sits at the **bottom** of the $93–231 band. Buy as a cased set, not as metal. |
-| 1033 | Height of the Alvin vase | **Partly closed.** Base is marked with pattern number V1084C and the overlay is genuine engraved period work over seeded glass — authenticity is settled, **height is not**. Shot on seamless white with no scale. Measure at preview. |
-| 1066 | Confirm sterling throughout, get weight | Open — needs the scale. Mid-century, so melt-plus-a-little at best. |
-| 1088 | What's actually in the watchmaker's tools? | Open — photos show a general scatter, no lathe or staking set visible. Count at preview. |
-| 1181 | Postcard contents — Maine RPPCs? | Open — both photos show the albums **closed**. Must be opened at preview; the most preview-dependent lot in Day 1. |
-| 1017 | Period Federal or Colonial Revival? | Open — photos don't show the underside. Look for circular saw marks. |
-| 1110 | Woodbury — oil, watercolour, or etching? | Open — medium still unstated. Note **3467 is a second Woodbury question** ("attributed to", $300–400); resolve both in one visit. |
-| 1069/1070 | Currier originals or later facsimiles? | Open — needs a loupe on the sheet for dot rosette vs. continuous litho tone. |
+| 1115 | Net silver weight, less glass liners | **CLOSED — and it sank the lot.** Cooper Brothers & Sons, Birmingham, **1931**, spoons Sheffield 1932; **6.14 ozt tw stated *without* the glass liners** = 191 g, ~$285 melt, $248 refiner. But 1931 is five years past the antique line, so the age criterion fails on a catalogued hallmark. My inferred Edwardian-to-George-V dating was wrong. **BUY IF CHEAP → PASS.** |
+| 1033 | Height of the Alvin vase | **CLOSED. Height 8 in. (20.3 cm.), max. diam. 3 1/2 in.** — a desk-scale vase, not the larger form the seamless-white shot implied. The description adds two things the photos could not: the glass is *"possibly by Loetz"* and the overlay is marked **999/1000 Fine**, i.e. fine silver rather than sterling. |
+| 1066 | Confirm sterling throughout, get weight | **CLOSED. 3.71 ozt tw = 115 g**, marked Felmore and Sterling, gilt-washed interior, original spring arm, unmonogrammed. ~$172 melt, $149 refiner. Mid-century, so melt-plus-a-little as expected. |
+| 1088 | What's actually in the watchmaker's tools? | **Still open, and the only one left.** The description is as thin as the photos: "a variety of early repair implements, plus (3) small wooden boxes containing tiny watch parts." Count it in the room. |
+| 1181 | Postcard contents — Maine RPPCs? | **CLOSED, and favourably.** Two albums "both including many Massachusetts, **Maine** and New Hampshire views, one with a nice group of **real photo** images", plus **12 cards of the Old Orchard Beach fire of 1907** published by The Lakeside Press, Portland, and 11 of the San Francisco 1906 earthquake. **CHECK FIRST → BUY.** Still worth counting the Maine cards in the room. |
+| 1017 | Period Federal or Colonial Revival? | **Still open.** The description adds form and condition — "American Lobed Top Stand featuring a large knot, acanthus leaf carved urn stanchion, raised on reeded and scrolled legs, **original latch**", checking and stains to the top — but commits to no period. Look for circular saw marks underneath. |
+| 1110 | Woodbury — oil, watercolour, or etching? | **CLOSED — it is an oil.** *Crashing Whitecaps*, **oil on upson board**, signed lower right and marked "Maine", 19½ × 29½ in., in a damaged gold gesso frame. Upson board dates it to the second half of Woodbury's career. That puts it **out of band**, not into it. **3467** remains the cheaper Woodbury question. |
+| 1069/1070 | Currier originals or later facsimiles? | **CLOSED — originals.** 1069 is *"The Destruction of Tea at Boston Harbor"*, hand-coloured lithograph **by Nathaniel Currier for Saxony & Major at 39 Nassau near Fulton Street** — a checkable 1840s address matching the catalogued 1846. 1070 carries the full 1867 title line and is hand coloured, with "one noticeable spot in sky". **Both CHECK FIRST → BUY.** |
 
 ---
 
@@ -346,16 +375,21 @@ repo**, so build fresh to the same spec:
   target**, a **metal and stones block** on precious-metal lots (weight basis, melt range,
   refiner net at 87%, gem resale), **bid bar** (estimate band, current bid, target,
   walk-away), numbers grid, patience line, link to the lot page
-- **All 1,500 lots live in one list.** The 1,373 bulk-screened lots are compact rows in the
-  same list as the write-ups — thumbnail, lot number, day, estimate, category, period and
-  screening reason — and answer to every filter and sort. They were *not* collapsed into an
+- **All 1,500 lots live in one list**, every one a full card. Nothing is collapsed into an
   accordion at the bottom; that earlier arrangement made the page read as 127 lots and was
-  the one substantive complaint about it. The group reasons sit in a reference legend below.
-- **All value figures are mine, not the house's.** Melt weights are estimates from form and
-  photographs — the scrape has no descriptions, so none is catalogued. Margin at target is
-  deliberately blank where my market range spans more than 3×: that width is unresolved
-  uncertainty (a medium, a period, a print process), not value, and averaging it floats the
-  least-known lots to the top of the ranking.
+  the one substantive complaint about it.
+- **Thomaston's own description sits on every card**, in a collapsed `<details>` block
+  headed "Thomaston's description", visually distinct from my analysis. The buyer sees the
+  primary source and my reading of it side by side, and can tell which is which.
+- **All value figures are mine, not the house's.** Melt weight is the **catalogued** weight
+  on the 119 lots that state one, with a named deduction for stones, glass, enamel and
+  liners — the deduction is still my estimate and the basis line says so. On every other
+  precious-metal lot the weight is my estimate from the form and the photographs and needs
+  the scale at preview. Margin at target is deliberately blank where my market range spans
+  more than 3×: that width is unresolved uncertainty (a medium, a period, a print process),
+  not value, and averaging it floats the least-known lots to the top of the ranking.
+- Rebuild melt from catalogued weights with `python3 tools/melt_from_catalogue.py`, which
+  rewrites the `melt` block in `analysis/valuations.json` in place and touches nothing else.
 - Header strip with working metal prices and per-gram rates
 
 Palette is oyster/spruce/verdigris/oxblood/brass; type is Oswald + Spectral + JetBrains
@@ -435,7 +469,10 @@ category-level calls remaining.**
 ### Cataloguing errors found so far
 
 Worth knowing because they show how much of this catalogue is not specialist work, and
-because two of them affect attribution directly:
+because several affect attribution directly. Note the asymmetry now that the descriptions
+are readable: the **descriptions** are generally careful and factual — hallmarks, weights,
+dimensions, provenance — while the **titles** are where the errors cluster. Trust the
+description over the title where they disagree, then test both against the photograph.
 
 - **1112** dates John Manship 1977-2000 (he lived 1927-2000)
 - **1122** places William Meyerowitz in California (Massachusetts/New York)
@@ -492,16 +529,18 @@ Plan the sale around 29 August.
 
 ### Priorities from here
 
-1. **Preview is the only remaining bottleneck.** The desk work is done. Six of the ten §10
-   questions need a scale, a loupe or an opened album — book the 15–27 August preview or a
-   virtual one. The jewellery adds more: lot 3147 (Cross pen — solid or gold-filled?), 3198 and
-   3200 (gold watch cases — solid or capped?), 3094 (natural or Linde synthetic star ruby?),
-   2498 (Type A jadeite or dyed?), 3243–3245 (ancient intaglios or modern casts?).
-   The final sweep adds: **1101** (mahjong tiles — bone, ivory or plastic? affects legality as
-   well as value), **2340/2346** (fan sticks — ivory or not?), **2273** (apothecary case — count
-   the bottles against the recesses), **2078** (sailmaker's tools — count against recesses, and
-   check the handles for marine-mammal material), **2294** (UV the Preble jug's spout for
-   restoration), **2438** (open the three boxes of Iznik tiles and count what is whole).
+1. **Preview is the only remaining bottleneck, and the list is now short.** Recovering the
+   descriptions closed most of what used to be on it. Answered by the catalogue and no longer
+   needing the room: **3147** (says "**Solid** 14K"), **1101** (bone and bamboo, not ivory —
+   no legal problem), **2340/2346** (ivory, confirmed — avoid), **3198/3200** (cases stated as
+   solid 18K and 14K, though **no weight is given, so the scale is still needed**).
+   **Still needs preview:** §10's **1088** and **1017**; **3094** (25 ct star ruby — the
+   estimate says synthetic, confirm with a loupe); **2498** (Type A jadeite or dyed?);
+   **3243–3245** (ancient intaglios or modern casts?); **2273** (count the apothecary bottles
+   against the recesses); **2078** (count the sailmaker's tools, and check the handles for
+   marine-mammal material); **2294** (UV the Preble jug's spout for restoration); **2438**
+   (open the three boxes of Iznik tiles and count what is whole); and the **119 catalogued
+   weights** are the house's figures, not mine — spot-check the important ones on a scale.
 2. Re-check `current_bid` before the sale: the figures in `data/` are a scrape-time
    snapshot, not live.
 3. If further depth is wanted, the honest answer is that it now needs objects in hand rather
