@@ -209,7 +209,7 @@
  },
  {
   "lot": 1498,
-  "verdict": "BUY",
+  "verdict": "BUY IF CHEAP",
   "criteria": [
    "antique"
   ],
@@ -219,19 +219,19 @@
   "category": "books",
   "period": "georgian",
   "market": [
-   300,
-   650
+   250,
+   500
   ],
   "resale": [
-   210,
-   450
+   170,
+   350
   ],
-  "analysis": "A five-volume 1824 edition of 'Le Robinson Suisse' by Mme de Montolieu, $350-450 -- Isabelle de Montolieu's French translation and continuation of Wyss's Swiss Family Robinson, which is the version that carried the book into the wider European canon. Dated to the year, comfortably antique, complete as a five-volume set, and inside the band. Complete early sets in period bindings are much better than odd volumes.",
-  "problems": "French-language early-19th-century juveniles have a limited American audience, which is why this is affordable. Confirm all five volumes are present and uniformly bound, that the half-titles and any plates are there, and that the set has not been made up from two broken ones -- mismatched spine labels and different heights are the tell. Expect foxing.",
-  "target": 350,
-  "ceiling": 475,
+  "analysis": "Still a genuinely antique complete five-volume set of Mme de Montolieu's 'Le Robinson Suisse', with twelve illustrations and a map of the island, in full calf with applied gilt labels. But the description changes both the date and the condition. It gives the imprint as 'Paris, Chez Arthus Bertrand, 1826' where the lot title says 1824 -- one of the two is wrong, and it matters for an edition-sensitive book.",
+  "problems": "The bindings are failing, which I had asked about and assumed the best of: 'BOARDS OFF OR LOOSE, but present, LEATHER SPINE COVERING HALF GONE ON VOL 2; off but present from vol 4, scattered edge...'. That is a set needing rebacking on at least two volumes to be shelvable, which costs more than the lot. Complete and present, but not sound. Downgraded from BUY on that basis. Also reconcile the 1824 in the title against the 1826 in the description before bidding.",
+  "target": 250,
+  "ceiling": 375,
   "patience": "Moderate.",
-  "star": true
+  "star": false
  },
  {
   "lot": 1478,

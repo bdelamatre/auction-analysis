@@ -1,8 +1,12 @@
 [
-{
+ {
   "lot": 2300,
   "verdict": "STRONG BUY",
-  "criteria": ["metal", "antique", "named"],
+  "criteria": [
+   "metal",
+   "antique",
+   "named"
+  ],
   "date": "c.1750-1770",
   "status": "antique",
   "evidence": "Inferred",
@@ -13,11 +17,14 @@
   "patience": "Low to moderate. Georgian mugs by documented makers do appear, but rarely at an estimate this close to their own metal value.",
   "star": true,
   "sources": "Weight range is a form-based estimate, not a catalogued figure -- confirm on the scale at preview."
-},
-{
+ },
+ {
   "lot": 2286,
   "verdict": "BUY",
-  "criteria": ["metal", "antique"],
+  "criteria": [
+   "metal",
+   "antique"
+  ],
   "date": "George III, c.1760-1820",
   "status": "antique",
   "evidence": "Catalogued",
@@ -27,11 +34,15 @@
   "ceiling": 190,
   "patience": "Moderate. Georgian skewers are common but this price is at the bottom of the range.",
   "star": true
-},
-{
+ },
+ {
   "lot": 2158,
   "verdict": "BUY",
-  "criteria": ["metal", "antique", "named"],
+  "criteria": [
+   "metal",
+   "antique",
+   "named"
+  ],
   "date": "c.1795-1820",
   "status": "antique",
   "evidence": "Inferred",
@@ -41,11 +52,15 @@
   "ceiling": 420,
   "patience": "Low to moderate. Named Federal New England silversmiths in this price band are the exact intersection this buyer wants and they are not weekly occurrences.",
   "star": true
-},
-{
+ },
+ {
   "lot": 2159,
   "verdict": "BUY",
-  "criteria": ["metal", "antique", "named"],
+  "criteria": [
+   "metal",
+   "antique",
+   "named"
+  ],
   "date": "c.1800",
   "status": "antique",
   "evidence": "Catalogued",
@@ -55,11 +70,14 @@
   "ceiling": 400,
   "patience": "Moderate. Coin silver spoons are everywhere; matched named-maker sets of six with a date attribution are less common.",
   "star": true
-},
-{
+ },
+ {
   "lot": 2157,
   "verdict": "BUY",
-  "criteria": ["metal", "antique"],
+  "criteria": [
+   "metal",
+   "antique"
+  ],
   "date": "mid-19th c.",
   "status": "antique",
   "evidence": "Catalogued",
@@ -69,11 +87,14 @@
   "ceiling": 440,
   "patience": "High. Coin silver spoon groups run constantly.",
   "star": false
-},
-{
+ },
+ {
   "lot": 2320,
   "verdict": "BUY IF CHEAP",
-  "criteria": ["metal", "antique"],
+  "criteria": [
+   "metal",
+   "antique"
+  ],
   "date": "19th c.",
   "status": "antique",
   "evidence": "Catalogued",
@@ -83,11 +104,14 @@
   "ceiling": 380,
   "patience": "Very high. English sterling flatware is the most consistently available precious metal at any general sale.",
   "star": false
-},
-{
+ },
+ {
   "lot": 2323,
   "verdict": "BUY IF CHEAP",
-  "criteria": ["metal", "antique"],
+  "criteria": [
+   "metal",
+   "antique"
+  ],
   "date": "19th c.",
   "status": "antique",
   "evidence": "Catalogued",
@@ -97,11 +121,14 @@
   "ceiling": 270,
   "patience": "Very high.",
   "star": false
-},
-{
+ },
+ {
   "lot": 2068,
   "verdict": "STRONG BUY",
-  "criteria": ["antique", "marine"],
+  "criteria": [
+   "antique",
+   "marine"
+  ],
   "date": "18th c.",
   "status": "antique",
   "evidence": "Catalogued",
@@ -111,11 +138,14 @@
   "ceiling": 550,
   "patience": "Moderate. Sea chests are common in Maine but 18th-century examples at this money are not.",
   "star": true
-},
-{
+ },
+ {
   "lot": 2081,
   "verdict": "BUY",
-  "criteria": ["antique", "marine"],
+  "criteria": [
+   "antique",
+   "marine"
+  ],
   "date": "19th c.",
   "status": "antique",
   "evidence": "Catalogued",
@@ -125,25 +155,41 @@
   "ceiling": 480,
   "patience": "High. 19th-century sea chests appear at most Maine sales.",
   "star": false
-},
-{
+ },
+ {
   "lot": 2082,
   "verdict": "BUY",
-  "criteria": ["antique", "marine", "named"],
-  "date": "19th c.",
+  "criteria": [
+   "antique",
+   "marine",
+   "maker"
+  ],
+  "date": "1870",
   "status": "antique",
   "evidence": "Catalogued",
-  "analysis": "Spencer, Browning & Co. were among the most respected London instrument makers of the 19th century and their name on a sextant is a real attribution rather than a retailer's stamp. A cased 19th-century sextant at $500-700 is a proper antique instrument at a fair price, and five photographs suggests the case and fittings are being shown.",
-  "problems": "Completeness is the whole question on cased instruments. Count the telescopes and shades against the fitted recesses -- a sextant missing its inverting scope, its sighting tube or its adjusting key is worth substantially less. Check the arc for corrosion and that the index mirror is not desilvered. Empty slots are money off.",
-  "target": 400,
-  "ceiling": 650,
+  "analysis": "The description turns this from a good instrument into a documented one. A mid-19th-century English marine sextant by SPENCER, BROWNING & CO., London -- one of the great names in navigational instruments -- retailed by S. THAXTER & SON, BOSTON, in ebony and brass with a bone-inlaid arc and maker's plaque, with a DATE OF 1870 STAMPED TO THE BACK OF THE FRAME, and 'originally the property of Captain Ebenezer Palmer, Dorchester'. That is a named maker, a named American retailer, a stamped year and a named owning captain on one object. For a coastal Maine collection this is the marine criterion and the antique criterion met together with documentation, and at $500-700 it is inside the band.",
+  "problems": "'Split to top of case' -- the case is original and a split lid is a repair, not a disaster, but it is the one stated fault. Completeness is still the question the catalogue does not answer: count the telescopes, the shades and the key against the fitted recesses, because a sextant missing its inverting scope or its shades is worth a fraction. The Palmer provenance is asserted, not evidenced; ask what it rests on. 'Dorchester, N.P.' is unexplained -- the catalogue guesses New Brunswick, which would make him a Maritimes rather than a Massachusetts captain.",
+  "target": 550,
+  "ceiling": 750,
   "patience": "Moderate. Sextants run regularly in marine sales; complete cased examples by top makers less so.",
-  "star": true
-},
-{
+  "star": true,
+  "market": [
+   700,
+   1400
+  ],
+  "resale": [
+   480,
+   970
+  ]
+ },
+ {
   "lot": 2093,
   "verdict": "STRONG BUY",
-  "criteria": ["maine", "marine", "antique"],
+  "criteria": [
+   "maine",
+   "marine",
+   "antique"
+  ],
   "date": "c.1910",
   "status": "border",
   "evidence": "Catalogued",
@@ -153,11 +199,14 @@
   "ceiling": 750,
   "patience": "Low. Identified midcoast vessels are the honest case for going past comp.",
   "star": true
-},
-{
+ },
+ {
   "lot": 2118,
   "verdict": "STRONG BUY",
-  "criteria": ["maine", "antique"],
+  "criteria": [
+   "maine",
+   "antique"
+  ],
   "date": "19th c.",
   "status": "antique",
   "evidence": "Inferred",
@@ -167,11 +216,14 @@
   "ceiling": 700,
   "patience": "Low. Attributed Maine redware is uncommon enough that this is a legitimate stretch.",
   "star": true
-},
-{
+ },
+ {
   "lot": 2139,
   "verdict": "STRONG BUY",
-  "criteria": ["maine", "antique"],
+  "criteria": [
+   "maine",
+   "antique"
+  ],
   "date": "19th c.",
   "status": "antique",
   "evidence": "Inferred",
@@ -181,11 +233,13 @@
   "ceiling": 520,
   "patience": "Low. Named-maker Maine painted furniture at this price is genuinely uncommon.",
   "star": true
-},
-{
+ },
+ {
   "lot": 2122,
   "verdict": "BUY",
-  "criteria": ["antique"],
+  "criteria": [
+   "antique"
+  ],
   "date": "18th c.",
   "status": "antique",
   "evidence": "Catalogued",
@@ -195,11 +249,13 @@
   "ceiling": 700,
   "patience": "Moderate. Period candlestands appear regularly but tiger maple examples with a period attribution are the better end.",
   "star": true
-},
-{
+ },
+ {
   "lot": 2127,
   "verdict": "BUY",
-  "criteria": ["antique"],
+  "criteria": [
+   "antique"
+  ],
   "date": "18th c.",
   "status": "antique",
   "evidence": "Catalogued",
@@ -209,11 +265,13 @@
   "ceiling": 520,
   "patience": "Moderate.",
   "star": true
-},
-{
+ },
+ {
   "lot": 2154,
   "verdict": "BUY",
-  "criteria": ["antique"],
+  "criteria": [
+   "antique"
+  ],
   "date": "18th c.",
   "status": "antique",
   "evidence": "Catalogued",
@@ -223,11 +281,13 @@
   "ceiling": 700,
   "patience": "Moderate. Painted 18th-century chairs appear regularly in New England but original-surface examples at this price are the better end of the range.",
   "star": true
-},
-{
+ },
+ {
   "lot": 2295,
   "verdict": "STRONG BUY",
-  "criteria": ["antique"],
+  "criteria": [
+   "antique"
+  ],
   "date": "17th c.",
   "status": "antique",
   "evidence": "Catalogued",
@@ -237,11 +297,13 @@
   "ceiling": 700,
   "patience": "Low to moderate. Genuine 17th-century oak at this money is uncommon and the price band is unlikely to hold.",
   "star": true
-},
-{
+ },
+ {
   "lot": 2302,
   "verdict": "BUY",
-  "criteria": ["antique"],
+  "criteria": [
+   "antique"
+  ],
   "date": "1681",
   "status": "antique",
   "evidence": "Catalogued",
@@ -251,11 +313,13 @@
   "ceiling": 560,
   "patience": "Moderate.",
   "star": true
-},
-{
+ },
+ {
   "lot": 2312,
   "verdict": "BUY",
-  "criteria": ["antique"],
+  "criteria": [
+   "antique"
+  ],
   "date": "18th c.",
   "status": "antique",
   "evidence": "Catalogued",
@@ -265,11 +329,13 @@
   "ceiling": 520,
   "patience": "High. Pine boxes are common.",
   "star": false
-},
-{
+ },
+ {
   "lot": 2288,
   "verdict": "BUY",
-  "criteria": ["antique"],
+  "criteria": [
+   "antique"
+  ],
   "date": "18th c.",
   "status": "antique",
   "evidence": "Catalogued",
@@ -279,11 +345,13 @@
   "ceiling": 640,
   "patience": "Moderate, and improved by the fact that you have four chances at essentially the same object in one afternoon.",
   "star": true
-},
-{
+ },
+ {
   "lot": 2324,
   "verdict": "CHECK FIRST",
-  "criteria": ["antique"],
+  "criteria": [
+   "antique"
+  ],
   "date": "16th c. claimed",
   "status": "border",
   "evidence": "Catalogued",
@@ -293,11 +361,13 @@
   "ceiling": 600,
   "patience": "Low if genuine, irrelevant if not. Worth the preview trip to resolve.",
   "star": true
-},
-{
+ },
+ {
   "lot": 2243,
   "verdict": "STRONG BUY",
-  "criteria": ["antique"],
+  "criteria": [
+   "antique"
+  ],
   "date": "1652",
   "status": "antique",
   "evidence": "Catalogued",
@@ -307,11 +377,14 @@
   "ceiling": 700,
   "patience": "Low to moderate. Genuine 17th-century imprints at this money are not a regular occurrence at a Maine general sale.",
   "star": true
-},
-{
+ },
+ {
   "lot": 2107,
   "verdict": "BUY",
-  "criteria": ["antique", "marine"],
+  "criteria": [
+   "antique",
+   "marine"
+  ],
   "date": "1837",
   "status": "antique",
   "evidence": "Catalogued",
@@ -321,11 +394,14 @@
   "ceiling": 320,
   "patience": "Moderate. Bowditch editions appear regularly but pre-1840 ones in a marine sale usually attract more than this.",
   "star": true
-},
-{
+ },
+ {
   "lot": 2055,
   "verdict": "BUY",
-  "criteria": ["antique", "marine"],
+  "criteria": [
+   "antique",
+   "marine"
+  ],
   "date": "1820-1830",
   "status": "antique",
   "evidence": "Catalogued",
@@ -335,11 +411,14 @@
   "ceiling": 650,
   "patience": "Low. Dated whaling manuscript records are uncommon.",
   "star": true
-},
-{
+ },
+ {
   "lot": 2102,
   "verdict": "BUY",
-  "criteria": ["antique", "marine"],
+  "criteria": [
+   "antique",
+   "marine"
+  ],
   "date": "early 19th c.",
   "status": "antique",
   "evidence": "Catalogued",
@@ -349,11 +428,14 @@
   "ceiling": 560,
   "patience": "Moderate.",
   "star": true
-},
-{
+ },
+ {
   "lot": 2095,
   "verdict": "BUY",
-  "criteria": ["antique", "marine"],
+  "criteria": [
+   "antique",
+   "marine"
+  ],
   "date": "pre-1865",
   "status": "antique",
   "evidence": "Catalogued",
@@ -363,11 +445,14 @@
   "ceiling": 720,
   "patience": "Moderate.",
   "star": true
-},
-{
+ },
+ {
   "lot": 2071,
   "verdict": "BUY",
-  "criteria": ["antique", "marine"],
+  "criteria": [
+   "antique",
+   "marine"
+  ],
   "date": "19th c.",
   "status": "antique",
   "evidence": "Catalogued",
@@ -377,11 +462,14 @@
   "ceiling": 460,
   "patience": "Moderate. Whalecraft runs regularly in marine sales but marked examples are the better end.",
   "star": true
-},
-{
+ },
+ {
   "lot": 2072,
   "verdict": "BUY",
-  "criteria": ["antique", "marine"],
+  "criteria": [
+   "antique",
+   "marine"
+  ],
   "date": "19th c.",
   "status": "antique",
   "evidence": "Catalogued",
@@ -391,11 +479,14 @@
   "ceiling": 400,
   "patience": "Moderate.",
   "star": false
-},
-{
+ },
+ {
   "lot": 2075,
   "verdict": "BUY IF CHEAP",
-  "criteria": ["antique", "marine"],
+  "criteria": [
+   "antique",
+   "marine"
+  ],
   "date": "19th c.",
   "status": "antique",
   "evidence": "Catalogued",
@@ -405,11 +496,15 @@
   "ceiling": 300,
   "patience": "High. Long whaling tools are the commonest whalecraft category.",
   "star": false
-},
-{
+ },
+ {
   "lot": 2042,
   "verdict": "BUY",
-  "criteria": ["antique", "marine", "named"],
+  "criteria": [
+   "antique",
+   "marine",
+   "named"
+  ],
   "date": "19th c.",
   "status": "antique",
   "evidence": "Catalogued",
@@ -419,11 +514,14 @@
   "ceiling": 460,
   "patience": "Moderate. Telescopes are common in marine sales, signed ones by known makers less so.",
   "star": true
-},
-{
+ },
+ {
   "lot": 2085,
   "verdict": "BUY IF CHEAP",
-  "criteria": ["antique", "marine"],
+  "criteria": [
+   "antique",
+   "marine"
+  ],
   "date": "Victorian",
   "status": "antique",
   "evidence": "Catalogued",
@@ -433,11 +531,13 @@
   "ceiling": 380,
   "patience": "High. Nautical barometers of this type are a decorating staple with deep supply.",
   "star": false
-},
-{
+ },
+ {
   "lot": 2130,
   "verdict": "BUY IF CHEAP",
-  "criteria": ["antique"],
+  "criteria": [
+   "antique"
+  ],
   "date": "19th c.",
   "status": "border",
   "evidence": "Unverified",
@@ -447,11 +547,13 @@
   "ceiling": 260,
   "patience": "Very high.",
   "star": false
-},
-{
+ },
+ {
   "lot": 2123,
   "verdict": "BUY",
-  "criteria": ["antique"],
+  "criteria": [
+   "antique"
+  ],
   "date": "19th c.",
   "status": "antique",
   "evidence": "Catalogued",
@@ -461,11 +563,13 @@
   "ceiling": 480,
   "patience": "Moderate. Butter stamps are common individually; groups of eight less so.",
   "star": false
-},
-{
+ },
+ {
   "lot": 2128,
   "verdict": "BUY",
-  "criteria": ["antique"],
+  "criteria": [
+   "antique"
+  ],
   "date": "19th c.",
   "status": "antique",
   "evidence": "Catalogued",
@@ -475,11 +579,13 @@
   "ceiling": 320,
   "patience": "Moderate.",
   "star": false
-},
-{
+ },
+ {
   "lot": 2133,
   "verdict": "BUY IF CHEAP",
-  "criteria": ["antique"],
+  "criteria": [
+   "antique"
+  ],
   "date": "19th c.",
   "status": "antique",
   "evidence": "Catalogued",
@@ -489,11 +595,13 @@
   "ceiling": 420,
   "patience": "High. Samplers are a steady category with regular supply.",
   "star": false
-},
-{
+ },
+ {
   "lot": 2279,
   "verdict": "BUY IF CHEAP",
-  "criteria": ["antique"],
+  "criteria": [
+   "antique"
+  ],
   "date": "18th c.",
   "status": "antique",
   "evidence": "Catalogued",
@@ -503,11 +611,13 @@
   "ceiling": 290,
   "patience": "High. Pewter is a soft market with plenty of supply.",
   "star": false
-},
-{
+ },
+ {
   "lot": 2311,
   "verdict": "BUY IF CHEAP",
-  "criteria": ["antique"],
+  "criteria": [
+   "antique"
+  ],
   "date": "18th c.",
   "status": "antique",
   "evidence": "Catalogued",
@@ -517,11 +627,13 @@
   "ceiling": 400,
   "patience": "Moderate.",
   "star": false
-},
-{
+ },
+ {
   "lot": 2313,
   "verdict": "BUY IF CHEAP",
-  "criteria": ["antique"],
+  "criteria": [
+   "antique"
+  ],
   "date": "19th c.",
   "status": "antique",
   "evidence": "Catalogued",
@@ -531,11 +643,14 @@
   "ceiling": 560,
   "patience": "High.",
   "star": false
-},
-{
+ },
+ {
   "lot": 2321,
   "verdict": "BUY",
-  "criteria": ["antique", "named"],
+  "criteria": [
+   "antique",
+   "named"
+  ],
   "date": "c.1840-1864",
   "status": "antique",
   "evidence": "Inferred",
@@ -545,11 +660,13 @@
   "ceiling": 440,
   "patience": "Moderate. Original Victorian illustration drawings appear periodically and are consistently underpriced relative to the artists' reputations.",
   "star": true
-},
-{
+ },
+ {
   "lot": 2326,
   "verdict": "BUY IF CHEAP",
-  "criteria": ["antique"],
+  "criteria": [
+   "antique"
+  ],
   "date": "early 18th c.",
   "status": "antique",
   "evidence": "Catalogued",
@@ -559,11 +676,14 @@
   "ceiling": 420,
   "patience": "Moderate.",
   "star": false
-},
-{
+ },
+ {
   "lot": 2360,
   "verdict": "PASS",
-  "criteria": ["antique", "metal"],
+  "criteria": [
+   "antique",
+   "metal"
+  ],
   "date": "19th c.",
   "status": "antique",
   "evidence": "Catalogued",
@@ -573,11 +693,13 @@
   "ceiling": 200,
   "patience": "Irrelevant.",
   "star": false
-},
-{
+ },
+ {
   "lot": 2004,
   "verdict": "PASS",
-  "criteria": ["marine"],
+  "criteria": [
+   "marine"
+  ],
   "date": "19th c. or later",
   "status": "border",
   "evidence": "Unverified",
@@ -587,11 +709,14 @@
   "ceiling": 0,
   "patience": "Not applicable -- out of band.",
   "star": false
-},
-{
+ },
+ {
   "lot": 2026,
   "verdict": "PASS",
-  "criteria": ["maine", "marine"],
+  "criteria": [
+   "maine",
+   "marine"
+  ],
   "date": "19th c.",
   "status": "antique",
   "evidence": "Unverified",
@@ -601,5 +726,5 @@
   "ceiling": 0,
   "patience": "Not applicable -- out of band.",
   "star": true
-}
+ }
 ]

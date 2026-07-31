@@ -85,7 +85,7 @@
  },
  {
   "lot": 1219,
-  "verdict": "BUY",
+  "verdict": "BUY IF CHEAP",
   "criteria": [
    "named",
    "antique"
@@ -96,19 +96,19 @@
   "category": "painting",
   "period": "edwardian",
   "market": [
-   420,
-   800
+   350,
+   700
   ],
   "resale": [
-   280,
-   580
+   240,
+   480
   ],
-  "analysis": "Edward A. Page (MA, 1850-1928) at $500-700. Died in 1928, so the overwhelming majority of his output predates the antique line -- another of the handful of lots where age is close to settled rather than argued. A Massachusetts painter, so New England rather than Maine.",
-  "problems": "Border rather than antique because two years of his output falls the wrong side. Minor name. Establish the medium and subject; a coastal New England subject strengthens the case locally.",
-  "target": 380,
-  "ceiling": 700,
+  "analysis": "The description answers the subject question and the answer removes the reason I liked it. Not a coastal New England scene but a 'BERKSHIRES Landscape with bend in river, oil on canvas, signed lower right, CIRCA 1900, in the original gilt molded frame'. Western Massachusetts, so no Maine or coastal relevance at all -- it earns nothing on the regional criterion and Page (1850-1928) is a minor name. The original frame and the c.1900 date are the two things still in its favour.",
+  "problems": "'CLEANED AND RELINED, small repaired tears.' A relined canvas with repaired tears is a picture that has been through conservation, and while relining is common and not fatal, it caps resale and should be priced in. Combined with a subject that does not fit the collection, this comes down from BUY.",
+  "target": 300,
+  "ceiling": 450,
   "patience": "Moderate.",
-  "star": true
+  "star": false
  },
  {
   "lot": 1191,
@@ -117,9 +117,9 @@
    "named",
    "antique"
   ],
-  "date": "c.1885-1926",
+  "date": "1907",
   "status": "border",
-  "evidence": "Inferred",
+  "evidence": "Catalogued",
   "category": "painting",
   "period": "edwardian",
   "market": [
@@ -130,8 +130,8 @@
    250,
    500
   ],
-  "analysis": "Amanda Brewster Sewell (1859-1926) at $400-600 -- she died in the antique-line year itself, so effectively all her work qualifies. Sewell was a properly trained academic painter who exhibited at the 1893 Chicago Exposition, and women painters of that generation have been steadily reassessed upward.",
-  "problems": "Five photographs, which is decent. Her market remains thin despite the reassessment, so do not expect resale strength. Check for relining and for the darkened varnish typical of academic oils of the period.",
+  "analysis": "Signed and dated by the description: 'oil on MAHOGANY PANEL, signed lower right \"A. Brewster Sewell, A.N.A. (Associate of the National Academy), 1907\", in what is probably the original gilt gesso deep cove frame'. So the date is on the picture, not inferred from her lifespan, and she has signed with her Academy postnominal -- which she was entitled to, having won the Norman W. Dodge Prize at the National Academy in 1888. A dated, panel-painted, Academy-signed portrait by a woman painter of the period, probably in its original frame.",
+  "problems": "'SCRATCH TO FOREHEAD, minor frame loss.' A scratch on the sitter's forehead is the worst placement possible on a bust portrait -- it is the first thing the eye goes to and inpainting on flesh tone is the hardest restoration to hide. Weigh that before bidding, and look at it under raking light. 1907 straddles the antique line, hence border. Her market remains thin.",
   "target": 350,
   "ceiling": 580,
   "patience": "Moderate. Turn-of-the-century American women painters at this money are consistently undervalued.",

@@ -1477,17 +1477,17 @@
   "category": "painting",
   "period": "victorian",
   "market": [
-   250,
-   600
+   200,
+   500
   ],
   "resale": [
-   170,
-   410
+   140,
+   350
   ],
-  "analysis": "A 19th-century naive farm view of upstate New York, $300-400. Anonymous 19th-century American folk painting is a category the standing brief specifically endorses: no maker premium to pay for, and it satisfies the age criterion outright. Naive farm portraits -- the house, the barn, the stock, the fences -- are documentary as well as decorative.",
-  "problems": "Catalogued to the century with no artist and no date, so the age rests on the house's judgement. Naive paintings are also faked, and 'aged' 20th-century folk paintings on old board are a known trade. Check the stretcher, the tacking edges and the craquelure. Upstate New York rather than New England, so no regional premium here.",
-  "target": 275,
-  "ceiling": 400,
+  "analysis": "The description is a delight and a warning at once. The subject is 'Boy and Girl at a Crane Well, in front of a Dutch Colonial cottage with gambrel roof, roaring river with TRUSS BRIDGE in valley to right, oil on canvas, unsigned, in later gold molded frame'. A Dutch Colonial gambrel cottage and a crane well are genuine Hudson Valley vernacular, which supports the upstate New York attribution. The iron truss bridge is a useful dating detail in its own right -- those are a post-1850 form, so this is second-half-of-the-century work rather than early.",
+  "problems": "'RELINED AND REPAIRED.' On an unsigned naive painting that is a significant discount: relining flattens the impasto that gives folk painting its character, and 'repaired' unspecified means you must look for inpainting under UV. The frame is described as later, so it adds nothing. Naive paintings are also faked, and a relined canvas is harder to read for age, not easier.",
+  "target": 225,
+  "ceiling": 350,
   "patience": "Moderate. Naive American farm views run periodically; good ones with buildings and animals are the better share.",
   "star": false
  },
@@ -1995,9 +1995,9 @@
    620
   ],
   "analysis": "A 1745 Zurich Bible in an ornate leather binding, with 1759 calligraphy, $500-700. Two dates, both catalogued: the printing in 1745 and an added calligraphic inscription in 1759, which is family-record material and is exactly the kind of documentation that lifts a common text into a specific object. Swiss Reformation Bibles of this date in original bindings are handsome, heavy, and genuinely 280 years old. Inside the band at $660-924 all-in.",
-  "problems": "At the top of the band. Eighteenth-century Bibles are not scarce and the market for them is soft -- the value here is in the binding and the calligraphy, not the text. Check the binding is original rather than a later rebacking, that the clasps and bosses are present, and that the calligraphic leaves are integral rather than laid in. Expect worming and dampstaining.",
-  "target": 475,
-  "ceiling": 700,
+  "problems": "The condition line is worse than I assumed and it is all in the binding, which is where I said the value was: 'Damages to pastedown, contents generally good. WORMAGE TO BINDING, BRONZE PLACKET FROM BACK COVER GONE.' So the tooled full calf has worm and the back cover has lost one of its brass fittings -- on a binding with brass corners, hasps and a five-banded spine, a missing placket is conspicuous. The contents are the sound part. Note also that the calligraphy leaf is dated 1759 and there is a further 1779 inscription inside the back endpaper, so the book carries three dates across four decades, which is genuinely good provenance for a family Bible.",
+  "target": 425,
+  "ceiling": 600,
   "patience": "Moderate.",
   "star": true
  },
