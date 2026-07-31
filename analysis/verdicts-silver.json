@@ -1,33 +1,34 @@
 [
  {
   "lot": 1047,
-  "verdict": "BUY IF CHEAP",
+  "verdict": "BUY",
   "criteria": [
-   "antique"
+   "antique",
+   "marine"
   ],
-  "date": "early-to-mid 19th c.",
+  "date": "19th c.",
   "status": "antique",
-  "evidence": "Unverified",
+  "evidence": "Catalogued",
   "category": "tools",
   "period": "federal",
   "market": [
-   120,
-   280
+   300,
+   650
   ],
   "resale": [
-   70,
-   190
+   210,
+   450
   ],
   "melt": {
    "metal": "none",
    "note": "Wrought iron. The word 'silver' does not appear -- this lot classified into silver only by keyword accident. No precious metal."
   },
-  "analysis": "Two early hand-forged iron ladles. Genuine blacksmith-made kitchen ironwork, and the hammer facets and irregular weld lines are effectively impossible to fake convincingly at this price. Honest, dated, useful objects.",
-  "problems": "No date claim from the house. Early ironwork is worth little because supply is deep -- every New England farm produced this. Check for cracks at the socket and whether the handles have been shortened.",
-  "target": 110,
-  "ceiling": 220,
+  "analysis": "The description turns two iron ladles into whaling gear. '(2) VERY LARGE 19th c. Iron Ladles, with copper washed surface, LIKELY USED ON A WHALING SHIP TO RENDER OIL.' At 23 1/2 inches these are trypot ladles -- the tools used at the tryworks to bail boiling oil out of the pots -- and that is a specific, recognisable and genuinely evocative piece of whaling equipment rather than generic kitchen iron. Catalogued to the century, in band at $200-300, and directly on the marine criterion that Day 2 is built around.",
+  "problems": "'Likely' is the house inferring the use from the size, not evidencing it -- large iron ladles were also used in soap-making, sugar-boiling and foundries, and nothing distinguishes them physically. The copper wash is unusual and worth examining; it may be a later plating. Hand-forged iron of this kind is also reproduced for the decorative trade, so look for hammer marks, an irregular weld at the handle joint and deep pitted scale rather than an even modern surface. No maker, no ship.",
+  "target": 225,
+  "ceiling": 350,
   "patience": "Very high. Forged kitchen iron is a constant at Maine sales.",
-  "star": false
+  "star": true
  },
  {
   "lot": 1235,

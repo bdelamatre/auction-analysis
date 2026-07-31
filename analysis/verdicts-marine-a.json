@@ -440,29 +440,29 @@
  },
  {
   "lot": 2003,
-  "verdict": "BUY",
+  "verdict": "STRONG BUY",
   "criteria": [
-   "marine",
-   "antique"
+   "antique",
+   "marine"
   ],
-  "date": "19th c.",
+  "date": "1857",
   "status": "antique",
-  "evidence": "Unverified",
+  "evidence": "Catalogued",
   "category": "marine",
   "period": "victorian",
   "market": [
-   450,
-   900
+   1200,
+   2800
   ],
   "resale": [
-   300,
-   650
+   830,
+   1930
   ],
-  "analysis": "A chart of New Bedford whaler's ship flags. This is a genuinely interesting document -- a printed identification chart of the private signal flags used by the New Bedford whaling fleet, which ties directly to the whaling material running through Day 2 and is a research object rather than a decorative one.",
-  "problems": "No date claim, and these charts were reprinted for the tourist and museum trade through the 20th century. Check the paper and the printing process: period examples are lithographed on wove paper with plate tone, reproductions are offset and too crisp. Two photographs only.",
-  "target": 400,
-  "ceiling": 720,
-  "patience": "Low to moderate. Whaling fleet flag charts are genuinely uncommon.",
+  "analysis": "I recorded this as an undated 19th-century chart. It is nothing of the kind. The description gives the full imprint: 'PRIVATE SIGNALS OF THE WHALING VESSELS &c. BELONGING TO THE PORT OF NEW BEDFORD', published by CHARLES TABER & CO., Dealer in Charts and Nautical Instruments, Corner Water & Union St, New Bedford, 1857. Hand-colored litho. That is a dated, titled, published document of the New Bedford whaling fleet at its absolute peak -- 1857 is the year before the industry's high-water mark -- and each vessel's private house flag is rendered in hand colour. These signal charts are the reference document of American whaling and they are genuinely scarce; they were working ephemera pinned up in counting houses, and few survived. At $600-800 it is inside the band and it is the best piece of whaling documentation in the sale.",
+  "problems": "'Toned' is the whole condition report, and on a large hand-coloured lithograph of 1857 that means the paper has darkened overall -- expect it to be worse in the margins and around the old mount. The frame is described as later, so it adds nothing. Taber charts were reissued in several years and there are modern facsimiles produced for the New Bedford tourist trade; check for a plate mark, laid or wove paper of the period, and hand colour that sits on the surface rather than printed dots. Large sheet, so framing and glazing costs are real.",
+  "target": 650,
+  "ceiling": 850,
+  "patience": "Low. New Bedford private-signal charts do not come through Maine sales often, and a dated 1857 example is the good one.",
   "star": true
  },
  {
