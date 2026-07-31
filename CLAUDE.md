@@ -359,6 +359,42 @@ made** — 1115 and 1110 both went the wrong way once the catalogue's own words 
 | 1110 | Woodbury — oil, watercolour, or etching? | **CLOSED — it is an oil.** *Crashing Whitecaps*, **oil on upson board**, signed lower right and marked "Maine", 19½ × 29½ in., in a damaged gold gesso frame. Upson board dates it to the second half of Woodbury's career. That puts it **out of band**, not into it. **3467** is now answered too: *Scuttlebutt*, **watercolour and pencil on paper, unsigned**, 8½ × 11½ in., at $300–400 — the only Woodbury in the sale that is reachable. |
 | 1069/1070 | Currier originals or later facsimiles? | **CLOSED — originals.** 1069 is *"The Destruction of Tea at Boston Harbor"*, hand-coloured lithograph **by Nathaniel Currier for Saxony & Major at 39 Nassau near Fulton Street** — a checkable 1840s address matching the catalogued 1846. 1070 carries the full 1867 title line and is hand coloured, with "one noticeable spot in sky". **Both CHECK FIRST → BUY.** |
 
+
+---
+
+## 10a. The description re-evaluation — what was swept, and what was not
+
+Every verdict in this file was originally written **before** the catalogue descriptions were
+recovered (§1). Ten signal-driven audit rounds have since re-read them against that text and
+changed **100 verdicts**. The sweeps run, in order of yield:
+
+| Sweep | Found | Notable |
+|---|---|---|
+| Restricted materials named in the description | 12 | **2001** is carved *whale bone* — I had written "bone rather than ivory, so no restriction applies". **2078**, a starred BUY, has whalebone bodkins |
+| Catalogued weights vs my estimates | 63 of 119 wrong | **2286** estimated at 4.6× the real gross; **2457** at a sixth of it |
+| Dates and makers the description supplies | 18 | **1043** is "19th c. … hand dovetailed", the exact tell I had asked for |
+| Condition and provenance lines | 10 | **1498**'s bindings are failing; **2082** gains a Boston retailer, a stamped 1870 and a named captain |
+| Provenance the titles omit | 6 | **2111** quotes the Farragut order in full → STRONG BUY |
+| Asserted absences the text fills | 12 | **2003** is a dated 1857 New Bedford whaling chart → STRONG BUY; **1172** is a Farnsworth lithograph, not a reproduction |
+| Attribution and edition language | 12 | **2405** is a von der Becke posthumous restrike; **2295** is *dated 1670 on the object* |
+
+**Two conclusions in this file were overturned by the sweep** and are corrected above: the Wyeth
+block is ten of eleven reproductions, not eleven (§9), and the "cheaper Woodbury question" at
+**3467** is answered (§10).
+
+**Not swept, and worth knowing:**
+
+- Roughly **55 lots where the title names an artist and the description says *unsigned***. All are
+  PASS on budget, so the verdict does not turn on it, but the analysis text does not say so.
+- The **924 PASS analyses as prose.** The sweeps were signal-driven, not line-by-line. That method
+  found 2003 and 1172, so it works — but it will not catch a lot whose description is
+  interesting in a way no regex anticipates.
+- Roughly **59 minor condition notes** (frame losses, light foxing) on lots where they change
+  nothing. The description now sits on every card, so the buyer sees them regardless.
+
+Yield fell steadily: round 2 produced 12 changes from 31 candidates, round 10 produced 4 from 61.
+The productive seam is close to worked out.
+
 ---
 
 ## 11. Deliverable
@@ -406,15 +442,18 @@ missing.
 **Coverage: complete. All 1,500 lots individually assessed. No gaps, no
 category-level calls remaining.**
 
-- **1,500 of 1,500 lots assessed in full** — 13 STRONG BUY, 172 BUY, 1 STRETCH-WORTHY,
-  364 BUY IF CHEAP, 35 CHECK FIRST, 915 PASS. Every one carries all nine required fields
+- **1,500 of 1,500 lots assessed in full** — 16 STRONG BUY, 171 BUY, 1 STRETCH-WORTHY,
+  360 BUY IF CHEAP, 28 CHECK FIRST, 924 PASS. Every one carries all nine required fields
   plus my own market and resale estimates, and a melt/stones block where there is metal.
 - **Every PASS is now an individual judgement**, not a bucket. The old "category-level PASS"
   device and its 23-reason legend are gone; if a lot is a pass, the card says why for that lot.
-- **Date and evidence class on every lot:** 391 antique, 302 border, 695 modern,
-  112 unverified. Evidence: 363 Catalogued, 643 Inferred, 494 Unverified. The Inferred
-  proportion (43%) is in line with the §6 reference and has not drifted.
-- **262 lots are starred** as worth a second look in the room.
+- **Date and evidence class on every lot:** 403 antique, 304 border, 684 modern,
+  109 unverified. Evidence: 408 Catalogued, 625 Inferred, 467 Unverified. The Inferred
+  proportion (42%) is in line with the §6 reference and has not drifted. Catalogued rose from
+  363 to 408 during the description re-evaluation — that is the recovered text doing its work.
+- **27 lots carry zero resale.** All are elephant ivory or marine-mammal material that cannot
+  lawfully be resold without documentation of age no lot here supplies. See §10a.
+- **266 lots are starred** as worth a second look in the room.
 - **Melt is worked out on every gold and silver piece.** Three lots are estimated below their
   own metal at the working gold price: **3198** (IWC 18K), **3200** (14K Omega De Ville) and
   **3069** (14K brooch, the only one in band).
@@ -531,15 +570,17 @@ description over the title where they disagree, then test both against the photo
 
 ### Where the value landed
 
-The thirteen STRONG BUYs, all inside band: **2300** George III sterling mug by William Cripps
+The sixteen STRONG BUYs, all inside band: **2300** George III sterling mug by William Cripps
 (melt sits close under the estimate), **2294** Liverpool jug with the Commodore Preble
-transfer, **2194** 28-piece Chinese export tea service c.1800–20, **3347** Carroll Thayer
-Berry colour woodblock (confirmed pencil-signed and artist-printed, "imp"; **3348–3350** are
-the others in the group), **2068** 18th-c. pine sea chest at $300–500, **2139** C.F. Hopf
-Kennebunk grain-painted stand, **2118** Maine redware attributed to Norcross, **2093**
-Rockland-identified ship model, **2295** 17th-c. carved oak bible box, **2243** 1652 Anatomy
-of Melancholy, **2398/2399** two consecutive Piranesi plates at $500–800 each, **3487**
-unsigned late-19th-c. Maine watercolour.
+transfer, **2194** 28-piece Chinese export tea service c.1800–20, **2003** the 1857 Charles
+Taber New Bedford whaling private-signals chart, **2111** the 1867 Farragut European Squadron
+order, **3347** Carroll Thayer Berry colour woodblock (confirmed pencil-signed and
+artist-printed, "imp"; **3348–3350** are the others in the group), **2068** 18th-c. pine sea
+chest at $300–500, **2139** C.F. Hopf Kennebunk grain-painted stand, **2118** Maine redware
+attributed to Norcross, **2093** Rockland-identified ship model, **2295** carved oak bible box
+**dated 1670 on the front panel**, **2243** 1652 Anatomy of Melancholy, **2398/2399** two
+consecutive Piranesi plates at $500–800 each, **3188** 14K gold dress set whose metal beats the
+top estimate, **3487** unsigned late-19th-c. Maine watercolour.
 
 Note that **Day 2 carries nearly all of it.** Ten of the thirteen STRONG BUYs are Day 2 lots.
 Plan the sale around 29 August.
