@@ -369,33 +369,68 @@ files to a structured intermediate file, then work in batches and append. Keep a
 manifest of which lot ranges are analysed so gaps stay visible rather than silently
 missing.
 
-**Coverage: all 1,500 lots across all three days have been triaged. No gaps.**
+**Coverage: complete. All 1,500 lots individually assessed. No gaps, no
+category-level calls remaining.**
 
-- **Every lot has a verdict.** Nothing is "screened out" any more — the buyer asked for the
-  whole sale evaluated, including the passes.
-- **876 lots assessed in full** (11 STRONG BUY, 131 BUY, 1 STRETCH-WORTHY, 214 BUY IF CHEAP,
-  32 CHECK FIRST, 487 PASS). Every one carries all nine required fields plus my market and
-  resale estimates, and a melt/stones block where there is metal.
-- **Complete categories:** jewellery (95), watches and clocks (21), silver and gold (52),
-  marine and whaling (102), paintings (all three days), prints and works on paper.
-- **624 lots left**, and they are now concentrated in the decorative and household
-  categories rather than anywhere criteria-relevant.
-- **624 lots still on a category-level PASS.** By category: decorative 190, furniture 99,
-  ceramics 82, textiles/rugs 52, arms 39, books 37, toys 19, folk art 15, vehicles 11, glass 7,
-  tools 7, sculpture 6. The buyer wants all of them assessed individually; work through it a
-  category at a time and update this list.
-- **Melt is worked out on every gold and silver piece** in the completed categories. Three
-  lots are estimated below their own metal at the working gold price: **3198** (IWC 18K),
-  **3200** (14K Omega De Ville) and **3069** (14K brooch, the only one in band).
-- A category-level PASS is a reasoned call applied to a lot that clearly fits an identified
-  pattern (wrong coast, above band, modern repro). It is **not** an individual assessment and
-  must not be described as one.
-- The 23 category-level PASS reasons are listed in a legend on the page and filterable from the
-  "Reason for PASS" menu.
-  The largest are: above the budget band (272), general no-fit (177), Maine artists
-  reviewed but not pursued (156), listed painters (118), Chinese/Asian decorative (112),
-  fine jewellery and watches (98).
-- The old 1142–1161 gap is closed; those lots are triaged.
+- **1,500 of 1,500 lots assessed in full** — 13 STRONG BUY, 172 BUY, 1 STRETCH-WORTHY,
+  364 BUY IF CHEAP, 35 CHECK FIRST, 915 PASS. Every one carries all nine required fields
+  plus my own market and resale estimates, and a melt/stones block where there is metal.
+- **Every PASS is now an individual judgement**, not a bucket. The old "category-level PASS"
+  device and its 23-reason legend are gone; if a lot is a pass, the card says why for that lot.
+- **Date and evidence class on every lot:** 391 antique, 302 border, 695 modern,
+  112 unverified. Evidence: 363 Catalogued, 643 Inferred, 494 Unverified. The Inferred
+  proportion (43%) is in line with the §6 reference and has not drifted.
+- **262 lots are starred** as worth a second look in the room.
+- **Melt is worked out on every gold and silver piece.** Three lots are estimated below their
+  own metal at the working gold price: **3198** (IWC 18K), **3200** (14K Omega De Ville) and
+  **3069** (14K brooch, the only one in band).
+- Verdict files are `analysis/verdicts-*.json`, all matched by the same glob. A verdict row may
+  be keyed by `slug` instead of `lot` — two lots in the sale have no lot number (the VW Beetle
+  and the garden urns), so those two are keyed by slug.
+
+### Findings from the final sweep (the categories the earlier passes had deferred)
+
+- **2294 English Liverpool jug with the Commodore Preble transfer, $400–600.** Edward Preble
+  was born in Falmouth (now Portland). A c.1805–15 creamware jug bearing Maine's naval hero,
+  in band only because it is chipped — the §2 condition-discount case exactly. STRONG BUY.
+- **2194 twenty-eight-piece Chinese export tea service, $500–700.** Catalogued "19th century";
+  the drum teapot, the handleless tea bowls with matching coffee cans and the spearhead-and-cell
+  border put it c.1800–1820. Hand-painted, not transfer. STRONG BUY.
+- **2365 bronze lady's hand** — the wrist face is struck **F. BARBEDIENNE**. Antique plus named
+  maker, inside band. The catalogue misspells it "Barbidienne."
+- Other buys: **2169** 1793 Newburyport memorial (dated, named), **2131** 1834 Eliza Russell
+  sampler, **2402** two Merian-school Wimpfen battle plates (see errors below), **2415** pair of
+  17th-c. Spanish brass candlesticks, **2403** c.1900 Schilling/Brill plaster mathematical model,
+  **2168** armorial powder horn, **2148** F.B. Norton stoneware jug, **1153** Catelin/Boulenger
+  charger, **2134** signed Mundwiler coverlet, **2162** 39-star silk flag, **1231** 18th-c. drum
+  canteen, **1485** 1745 Zurich Bible, **1487/1493/1478/2404/1498** the early paper, **2078**
+  cased sailmaker's tools, **1187** 19th-c. Mexican santos, **2283** marked Soutter kettle at $100.
+
+### Categories to avoid outright, with the reason on the card
+
+- **Eight ivory lots** (2338, 2342, 2344, 2379, 2392, 2473, 2484, 2504) plus **2505** and the
+  walrus tusks at **1304**. All carry **zero resale**: federal and Maine law require documentary
+  proof of age for an antique exemption and none of these lots supplies it. A collector who
+  might one day let something go loses the whole value.
+- **2439** "ancient Assyrian sandstone rubble" and **2429** an unprovenanced Greco-Roman marble
+  head. Unprovenanced Mesopotamian and classical antiquities carry import-restriction and
+  repatriation exposure as well as authenticity risk.
+
+### Blocks identified and treated as one decision
+
+- The **Wyeth block is closed.** All eleven lots 1162–1172 are accounted for and none is a signed
+  edition print. 1166/1167/1168/1170/1171 are each matted flush to the image with no margin,
+  no signature and no edition — a signed impression is never matted that way, because the pencil
+  signature in the margin is the entire value.
+- **Day 1 Chinese decorative, 1341–1445** — ~30 lots almost all estimated $300–400. The flat rate
+  is the tell: a decorator's collection lotted at a default price, not valued individually.
+- **Day 2 rug consignment, 2172–2271** — thirty carpets, and **only 2268 carries a date**. The
+  oriental rug market has fallen further than almost any decorative category since 2010; these
+  estimates are at or above it and nearly all are above band.
+- **Studio pottery, 1135–1151** — nine lots, all post-war, gallery-priced.
+- **Riflescopes 1243–1265, Remington bullet knives 1245–1267 (six lots), RIAA awards 1323–1327,
+  Irish pub fittings 3026/3029/3031, anonymous animal bronzes 1180/3018/3023/3173** — each one
+  consignment, each better read as a block than lot by lot.
 
 ### Cataloguing errors found so far
 
@@ -415,28 +450,62 @@ because two of them affect attribution directly:
   magnitude below a genuine work, with no "attributed to" qualifier — the estimate is the
   house telling you what it actually thinks
 - **2358** attributes an "18th-century" painting to an artist who died in 1652
+- **2402** catalogues two "16th c. German battle maps" that are Merian-school engravings of the
+  Battle of Wimpfen, **1622** — wrong by a century, and it cuts both ways: it suppresses
+  specialist interest and it means nothing else in the description can be relied on
+- **2364** sells a **c.1875–1900** Boulenger-manner faience platter as "Lille 1737". "Lille 1737"
+  is a retro-mark used by late-19th-c. French decorators; the plate is signed H. Clerc, the
+  catalogue reads it M. Clerc. Same consignment as **1153** (Boulenger & Cie, Montereau)
+- **2365** misspells the Barbedienne foundry as "Barbidienne" — the mark on the piece is correct
+- **2160** catalogues a $800–1,200 lot as a **1792 Washington Indian Peace Medal**. Genuine ones
+  are six-figure objects; a handful survive. The estimate is the house telling you it is a copy
+- **1182/1184/1185/1186** describe H.E. Luhrs and related **1930s–50s** Halloween diecuts as
+  "antique"; **2165** calls an American silk-embroidered eagle a "woolie" (woolies are British
+  sailors' wool-on-wool ship pictures)
+- **1378** gives a "Karabagh prayer rug" dimensions of 11'2" x 4' — those are runner dimensions,
+  not prayer-rug dimensions; **1380** and **2187** both have obvious dimension typos
+- **2240** titles a lot "letters ... 1939–1946, including JFK in May 1958"
+- **1494** offers a 1976 Danish royal appointment "signed by the King & Queen" — Denmark had no
+  King in 1976 (Margrethe II acceded 1972; Prince Henrik was never King)
+- **2275** describes a "Seal of the Duke of Rochester". There has never been a Duke of Rochester
+- **3171** attributes a stone mermaid to "Wilerid Ciricus", which resolves to no documented
+  sculptor and reads as a garbled signature transcription
+- **2318** offers an 1807 Royal Academy letter "signed by David as Secretary" — establish which
+  David; Jacques-Louis David was French, in Paris, and never a Royal Academician
+- **1230** offers a percussion long rifle by "Jackie Brown", a name that does not resolve to any
+  documented 19th-c. gunsmith and reads much more like a living contemporary-longrifle maker
 
 ### Where the value landed
 
-The strongest finds, all inside band: **2300** George III sterling mug by William Cripps
-(melt sits close under the estimate), **3347–3350** four Carroll Thayer Berry colour
-woodblocks (3347 confirmed pencil-signed and artist-printed, "imp"), **2068** 18th-c. pine
-sea chest at $300–500, **2139** C.F. Hopf Kennebunk grain-painted stand, **2118** Maine
-redware attributed to Norcross, **2093** Rockland-identified ship model, **2295** 17th-c.
-carved oak bible box, **2243** 1652 Anatomy of Melancholy, **3487** unsigned late-19th-c.
-Maine watercolour.
+The thirteen STRONG BUYs, all inside band: **2300** George III sterling mug by William Cripps
+(melt sits close under the estimate), **2294** Liverpool jug with the Commodore Preble
+transfer, **2194** 28-piece Chinese export tea service c.1800–20, **3347** Carroll Thayer
+Berry colour woodblock (confirmed pencil-signed and artist-printed, "imp"; **3348–3350** are
+the others in the group), **2068** 18th-c. pine sea chest at $300–500, **2139** C.F. Hopf
+Kennebunk grain-painted stand, **2118** Maine redware attributed to Norcross, **2093**
+Rockland-identified ship model, **2295** 17th-c. carved oak bible box, **2243** 1652 Anatomy
+of Melancholy, **2398/2399** two consecutive Piranesi plates at $500–800 each, **3487**
+unsigned late-19th-c. Maine watercolour.
+
+Note that **Day 2 carries nearly all of it.** Ten of the thirteen STRONG BUYs are Day 2 lots.
+Plan the sale around 29 August.
 
 ### Priorities from here
 
-1. **Preview is now the bottleneck on the written-up lots.** Six of the ten §10 questions need
-   a scale, a loupe or an opened album — book the 15–27 August preview or a virtual one. The
-   jewellery adds more: lot 3147 (Cross pen — solid or gold-filled?), 3198 and 3200 (gold watch
-   cases — solid or capped?), 3094 (natural or Linde synthetic star ruby?), 2498 (Type A jadeite
-   or dyed?), 3243–3245 (ancient intaglios or modern casts?).
-2. **Deepen the remaining category-level PASSes** one category at a time. Silver, marine and
-   Maine artists are the three most likely to repay it.
-3. Re-check `current_bid` before the sale: the figures in `data/` are a scrape-time
+1. **Preview is the only remaining bottleneck.** The desk work is done. Six of the ten §10
+   questions need a scale, a loupe or an opened album — book the 15–27 August preview or a
+   virtual one. The jewellery adds more: lot 3147 (Cross pen — solid or gold-filled?), 3198 and
+   3200 (gold watch cases — solid or capped?), 3094 (natural or Linde synthetic star ruby?),
+   2498 (Type A jadeite or dyed?), 3243–3245 (ancient intaglios or modern casts?).
+   The final sweep adds: **1101** (mahjong tiles — bone, ivory or plastic? affects legality as
+   well as value), **2340/2346** (fan sticks — ivory or not?), **2273** (apothecary case — count
+   the bottles against the recesses), **2078** (sailmaker's tools — count against recesses, and
+   check the handles for marine-mammal material), **2294** (UV the Preble jug's spout for
+   restoration), **2438** (open the three boxes of Iznik tiles and count what is whole).
+2. Re-check `current_bid` before the sale: the figures in `data/` are a scrape-time
    snapshot, not live.
+3. If further depth is wanted, the honest answer is that it now needs objects in hand rather
+   than more reading. The photographs have been worked as far as they go.
 
 ---
 
