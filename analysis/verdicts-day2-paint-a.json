@@ -265,11 +265,11 @@
  },
  {
   "lot": 2111,
-  "verdict": "BUY",
+  "verdict": "STRONG BUY",
   "criteria": [
    "antique",
-   "named",
-   "marine"
+   "marine",
+   "maker"
   ],
   "date": "1867",
   "status": "antique",
@@ -277,18 +277,18 @@
   "category": "books",
   "period": "victorian",
   "market": [
-   450,
-   900
+   900,
+   2200
   ],
   "resale": [
-   300,
-   650
+   620,
+   1520
   ],
-  "analysis": "An 1867 European Squadron order signed by Admiral David Glasgow Farragut at $500-700. Farragut is the most famous American naval officer of the 19th century -- 'damn the torpedoes' -- and this is a dated, signed document from his post-war command. Autograph naval material by a name of that stature at this price is genuinely good value, and it ties directly to the marine theme running through Day 2.",
-  "problems": "Verify the signature is autograph rather than a secretarial or facsimile signature -- Farragut's staff signed routine orders on his behalf, and printed facsimiles exist. Five photographs, so the signature should be examinable. Check for fold damage and browning, usual in 1860s official paper.",
-  "target": 420,
-  "ceiling": 780,
-  "patience": "Low to moderate. Signed Farragut material is uncommon and this is well inside the band.",
+  "analysis": "The description quotes the document in full and it is better than the title suggested. 'US Flag Ship \"Franklin\" Off Cronstadt, August 29th 1867. Sir, You will be pleased to have steam ready to move tomorrow the 30th inst. at 4 AM and follow my motions. In the event of separation you will proceed to Lansund in the Gulf of Finland. Very Respectfully, Your Obdt Servt, DG Farragut, Admiral, Comd'g European Squadron. (To) Commander DB Harmony'. That is a dated fleet movement order in Russian waters, from Farragut's flagship, naming both the sender and the recipient, written during the 1867 European Squadron cruise -- the goodwill voyage that followed the Civil War and coincided with the Alaska Purchase. Content of that specificity is what separates a signature from a document. It also settles my own doubt: the catalogue says 'in secretarial hand, but typically curt phrasing, BOLDLY SIGNED', which is exactly the normal and acceptable form for a flag officer's order -- staff wrote the body, the admiral signed it. At $500-700 this is inside the band and it is the best piece of American naval documentation in the sale.",
+  "problems": "'Boldly signed' is the consignor's phrase; the five photographs should let you judge the ink and the pen pressure yourself, and an autograph signature bites into the paper in a way a facsimile does not. Farragut died in 1870 and his signature is forged. Check the folds -- a fleet order was folded and carried, so expect fold browning and possibly splits at the intersections, and look for backing or silking, which caps value. Kronstadt is spelled 'Cronstadt' in the document, which is period-correct and reassuring rather than otherwise.",
+  "target": 550,
+  "ceiling": 800,
+  "patience": "Low. Signed Farragut documents with real naval content are genuinely scarce, and the price here is a fraction of what content like this usually carries.",
   "star": true
  },
  {

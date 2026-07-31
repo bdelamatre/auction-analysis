@@ -511,6 +511,11 @@ description over the title where they disagree, then test both against the photo
   David; Jacques-Louis David was French, in Paris, and never a Royal Academician
 - **1230** offers a percussion long rifle by "Jackie Brown", a name that does not resolve to any
   documented 19th-c. gunsmith and reads much more like a living contemporary-longrifle maker
+- **3249** gives the Frederick Lynch label as "Baridoff Gallery of **Portsmouth, Maine**". Baridoff
+  Galleries was in **Portland**; Portsmouth is in New Hampshire
+- **1498** is titled a "1824 edition" but the description gives the imprint as **Paris, Chez Arthus
+  Bertrand, 1826**
+- **2062** letters the liner **"Mauritania"**; the Cunard ship was *Mauretania*, with an "e"
 
 ### Where the value landed
 

@@ -1,154 +1,2025 @@
 [
-{"lot":3004,"verdict":"CHECK FIRST","criteria":["named","antique"],"date":"19th c. cast or later recast","status":"border","evidence":"Inferred","category":"sculpture","period":"victorian","market":[350,800],"resale":[220,580],
- "analysis":"Emmanuel Fremiet was a major French animalier and a genuine period cast would be a named-maker antique inside the band at $500-700. He is the sculptor of the Joan of Arc in Paris, so the name carries weight.","problems":"Same recasting problem as the whole Day 3 bronze run -- Fremiet models were reproduced continuously and the signature is cast into the model, so it proves nothing. Judge on chasing crispness in the fur, patina depth and underside finish. Note 3007 is a second Fremiet at $600-800: compare both and bid the better cast.","target":380,"ceiling":650,"patience":"High for recasts, low for period casts -- establish which first.","star":true},
-{"lot":3007,"verdict":"CHECK FIRST","criteria":["named","antique"],"date":"19th c. cast or later recast","status":"border","evidence":"Inferred","category":"sculpture","period":"victorian","market":[400,900],"resale":[260,650],
- "analysis":"The second Fremiet, $100 dearer than 3004. Two casts by the same sculptor in one sale lets you compare quality directly, which is the only reliable way to judge period versus late without a foundry mark.","problems":"Identical caveats to 3004. Rank the two at preview before the sale and bid only the better one.","target":420,"ceiling":720,"patience":"High.","star":false},
-{"lot":3008,"verdict":"BUY","criteria":["maine","named"],"date":"late 20th to 21st c.","status":"modern","evidence":"Inferred","category":"painting","period":"contemporary","market":[250,500],"resale":[160,360],
- "analysis":"Marjorie Moore of Maine at $300-500 is the cheapest Maine-artist lot in Day 3 and one of only a handful under $500. She works around Casco Bay and there is a second Moore at 3329. Earns its place on the Maine allowance rather than on age.","problems":"Living regional artist, so the market is essentially gallery price and there is no scarcity to exploit -- buy because you want it on the wall. Establish the medium; works on paper and oils differ substantially.","target":250,"ceiling":420,"patience":"Very high -- she is working and represented locally.","star":false},
-{"lot":3014,"verdict":"CHECK FIRST","criteria":["named","antique"],"date":"19th c. cast or later recast","status":"border","evidence":"Inferred","category":"sculpture","period":"victorian","market":[400,900],"resale":[260,650],
- "analysis":"Isidore Jules Bonheur, brother of Rosa, and the more prolific sculptor of the two. A period Bonheur bronze at $600-800 would be a genuine named antique in band.","problems":"Bonheur is among the most recast of all the animaliers -- Peyrol foundry originals versus 20th-century commercial copies. Look for the Peyrol stamp, which is the mark that matters. Same physical tests as the rest of the run.","target":420,"ceiling":720,"patience":"High.","star":false},
-{"lot":3084,"verdict":"BUY IF CHEAP","criteria":["named"],"date":"late 20th c.","status":"modern","evidence":"Inferred","category":"painting","period":"contemporary","market":[600,1100],"resale":[400,800],
- "analysis":"Basil Ede was a well-known British bird painter with a real following among wildlife-art collectors. Competent, decorative, and at $800-1,200 only just inside the band.","problems":"No Maine connection and no antique claim, so it fits the brief only through 'named maker'. Wildlife art is also a market that has softened. Establish whether this is an original watercolour or one of his many published prints -- the gap is large.","target":550,"ceiling":950,"patience":"High.","star":false},
-{"lot":3110,"verdict":"BUY IF CHEAP","criteria":["named"],"date":"mid-20th c.","status":"modern","evidence":"Inferred","category":"sculpture","period":"midcentury","market":[450,800],"resale":[300,580],
- "analysis":"Hugo Robus was a significant American modernist sculptor with museum representation, and this is the cheaper of two Robus lots at $600-800 against 3108's $2,000-3,000. The cheap one in a pair is usually the smaller work or a drawing.","problems":"Establish what it actually is -- a Robus bronze at $600 would be remarkable, a drawing or plaster study much less so. Modernist sculpture also has a narrow resale audience outside the major cities.","target":420,"ceiling":720,"patience":"Moderate.","star":false},
-{"lot":3125,"verdict":"BUY IF CHEAP","criteria":["named"],"date":"mid-20th c.","status":"modern","evidence":"Inferred","category":"painting","period":"midcentury","market":[600,1100],"resale":[400,800],
- "analysis":"Milford Zornes was a leading California watercolourist of the Regionalist generation with a solid, well-documented market. At $800-1,200 he is just inside the band.","problems":"Wrong coast -- this is California Scene painting, the same problem as the Day 1 consignment the brief tells us to skip. No Maine link, no antique claim. Zornes was also prolific and lived to 100, so supply is deep.","target":550,"ceiling":950,"patience":"High.","star":false},
-{"lot":3128,"verdict":"BUY IF CHEAP","criteria":["named"],"date":"late 20th c.","status":"modern","evidence":"Inferred","category":"painting","period":"contemporary","market":[400,750],"resale":[260,540],
- "analysis":"Tom Bennett, a contemporary California painter at $600-800. Competent work with a modest regional market.","problems":"Wrong coast, contemporary, no criteria fit beyond a name. My market read is at the low end of the estimate.","target":350,"ceiling":620,"patience":"Very high.","star":false},
-{"lot":3129,"verdict":"BUY","criteria":["named"],"date":"c.1925-1955","status":"modern","evidence":"Inferred","category":"painting","period":"midcentury","market":[700,1200],"resale":[480,870],
- "analysis":"John Whorf was a genuinely accomplished American watercolourist -- Provincetown-based, taught by Sargent's circle, and with a strong secondary market. At $800-1,000 he is inside the band and this is one of the better name-to-price ratios in Day 3. New England rather than Maine, but adjacent in feel and subject.","problems":"Whorf's output was large and quality varies considerably; the weak sheets sell for a fraction of the strong ones. Watercolour fading is the standard condition risk -- check under the mat edge. Confirm the signature is his rather than a similar hand.","target":650,"ceiling":1000,"patience":"Moderate. Whorf appears regularly but rarely this cheap for a good sheet.","star":true},
-{"lot":3130,"verdict":"BUY IF CHEAP","criteria":["named","antique"],"date":"c.1900-1940","status":"border","evidence":"Inferred","category":"sculpture","period":"edwardian","market":[450,850],"resale":[300,620],
- "analysis":"Charles Keck was a substantial American academic sculptor -- public monuments, Hall of Fame busts -- whose working life straddles the antique line. At $600-800 a small Keck bronze in band is a legitimate named-maker buy.","problems":"Establish what it is and whether it is a lifetime cast. Academic figurative sculpture is out of fashion, which is why the price is low and also why resale is slow. Same bronze-versus-spelter and recast checks as the rest of Day 3.","target":420,"ceiling":720,"patience":"Moderate.","star":false},
-{"lot":3131,"verdict":"BUY IF CHEAP","criteria":["named"],"date":"mid-to-late 20th c.","status":"modern","evidence":"Inferred","category":"painting","period":"midcentury","market":[500,900],"resale":[340,650],
- "analysis":"Paul Strisik was a Rockport, Massachusetts painter and a National Academician with a steady market. Cape Ann rather than Maine, but the coastal New England subject matter is close to the brief's territory.","problems":"Strisik was prolific and his market is stable rather than rising. At $700-900 the estimate is fair, leaving little margin. Check for a Rockport or Monhegan subject, which would strengthen the regional case.","target":450,"ceiling":800,"patience":"High.","star":false},
-{"lot":3132,"verdict":"BUY IF CHEAP","criteria":["named","antique"],"date":"c.1905-1940","status":"border","evidence":"Inferred","category":"sculpture","period":"deco","market":[500,900],"resale":[340,650],
- "analysis":"Fernand Ouillon-Carrere was a French sculptor working in the Deco idiom -- his dancer figures are the best-known work. At $700-900 in band, and a genuine period Deco bronze would hit criterion three.","problems":"The Deco figure market is riddled with later casts and spelter copies, and Ouillon-Carrere is among the copied names. Apply the weight-and-chasing test. Also check for ivory elements, which would add the usual constraint.","target":450,"ceiling":800,"patience":"Moderate.","star":false},
-{"lot":3133,"verdict":"BUY IF CHEAP","criteria":["named","antique"],"date":"c.1900-1940","status":"border","evidence":"Inferred","category":"painting","period":"edwardian","market":[700,1200],"resale":[480,870],
- "analysis":"Sears Gallagher was a Boston painter and etcher who worked extensively on Monhegan Island -- which puts him squarely in the Maine coastal brief, and his dates mean some of his output clears the antique line. At $1,000-1,200 he is at the very top of the band.","problems":"Only just affordable and the estimate leaves no room. Gallagher's watercolours and etchings differ hugely in value -- an etching should be $150-300, a good Monhegan watercolour several times that. Establish the medium, and look for a Monhegan subject specifically.","target":700,"ceiling":1000,"patience":"Moderate. Gallagher appears regularly and the etchings are cheap.","star":true},
-{"lot":3140,"verdict":"BUY IF CHEAP","criteria":["named"],"date":"mid-to-late 20th c.","status":"modern","evidence":"Inferred","category":"painting","period":"midcentury","market":[300,600],"resale":[200,430],
- "analysis":"Aram Koupetsian, a Soviet-Armenian painter, at $400-600. Soviet-era painting has a specialist market that has strengthened somewhat but remains thin in the US.","problems":"No criteria fit at all -- not antique, not Maine, no precious metal, and the name is not one a US buyer can easily resell. Two photographs.","target":280,"ceiling":500,"patience":"High.","star":false},
-{"lot":3164,"verdict":"BUY IF CHEAP","criteria":["named"],"date":"mid-20th c.","status":"modern","evidence":"Inferred","category":"painting","period":"midcentury","market":[600,1100],"resale":[400,800],
- "analysis":"Harold C. Wolcott at $800-1,200, the cheapest of three Wolcott lots (3164, 3166, 3168 at up to $4,000). Being the cheap one of three by the same hand is the useful position -- the Wolcott buyer will have committed by the third.","problems":"Wolcott is a minor listed name with a thin comparable record, so all three estimates rest on the house's judgement rather than a market. No Maine or antique claim.","target":550,"ceiling":950,"patience":"High -- three chances at the same artist.","star":false},
-{"lot":3169,"verdict":"CHECK FIRST","criteria":["named","antique"],"date":"19th c. cast or later recast","status":"border","evidence":"Inferred","category":"sculpture","period":"victorian","market":[500,1100],"resale":[340,800],
- "analysis":"Albert-Ernest Carrier-Belleuse was a major 19th-century French sculptor -- Rodin worked in his studio. A period cast at $800-1,200 would be a real named antique at the top of the band.","problems":"Carrier-Belleuse ran a large commercial studio and his models were editioned heavily in his lifetime and long after, so 'period' is a spectrum rather than a yes or no. Look for foundry marks and edition numbers. Terracotta and plaster versions also exist and are worth far less than bronze.","target":550,"ceiling":950,"patience":"Moderate.","star":false},
-{"lot":3178,"verdict":"PASS","criteria":[],"date":"20th c. cast","status":"modern","evidence":"Catalogued","category":"sculpture","period":"midcentury","market":[250,600],"resale":[150,420],
- "analysis":"The catalogue does the work: 'AFTER Frederic Remington'. Per the standing principles, 'after' means copy or reproduction, not authenticity. Remington's bronzes are the single most reproduced American sculptures in existence -- Bronco Buster and Rattlesnake copies number in the tens of thousands.","problems":"A genuine Remington lifetime cast is a six-figure object; this is a decorative copy and the house says so. At $500-700 the estimate is optimistic even for a good-quality reproduction. The room will still bid it on the name.","target":0,"ceiling":450,"patience":"Irrelevant -- continuously available.","star":false},
-{"lot":3249,"verdict":"BUY","criteria":["maine","named"],"date":"mid-to-late 20th c.","status":"modern","evidence":"Inferred","category":"painting","period":"midcentury","market":[350,700],"resale":[240,500],
- "analysis":"Frederick Lynch (ME, 1935-2016) at $400-600 -- the cheapest of eight Lynch lots running through Day 3 (3249, 3251, 3253, 3255, 3258, 3261, 3263 and more, most at $1,000-1,500). Eight works by one Maine artist in a single sale is a consignment, and the two cheap ones at the front are the way in before the room settles on a price.","problems":"Eight lots means no scarcity whatsoever -- do not stretch on any of them. Lynch's market is regional and thin outside Maine. Establish the medium and whether it is signed.","target":320,"ceiling":580,"patience":"Very high within this sale alone -- eight chances.","star":true},
-{"lot":3251,"verdict":"BUY IF CHEAP","criteria":["maine","named"],"date":"mid-to-late 20th c.","status":"modern","evidence":"Inferred","category":"painting","period":"midcentury","market":[450,850],"resale":[300,620],
- "analysis":"The second-cheapest Lynch at $600-800. Same reasoning as 3249 -- and with six more Lynch lots following at higher estimates, the pricing signal from these two early ones will tell you what the room thinks.","problems":"Same as 3249. Watch 3249 first; if it goes cheap, expect the same here.","target":400,"ceiling":720,"patience":"Very high.","star":false},
-{"lot":3265,"verdict":"BUY IF CHEAP","criteria":["named"],"date":"mid-20th c.","status":"modern","evidence":"Inferred","category":"prints","period":"midcentury","market":[600,1100],"resale":[400,800],
- "analysis":"Le Corbusier at $800-1,200 is inside the band, which for a name of that magnitude means it is a print rather than anything unique -- almost certainly a lithograph from one of the published portfolios. That is not a criticism: a signed or numbered Corbusier lithograph is a legitimate object and the only way the name enters this budget.","problems":"Establish the edition, whether it is signed in pencil, and which portfolio. Unsigned later-edition Corbusier lithographs are common and worth a few hundred. Treat a suspiciously cheap headline name as a red flag first.","target":550,"ceiling":950,"patience":"Moderate.","star":true},
-{"lot":3308,"verdict":"BUY IF CHEAP","criteria":["named"],"date":"late 20th c.","status":"modern","evidence":"Inferred","category":"painting","period":"contemporary","market":[300,600],"resale":[200,430],
- "analysis":"Donald Charles Penney at $400-600. A minor listed name with a thin market.","problems":"No criteria fit -- the state given is South Georgia, so no Maine connection, and no antique claim. Priced on the house's judgement rather than a comparable record.","target":280,"ceiling":500,"patience":"High.","star":false},
-{"lot":3316,"verdict":"BUY IF CHEAP","criteria":["named"],"date":"late 20th c.","status":"modern","evidence":"Inferred","category":"painting","period":"contemporary","market":[200,400],"resale":[130,280],
- "analysis":"Nancy Skreko Martin at $300-400 -- among the cheapest lots in Day 3. Illinois-based contemporary artist.","problems":"No criteria fit and only two photographs. This is a decorating purchase at best.","target":200,"ceiling":330,"patience":"Very high.","star":false},
-{"lot":3321,"verdict":"BUY IF CHEAP","criteria":["named"],"date":"mid-20th c.","status":"modern","evidence":"Inferred","category":"prints","period":"midcentury","market":[500,900],"resale":[340,650],
- "analysis":"Fernand Leger at $700-900. As with the Corbusier, a major modernist name inside this budget means a print -- a lithograph or pochoir from a published edition.","problems":"Leger is among the most reproduced modernists and unsigned posthumous editions are abundant. Establish signature, edition and publisher before treating the name as meaningful. The standing warning about suspiciously cheap big names applies directly.","target":450,"ceiling":800,"patience":"High -- Leger prints are continuously available.","star":false},
-{"lot":3325,"verdict":"BUY","criteria":["named"],"date":"mid-to-late 20th c.","status":"modern","evidence":"Inferred","category":"prints","period":"midcentury","market":[450,850],"resale":[300,620],
- "analysis":"Leonard Baskin at $600-800. Baskin was a major American printmaker and sculptor with genuine museum standing, and his woodcuts and engravings are properly collected. Works on paper by a serious name inside the band is exactly the pattern the brief identifies as good value.","problems":"Baskin's editions were often large and his output prolific, so this is not rare. Check for a pencil signature and edition number, and for the Gehenna Press imprint, which is the desirable end of his work.","target":420,"ceiling":720,"patience":"Moderate. Baskin prints appear regularly and are consistently underpriced relative to his reputation.","star":true},
-{"lot":3326,"verdict":"BUY IF CHEAP","criteria":["maine","named"],"date":"mid-to-late 20th c.","status":"modern","evidence":"Inferred","category":"painting","period":"midcentury","market":[500,900],"resale":[340,650],
- "analysis":"David Henning Larson (ME, 1931-2007) at $700-900. A Maine artist with a modest regional following, so it earns its place on the Maine allowance.","problems":"Minor name, thin market, and at $700-900 the estimate uses most of the band. Establish the medium and subject -- a coastal Maine subject is worth materially more locally than an inland or abstract one.","target":450,"ceiling":800,"patience":"High.","star":false},
-{"lot":3327,"verdict":"BUY IF CHEAP","criteria":["named"],"date":"late 20th c.","status":"modern","evidence":"Inferred","category":"painting","period":"contemporary","market":[600,1100],"resale":[400,800],
- "analysis":"Elizabeth 'Liz' Peak, a contemporary Virginia artist, at $800-1,200 with five photographs.","problems":"No Maine link, no antique claim, contemporary living artist -- so gallery pricing with no discount to find. Only just inside the band.","target":550,"ceiling":950,"patience":"Very high.","star":false},
-{"lot":3328,"verdict":"BUY IF CHEAP","criteria":["named"],"date":"late 20th c.","status":"modern","evidence":"Inferred","category":"prints","period":"contemporary","market":[500,900],"resale":[340,650],
- "analysis":"Leonardo Lasansky at $700-900, one of three Lasansky lots (3328, 3332, 3333). Lasansky is a respected American printmaker -- the son of Mauricio Lasansky, a more famous name -- and his intaglio work is technically accomplished.","problems":"Three lots by one printmaker means no scarcity. 3332 at $400-600 is the cheapest of the three and the better entry. Confirm which Lasansky: the father's work is worth considerably more, and the similarity of name invites confusion.","target":450,"ceiling":800,"patience":"High -- three in this sale.","star":false},
-{"lot":3330,"verdict":"BUY IF CHEAP","criteria":["named"],"date":"mid-to-late 20th c.","status":"modern","evidence":"Inferred","category":"prints","period":"midcentury","market":[400,750],"resale":[260,540],
- "analysis":"Sergio Gonzalez-Tornero, a Chilean-American printmaker, at $600-800 with five photographs. Competent mid-century intaglio work.","problems":"No criteria fit. Latin American printmakers of this generation have a specialist market that barely registers in New England.","target":380,"ceiling":680,"patience":"High.","star":false},
-{"lot":3331,"verdict":"BUY","criteria":["named"],"date":"mid-to-late 20th c.","status":"modern","evidence":"Inferred","category":"prints","period":"midcentury","market":[350,700],"resale":[240,500],
- "analysis":"Carol Summers at $400-600. Summers was a significant American woodcut artist with a distinctive saturated-colour technique and genuine museum representation. At this money a signed Summers woodcut is good value -- another case of works on paper by a properly collected name sitting in band.","problems":"Summers editions were typically 50-100 and he worked for six decades, so supply is reasonable. Check for pencil signature and edition, and for the bleeding-colour technique that identifies his best work. Light-fading affects the intense colours badly.","target":350,"ceiling":580,"patience":"Moderate.","star":true},
-{"lot":3332,"verdict":"BUY","criteria":["named"],"date":"late 20th c.","status":"modern","evidence":"Inferred","category":"prints","period":"contemporary","market":[350,650],"resale":[240,470],
- "analysis":"The cheapest of the three Lasansky lots at $400-600. If you want a Lasansky intaglio, this is the one to bid.","problems":"Same father-versus-son identification question as 3328. Four photographs. Establish signature and edition.","target":320,"ceiling":560,"patience":"High.","star":false},
-{"lot":3333,"verdict":"BUY IF CHEAP","criteria":["named"],"date":"late 20th c.","status":"modern","evidence":"Inferred","category":"prints","period":"contemporary","market":[450,800],"resale":[300,580],
- "analysis":"The third Lasansky at $600-800. Last of three, which is the position where bidder fatigue helps.","problems":"Same as the others. Bid 3332 first and only come here if it goes past its estimate.","target":400,"ceiling":720,"patience":"High.","star":false},
-{"lot":3334,"verdict":"BUY","criteria":["maine","named","marine"],"date":"late 20th to 21st c.","status":"modern","evidence":"Inferred","category":"painting","period":"contemporary","market":[450,850],"resale":[300,620],
- "analysis":"Otty Merrill of Tenant's Harbor, Maine at $600-800. Tenant's Harbor is fifteen minutes from Thomaston, which makes this genuinely hyper-local material of the kind the brief says sells to a small but committed regional audience. She died in 2024, which typically firms a regional artist's market. A second Merrill runs at 3335 for $300-400.","problems":"Hyper-local means the market is essentially midcoast Maine and nowhere else -- fine for a personal collection, poor for resale. Bid 3335 first at half the price; it is the same artist.","target":420,"ceiling":720,"patience":"Moderate. Two in this sale, and recently deceased artists see a temporary supply increase as estates disperse.","star":true},
-{"lot":3337,"verdict":"BUY IF CHEAP","criteria":["named"],"date":"late 20th c.","status":"modern","evidence":"Inferred","category":"painting","period":"contemporary","market":[300,600],"resale":[200,430],
- "analysis":"Will Mentor, a Vermont and Massachusetts contemporary painter, at $400-600 with five photographs.","problems":"No criteria fit. Contemporary living artist with a modest market.","target":280,"ceiling":500,"patience":"High.","star":false},
-{"lot":3338,"verdict":"BUY IF CHEAP","criteria":["named"],"date":"late 20th c.","status":"modern","evidence":"Unverified","category":"painting","period":"contemporary","market":[350,650],"resale":[240,470],
- "analysis":"Darryl Norem (1949-2012) at $500-700. The catalogue gives no state at all, which is unusual and unhelpful -- it means the house could not localise the artist.","problems":"No state, no medium, no subject. An artist the cataloguer could not place is one with essentially no market record. Five photographs is the only thing in its favour.","target":300,"ceiling":580,"patience":"High.","star":false},
-{"lot":3340,"verdict":"BUY IF CHEAP","criteria":["named"],"date":"mid-to-late 20th c.","status":"modern","evidence":"Inferred","category":"painting","period":"midcentury","market":[400,750],"resale":[260,540],
- "analysis":"Pierre Olofsson (Sweden, 1921-1996) at $600-800. Olofsson was a Swedish concretist with a genuine domestic market in Scandinavia.","problems":"That market is in Sweden, not Maine -- Scandinavian modernism sells well at home and poorly here, so resale would mean consigning abroad. No criteria fit.","target":380,"ceiling":680,"patience":"High.","star":false},
-{"lot":3342,"verdict":"BUY IF CHEAP","criteria":["named"],"date":"late 20th c.","status":"modern","evidence":"Inferred","category":"painting","period":"contemporary","market":[400,750],"resale":[260,540],
- "analysis":"Pauline W. Kruetzfeldt at $600-800. A contemporary German-American artist with a thin record.","problems":"No criteria fit and no market to speak of. Priced on the house's judgement.","target":380,"ceiling":680,"patience":"High.","star":false},
-{"lot":3344,"verdict":"BUY IF CHEAP","criteria":["maine","named"],"date":"contemporary","status":"modern","evidence":"Inferred","category":"painting","period":"contemporary","market":[450,800],"resale":[300,580],
- "analysis":"Mary Barnes, contemporary Maine and Oregon, at $600-800. Qualifies on the Maine allowance and nothing else.","problems":"Living artist with dual-state association, so the Maine claim is partial. No antique status, no scarcity. Buy on preference.","target":400,"ceiling":720,"patience":"Very high.","star":false},
-{"lot":3346,"verdict":"BUY IF CHEAP","criteria":["maine","named"],"date":"contemporary","status":"modern","evidence":"Inferred","category":"painting","period":"contemporary","market":[550,1000],"resale":[380,720],
- "analysis":"Kevin Beers, contemporary Maine, at $750-1,000 with five photographs. Beers paints Monhegan and coastal subjects and has a solid current market in Maine galleries.","problems":"At the top of the band and a living artist whose work can be bought from a gallery -- so no discount and no scarcity. The regional desirability is real but you are paying retail for it.","target":500,"ceiling":900,"patience":"Very high.","star":false},
-{"lot":3357,"verdict":"BUY IF CHEAP","criteria":["maine","named"],"date":"mid-to-late 20th c.","status":"modern","evidence":"Inferred","category":"painting","period":"midcentury","market":[550,1000],"resale":[380,720],
- "analysis":"Vernon Broe (IL/ME, 1930-2011) at $800-1,000. A Maine-associated artist with a modest following; 3358 is a second Broe at $800-1,200.","problems":"Top of the band with two lots in the sale, so no scarcity. Minor name with a thin comparable record. Establish the medium and whether the subject is Maine.","target":500,"ceiling":880,"patience":"High -- two in this sale.","star":false},
-{"lot":3358,"verdict":"BUY IF CHEAP","criteria":["maine","named"],"date":"mid-to-late 20th c.","status":"modern","evidence":"Inferred","category":"painting","period":"midcentury","market":[600,1100],"resale":[400,800],
- "analysis":"The second Vernon Broe at $800-1,200. Same artist, same reasoning, slightly dearer.","problems":"Bid 3357 first. If both go cheap you have two; if the room wants Broe, let them have it.","target":550,"ceiling":950,"patience":"High.","star":false},
-{"lot":3359,"verdict":"BUY","criteria":["maine","named"],"date":"mid-20th c.","status":"modern","evidence":"Inferred","category":"painting","period":"midcentury","market":[280,550],"resale":[190,400],
- "analysis":"Leo Brooks (ME, 1909-1993) at $300-400 -- one of the cheapest Maine-artist lots in the sale, and a second Brooks runs at 3360 for $1,500-2,500. The gap between the two suggests this is a small work or a study and that one is a major canvas, which makes this the affordable way to own the artist.","problems":"Minor Maine name with a regional market. Establish medium and subject. Four photographs, which is decent for the price.","target":280,"ceiling":460,"patience":"Moderate.","star":true},
-{"lot":3362,"verdict":"BUY IF CHEAP","criteria":["maine","named"],"date":"mid-to-late 20th c.","status":"modern","evidence":"Inferred","category":"painting","period":"midcentury","market":[600,1100],"resale":[400,800],
- "analysis":"William Bryant (ME, 1906-1997) at $800-1,200. A long-lived Maine artist whose working life spans most of the century.","problems":"Only just inside the band. Minor name, and with a career that long the output is large. Establish the medium and date -- an early work has a chance of being materially more interesting than a late one.","target":550,"ceiling":950,"patience":"High.","star":false},
-{"lot":3363,"verdict":"BUY","criteria":["maine","named"],"date":"late 20th c.","status":"modern","evidence":"Inferred","category":"painting","period":"contemporary","market":[400,800],"resale":[280,580],
- "analysis":"Arthur Cadieux (ME, 1943-2013) at $500-800 with five photographs -- a Maine artist at a sensible price with reasonable disclosure. Deceased, so the supply is finite in a way the living artists' work is not.","problems":"Regional name with a thin record outside Maine. The $500-800 spread is wide for a minor artist, which suggests the house is unsure. Establish medium and subject.","target":400,"ceiling":700,"patience":"Moderate.","star":false},
-{"lot":3368,"verdict":"BUY","criteria":["maine","named"],"date":"late 20th c.","status":"modern","evidence":"Inferred","category":"painting","period":"contemporary","market":[350,700],"resale":[240,500],
- "analysis":"David Dewey (ME/NY, 1946- ) at $400-600, with a second at 3371 at the same estimate. Dewey is a well-regarded Maine watercolourist with genuine standing in the state -- Rockland and Camden galleries carry him -- and two lots at $400-600 is the cheap end of his market.","problems":"Living artist, so gallery supply continues. Watercolour, so check for fading and foxing. Two identical estimates in one sale means you can wait for the second.","target":350,"ceiling":580,"patience":"High -- two in this sale and the artist is working.","star":true},
-{"lot":3371,"verdict":"BUY","criteria":["maine","named"],"date":"late 20th c.","status":"modern","evidence":"Inferred","category":"painting","period":"contemporary","market":[350,700],"resale":[240,500],
- "analysis":"The second David Dewey at $400-600. Identical proposition to 3368 -- bid whichever the room leaves alone.","problems":"Same as 3368.","target":350,"ceiling":580,"patience":"High.","star":false},
-{"lot":3372,"verdict":"BUY IF CHEAP","criteria":["maine","named"],"date":"late 20th c.","status":"modern","evidence":"Inferred","category":"painting","period":"contemporary","market":[450,800],"resale":[300,580],
- "analysis":"Robert Duncan (ME, 1944-2019) at $600-800. A Maine artist, recently deceased, with a modest regional market.","problems":"Minor name. Note there is a much better-known Robert Duncan (the Utah painter of rural Americana) -- confirm which, because a confusion of names could cut either way on price.","target":400,"ceiling":720,"patience":"High.","star":false},
-{"lot":3377,"verdict":"BUY","criteria":["maine","named"],"date":"late 20th c.","status":"modern","evidence":"Inferred","category":"painting","period":"contemporary","market":[280,550],"resale":[190,400],
- "analysis":"Ron Goyette (ME, 1941-2002) at $300-400 -- another of the sub-$500 Maine lots, which are where this budget actually buys something. Deceased, so supply is fixed.","problems":"Minor regional name with little market record; the estimate is the house's guess. Three photographs. Establish medium and subject.","target":280,"ceiling":460,"patience":"Moderate.","star":false},
-{"lot":3379,"verdict":"BUY IF CHEAP","criteria":["maine","named"],"date":"mid-to-late 20th c.","status":"modern","evidence":"Inferred","category":"painting","period":"midcentury","market":[450,800],"resale":[300,580],
- "analysis":"Vincent Hartgen (ME/PA, 1914-2003) at $600-800. Hartgen founded the art department at the University of Maine and was a significant figure in the state's art institutions, which gives him a durable if modest Maine market.","problems":"His institutional importance exceeds his market value -- being an influential teacher does not lift prices. Establish the medium; he worked largely in watercolour and mixed media.","target":400,"ceiling":720,"patience":"High.","star":false},
-{"lot":3389,"verdict":"BUY","criteria":["maine","named"],"date":"contemporary","status":"modern","evidence":"Inferred","category":"painting","period":"contemporary","market":[250,500],"resale":[170,360],
- "analysis":"Kris Johnson, contemporary Maine, at $300-400 with five photographs. One of the cheapest Maine lots in the sale and decently documented for the money.","problems":"Living contemporary artist, so no scarcity and gallery pricing sets the ceiling. Buy on preference, not value.","target":250,"ceiling":420,"patience":"Very high.","star":false},
-{"lot":3390,"verdict":"BUY","criteria":["maine","named"],"date":"contemporary","status":"modern","evidence":"Inferred","category":"painting","period":"contemporary","market":[280,550],"resale":[190,400],
- "analysis":"Julia Kelly, contemporary Maine, at $300-500. Same category as 3389 -- inexpensive current Maine work.","problems":"Living artist, no scarcity, no antique claim. Three photographs.","target":280,"ceiling":460,"patience":"Very high.","star":false},
-{"lot":3391,"verdict":"BUY IF CHEAP","criteria":["maine","named"],"date":"20th c.","status":"border","evidence":"Unverified","category":"painting","period":"midcentury","market":[500,900],"resale":[340,650],
- "analysis":"R.M. King (ME, 20th century) at $700-900. The catalogue gives initials and a century, which is as thin as attribution gets -- effectively an artisan signature.","problems":"Per the standing principles, an unidentified signature is speculative and should not attract named-maker money. '20th CENT.' also means the house could not date it within a hundred years. Price it as anonymous Maine work.","target":420,"ceiling":800,"patience":"High.","star":false},
-{"lot":3393,"verdict":"BUY","criteria":["maine","named"],"date":"mid-20th c.","status":"modern","evidence":"Inferred","category":"painting","period":"midcentury","market":[280,550],"resale":[190,400],
- "analysis":"George Kunkel (ME/MD, 1922-1984) at $300-500. Deceased mid-century Maine-associated artist at a low price with four photographs.","problems":"Minor name, dual-state so the Maine claim is partial. Establish medium and subject.","target":280,"ceiling":460,"patience":"Moderate.","star":false},
-{"lot":3394,"verdict":"BUY IF CHEAP","criteria":["named"],"date":"mid-20th c.","status":"modern","evidence":"Inferred","category":"painting","period":"midcentury","market":[300,600],"resale":[200,430],
- "analysis":"Nat Levy (CA, 1896-1964) at $400-600. A California watercolourist of the Regionalist era.","problems":"Wrong coast -- the same pattern as the Day 1 California consignment. No Maine link, no antique claim.","target":280,"ceiling":500,"patience":"High.","star":false},
-{"lot":3395,"verdict":"BUY","criteria":["maine","named"],"date":"mid-to-late 20th c.","status":"modern","evidence":"Inferred","category":"painting","period":"midcentury","market":[280,550],"resale":[190,400],
- "analysis":"Nat Lewis, also known as Natalie Brush (ME, 1925-2015), at $300-400 -- and 3396 is a second Lewis at $1,500-2,500. The eight-fold gap between the two tells you this is the small work and that one is the important one, which makes this the cheap way to own her.","problems":"Minor Maine name. The alias is worth noting when researching comps -- work may appear under either name, which fragments the record and makes the market look thinner than it is.","target":280,"ceiling":460,"patience":"Moderate.","star":true},
-{"lot":3406,"verdict":"BUY","criteria":["maine","named"],"date":"late 20th c.","status":"modern","evidence":"Inferred","category":"painting","period":"contemporary","market":[400,750],"resale":[280,540],
- "analysis":"Scott Moore (ME/DC, 1953- ) at $500-700 -- the cheapest of six Moore lots in Day 3 (the rest at $750-1,500). Six works by one artist is a consignment and the first cheap one is the place to buy if you want him at all.","problems":"Six lots means no scarcity at all. Living artist. Establish medium and subject; Moore's Maine subjects are the ones with local appeal.","target":400,"ceiling":680,"patience":"Very high -- six chances in one sale.","star":true},
-{"lot":3411,"verdict":"BUY IF CHEAP","criteria":["maine","named"],"date":"late 20th c.","status":"modern","evidence":"Inferred","category":"painting","period":"contemporary","market":[550,1000],"resale":[380,720],
- "analysis":"The second-cheapest Scott Moore at $750-1,000, and the last of the six.","problems":"Being last in a run of six is the best position, but at $750 the estimate uses most of the band. Bid 3406 first.","target":500,"ceiling":900,"patience":"Very high.","star":false},
-{"lot":3412,"verdict":"BUY","criteria":["maine","named"],"date":"late 20th c.","status":"modern","evidence":"Inferred","category":"painting","period":"contemporary","market":[400,750],"resale":[280,540],
- "analysis":"Greg Mort (MD/ME, 1952- ) at $500-700, the cheapest of three Mort lots. Mort has a genuine following and a Maine association through Port Clyde, which is on-brief territory.","problems":"Living artist with active gallery representation, so no discount to find. Dual-state, so the Maine claim is partial. Establish whether it is an original watercolour or one of his published prints -- Mort's prints are widely sold and worth a fraction.","target":400,"ceiling":680,"patience":"High -- three in this sale.","star":true},
-{"lot":3413,"verdict":"BUY IF CHEAP","criteria":["named"],"date":"late 20th c.","status":"modern","evidence":"Inferred","category":"painting","period":"contemporary","market":[450,800],"resale":[300,580],
- "analysis":"The second Greg Mort at $600-800, catalogued Maryland only rather than MD/ME.","problems":"The dropped Maine association in this entry may just be inconsistent cataloguing, but it weakens the criteria case. Only two photographs. Bid 3412 first.","target":400,"ceiling":720,"patience":"High.","star":false},
-{"lot":3415,"verdict":"BUY","criteria":["maine","named"],"date":"mid-20th c.","status":"modern","evidence":"Inferred","category":"painting","period":"midcentury","market":[280,550],"resale":[190,400],
- "analysis":"Emily Lansingh Muir (IL/ME, 1904-2003) at $300-500 -- and 3416 is a second Muir at $2,500-3,000. Muir is a genuinely interesting figure: a Stonington artist, designer and architect who built houses on Deer Isle, and her market has been rising as that work is rediscovered. The eight-fold gap between the two lots makes this the affordable entry.","problems":"Only one photograph, which is poor for a $400 lot -- so medium, size and condition are all unknown. Establish what it is before bidding. If it is a small work on paper the low estimate is fair; if it is anything more it is cheap.","target":280,"ceiling":480,"patience":"Low to moderate. Muir is being rediscovered and the cheap end of her market may not last.","star":true},
-{"lot":3417,"verdict":"BUY","criteria":["maine","named"],"date":"contemporary","status":"modern","evidence":"Inferred","category":"painting","period":"contemporary","market":[280,550],"resale":[190,400],
- "analysis":"Vanessa Nesvig, contemporary Maine, at $300-500 with four photographs.","problems":"Living artist, no scarcity, gallery pricing. Buy on preference.","target":280,"ceiling":460,"patience":"Very high.","star":false},
-{"lot":3418,"verdict":"BUY IF CHEAP","criteria":["maine","named"],"date":"contemporary","status":"modern","evidence":"Inferred","category":"painting","period":"contemporary","market":[450,800],"resale":[300,580],
- "analysis":"Kathleen Noyes, contemporary Maine, at $600-800.","problems":"Living artist, only two photographs. No criteria fit beyond the Maine allowance.","target":400,"ceiling":720,"patience":"Very high.","star":false},
-{"lot":3419,"verdict":"BUY IF CHEAP","criteria":["maine","named"],"date":"contemporary","status":"modern","evidence":"Inferred","category":"painting","period":"contemporary","market":[600,1100],"resale":[400,800],
- "analysis":"Colin Page (ME, 1977- ) at $800-1,200, the cheapest of four Page lots. Page is one of the more commercially successful current Maine painters -- Camden-based, strong gallery presence -- so the name is real in the state.","problems":"Living, actively selling artist at gallery prices, and four lots in one sale. There is no value case here, only a preference case. Only just inside the band.","target":550,"ceiling":950,"patience":"Very high -- four in this sale and the artist is producing.","star":false},
-{"lot":3438,"verdict":"BUY IF CHEAP","criteria":["maine","named"],"date":"contemporary","status":"modern","evidence":"Inferred","category":"painting","period":"contemporary","market":[450,800],"resale":[300,580],
- "analysis":"Bjorn Runquist (ME, 1948- ) at $600-800. A Maine artist with a modest current market.","problems":"Living artist, minor name. Establish medium and subject.","target":400,"ceiling":720,"patience":"High.","star":false},
-{"lot":3442,"verdict":"BUY","criteria":["maine","named"],"date":"contemporary","status":"modern","evidence":"Inferred","category":"painting","period":"contemporary","market":[280,550],"resale":[190,400],
- "analysis":"Gail Spaien, contemporary Maine, at $300-500. Spaien is a Portland-based artist with genuine critical standing -- her work is more considered than most of the contemporary Maine material in this run, and at $300-500 it is among the cheapest.","problems":"Only two photographs. Living artist with gallery representation, so no discount. Her flatter, decorative-modernist idiom is less obviously saleable locally than a coastal scene, which is why it is cheap.","target":280,"ceiling":460,"patience":"High.","star":false},
-{"lot":3445,"verdict":"BUY IF CHEAP","criteria":["maine","named"],"date":"mid-to-late 20th c.","status":"modern","evidence":"Inferred","category":"painting","period":"midcentury","market":[350,700],"resale":[240,500],
- "analysis":"Helen St. Claire (ME, 1931-2022) at $500-700 with four photographs. Recently deceased Maine artist.","problems":"Minor regional name; estates dispersing tend to increase supply in the short term, which argues for patience. Establish medium and subject.","target":350,"ceiling":620,"patience":"High.","star":false},
-{"lot":3449,"verdict":"BUY IF CHEAP","criteria":["maine","named"],"date":"mid-to-late 20th c.","status":"modern","evidence":"Inferred","category":"painting","period":"midcentury","market":[600,1100],"resale":[400,800],
- "analysis":"Juanita Stephens of Machias, Maine at $800-1,200 -- the dearer of two Stephens lots, with 3448 at $200-400. Machias is far downeast, so this is hyper-local material.","problems":"Bid 3448 first at a quarter of the price; it is the same artist. Hyper-local means effectively no market outside eastern Maine. Only just inside the band.","target":550,"ceiling":950,"patience":"High -- two in this sale.","star":false},
-{"lot":3450,"verdict":"BUY IF CHEAP","criteria":["maine","named"],"date":"mid-to-late 20th c.","status":"modern","evidence":"Inferred","category":"painting","period":"midcentury","market":[600,1000],"resale":[420,750],
- "analysis":"Don Stone (ME, 1929-2015) at $800-1,000 -- the cheaper of two Stone lots. Stone was a National Academician who painted Monhegan extensively and has a solid, durable Maine market. One of the better names in this part of the run.","problems":"Top of the band. Stone was prolific and worked in oil, watercolour and casein at very different price levels -- establish which. Note the catalogue lists 3451 as 'DON STONE NA (IA...)', an obvious typo for a Maine or Massachusetts artist, so the cataloguing here is not careful.","target":550,"ceiling":880,"patience":"Moderate. Stone appears regularly at Maine sales.","star":true},
-{"lot":3456,"verdict":"BUY","criteria":["maine","named"],"date":"mid-20th c.","status":"modern","evidence":"Inferred","category":"painting","period":"midcentury","market":[350,700],"resale":[240,500],
- "analysis":"Anthony Vajs (ME, 1939-1979) at $400-600. Died at forty, so the body of work is small and finite -- which for a regional artist is the one structural argument for scarcity.","problems":"A short career also means almost no market record, so the estimate is guesswork. Four photographs. Establish medium and subject.","target":350,"ceiling":580,"patience":"Low to moderate -- a small finite output is genuinely uncommon in this section.","star":true},
-{"lot":3457,"verdict":"BUY IF CHEAP","criteria":["maine","named"],"date":"contemporary","status":"modern","evidence":"Inferred","category":"painting","period":"contemporary","market":[600,1100],"resale":[400,800],
- "analysis":"Cali Veilleux, contemporary Maine, at $800-1,200.","problems":"Living artist at gallery prices, only just inside the band. No criteria fit beyond the Maine allowance.","target":550,"ceiling":950,"patience":"Very high.","star":false},
-{"lot":3459,"verdict":"BUY","criteria":["maine","named"],"date":"late 20th c.","status":"modern","evidence":"Inferred","category":"painting","period":"contemporary","market":[280,550],"resale":[190,400],
- "analysis":"Michael Waterman (ME, 1947- ) at $300-400 with four photographs. Among the cheapest Maine lots in the sale and Waterman has a real if modest following in the state.","problems":"Living artist. Establish medium and subject.","target":280,"ceiling":460,"patience":"High.","star":false},
-{"lot":3465,"verdict":"BUY","criteria":["maine","named"],"date":"mid-20th c.","status":"modern","evidence":"Inferred","category":"painting","period":"midcentury","market":[500,900],"resale":[340,650],
- "analysis":"Denny Sonke Winters (1905-1985) at $600-800, the cheaper of two. Winters was a serious figure -- she and her husband settled in Maine, she showed nationally, and her market is firmer than most names in this run. Note Day 1 lot 1480 offers three of her 1940s sketchbooks at $600-800, so there are three chances at her in this sale.","problems":"Dual-state and much-travelled, so the Maine association is one of several. Establish medium; her oils and works on paper differ considerably.","target":450,"ceiling":800,"patience":"Moderate.","star":true},
-{"lot":3466,"verdict":"BUY IF CHEAP","criteria":["maine","named"],"date":"mid-20th c.","status":"modern","evidence":"Inferred","category":"painting","period":"midcentury","market":[600,1000],"resale":[420,750],
- "analysis":"The second Denny Winters at $800-1,000. Same artist as 3465, slightly dearer.","problems":"Top of the band. Bid 3465 first.","target":550,"ceiling":880,"patience":"Moderate.","star":false},
-{"lot":3468,"verdict":"CHECK FIRST","criteria":["maine","named"],"date":"late 20th to 21st c.","status":"modern","evidence":"Unverified","category":"prints","period":"contemporary","market":[400,1100],"resale":[280,800],
- "analysis":"Jamie Wyeth at $800-1,200 -- inside the band, which for a Wyeth means a print rather than an original. Jamie is the living third generation and has a real market of his own.","problems":"Apply the whole Wyeth-block lesson from Day 1: twenty-six Wyeth lots in that day proved to be reproductions, including lot 1164 which turned out to be a 1993 Aaron Ashley commercial print despite a suggestive catalogue description. Establish the process, edition and whether it is pencil-signed before treating this as anything. A signed limited-edition Jamie Wyeth lithograph is legitimate; an open-edition reproduction is worth $75.","target":400,"ceiling":900,"patience":"High. Wyeth reproductions are endless; signed editions are the only ones worth pursuing.","star":true},
-{"lot":3484,"verdict":"BUY IF CHEAP","criteria":["maine","named"],"date":"mid-20th c.","status":"modern","evidence":"Inferred","category":"sculpture","period":"midcentury","market":[600,1000],"resale":[420,750],
- "analysis":"William Zorach (1887-1966) at $800-1,000 -- the cheapest of three Zorach lots and by a genuinely important artist. Zorach was a major American modernist sculptor who summered at Robinhood in Georgetown, Maine, minutes from Bath, and Day 3 also offers a photo portfolio of his Maine studio at 3485.","problems":"At $800-1,000 and by this name, it will be a drawing or a print rather than a sculpture -- establish which. A Zorach drawing at this money is fair value; do not pay it expecting sculpture. Three Zorach lots plus a Marguerite Zorach at 3481 means a coherent consignment.","target":550,"ceiling":880,"patience":"Moderate. Zorach works on paper appear periodically and are consistently cheaper than his reputation implies.","star":true},
-{"lot":3486,"verdict":"BUY","criteria":["maine"],"date":"20th c.","status":"modern","evidence":"Unverified","category":"painting","period":"midcentury","market":[600,1100],"resale":[400,800],
- "analysis":"A large Maine oil painting of a farm at $800-1,200, unsigned and unattributed. This is the anonymous regional work the brief identifies as good value -- no maker premium to pay, and an agricultural Maine subject has steady local appeal.","problems":"No date at all, so the age is unverified -- and 'large' means a storage and hanging commitment. Establish the period from the stretcher, canvas and paint surface. At the top of the band with five photographs.","target":550,"ceiling":950,"patience":"Moderate. Anonymous Maine landscapes recur but large competent ones less often.","star":true},
-{"lot":3488,"verdict":"BUY","criteria":["antique"],"date":"19th c. or later","status":"border","evidence":"Unverified","category":"painting","period":"victorian","market":[280,550],"resale":[190,400],
- "analysis":"An American naive landscape painting at $300-400 -- the last lot of the sale and one of the cheapest pictures in it. Naive and folk landscapes are a proper collecting category and an anonymous one carries no maker premium.","problems":"No date, so the age is unverified and naive-style pictures were painted throughout the 20th century as decoration. Check the canvas, stretcher and craquelure for genuine age. Four photographs. If it proves genuinely 19th century this is a good buy; if not it is a decorative object at a decorative price.","target":280,"ceiling":460,"patience":"Moderate.","star":true}
+ {
+  "lot": 3004,
+  "verdict": "CHECK FIRST",
+  "criteria": [
+   "named",
+   "antique"
+  ],
+  "date": "19th c. cast or later recast",
+  "status": "border",
+  "evidence": "Inferred",
+  "category": "sculpture",
+  "period": "victorian",
+  "market": [
+   350,
+   800
+  ],
+  "resale": [
+   220,
+   580
+  ],
+  "analysis": "Emmanuel Fremiet was a major French animalier and a genuine period cast would be a named-maker antique inside the band at $500-700. He is the sculptor of the Joan of Arc in Paris, so the name carries weight.",
+  "problems": "Same recasting problem as the whole Day 3 bronze run -- Fremiet models were reproduced continuously and the signature is cast into the model, so it proves nothing. Judge on chasing crispness in the fur, patina depth and underside finish. Note 3007 is a second Fremiet at $600-800: compare both and bid the better cast.",
+  "target": 380,
+  "ceiling": 650,
+  "patience": "High for recasts, low for period casts -- establish which first.",
+  "star": true
+ },
+ {
+  "lot": 3007,
+  "verdict": "CHECK FIRST",
+  "criteria": [
+   "named",
+   "antique"
+  ],
+  "date": "19th c. cast or later recast",
+  "status": "border",
+  "evidence": "Inferred",
+  "category": "sculpture",
+  "period": "victorian",
+  "market": [
+   400,
+   900
+  ],
+  "resale": [
+   260,
+   650
+  ],
+  "analysis": "The second Fremiet, $100 dearer than 3004. Two casts by the same sculptor in one sale lets you compare quality directly, which is the only reliable way to judge period versus late without a foundry mark.",
+  "problems": "Identical caveats to 3004. Rank the two at preview before the sale and bid only the better one.",
+  "target": 420,
+  "ceiling": 720,
+  "patience": "High.",
+  "star": false
+ },
+ {
+  "lot": 3008,
+  "verdict": "BUY",
+  "criteria": [
+   "maine",
+   "named"
+  ],
+  "date": "late 20th to 21st c.",
+  "status": "modern",
+  "evidence": "Inferred",
+  "category": "painting",
+  "period": "contemporary",
+  "market": [
+   250,
+   500
+  ],
+  "resale": [
+   160,
+   360
+  ],
+  "analysis": "Marjorie Moore of Maine at $300-500 is the cheapest Maine-artist lot in Day 3 and one of only a handful under $500. She works around Casco Bay and there is a second Moore at 3329. Earns its place on the Maine allowance rather than on age.",
+  "problems": "Living regional artist, so the market is essentially gallery price and there is no scarcity to exploit -- buy because you want it on the wall. Establish the medium; works on paper and oils differ substantially.",
+  "target": 250,
+  "ceiling": 420,
+  "patience": "Very high -- she is working and represented locally.",
+  "star": false
+ },
+ {
+  "lot": 3014,
+  "verdict": "CHECK FIRST",
+  "criteria": [
+   "named",
+   "antique"
+  ],
+  "date": "19th c. cast or later recast",
+  "status": "border",
+  "evidence": "Inferred",
+  "category": "sculpture",
+  "period": "victorian",
+  "market": [
+   400,
+   900
+  ],
+  "resale": [
+   260,
+   650
+  ],
+  "analysis": "Isidore Jules Bonheur, brother of Rosa, and the more prolific sculptor of the two. A period Bonheur bronze at $600-800 would be a genuine named antique in band.",
+  "problems": "Bonheur is among the most recast of all the animaliers -- Peyrol foundry originals versus 20th-century commercial copies. Look for the Peyrol stamp, which is the mark that matters. Same physical tests as the rest of the run.",
+  "target": 420,
+  "ceiling": 720,
+  "patience": "High.",
+  "star": false
+ },
+ {
+  "lot": 3084,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [
+   "named"
+  ],
+  "date": "late 20th c.",
+  "status": "modern",
+  "evidence": "Inferred",
+  "category": "painting",
+  "period": "contemporary",
+  "market": [
+   600,
+   1100
+  ],
+  "resale": [
+   400,
+   800
+  ],
+  "analysis": "Basil Ede was a well-known British bird painter with a real following among wildlife-art collectors. Competent, decorative, and at $800-1,200 only just inside the band.",
+  "problems": "No Maine connection and no antique claim, so it fits the brief only through 'named maker'. Wildlife art is also a market that has softened. Establish whether this is an original watercolour or one of his many published prints -- the gap is large.",
+  "target": 550,
+  "ceiling": 950,
+  "patience": "High.",
+  "star": false
+ },
+ {
+  "lot": 3110,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [
+   "named"
+  ],
+  "date": "mid-20th c.",
+  "status": "modern",
+  "evidence": "Inferred",
+  "category": "sculpture",
+  "period": "midcentury",
+  "market": [
+   450,
+   800
+  ],
+  "resale": [
+   300,
+   580
+  ],
+  "analysis": "Hugo Robus was a significant American modernist sculptor with museum representation, and this is the cheaper of two Robus lots at $600-800 against 3108's $2,000-3,000. The cheap one in a pair is usually the smaller work or a drawing.",
+  "problems": "Establish what it actually is -- a Robus bronze at $600 would be remarkable, a drawing or plaster study much less so. Modernist sculpture also has a narrow resale audience outside the major cities.",
+  "target": 420,
+  "ceiling": 720,
+  "patience": "Moderate.",
+  "star": false
+ },
+ {
+  "lot": 3125,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [
+   "named"
+  ],
+  "date": "mid-20th c.",
+  "status": "modern",
+  "evidence": "Inferred",
+  "category": "painting",
+  "period": "midcentury",
+  "market": [
+   600,
+   1100
+  ],
+  "resale": [
+   400,
+   800
+  ],
+  "analysis": "Milford Zornes was a leading California watercolourist of the Regionalist generation with a solid, well-documented market. At $800-1,200 he is just inside the band.",
+  "problems": "Wrong coast -- this is California Scene painting, the same problem as the Day 1 consignment the brief tells us to skip. No Maine link, no antique claim. Zornes was also prolific and lived to 100, so supply is deep.",
+  "target": 550,
+  "ceiling": 950,
+  "patience": "High.",
+  "star": false
+ },
+ {
+  "lot": 3128,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [
+   "named"
+  ],
+  "date": "late 20th c.",
+  "status": "modern",
+  "evidence": "Inferred",
+  "category": "painting",
+  "period": "contemporary",
+  "market": [
+   400,
+   750
+  ],
+  "resale": [
+   260,
+   540
+  ],
+  "analysis": "Tom Bennett, a contemporary California painter at $600-800. Competent work with a modest regional market.",
+  "problems": "Wrong coast, contemporary, no criteria fit beyond a name. My market read is at the low end of the estimate.",
+  "target": 350,
+  "ceiling": 620,
+  "patience": "Very high.",
+  "star": false
+ },
+ {
+  "lot": 3129,
+  "verdict": "BUY",
+  "criteria": [
+   "named"
+  ],
+  "date": "c.1925-1955",
+  "status": "modern",
+  "evidence": "Inferred",
+  "category": "painting",
+  "period": "midcentury",
+  "market": [
+   700,
+   1200
+  ],
+  "resale": [
+   480,
+   870
+  ],
+  "analysis": "John Whorf was a genuinely accomplished American watercolourist -- Provincetown-based, taught by Sargent's circle, and with a strong secondary market. At $800-1,000 he is inside the band and this is one of the better name-to-price ratios in Day 3. New England rather than Maine, but adjacent in feel and subject.",
+  "problems": "Whorf's output was large and quality varies considerably; the weak sheets sell for a fraction of the strong ones. Watercolour fading is the standard condition risk -- check under the mat edge. Confirm the signature is his rather than a similar hand.",
+  "target": 650,
+  "ceiling": 1000,
+  "patience": "Moderate. Whorf appears regularly but rarely this cheap for a good sheet.",
+  "star": true
+ },
+ {
+  "lot": 3130,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [
+   "named",
+   "antique"
+  ],
+  "date": "c.1900-1940",
+  "status": "border",
+  "evidence": "Inferred",
+  "category": "sculpture",
+  "period": "edwardian",
+  "market": [
+   450,
+   850
+  ],
+  "resale": [
+   300,
+   620
+  ],
+  "analysis": "Charles Keck was a substantial American academic sculptor -- public monuments, Hall of Fame busts -- whose working life straddles the antique line. At $600-800 a small Keck bronze in band is a legitimate named-maker buy.",
+  "problems": "Establish what it is and whether it is a lifetime cast. Academic figurative sculpture is out of fashion, which is why the price is low and also why resale is slow. Same bronze-versus-spelter and recast checks as the rest of Day 3.",
+  "target": 420,
+  "ceiling": 720,
+  "patience": "Moderate.",
+  "star": false
+ },
+ {
+  "lot": 3131,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [
+   "named"
+  ],
+  "date": "mid-to-late 20th c.",
+  "status": "modern",
+  "evidence": "Inferred",
+  "category": "painting",
+  "period": "midcentury",
+  "market": [
+   500,
+   900
+  ],
+  "resale": [
+   340,
+   650
+  ],
+  "analysis": "Paul Strisik was a Rockport, Massachusetts painter and a National Academician with a steady market. Cape Ann rather than Maine, but the coastal New England subject matter is close to the brief's territory.",
+  "problems": "Strisik was prolific and his market is stable rather than rising. At $700-900 the estimate is fair, leaving little margin. Check for a Rockport or Monhegan subject, which would strengthen the regional case.",
+  "target": 450,
+  "ceiling": 800,
+  "patience": "High.",
+  "star": false
+ },
+ {
+  "lot": 3132,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [
+   "named",
+   "antique"
+  ],
+  "date": "c.1905-1940",
+  "status": "border",
+  "evidence": "Inferred",
+  "category": "sculpture",
+  "period": "deco",
+  "market": [
+   500,
+   900
+  ],
+  "resale": [
+   340,
+   650
+  ],
+  "analysis": "Fernand Ouillon-Carrere was a French sculptor working in the Deco idiom -- his dancer figures are the best-known work. At $700-900 in band, and a genuine period Deco bronze would hit criterion three.",
+  "problems": "The Deco figure market is riddled with later casts and spelter copies, and Ouillon-Carrere is among the copied names. Apply the weight-and-chasing test. Also check for ivory elements, which would add the usual constraint.",
+  "target": 450,
+  "ceiling": 800,
+  "patience": "Moderate.",
+  "star": false
+ },
+ {
+  "lot": 3133,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [
+   "named",
+   "antique"
+  ],
+  "date": "c.1900-1940",
+  "status": "border",
+  "evidence": "Inferred",
+  "category": "painting",
+  "period": "edwardian",
+  "market": [
+   700,
+   1200
+  ],
+  "resale": [
+   480,
+   870
+  ],
+  "analysis": "Sears Gallagher was a Boston painter and etcher who worked extensively on Monhegan Island -- which puts him squarely in the Maine coastal brief, and his dates mean some of his output clears the antique line. At $1,000-1,200 he is at the very top of the band.",
+  "problems": "Only just affordable and the estimate leaves no room. Gallagher's watercolours and etchings differ hugely in value -- an etching should be $150-300, a good Monhegan watercolour several times that. Establish the medium, and look for a Monhegan subject specifically.",
+  "target": 700,
+  "ceiling": 1000,
+  "patience": "Moderate. Gallagher appears regularly and the etchings are cheap.",
+  "star": true
+ },
+ {
+  "lot": 3140,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [
+   "named"
+  ],
+  "date": "mid-to-late 20th c.",
+  "status": "modern",
+  "evidence": "Inferred",
+  "category": "painting",
+  "period": "midcentury",
+  "market": [
+   300,
+   600
+  ],
+  "resale": [
+   200,
+   430
+  ],
+  "analysis": "Aram Koupetsian, a Soviet-Armenian painter, at $400-600. Soviet-era painting has a specialist market that has strengthened somewhat but remains thin in the US.",
+  "problems": "No criteria fit at all -- not antique, not Maine, no precious metal, and the name is not one a US buyer can easily resell. Two photographs.",
+  "target": 280,
+  "ceiling": 500,
+  "patience": "High.",
+  "star": false
+ },
+ {
+  "lot": 3164,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [
+   "named"
+  ],
+  "date": "mid-20th c.",
+  "status": "modern",
+  "evidence": "Inferred",
+  "category": "painting",
+  "period": "midcentury",
+  "market": [
+   600,
+   1100
+  ],
+  "resale": [
+   400,
+   800
+  ],
+  "analysis": "Harold C. Wolcott at $800-1,200, the cheapest of three Wolcott lots (3164, 3166, 3168 at up to $4,000). Being the cheap one of three by the same hand is the useful position -- the Wolcott buyer will have committed by the third.",
+  "problems": "Wolcott is a minor listed name with a thin comparable record, so all three estimates rest on the house's judgement rather than a market. No Maine or antique claim.",
+  "target": 550,
+  "ceiling": 950,
+  "patience": "High -- three chances at the same artist.",
+  "star": false
+ },
+ {
+  "lot": 3169,
+  "verdict": "CHECK FIRST",
+  "criteria": [
+   "named",
+   "antique"
+  ],
+  "date": "19th c. cast or later recast",
+  "status": "border",
+  "evidence": "Inferred",
+  "category": "sculpture",
+  "period": "victorian",
+  "market": [
+   500,
+   1100
+  ],
+  "resale": [
+   340,
+   800
+  ],
+  "analysis": "Albert-Ernest Carrier-Belleuse was a major 19th-century French sculptor -- Rodin worked in his studio. A period cast at $800-1,200 would be a real named antique at the top of the band.",
+  "problems": "Carrier-Belleuse ran a large commercial studio and his models were editioned heavily in his lifetime and long after, so 'period' is a spectrum rather than a yes or no. Look for foundry marks and edition numbers. Terracotta and plaster versions also exist and are worth far less than bronze.",
+  "target": 550,
+  "ceiling": 950,
+  "patience": "Moderate.",
+  "star": false
+ },
+ {
+  "lot": 3178,
+  "verdict": "PASS",
+  "criteria": [],
+  "date": "20th c. cast",
+  "status": "modern",
+  "evidence": "Catalogued",
+  "category": "sculpture",
+  "period": "midcentury",
+  "market": [
+   250,
+   600
+  ],
+  "resale": [
+   150,
+   420
+  ],
+  "analysis": "The catalogue does the work: 'AFTER Frederic Remington'. Per the standing principles, 'after' means copy or reproduction, not authenticity. Remington's bronzes are the single most reproduced American sculptures in existence -- Bronco Buster and Rattlesnake copies number in the tens of thousands.",
+  "problems": "A genuine Remington lifetime cast is a six-figure object; this is a decorative copy and the house says so. At $500-700 the estimate is optimistic even for a good-quality reproduction. The room will still bid it on the name.",
+  "target": 0,
+  "ceiling": 450,
+  "patience": "Irrelevant -- continuously available.",
+  "star": false
+ },
+ {
+  "lot": 3249,
+  "verdict": "BUY",
+  "criteria": [
+   "maine",
+   "named"
+  ],
+  "date": "1983",
+  "status": "modern",
+  "evidence": "Catalogued",
+  "category": "painting",
+  "period": "midcentury",
+  "market": [
+   350,
+   700
+  ],
+  "resale": [
+   240,
+   500
+  ],
+  "analysis": "Signed, titled, dated and gallery-labelled. '\"Small Ares with Wall\", acrylic on bass wood, a high relief table display sculpture head in profile, mounted on white panel with floor painted at bottom, signed lower right and DATED '83, also signed, titled and dated verso, along with BARIDOFF GALLERY ... label.' Frederick Lynch (ME, 1935-2016) with a Maine gallery label and a full verso inscription is properly documented for a contemporary work, and a Baridoff label is real Portland provenance.",
+  "problems": "1983, so nothing on the age criterion -- this earns its place on the Maine criterion alone and should be said so plainly. Note the catalogue gives the gallery as 'Baridoff Gallery of PORTSMOUTH, Maine'; Baridoff Galleries was in PORTLAND, and Portsmouth is in New Hampshire. One more transcription error to add to the list. 'Includes Lexan cover, not attached' means the protective sheet is loose, so the painted relief surface is currently unprotected.",
+  "target": 320,
+  "ceiling": 580,
+  "patience": "Very high within this sale alone -- eight chances.",
+  "star": true
+ },
+ {
+  "lot": 3251,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [
+   "maine",
+   "named"
+  ],
+  "date": "mid-to-late 20th c.",
+  "status": "modern",
+  "evidence": "Inferred",
+  "category": "painting",
+  "period": "midcentury",
+  "market": [
+   450,
+   850
+  ],
+  "resale": [
+   300,
+   620
+  ],
+  "analysis": "The second-cheapest Lynch at $600-800. Same reasoning as 3249 -- and with six more Lynch lots following at higher estimates, the pricing signal from these two early ones will tell you what the room thinks.",
+  "problems": "Same as 3249. Watch 3249 first; if it goes cheap, expect the same here.",
+  "target": 400,
+  "ceiling": 720,
+  "patience": "Very high.",
+  "star": false
+ },
+ {
+  "lot": 3265,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [
+   "named"
+  ],
+  "date": "mid-20th c.",
+  "status": "modern",
+  "evidence": "Inferred",
+  "category": "prints",
+  "period": "midcentury",
+  "market": [
+   600,
+   1100
+  ],
+  "resale": [
+   400,
+   800
+  ],
+  "analysis": "Le Corbusier at $800-1,200 is inside the band, which for a name of that magnitude means it is a print rather than anything unique -- almost certainly a lithograph from one of the published portfolios. That is not a criticism: a signed or numbered Corbusier lithograph is a legitimate object and the only way the name enters this budget.",
+  "problems": "Establish the edition, whether it is signed in pencil, and which portfolio. Unsigned later-edition Corbusier lithographs are common and worth a few hundred. Treat a suspiciously cheap headline name as a red flag first.",
+  "target": 550,
+  "ceiling": 950,
+  "patience": "Moderate.",
+  "star": true
+ },
+ {
+  "lot": 3308,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [
+   "named"
+  ],
+  "date": "late 20th c.",
+  "status": "modern",
+  "evidence": "Inferred",
+  "category": "painting",
+  "period": "contemporary",
+  "market": [
+   300,
+   600
+  ],
+  "resale": [
+   200,
+   430
+  ],
+  "analysis": "Donald Charles Penney at $400-600. A minor listed name with a thin market.",
+  "problems": "No criteria fit -- the state given is South Georgia, so no Maine connection, and no antique claim. Priced on the house's judgement rather than a comparable record.",
+  "target": 280,
+  "ceiling": 500,
+  "patience": "High.",
+  "star": false
+ },
+ {
+  "lot": 3316,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [
+   "named"
+  ],
+  "date": "late 20th c.",
+  "status": "modern",
+  "evidence": "Inferred",
+  "category": "painting",
+  "period": "contemporary",
+  "market": [
+   200,
+   400
+  ],
+  "resale": [
+   130,
+   280
+  ],
+  "analysis": "Nancy Skreko Martin at $300-400 -- among the cheapest lots in Day 3. Illinois-based contemporary artist.",
+  "problems": "No criteria fit and only two photographs. This is a decorating purchase at best.",
+  "target": 200,
+  "ceiling": 330,
+  "patience": "Very high.",
+  "star": false
+ },
+ {
+  "lot": 3321,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [
+   "named"
+  ],
+  "date": "mid-20th c.",
+  "status": "modern",
+  "evidence": "Inferred",
+  "category": "prints",
+  "period": "midcentury",
+  "market": [
+   500,
+   900
+  ],
+  "resale": [
+   340,
+   650
+  ],
+  "analysis": "Fernand Leger at $700-900. As with the Corbusier, a major modernist name inside this budget means a print -- a lithograph or pochoir from a published edition.",
+  "problems": "Leger is among the most reproduced modernists and unsigned posthumous editions are abundant. Establish signature, edition and publisher before treating the name as meaningful. The standing warning about suspiciously cheap big names applies directly.",
+  "target": 450,
+  "ceiling": 800,
+  "patience": "High -- Leger prints are continuously available.",
+  "star": false
+ },
+ {
+  "lot": 3325,
+  "verdict": "BUY",
+  "criteria": [
+   "named"
+  ],
+  "date": "mid-to-late 20th c.",
+  "status": "modern",
+  "evidence": "Inferred",
+  "category": "prints",
+  "period": "midcentury",
+  "market": [
+   450,
+   850
+  ],
+  "resale": [
+   300,
+   620
+  ],
+  "analysis": "Leonard Baskin at $600-800. Baskin was a major American printmaker and sculptor with genuine museum standing, and his woodcuts and engravings are properly collected. Works on paper by a serious name inside the band is exactly the pattern the brief identifies as good value.",
+  "problems": "Baskin's editions were often large and his output prolific, so this is not rare. Check for a pencil signature and edition number, and for the Gehenna Press imprint, which is the desirable end of his work.",
+  "target": 420,
+  "ceiling": 720,
+  "patience": "Moderate. Baskin prints appear regularly and are consistently underpriced relative to his reputation.",
+  "star": true
+ },
+ {
+  "lot": 3326,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [
+   "maine",
+   "named"
+  ],
+  "date": "mid-to-late 20th c.",
+  "status": "modern",
+  "evidence": "Inferred",
+  "category": "painting",
+  "period": "midcentury",
+  "market": [
+   500,
+   900
+  ],
+  "resale": [
+   340,
+   650
+  ],
+  "analysis": "David Henning Larson (ME, 1931-2007) at $700-900. A Maine artist with a modest regional following, so it earns its place on the Maine allowance.",
+  "problems": "Minor name, thin market, and at $700-900 the estimate uses most of the band. Establish the medium and subject -- a coastal Maine subject is worth materially more locally than an inland or abstract one.",
+  "target": 450,
+  "ceiling": 800,
+  "patience": "High.",
+  "star": false
+ },
+ {
+  "lot": 3327,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [
+   "named"
+  ],
+  "date": "late 20th c.",
+  "status": "modern",
+  "evidence": "Inferred",
+  "category": "painting",
+  "period": "contemporary",
+  "market": [
+   600,
+   1100
+  ],
+  "resale": [
+   400,
+   800
+  ],
+  "analysis": "Elizabeth 'Liz' Peak, a contemporary Virginia artist, at $800-1,200 with five photographs.",
+  "problems": "No Maine link, no antique claim, contemporary living artist -- so gallery pricing with no discount to find. Only just inside the band.",
+  "target": 550,
+  "ceiling": 950,
+  "patience": "Very high.",
+  "star": false
+ },
+ {
+  "lot": 3328,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [
+   "named"
+  ],
+  "date": "late 20th c.",
+  "status": "modern",
+  "evidence": "Inferred",
+  "category": "prints",
+  "period": "contemporary",
+  "market": [
+   500,
+   900
+  ],
+  "resale": [
+   340,
+   650
+  ],
+  "analysis": "Leonardo Lasansky at $700-900, one of three Lasansky lots (3328, 3332, 3333). Lasansky is a respected American printmaker -- the son of Mauricio Lasansky, a more famous name -- and his intaglio work is technically accomplished.",
+  "problems": "Three lots by one printmaker means no scarcity. 3332 at $400-600 is the cheapest of the three and the better entry. Confirm which Lasansky: the father's work is worth considerably more, and the similarity of name invites confusion.",
+  "target": 450,
+  "ceiling": 800,
+  "patience": "High -- three in this sale.",
+  "star": false
+ },
+ {
+  "lot": 3330,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [
+   "named"
+  ],
+  "date": "mid-to-late 20th c.",
+  "status": "modern",
+  "evidence": "Inferred",
+  "category": "prints",
+  "period": "midcentury",
+  "market": [
+   400,
+   750
+  ],
+  "resale": [
+   260,
+   540
+  ],
+  "analysis": "Sergio Gonzalez-Tornero, a Chilean-American printmaker, at $600-800 with five photographs. Competent mid-century intaglio work.",
+  "problems": "No criteria fit. Latin American printmakers of this generation have a specialist market that barely registers in New England.",
+  "target": 380,
+  "ceiling": 680,
+  "patience": "High.",
+  "star": false
+ },
+ {
+  "lot": 3331,
+  "verdict": "BUY",
+  "criteria": [
+   "named"
+  ],
+  "date": "mid-to-late 20th c.",
+  "status": "modern",
+  "evidence": "Inferred",
+  "category": "prints",
+  "period": "midcentury",
+  "market": [
+   350,
+   700
+  ],
+  "resale": [
+   240,
+   500
+  ],
+  "analysis": "Carol Summers at $400-600. Summers was a significant American woodcut artist with a distinctive saturated-colour technique and genuine museum representation. At this money a signed Summers woodcut is good value -- another case of works on paper by a properly collected name sitting in band.",
+  "problems": "Summers editions were typically 50-100 and he worked for six decades, so supply is reasonable. Check for pencil signature and edition, and for the bleeding-colour technique that identifies his best work. Light-fading affects the intense colours badly.",
+  "target": 350,
+  "ceiling": 580,
+  "patience": "Moderate.",
+  "star": true
+ },
+ {
+  "lot": 3332,
+  "verdict": "BUY",
+  "criteria": [
+   "named"
+  ],
+  "date": "late 20th c.",
+  "status": "modern",
+  "evidence": "Inferred",
+  "category": "prints",
+  "period": "contemporary",
+  "market": [
+   350,
+   650
+  ],
+  "resale": [
+   240,
+   470
+  ],
+  "analysis": "The cheapest of the three Lasansky lots at $400-600. If you want a Lasansky intaglio, this is the one to bid.",
+  "problems": "Same father-versus-son identification question as 3328. Four photographs. Establish signature and edition.",
+  "target": 320,
+  "ceiling": 560,
+  "patience": "High.",
+  "star": false
+ },
+ {
+  "lot": 3333,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [
+   "named"
+  ],
+  "date": "late 20th c.",
+  "status": "modern",
+  "evidence": "Inferred",
+  "category": "prints",
+  "period": "contemporary",
+  "market": [
+   450,
+   800
+  ],
+  "resale": [
+   300,
+   580
+  ],
+  "analysis": "The third Lasansky at $600-800. Last of three, which is the position where bidder fatigue helps.",
+  "problems": "Same as the others. Bid 3332 first and only come here if it goes past its estimate.",
+  "target": 400,
+  "ceiling": 720,
+  "patience": "High.",
+  "star": false
+ },
+ {
+  "lot": 3334,
+  "verdict": "BUY",
+  "criteria": [
+   "maine",
+   "named",
+   "marine"
+  ],
+  "date": "late 20th to 21st c.",
+  "status": "modern",
+  "evidence": "Inferred",
+  "category": "painting",
+  "period": "contemporary",
+  "market": [
+   450,
+   850
+  ],
+  "resale": [
+   300,
+   620
+  ],
+  "analysis": "Otty Merrill of Tenant's Harbor, Maine at $600-800. Tenant's Harbor is fifteen minutes from Thomaston, which makes this genuinely hyper-local material of the kind the brief says sells to a small but committed regional audience. She died in 2024, which typically firms a regional artist's market. A second Merrill runs at 3335 for $300-400.",
+  "problems": "Hyper-local means the market is essentially midcoast Maine and nowhere else -- fine for a personal collection, poor for resale. Bid 3335 first at half the price; it is the same artist.",
+  "target": 420,
+  "ceiling": 720,
+  "patience": "Moderate. Two in this sale, and recently deceased artists see a temporary supply increase as estates disperse.",
+  "star": true
+ },
+ {
+  "lot": 3337,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [
+   "named"
+  ],
+  "date": "late 20th c.",
+  "status": "modern",
+  "evidence": "Inferred",
+  "category": "painting",
+  "period": "contemporary",
+  "market": [
+   300,
+   600
+  ],
+  "resale": [
+   200,
+   430
+  ],
+  "analysis": "Will Mentor, a Vermont and Massachusetts contemporary painter, at $400-600 with five photographs.",
+  "problems": "No criteria fit. Contemporary living artist with a modest market.",
+  "target": 280,
+  "ceiling": 500,
+  "patience": "High.",
+  "star": false
+ },
+ {
+  "lot": 3338,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [
+   "named"
+  ],
+  "date": "late 20th c.",
+  "status": "modern",
+  "evidence": "Unverified",
+  "category": "painting",
+  "period": "contemporary",
+  "market": [
+   350,
+   650
+  ],
+  "resale": [
+   240,
+   470
+  ],
+  "analysis": "Darryl Norem (1949-2012) at $500-700. The catalogue gives no state at all, which is unusual and unhelpful -- it means the house could not localise the artist.",
+  "problems": "No state, no medium, no subject. An artist the cataloguer could not place is one with essentially no market record. Five photographs is the only thing in its favour.",
+  "target": 300,
+  "ceiling": 580,
+  "patience": "High.",
+  "star": false
+ },
+ {
+  "lot": 3340,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [
+   "named"
+  ],
+  "date": "mid-to-late 20th c.",
+  "status": "modern",
+  "evidence": "Inferred",
+  "category": "painting",
+  "period": "midcentury",
+  "market": [
+   400,
+   750
+  ],
+  "resale": [
+   260,
+   540
+  ],
+  "analysis": "Pierre Olofsson (Sweden, 1921-1996) at $600-800. Olofsson was a Swedish concretist with a genuine domestic market in Scandinavia.",
+  "problems": "That market is in Sweden, not Maine -- Scandinavian modernism sells well at home and poorly here, so resale would mean consigning abroad. No criteria fit.",
+  "target": 380,
+  "ceiling": 680,
+  "patience": "High.",
+  "star": false
+ },
+ {
+  "lot": 3342,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [
+   "named"
+  ],
+  "date": "late 20th c.",
+  "status": "modern",
+  "evidence": "Inferred",
+  "category": "painting",
+  "period": "contemporary",
+  "market": [
+   400,
+   750
+  ],
+  "resale": [
+   260,
+   540
+  ],
+  "analysis": "Pauline W. Kruetzfeldt at $600-800. A contemporary German-American artist with a thin record.",
+  "problems": "No criteria fit and no market to speak of. Priced on the house's judgement.",
+  "target": 380,
+  "ceiling": 680,
+  "patience": "High.",
+  "star": false
+ },
+ {
+  "lot": 3344,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [
+   "maine",
+   "named"
+  ],
+  "date": "contemporary",
+  "status": "modern",
+  "evidence": "Inferred",
+  "category": "painting",
+  "period": "contemporary",
+  "market": [
+   450,
+   800
+  ],
+  "resale": [
+   300,
+   580
+  ],
+  "analysis": "Mary Barnes, contemporary Maine and Oregon, at $600-800. Qualifies on the Maine allowance and nothing else.",
+  "problems": "Living artist with dual-state association, so the Maine claim is partial. No antique status, no scarcity. Buy on preference.",
+  "target": 400,
+  "ceiling": 720,
+  "patience": "Very high.",
+  "star": false
+ },
+ {
+  "lot": 3346,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [
+   "maine",
+   "named"
+  ],
+  "date": "contemporary",
+  "status": "modern",
+  "evidence": "Inferred",
+  "category": "painting",
+  "period": "contemporary",
+  "market": [
+   550,
+   1000
+  ],
+  "resale": [
+   380,
+   720
+  ],
+  "analysis": "Kevin Beers, contemporary Maine, at $750-1,000 with five photographs. Beers paints Monhegan and coastal subjects and has a solid current market in Maine galleries.",
+  "problems": "At the top of the band and a living artist whose work can be bought from a gallery -- so no discount and no scarcity. The regional desirability is real but you are paying retail for it.",
+  "target": 500,
+  "ceiling": 900,
+  "patience": "Very high.",
+  "star": false
+ },
+ {
+  "lot": 3357,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [
+   "maine",
+   "named"
+  ],
+  "date": "mid-to-late 20th c.",
+  "status": "modern",
+  "evidence": "Inferred",
+  "category": "painting",
+  "period": "midcentury",
+  "market": [
+   550,
+   1000
+  ],
+  "resale": [
+   380,
+   720
+  ],
+  "analysis": "Vernon Broe (IL/ME, 1930-2011) at $800-1,000. A Maine-associated artist with a modest following; 3358 is a second Broe at $800-1,200.",
+  "problems": "Top of the band with two lots in the sale, so no scarcity. Minor name with a thin comparable record. Establish the medium and whether the subject is Maine.",
+  "target": 500,
+  "ceiling": 880,
+  "patience": "High -- two in this sale.",
+  "star": false
+ },
+ {
+  "lot": 3358,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [
+   "maine",
+   "named"
+  ],
+  "date": "mid-to-late 20th c.",
+  "status": "modern",
+  "evidence": "Inferred",
+  "category": "painting",
+  "period": "midcentury",
+  "market": [
+   600,
+   1100
+  ],
+  "resale": [
+   400,
+   800
+  ],
+  "analysis": "The second Vernon Broe at $800-1,200. Same artist, same reasoning, slightly dearer.",
+  "problems": "Bid 3357 first. If both go cheap you have two; if the room wants Broe, let them have it.",
+  "target": 550,
+  "ceiling": 950,
+  "patience": "High.",
+  "star": false
+ },
+ {
+  "lot": 3359,
+  "verdict": "BUY",
+  "criteria": [
+   "maine",
+   "named"
+  ],
+  "date": "mid-20th c.",
+  "status": "modern",
+  "evidence": "Inferred",
+  "category": "painting",
+  "period": "midcentury",
+  "market": [
+   280,
+   550
+  ],
+  "resale": [
+   190,
+   400
+  ],
+  "analysis": "Leo Brooks (ME, 1909-1993) at $300-400 -- one of the cheapest Maine-artist lots in the sale, and a second Brooks runs at 3360 for $1,500-2,500. The gap between the two suggests this is a small work or a study and that one is a major canvas, which makes this the affordable way to own the artist.",
+  "problems": "Minor Maine name with a regional market. Establish medium and subject. Four photographs, which is decent for the price.",
+  "target": 280,
+  "ceiling": 460,
+  "patience": "Moderate.",
+  "star": true
+ },
+ {
+  "lot": 3362,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [
+   "maine",
+   "named"
+  ],
+  "date": "mid-to-late 20th c.",
+  "status": "modern",
+  "evidence": "Inferred",
+  "category": "painting",
+  "period": "midcentury",
+  "market": [
+   600,
+   1100
+  ],
+  "resale": [
+   400,
+   800
+  ],
+  "analysis": "William Bryant (ME, 1906-1997) at $800-1,200. A long-lived Maine artist whose working life spans most of the century.",
+  "problems": "Only just inside the band. Minor name, and with a career that long the output is large. Establish the medium and date -- an early work has a chance of being materially more interesting than a late one.",
+  "target": 550,
+  "ceiling": 950,
+  "patience": "High.",
+  "star": false
+ },
+ {
+  "lot": 3363,
+  "verdict": "BUY",
+  "criteria": [
+   "maine",
+   "named"
+  ],
+  "date": "late 20th c.",
+  "status": "modern",
+  "evidence": "Inferred",
+  "category": "painting",
+  "period": "contemporary",
+  "market": [
+   400,
+   800
+  ],
+  "resale": [
+   280,
+   580
+  ],
+  "analysis": "Arthur Cadieux (ME, 1943-2013) at $500-800 with five photographs -- a Maine artist at a sensible price with reasonable disclosure. Deceased, so the supply is finite in a way the living artists' work is not.",
+  "problems": "Regional name with a thin record outside Maine. The $500-800 spread is wide for a minor artist, which suggests the house is unsure. Establish medium and subject.",
+  "target": 400,
+  "ceiling": 700,
+  "patience": "Moderate.",
+  "star": false
+ },
+ {
+  "lot": 3368,
+  "verdict": "BUY",
+  "criteria": [
+   "maine",
+   "named"
+  ],
+  "date": "late 20th c.",
+  "status": "modern",
+  "evidence": "Inferred",
+  "category": "painting",
+  "period": "contemporary",
+  "market": [
+   350,
+   700
+  ],
+  "resale": [
+   240,
+   500
+  ],
+  "analysis": "David Dewey (ME/NY, 1946- ) at $400-600, with a second at 3371 at the same estimate. Dewey is a well-regarded Maine watercolourist with genuine standing in the state -- Rockland and Camden galleries carry him -- and two lots at $400-600 is the cheap end of his market.",
+  "problems": "Living artist, so gallery supply continues. Watercolour, so check for fading and foxing. Two identical estimates in one sale means you can wait for the second.",
+  "target": 350,
+  "ceiling": 580,
+  "patience": "High -- two in this sale and the artist is working.",
+  "star": true
+ },
+ {
+  "lot": 3371,
+  "verdict": "BUY",
+  "criteria": [
+   "maine",
+   "named"
+  ],
+  "date": "late 20th c.",
+  "status": "modern",
+  "evidence": "Inferred",
+  "category": "painting",
+  "period": "contemporary",
+  "market": [
+   350,
+   700
+  ],
+  "resale": [
+   240,
+   500
+  ],
+  "analysis": "The second David Dewey at $400-600. Identical proposition to 3368 -- bid whichever the room leaves alone.",
+  "problems": "Same as 3368.",
+  "target": 350,
+  "ceiling": 580,
+  "patience": "High.",
+  "star": false
+ },
+ {
+  "lot": 3372,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [
+   "maine",
+   "named"
+  ],
+  "date": "late 20th c.",
+  "status": "modern",
+  "evidence": "Inferred",
+  "category": "painting",
+  "period": "contemporary",
+  "market": [
+   450,
+   800
+  ],
+  "resale": [
+   300,
+   580
+  ],
+  "analysis": "Robert Duncan (ME, 1944-2019) at $600-800. A Maine artist, recently deceased, with a modest regional market.",
+  "problems": "Minor name. Note there is a much better-known Robert Duncan (the Utah painter of rural Americana) -- confirm which, because a confusion of names could cut either way on price.",
+  "target": 400,
+  "ceiling": 720,
+  "patience": "High.",
+  "star": false
+ },
+ {
+  "lot": 3377,
+  "verdict": "BUY",
+  "criteria": [
+   "maine",
+   "named"
+  ],
+  "date": "late 20th c.",
+  "status": "modern",
+  "evidence": "Inferred",
+  "category": "painting",
+  "period": "contemporary",
+  "market": [
+   280,
+   550
+  ],
+  "resale": [
+   190,
+   400
+  ],
+  "analysis": "Ron Goyette (ME, 1941-2002) at $300-400 -- another of the sub-$500 Maine lots, which are where this budget actually buys something. Deceased, so supply is fixed.",
+  "problems": "Minor regional name with little market record; the estimate is the house's guess. Three photographs. Establish medium and subject.",
+  "target": 280,
+  "ceiling": 460,
+  "patience": "Moderate.",
+  "star": false
+ },
+ {
+  "lot": 3379,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [
+   "maine",
+   "named"
+  ],
+  "date": "mid-to-late 20th c.",
+  "status": "modern",
+  "evidence": "Inferred",
+  "category": "painting",
+  "period": "midcentury",
+  "market": [
+   450,
+   800
+  ],
+  "resale": [
+   300,
+   580
+  ],
+  "analysis": "Vincent Hartgen (ME/PA, 1914-2003) at $600-800. Hartgen founded the art department at the University of Maine and was a significant figure in the state's art institutions, which gives him a durable if modest Maine market.",
+  "problems": "His institutional importance exceeds his market value -- being an influential teacher does not lift prices. Establish the medium; he worked largely in watercolour and mixed media.",
+  "target": 400,
+  "ceiling": 720,
+  "patience": "High.",
+  "star": false
+ },
+ {
+  "lot": 3389,
+  "verdict": "BUY",
+  "criteria": [
+   "maine",
+   "named"
+  ],
+  "date": "contemporary",
+  "status": "modern",
+  "evidence": "Inferred",
+  "category": "painting",
+  "period": "contemporary",
+  "market": [
+   250,
+   500
+  ],
+  "resale": [
+   170,
+   360
+  ],
+  "analysis": "Kris Johnson, contemporary Maine, at $300-400 with five photographs. One of the cheapest Maine lots in the sale and decently documented for the money.",
+  "problems": "Living contemporary artist, so no scarcity and gallery pricing sets the ceiling. Buy on preference, not value.",
+  "target": 250,
+  "ceiling": 420,
+  "patience": "Very high.",
+  "star": false
+ },
+ {
+  "lot": 3390,
+  "verdict": "BUY",
+  "criteria": [
+   "maine",
+   "named"
+  ],
+  "date": "contemporary",
+  "status": "modern",
+  "evidence": "Inferred",
+  "category": "painting",
+  "period": "contemporary",
+  "market": [
+   280,
+   550
+  ],
+  "resale": [
+   190,
+   400
+  ],
+  "analysis": "Julia Kelly, contemporary Maine, at $300-500. Same category as 3389 -- inexpensive current Maine work.",
+  "problems": "Living artist, no scarcity, no antique claim. Three photographs.",
+  "target": 280,
+  "ceiling": 460,
+  "patience": "Very high.",
+  "star": false
+ },
+ {
+  "lot": 3391,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [
+   "maine",
+   "named"
+  ],
+  "date": "20th c.",
+  "status": "border",
+  "evidence": "Unverified",
+  "category": "painting",
+  "period": "midcentury",
+  "market": [
+   500,
+   900
+  ],
+  "resale": [
+   340,
+   650
+  ],
+  "analysis": "R.M. King (ME, 20th century) at $700-900. The catalogue gives initials and a century, which is as thin as attribution gets -- effectively an artisan signature.",
+  "problems": "Per the standing principles, an unidentified signature is speculative and should not attract named-maker money. '20th CENT.' also means the house could not date it within a hundred years. Price it as anonymous Maine work.",
+  "target": 420,
+  "ceiling": 800,
+  "patience": "High.",
+  "star": false
+ },
+ {
+  "lot": 3393,
+  "verdict": "BUY",
+  "criteria": [
+   "maine",
+   "named"
+  ],
+  "date": "mid-20th c.",
+  "status": "modern",
+  "evidence": "Inferred",
+  "category": "painting",
+  "period": "midcentury",
+  "market": [
+   280,
+   550
+  ],
+  "resale": [
+   190,
+   400
+  ],
+  "analysis": "George Kunkel (ME/MD, 1922-1984) at $300-500. Deceased mid-century Maine-associated artist at a low price with four photographs.",
+  "problems": "Minor name, dual-state so the Maine claim is partial. Establish medium and subject.",
+  "target": 280,
+  "ceiling": 460,
+  "patience": "Moderate.",
+  "star": false
+ },
+ {
+  "lot": 3394,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [
+   "named"
+  ],
+  "date": "mid-20th c.",
+  "status": "modern",
+  "evidence": "Inferred",
+  "category": "painting",
+  "period": "midcentury",
+  "market": [
+   300,
+   600
+  ],
+  "resale": [
+   200,
+   430
+  ],
+  "analysis": "Nat Levy (CA, 1896-1964) at $400-600. A California watercolourist of the Regionalist era.",
+  "problems": "Wrong coast -- the same pattern as the Day 1 California consignment. No Maine link, no antique claim.",
+  "target": 280,
+  "ceiling": 500,
+  "patience": "High.",
+  "star": false
+ },
+ {
+  "lot": 3395,
+  "verdict": "BUY",
+  "criteria": [
+   "maine",
+   "named"
+  ],
+  "date": "mid-to-late 20th c.",
+  "status": "modern",
+  "evidence": "Inferred",
+  "category": "painting",
+  "period": "midcentury",
+  "market": [
+   280,
+   550
+  ],
+  "resale": [
+   190,
+   400
+  ],
+  "analysis": "Nat Lewis, also known as Natalie Brush (ME, 1925-2015), at $300-400 -- and 3396 is a second Lewis at $1,500-2,500. The eight-fold gap between the two tells you this is the small work and that one is the important one, which makes this the cheap way to own her.",
+  "problems": "Minor Maine name. The alias is worth noting when researching comps -- work may appear under either name, which fragments the record and makes the market look thinner than it is.",
+  "target": 280,
+  "ceiling": 460,
+  "patience": "Moderate.",
+  "star": true
+ },
+ {
+  "lot": 3406,
+  "verdict": "BUY",
+  "criteria": [
+   "maine",
+   "named"
+  ],
+  "date": "late 20th c.",
+  "status": "modern",
+  "evidence": "Inferred",
+  "category": "painting",
+  "period": "contemporary",
+  "market": [
+   400,
+   750
+  ],
+  "resale": [
+   280,
+   540
+  ],
+  "analysis": "Scott Moore (ME/DC, 1953- ) at $500-700 -- the cheapest of six Moore lots in Day 3 (the rest at $750-1,500). Six works by one artist is a consignment and the first cheap one is the place to buy if you want him at all.",
+  "problems": "Six lots means no scarcity at all. Living artist. Establish medium and subject; Moore's Maine subjects are the ones with local appeal.",
+  "target": 400,
+  "ceiling": 680,
+  "patience": "Very high -- six chances in one sale.",
+  "star": true
+ },
+ {
+  "lot": 3411,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [
+   "maine",
+   "named"
+  ],
+  "date": "late 20th c.",
+  "status": "modern",
+  "evidence": "Inferred",
+  "category": "painting",
+  "period": "contemporary",
+  "market": [
+   550,
+   1000
+  ],
+  "resale": [
+   380,
+   720
+  ],
+  "analysis": "The second-cheapest Scott Moore at $750-1,000, and the last of the six.",
+  "problems": "Being last in a run of six is the best position, but at $750 the estimate uses most of the band. Bid 3406 first.",
+  "target": 500,
+  "ceiling": 900,
+  "patience": "Very high.",
+  "star": false
+ },
+ {
+  "lot": 3412,
+  "verdict": "BUY",
+  "criteria": [
+   "maine",
+   "named"
+  ],
+  "date": "late 20th c.",
+  "status": "modern",
+  "evidence": "Inferred",
+  "category": "painting",
+  "period": "contemporary",
+  "market": [
+   400,
+   750
+  ],
+  "resale": [
+   280,
+   540
+  ],
+  "analysis": "Greg Mort (MD/ME, 1952- ) at $500-700, the cheapest of three Mort lots. Mort has a genuine following and a Maine association through Port Clyde, which is on-brief territory.",
+  "problems": "Living artist with active gallery representation, so no discount to find. Dual-state, so the Maine claim is partial. Establish whether it is an original watercolour or one of his published prints -- Mort's prints are widely sold and worth a fraction.",
+  "target": 400,
+  "ceiling": 680,
+  "patience": "High -- three in this sale.",
+  "star": true
+ },
+ {
+  "lot": 3413,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [
+   "named"
+  ],
+  "date": "late 20th c.",
+  "status": "modern",
+  "evidence": "Inferred",
+  "category": "painting",
+  "period": "contemporary",
+  "market": [
+   450,
+   800
+  ],
+  "resale": [
+   300,
+   580
+  ],
+  "analysis": "The second Greg Mort at $600-800, catalogued Maryland only rather than MD/ME.",
+  "problems": "The dropped Maine association in this entry may just be inconsistent cataloguing, but it weakens the criteria case. Only two photographs. Bid 3412 first.",
+  "target": 400,
+  "ceiling": 720,
+  "patience": "High.",
+  "star": false
+ },
+ {
+  "lot": 3415,
+  "verdict": "BUY",
+  "criteria": [
+   "maine",
+   "named"
+  ],
+  "date": "mid-20th c.",
+  "status": "modern",
+  "evidence": "Inferred",
+  "category": "painting",
+  "period": "midcentury",
+  "market": [
+   280,
+   550
+  ],
+  "resale": [
+   190,
+   400
+  ],
+  "analysis": "Emily Lansingh Muir (IL/ME, 1904-2003) at $300-500 -- and 3416 is a second Muir at $2,500-3,000. Muir is a genuinely interesting figure: a Stonington artist, designer and architect who built houses on Deer Isle, and her market has been rising as that work is rediscovered. The eight-fold gap between the two lots makes this the affordable entry.",
+  "problems": "Only one photograph, which is poor for a $400 lot -- so medium, size and condition are all unknown. Establish what it is before bidding. If it is a small work on paper the low estimate is fair; if it is anything more it is cheap.",
+  "target": 280,
+  "ceiling": 480,
+  "patience": "Low to moderate. Muir is being rediscovered and the cheap end of her market may not last.",
+  "star": true
+ },
+ {
+  "lot": 3417,
+  "verdict": "BUY",
+  "criteria": [
+   "maine",
+   "named"
+  ],
+  "date": "contemporary",
+  "status": "modern",
+  "evidence": "Inferred",
+  "category": "painting",
+  "period": "contemporary",
+  "market": [
+   280,
+   550
+  ],
+  "resale": [
+   190,
+   400
+  ],
+  "analysis": "Vanessa Nesvig, contemporary Maine, at $300-500 with four photographs.",
+  "problems": "Living artist, no scarcity, gallery pricing. Buy on preference.",
+  "target": 280,
+  "ceiling": 460,
+  "patience": "Very high.",
+  "star": false
+ },
+ {
+  "lot": 3418,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [
+   "maine",
+   "named"
+  ],
+  "date": "contemporary",
+  "status": "modern",
+  "evidence": "Inferred",
+  "category": "painting",
+  "period": "contemporary",
+  "market": [
+   450,
+   800
+  ],
+  "resale": [
+   300,
+   580
+  ],
+  "analysis": "Kathleen Noyes, contemporary Maine, at $600-800.",
+  "problems": "Living artist, only two photographs. No criteria fit beyond the Maine allowance.",
+  "target": 400,
+  "ceiling": 720,
+  "patience": "Very high.",
+  "star": false
+ },
+ {
+  "lot": 3419,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [
+   "maine",
+   "named"
+  ],
+  "date": "contemporary",
+  "status": "modern",
+  "evidence": "Inferred",
+  "category": "painting",
+  "period": "contemporary",
+  "market": [
+   600,
+   1100
+  ],
+  "resale": [
+   400,
+   800
+  ],
+  "analysis": "Colin Page (ME, 1977- ) at $800-1,200, the cheapest of four Page lots. Page is one of the more commercially successful current Maine painters -- Camden-based, strong gallery presence -- so the name is real in the state.",
+  "problems": "Living, actively selling artist at gallery prices, and four lots in one sale. There is no value case here, only a preference case. Only just inside the band.",
+  "target": 550,
+  "ceiling": 950,
+  "patience": "Very high -- four in this sale and the artist is producing.",
+  "star": false
+ },
+ {
+  "lot": 3438,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [
+   "maine",
+   "named"
+  ],
+  "date": "contemporary",
+  "status": "modern",
+  "evidence": "Inferred",
+  "category": "painting",
+  "period": "contemporary",
+  "market": [
+   450,
+   800
+  ],
+  "resale": [
+   300,
+   580
+  ],
+  "analysis": "Bjorn Runquist (ME, 1948- ) at $600-800. A Maine artist with a modest current market.",
+  "problems": "Living artist, minor name. Establish medium and subject.",
+  "target": 400,
+  "ceiling": 720,
+  "patience": "High.",
+  "star": false
+ },
+ {
+  "lot": 3442,
+  "verdict": "BUY",
+  "criteria": [
+   "maine",
+   "named"
+  ],
+  "date": "contemporary",
+  "status": "modern",
+  "evidence": "Inferred",
+  "category": "painting",
+  "period": "contemporary",
+  "market": [
+   280,
+   550
+  ],
+  "resale": [
+   190,
+   400
+  ],
+  "analysis": "Gail Spaien, contemporary Maine, at $300-500. Spaien is a Portland-based artist with genuine critical standing -- her work is more considered than most of the contemporary Maine material in this run, and at $300-500 it is among the cheapest.",
+  "problems": "Only two photographs. Living artist with gallery representation, so no discount. Her flatter, decorative-modernist idiom is less obviously saleable locally than a coastal scene, which is why it is cheap.",
+  "target": 280,
+  "ceiling": 460,
+  "patience": "High.",
+  "star": false
+ },
+ {
+  "lot": 3445,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [
+   "maine",
+   "named"
+  ],
+  "date": "mid-to-late 20th c.",
+  "status": "modern",
+  "evidence": "Inferred",
+  "category": "painting",
+  "period": "midcentury",
+  "market": [
+   350,
+   700
+  ],
+  "resale": [
+   240,
+   500
+  ],
+  "analysis": "Helen St. Claire (ME, 1931-2022) at $500-700 with four photographs. Recently deceased Maine artist.",
+  "problems": "Minor regional name; estates dispersing tend to increase supply in the short term, which argues for patience. Establish medium and subject.",
+  "target": 350,
+  "ceiling": 620,
+  "patience": "High.",
+  "star": false
+ },
+ {
+  "lot": 3449,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [
+   "maine",
+   "named"
+  ],
+  "date": "mid-to-late 20th c.",
+  "status": "modern",
+  "evidence": "Inferred",
+  "category": "painting",
+  "period": "midcentury",
+  "market": [
+   600,
+   1100
+  ],
+  "resale": [
+   400,
+   800
+  ],
+  "analysis": "Juanita Stephens of Machias, Maine at $800-1,200 -- the dearer of two Stephens lots, with 3448 at $200-400. Machias is far downeast, so this is hyper-local material.",
+  "problems": "Bid 3448 first at a quarter of the price; it is the same artist. Hyper-local means effectively no market outside eastern Maine. Only just inside the band.",
+  "target": 550,
+  "ceiling": 950,
+  "patience": "High -- two in this sale.",
+  "star": false
+ },
+ {
+  "lot": 3450,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [
+   "maine",
+   "named"
+  ],
+  "date": "mid-to-late 20th c.",
+  "status": "modern",
+  "evidence": "Inferred",
+  "category": "painting",
+  "period": "midcentury",
+  "market": [
+   600,
+   1000
+  ],
+  "resale": [
+   420,
+   750
+  ],
+  "analysis": "Don Stone (ME, 1929-2015) at $800-1,000 -- the cheaper of two Stone lots. Stone was a National Academician who painted Monhegan extensively and has a solid, durable Maine market. One of the better names in this part of the run.",
+  "problems": "Top of the band. Stone was prolific and worked in oil, watercolour and casein at very different price levels -- establish which. Note the catalogue lists 3451 as 'DON STONE NA (IA...)', an obvious typo for a Maine or Massachusetts artist, so the cataloguing here is not careful.",
+  "target": 550,
+  "ceiling": 880,
+  "patience": "Moderate. Stone appears regularly at Maine sales.",
+  "star": true
+ },
+ {
+  "lot": 3456,
+  "verdict": "BUY",
+  "criteria": [
+   "maine",
+   "named"
+  ],
+  "date": "mid-20th c.",
+  "status": "modern",
+  "evidence": "Inferred",
+  "category": "painting",
+  "period": "midcentury",
+  "market": [
+   350,
+   700
+  ],
+  "resale": [
+   240,
+   500
+  ],
+  "analysis": "Anthony Vajs (ME, 1939-1979) at $400-600. Died at forty, so the body of work is small and finite -- which for a regional artist is the one structural argument for scarcity.",
+  "problems": "A short career also means almost no market record, so the estimate is guesswork. Four photographs. Establish medium and subject.",
+  "target": 350,
+  "ceiling": 580,
+  "patience": "Low to moderate -- a small finite output is genuinely uncommon in this section.",
+  "star": true
+ },
+ {
+  "lot": 3457,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [
+   "maine",
+   "named"
+  ],
+  "date": "contemporary",
+  "status": "modern",
+  "evidence": "Inferred",
+  "category": "painting",
+  "period": "contemporary",
+  "market": [
+   600,
+   1100
+  ],
+  "resale": [
+   400,
+   800
+  ],
+  "analysis": "Cali Veilleux, contemporary Maine, at $800-1,200.",
+  "problems": "Living artist at gallery prices, only just inside the band. No criteria fit beyond the Maine allowance.",
+  "target": 550,
+  "ceiling": 950,
+  "patience": "Very high.",
+  "star": false
+ },
+ {
+  "lot": 3459,
+  "verdict": "BUY",
+  "criteria": [
+   "maine",
+   "named"
+  ],
+  "date": "late 20th c.",
+  "status": "modern",
+  "evidence": "Inferred",
+  "category": "painting",
+  "period": "contemporary",
+  "market": [
+   280,
+   550
+  ],
+  "resale": [
+   190,
+   400
+  ],
+  "analysis": "Michael Waterman (ME, 1947- ) at $300-400 with four photographs. Among the cheapest Maine lots in the sale and Waterman has a real if modest following in the state.",
+  "problems": "Living artist. Establish medium and subject.",
+  "target": 280,
+  "ceiling": 460,
+  "patience": "High.",
+  "star": false
+ },
+ {
+  "lot": 3465,
+  "verdict": "BUY",
+  "criteria": [
+   "maine",
+   "named"
+  ],
+  "date": "mid-20th c.",
+  "status": "modern",
+  "evidence": "Inferred",
+  "category": "painting",
+  "period": "midcentury",
+  "market": [
+   500,
+   900
+  ],
+  "resale": [
+   340,
+   650
+  ],
+  "analysis": "Denny Sonke Winters (1905-1985) at $600-800, the cheaper of two. Winters was a serious figure -- she and her husband settled in Maine, she showed nationally, and her market is firmer than most names in this run. Note Day 1 lot 1480 offers three of her 1940s sketchbooks at $600-800, so there are three chances at her in this sale.",
+  "problems": "Dual-state and much-travelled, so the Maine association is one of several. Establish medium; her oils and works on paper differ considerably.",
+  "target": 450,
+  "ceiling": 800,
+  "patience": "Moderate.",
+  "star": true
+ },
+ {
+  "lot": 3466,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [
+   "maine",
+   "named"
+  ],
+  "date": "mid-20th c.",
+  "status": "modern",
+  "evidence": "Inferred",
+  "category": "painting",
+  "period": "midcentury",
+  "market": [
+   600,
+   1000
+  ],
+  "resale": [
+   420,
+   750
+  ],
+  "analysis": "The second Denny Winters at $800-1,000. Same artist as 3465, slightly dearer.",
+  "problems": "Top of the band. Bid 3465 first.",
+  "target": 550,
+  "ceiling": 880,
+  "patience": "Moderate.",
+  "star": false
+ },
+ {
+  "lot": 3468,
+  "verdict": "CHECK FIRST",
+  "criteria": [
+   "maine",
+   "named"
+  ],
+  "date": "late 20th to 21st c.",
+  "status": "modern",
+  "evidence": "Unverified",
+  "category": "prints",
+  "period": "contemporary",
+  "market": [
+   400,
+   1100
+  ],
+  "resale": [
+   280,
+   800
+  ],
+  "analysis": "Jamie Wyeth at $800-1,200 -- inside the band, which for a Wyeth means a print rather than an original. Jamie is the living third generation and has a real market of his own.",
+  "problems": "Apply the whole Wyeth-block lesson from Day 1: twenty-six Wyeth lots in that day proved to be reproductions, including lot 1164 which turned out to be a 1993 Aaron Ashley commercial print despite a suggestive catalogue description. Establish the process, edition and whether it is pencil-signed before treating this as anything. A signed limited-edition Jamie Wyeth lithograph is legitimate; an open-edition reproduction is worth $75.",
+  "target": 400,
+  "ceiling": 900,
+  "patience": "High. Wyeth reproductions are endless; signed editions are the only ones worth pursuing.",
+  "star": true
+ },
+ {
+  "lot": 3484,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [
+   "maine",
+   "named"
+  ],
+  "date": "mid-20th c.",
+  "status": "modern",
+  "evidence": "Inferred",
+  "category": "sculpture",
+  "period": "midcentury",
+  "market": [
+   600,
+   1000
+  ],
+  "resale": [
+   420,
+   750
+  ],
+  "analysis": "William Zorach (1887-1966) at $800-1,000 -- the cheapest of three Zorach lots and by a genuinely important artist. Zorach was a major American modernist sculptor who summered at Robinhood in Georgetown, Maine, minutes from Bath, and Day 3 also offers a photo portfolio of his Maine studio at 3485.",
+  "problems": "At $800-1,000 and by this name, it will be a drawing or a print rather than a sculpture -- establish which. A Zorach drawing at this money is fair value; do not pay it expecting sculpture. Three Zorach lots plus a Marguerite Zorach at 3481 means a coherent consignment.",
+  "target": 550,
+  "ceiling": 880,
+  "patience": "Moderate. Zorach works on paper appear periodically and are consistently cheaper than his reputation implies.",
+  "star": true
+ },
+ {
+  "lot": 3486,
+  "verdict": "BUY",
+  "criteria": [
+   "maine"
+  ],
+  "date": "20th c.",
+  "status": "modern",
+  "evidence": "Unverified",
+  "category": "painting",
+  "period": "midcentury",
+  "market": [
+   600,
+   1100
+  ],
+  "resale": [
+   400,
+   800
+  ],
+  "analysis": "A large Maine oil painting of a farm at $800-1,200, unsigned and unattributed. This is the anonymous regional work the brief identifies as good value -- no maker premium to pay, and an agricultural Maine subject has steady local appeal.",
+  "problems": "No date at all, so the age is unverified -- and 'large' means a storage and hanging commitment. Establish the period from the stretcher, canvas and paint surface. At the top of the band with five photographs.",
+  "target": 550,
+  "ceiling": 950,
+  "patience": "Moderate. Anonymous Maine landscapes recur but large competent ones less often.",
+  "star": true
+ },
+ {
+  "lot": 3488,
+  "verdict": "BUY",
+  "criteria": [
+   "antique"
+  ],
+  "date": "19th c. or later",
+  "status": "border",
+  "evidence": "Unverified",
+  "category": "painting",
+  "period": "victorian",
+  "market": [
+   280,
+   550
+  ],
+  "resale": [
+   190,
+   400
+  ],
+  "analysis": "An American naive landscape painting at $300-400 -- the last lot of the sale and one of the cheapest pictures in it. Naive and folk landscapes are a proper collecting category and an anonymous one carries no maker premium.",
+  "problems": "No date, so the age is unverified and naive-style pictures were painted throughout the 20th century as decoration. Check the canvas, stretcher and craquelure for genuine age. Four photographs. If it proves genuinely 19th century this is a good buy; if not it is a decorative object at a decorative price.",
+  "target": 280,
+  "ceiling": 460,
+  "patience": "Moderate.",
+  "star": true
+ }
 ]
