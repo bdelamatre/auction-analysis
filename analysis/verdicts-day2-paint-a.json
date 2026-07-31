@@ -82,34 +82,34 @@
  },
  {
   "lot": 2405,
-  "verdict": "BUY",
+  "verdict": "BUY IF CHEAP",
   "criteria": [
    "named",
    "antique"
   ],
   "date": "c.1900-1945",
   "status": "border",
-  "evidence": "Inferred",
+  "evidence": "Catalogued",
   "category": "prints",
   "period": "deco",
   "market": [
-   300,
-   800
+   200,
+   450
   ],
   "resale": [
-   200,
-   580
+   140,
+   310
   ],
-  "analysis": "Kathe Kollwitz at $300-400. Kollwitz is one of the major printmakers of the twentieth century -- her etchings and lithographs of poverty, war and grief are in every print room -- and much of her output predates 1926. At $300 this is well below where a signed lifetime impression trades.",
-  "problems": "Which means it is probably a posthumous impression or a photomechanical reproduction, both of which are common. Lifetime impressions are usually pencil-signed and show plate tone; the Kollwitz estate and various publishers issued later editions. Establish signature and paper. Three photographs.",
-  "target": 300,
-  "ceiling": 600,
+  "analysis": "The description is unusually honest and it changes the lot. 'The Conspirators,' etching on paper, UNDATED AND UNSIGNED, having double line blind stamp 'AVD BECKE MUENCHEN 22' lower right INDICATING A LATER RESTRIKE BY THE VON DER BECKE FAMILY.' So this is not a lifetime impression. The von der Becke restrikes are the well-known posthumous printings from Kollwitz's plates, and they are the reason a Kollwitz etching can be had for a few hundred dollars rather than several thousand. The image is real Kollwitz and the plate is hers; the impression is not from her hand or her lifetime.",
+  "problems": "Unsigned, undated, posthumous -- three of the things that separate a $300 print from a $3,000 one, all present. Do not let the name do any work here. The blind stamp is the evidence and it is the catalogue's own; verify it is there. Restrikes from a worn plate also print weakly, so compare the line quality against a reference image of a lifetime impression. Downgraded from BUY on the restrike.",
+  "target": 175,
+  "ceiling": 300,
   "patience": "Moderate. Kollwitz prints appear regularly; genuine signed lifetime impressions much less so.",
-  "star": true
+  "star": false
  },
  {
   "lot": 2274,
-  "verdict": "BUY",
+  "verdict": "BUY IF CHEAP",
   "criteria": [
    "antique"
   ],
@@ -119,17 +119,17 @@
   "category": "painting",
   "period": "georgian",
   "market": [
-   280,
-   600
+   200,
+   500
   ],
   "resale": [
-   190,
-   430
+   140,
+   350
   ],
-  "analysis": "An 18th-century miniature portrait of Oliver Cromwell at $300-400, catalogued to the century. Genuinely antique, small, portable, and with a specific historical subject rather than an anonymous sitter -- which is what lifts it above the general run of miniatures.",
-  "problems": "Cromwell portraits were copied throughout the 18th and 19th centuries from the Lely and Cooper prototypes, so this is a copy of a copy in image terms even if the object is period. Check whether it is painted on ivory, which adds the usual constraint. Bidding already at $125.",
-  "target": 280,
-  "ceiling": 500,
+  "analysis": "The description hedges three times in one sentence and each hedge is worth reading: 'oil on panel, UNSIGNED, depicting the APOCRYPHAL full head of red hair, rendered IN THE MANNER OF Van Dyck, housed in vintage gold cove frame with LABEL FROM S.C. WILSHIRE OF LOMBARD STREET, LONDON.' Unsigned, in the manner of rather than by, and the catalogue itself flags that the red hair is apocryphal -- Cromwell was famously plain and brown-haired, and a romantic red-haired Cromwell is a later invention. So this is a decorative image of a historical figure rather than a portrait from life or a Van Dyck studio piece. The London dealer's label is the one solid thing: S.C. Wilshire of Lombard Street is a checkable trade address.",
+  "problems": "Three hedges from the cataloguer is the cataloguer telling you something. Oil on panel is at least a period-appropriate support, but 18th c. is asserted and unevidenced. Van Dyck died in 1641 and never painted Cromwell, so 'in the manner of' here means a stylistic borrowing, not a workshop connection. Downgraded from BUY: the attribution language is doing all the work in the title and none of it survives the description.",
+  "target": 200,
+  "ceiling": 325,
   "patience": "Moderate. There is a miniature consignment running through Day 2 (2227, 2339, 2348, 2354, 2362), so compare them all.",
   "star": true
  },

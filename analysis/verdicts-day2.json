@@ -288,11 +288,11 @@
   "criteria": [
    "antique"
   ],
-  "date": "17th c.",
+  "date": "1670",
   "status": "antique",
   "evidence": "Catalogued",
-  "analysis": "A carved oak bible box catalogued to the 17th century at $500-700 is remarkable value in absolute terms -- this is an object older than almost anything else in the sale, and the price is that of a middling piece of Victoriana. Bible boxes are the entry point into genuine 17th-century oak and they are portable, useful and durable in a way that most early furniture is not.",
-  "problems": "The category is heavily faked and, more often, heavily improved: plain period boxes are carved later to raise their value. Look at the carving's wear pattern -- period carving is worn smooth on the high points and dirty in the recesses, later carving is crisp and clean-cut with bright wood in the grounds. Check for a replaced lid and modern hinges, both of which are near-universal and only moderately damaging.",
+  "analysis": "Better than I had it. The description does not just place this in the 17th century -- it reports a date carved on the object: 'Early Slope Top Storage Box, probably English, with carved DHS MONOGRAM to the lid, iron BUTTERFLY HINGES, deep carved floral decoration to lower front panel CENTERED WITH 1670 DATE, the interior with upper shelf below the lid.' A carved date and a carved owner's monogram on the front panel is the best evidence a piece of country oak can carry, because both are cut into the original surface rather than applied. Iron butterfly hinges are the correct period form. A dated 1670 English carved oak box at $500-700 is 355 years old and inside the band -- there is very little else in this sale that can say that.",
+  "problems": "Carved dates on oak are also the single most commonly ADDED feature on country furniture, precisely because they multiply the price -- a Victorian or early-20th-century carver recutting a date into a plain 17th-century box is a well-documented trade. Look at the date and the monogram under raking light: original carving has the same patina, dirt and oxidation inside the cuts as on the surface, while a later cut is cleaner and paler in the recesses. 'Probably English' is the house hedging on origin. Check the hinges are original to the holes and that the interior shelf is not a later addition.",
   "target": 450,
   "ceiling": 700,
   "patience": "Low to moderate. Genuine 17th-century oak at this money is uncommon and the price band is unlikely to hold.",
@@ -372,7 +372,7 @@
   "status": "antique",
   "evidence": "Catalogued",
   "analysis": "A 1652 edition of Burton's Anatomy of Melancholy at $500-700. This is a 17th-century book of genuine literary standing -- one of the monuments of English prose -- at a price that reflects the fact that most auction rooms do not have a rare-book bidder in them. Comfortably antique by nearly three centuries, and unlike most objects in this sale it will still be exactly what it is in another three.",
-  "problems": "Condition dominates early book values. Check the collation for completeness, particularly the engraved title page, which is the leaf most often missing or supplied in facsimile. Look at the binding -- a period calf binding, even worn, is far preferable to a 19th-century rebind. Damp-staining and worming are usual; loose or detached boards are common and repairable.",
+  "problems": "The binding is not intact and the description says so: 'In the original calf boards, with REPLACED RAISED SPINE having gilt title.' So the boards are original and the spine is a rebacking -- entirely normal restoration for a 1652 folio and not disqualifying, but it is a restored book and should be priced as one. The good news in the same line: this is the SIXTH EDITION, the final one, published posthumously in 1652, which is the edition collectors want because it carries Burton's last revisions; and '723 pages plus table' suggests it is complete. Collate it anyway -- the Anatomy is long, and 17th-century folios lose leaves. Red stained edges are original and a good sign.",
   "target": 450,
   "ceiling": 700,
   "patience": "Low to moderate. Genuine 17th-century imprints at this money are not a regular occurrence at a Maine general sale.",
@@ -388,12 +388,20 @@
   "date": "1837",
   "status": "antique",
   "evidence": "Catalogued",
-  "analysis": "An 1837 edition of Bowditch's New American Practical Navigator at $200-300 is the single cheapest genuine antique in the marine section. Bowditch is the foundational American navigation text, this is an early edition dated a century and a half before the antique line, and the New England maritime connection is direct. It is the kind of object that does exactly what the brief asks: if you ever had to let it go, you lose very little.",
-  "problems": "Early Bowditch editions were working books carried at sea and they show it -- water damage, salt staining, loose signatures and missing plates or tables are all common. Check the plates and folding charts are present, since those are what get removed. A shaken but complete copy is a much better buy than a pretty incomplete one.",
-  "target": 200,
-  "ceiling": 320,
+  "analysis": "The description turns a used navigation manual into a documented New Bedford object, and it links directly to another lot in this sale. 'Well used copy of \"The New American Practical Navigator\" by Nathaniel Bowditch, in original full calf binding, 439 pages... Much PENCIL FIGURING on pastedowns, endpapers and title page, STENCIL FROM WM C. TABER, UNION ST, NEW BEDFORD.' That is a working navigator's own copy, with his calculations still in it, sold by the Taber business on Union Street -- the same New Bedford chart and instrument dealer whose 1857 whaling signal chart is lot 2003. Two lots from the same New Bedford supplier, one of them a book somebody actually did his sums in. Bowditch is the foundational American navigation text and 1837 is a genuine early edition.",
+  "problems": "'Well used' and 'much pencil figuring' cut both ways: to a book collector that is soiling, to a maritime collector it is exactly the point, and the second is the right way to see it here. Original full calf on an 1837 octavo will have cracked joints; check the boards are still attached. Bowditch went through dozens of editions and 1837 is not rare, so the value is the Taber stencil and the manuscript figuring, not the text.",
+  "target": 225,
+  "ceiling": 350,
   "patience": "Moderate. Bowditch editions appear regularly but pre-1840 ones in a marine sale usually attract more than this.",
-  "star": true
+  "star": true,
+  "market": [
+   300,
+   650
+  ],
+  "resale": [
+   210,
+   450
+  ]
  },
  {
   "lot": 2055,
