@@ -1,198 +1,2512 @@
 [
-{"lot":2135,"verdict":"BUY","criteria":["antique"],"date":"17th c.","status":"antique","evidence":"Catalogued","category":"furniture","period":"pre1700","market":[500,1000],"resale":[340,730],
- "analysis":"A 17th-century oak tabletop spinning wheel at $600-800. Catalogued to the century, which makes it one of the oldest objects in the sale inside the band, and a tabletop wheel is small enough to live with -- unlike a floor wheel, which is furniture. Turned oak of this age has a hard, dark, unmistakable surface.","problems":"Spinning wheels are among the most reproduced 'primitive' objects, made for decoration from the 1890s onward. Period ones show heavy wear at the treadle and drive band, shrinkage that has thrown the wheel out of round, and old worm damage that has stopped. Confirm the maidens and flyer are original rather than made up from parts. Three photographs.","target":450,"ceiling":780,"patience":"Low to moderate. Genuine 17th-century objects at this price are rare in this sale.","star":true},
-{"lot":2141,"verdict":"BUY","criteria":["antique"],"date":"18th c.","status":"antique","evidence":"Catalogued","category":"furniture","period":"georgian","market":[700,1300],"resale":[480,950],
- "analysis":"Four 18th-century birdcage Windsor side chairs at $800-1,000 -- roughly $220 a chair for genuine period American seating. Windsors are the most characteristic American country furniture form and a set of four is far better than singles, which is where the market usually leaves them.","problems":"Top of the band and only two photographs for four chairs. Check they are a genuine set rather than a made-up group -- period sets show matching turnings, consistent wear and the same paint history. Windsors are also heavily reproduced; look for the splayed leg angles, the seat saddling and old shrinkage cracks in the plank seat.","target":700,"ceiling":1000,"patience":"Moderate. Period Windsors are common individually, matched sets of four much less so.","star":true},
-{"lot":2152,"verdict":"BUY","criteria":["antique"],"date":"c.1790-1820","status":"antique","evidence":"Catalogued","category":"furniture","period":"federal","market":[450,900],"resale":[300,650],
- "analysis":"An American Federal drop-leaf tiger maple stand at $500-700. Catalogued to the period, and tiger maple is the timber that lifts a plain country form into something worth having. Small stands are the practical end of period furniture -- they fit anywhere.","problems":"Tiger maple is also the timber Colonial Revival makers chose for exactly the same reason. Check the underside for hand-planing, irregular saw marks and old oxidation, and the drawer for hand-cut dovetails. A perfectly flat, uniformly coloured underside is a warning.","target":420,"ceiling":700,"patience":"Moderate.","star":true},
-{"lot":2119,"verdict":"BUY","criteria":["antique"],"date":"c.1790-1820","status":"antique","evidence":"Catalogued","category":"furniture","period":"federal","market":[280,600],"resale":[190,430],
- "analysis":"A country Hepplewhite painted stand at $300-500 -- the cheapest period stand in the sale. Painted country furniture in original surface is what the American folk market actually pays for, and a small stand is genuinely useful.","problems":"Original paint versus later decoration is the whole question, as with all painted country furniture. Period paint has worn through where hands and objects went, sits in the grain rather than on it, and has crazed with the wood. Check the top is original to the base.","target":280,"ceiling":520,"patience":"Moderate.","star":true},
-{"lot":2222,"verdict":"BUY","criteria":["antique"],"date":"c.1790-1820","status":"antique","evidence":"Catalogued","category":"furniture","period":"federal","market":[450,900],"resale":[300,650],
- "analysis":"A Federal cherry cookie-corner stand at $600-800. The cookie or ovolo corner is a specific Federal detail that collectors look for, and cherry is the New England country timber. Catalogued to the period.","problems":"Check the top is original and has not been replaced or re-shaped -- the corners are exactly where a damaged top gets recut. Three photographs. Look at the drawer construction and the underside for period tool marks.","target":420,"ceiling":760,"patience":"Moderate.","star":true},
-{"lot":2195,"verdict":"BUY","criteria":["antique"],"date":"18th c.","status":"antique","evidence":"Catalogued","category":"furniture","period":"georgian","market":[500,1000],"resale":[340,730],
- "analysis":"An 18th-century Queen Anne oval drop-leaf table at $600-800. Catalogued to the century, and a period Queen Anne table at this money is genuinely cheap -- the form has been out of fashion for twenty years, which is precisely the condition-discount opportunity the brief says to look for.","problems":"Brown furniture is a weak market and will stay weak; buy it because you want it, not for appreciation. Check the leaves are original and match the top in colour and shrinkage, and that the swing legs and hinges are period. Four photographs.","target":450,"ceiling":780,"patience":"High. Period drop-leaf tables are abundant and cheap, which is the opportunity.","star":true},
-{"lot":2217,"verdict":"BUY","criteria":["antique"],"date":"18th c.","status":"antique","evidence":"Catalogued","category":"furniture","period":"georgian","market":[650,1200],"resale":[450,880],
- "analysis":"A period New England Chippendale slant-lid desk at $800-1,000. The catalogue says 'period', which is the house committing rather than hedging with 'style'. A genuine 18th-century New England desk at this price is a striking illustration of how far brown furniture has fallen -- these were $4,000-6,000 objects twenty-five years ago.","problems":"Top of the band. Check the interior fitting is original, the feet have not been replaced (bracket feet are the first thing to go), and the lid supports work. Five photographs. Note 2230 is a second 18th-century Chippendale slant-front desk at $800-1,200 -- compare both.","target":700,"ceiling":1000,"patience":"High. Period desks are plentiful and falling; there is no urgency at all, which is exactly why the price is good.","star":true},
-{"lot":2230,"verdict":"BUY IF CHEAP","criteria":["antique"],"date":"18th c.","status":"antique","evidence":"Catalogued","category":"furniture","period":"georgian","market":[650,1200],"resale":[450,880],
- "analysis":"An 18th-century cherry Chippendale slant-front desk at $800-1,200 -- the companion to 2217. Cherry rather than mahogany, which is the New England country timber and arguably the more sympathetic one.","problems":"Only just inside the band at the low end. Same construction checks. Two comparable desks in one sale means you can be selective and let the room decide which it wants.","target":700,"ceiling":1000,"patience":"High -- two chances at essentially the same object.","star":false},
-{"lot":2084,"verdict":"BUY","criteria":["antique"],"date":"early 19th c.","status":"antique","evidence":"Catalogued","category":"furniture","period":"federal","market":[350,750],"resale":[240,540],
- "analysis":"An early 19th-century mahogany bottle case on stand at $400-600. Catalogued to the period, and a bottle or cellarette case is an unusual and useful form -- more interesting than another table.","problems":"Check the interior divisions survive; they are usually missing or replaced, and an empty case is a much plainer object. Confirm the stand belongs to the case rather than being a marriage. Three photographs.","target":350,"ceiling":620,"patience":"Moderate.","star":true},
-{"lot":2147,"verdict":"BUY","criteria":["antique"],"date":"19th c.","status":"antique","evidence":"Unverified","category":"furniture","period":"victorian","market":[500,1000],"resale":[340,730],
- "analysis":"An antique painted pine twelve-drawer country store cabinet at $600-800. Multi-drawer store and apothecary cabinets are one of the few furniture forms whose market has held up, because they are genuinely useful and read as decorative objects rather than as brown furniture.","problems":"'Antique' with no date. Check the paint is original -- these are routinely repainted, and a fresh paint job halves the value. Confirm all twelve drawers are present and run, and look for old labels or stencilled contents, which add real interest. Three photographs.","target":450,"ceiling":780,"patience":"Moderate. Store cabinets are sought after and hold value better than most period furniture.","star":true},
-{"lot":2317,"verdict":"BUY","criteria":["antique"],"date":"18th to early 19th c.","status":"antique","evidence":"Unverified","category":"furniture","period":"georgian","market":[550,1000],"resale":[380,730],
- "analysis":"An English Chippendale miniature chest at $700-900. Miniature and apprentice furniture is a distinct collecting category with a following quite separate from full-size brown furniture -- and unlike a full chest, a miniature one needs no floor space, which matters for a collection.","problems":"No date given. Miniatures are also faked, often by cutting down damaged full-size pieces or by modern makers. Period miniatures show proportionally correct dovetails (not scaled-down chunky ones) and consistent shrinkage. Four photographs.","target":500,"ceiling":880,"patience":"Moderate. Miniature furniture is genuinely less common than full-size.","star":true},
-{"lot":2314,"verdict":"BUY","criteria":["antique"],"date":"18th to 19th c.","status":"antique","evidence":"Unverified","category":"furniture","period":"georgian","market":[280,600],"resale":[190,430],
- "analysis":"An English mahogany Chippendale wall corner cabinet at $300-500. Hanging corner cupboards are practical, take no floor space, and this is at the cheap end of period furniture.","problems":"No date. Corner cupboards are frequently made up from architectural fragments or cut down from larger pieces. Check the back boards and the shelf construction for consistency. Three photographs.","target":280,"ceiling":520,"patience":"High.","star":false},
-{"lot":2319,"verdict":"BUY IF CHEAP","criteria":["antique"],"date":"Victorian","status":"antique","evidence":"Catalogued","category":"furniture","period":"victorian","market":[350,700],"resale":[240,500],
- "analysis":"A Victorian English oak tambour-top writing box at $500-700. Catalogued as Victorian so genuinely antique, and a tambour mechanism is a pleasing bit of cabinetmaking.","problems":"Tambour slats crack and the canvas backing perishes -- check it runs smoothly, because repair is specialist work. Writing boxes generally are a soft market. Three photographs.","target":350,"ceiling":620,"patience":"High.","star":false},
-{"lot":2310,"verdict":"BUY","criteria":["antique"],"date":"c.1790-1820","status":"antique","evidence":"Unverified","category":"furniture","period":"federal","market":[300,650],"resale":[200,470],
- "analysis":"A paterae-inlaid octagonal tea caddy at $400-600. The paterae inlay and octagonal form place it firmly in the Georgian and Federal period, and tea caddies are small, well-made and collectable in their own right.","problems":"No date stated. Check the interior lids and any mixing bowl are present -- missing interior fittings are the standard fault and materially reduce value. Veneer lifting at the corners is common. Four photographs.","target":300,"ceiling":560,"patience":"Moderate. Tea caddies run regularly; complete ones with good inlay less so.","star":true},
-{"lot":2417,"verdict":"BUY","criteria":["antique"],"date":"1828","status":"antique","evidence":"Catalogued","category":"furniture","period":"federal","market":[550,1000],"resale":[380,730],
- "analysis":"An 1828 paint-decorated marriage chest at $700-900. Dated to the year, which is unusual and valuable -- painted marriage or dower chests carry the date as part of the decoration, so the object documents itself. Continental rather than American in all likelihood.","problems":"The date is painted on, so it dates the decoration rather than proving the chest -- though on genuine examples they are the same event. Later 'improvement' of plain chests with painted dates is a known trade. Check the paint has aged and worn with the wood. Four photographs.","target":500,"ceiling":880,"patience":"Moderate. Dated painted chests are genuinely uncommon.","star":true},
-{"lot":2395,"verdict":"BUY IF CHEAP","criteria":["antique"],"date":"early 19th c.","status":"antique","evidence":"Catalogued","category":"furniture","period":"federal","market":[300,650],"resale":[200,470],
- "analysis":"An early 19th-century Italian walnut commode at $400-600. Catalogued to the period, and Continental walnut commodes are handsome pieces that have fallen as far as English brown furniture.","problems":"Italian provincial furniture is extensively 'improved' and reconstructed -- marriages of old timber into saleable forms are endemic. Check the drawer construction and the back boards. Four photographs.","target":300,"ceiling":560,"patience":"High.","star":false},
-{"lot":2386,"verdict":"BUY","criteria":["antique"],"date":"19th c.","status":"antique","evidence":"Unverified","category":"furniture","period":"victorian","market":[450,850],"resale":[300,620],
- "analysis":"A miniature Italian parquetry three-drawer chest at $600-800. Miniature furniture again -- small, finely made, no floor space, and parquetry work is labour-intensive enough that it was never cheap to produce.","problems":"No date. Sorrento and Florentine parquetry work continued into the 20th century for the tourist trade, so establish the age from the timber shrinkage and the drawer construction rather than the decoration. Five photographs.","target":450,"ceiling":760,"patience":"Moderate.","star":false},
-{"lot":2369,"verdict":"BUY IF CHEAP","criteria":["antique"],"date":"19th c.","status":"antique","evidence":"Catalogued","category":"furniture","period":"victorian","market":[450,850],"resale":[300,620],
- "analysis":"A 19th-century French marquetry inlaid games table at $700-900, with a Dutch equivalent at 2409 for $800-1,200. Catalogued to the century.","problems":"Top of the band. Marquetry lifts and loses pieces, and replacement is expensive and rarely invisible -- check the surface carefully in raking light. Two comparable games tables in the sale means no scarcity. Five photographs.","target":450,"ceiling":800,"patience":"High -- two in this sale.","star":false},
-{"lot":2409,"verdict":"BUY IF CHEAP","criteria":["antique"],"date":"19th c.","status":"antique","evidence":"Catalogued","category":"furniture","period":"victorian","market":[550,1000],"resale":[380,730],
- "analysis":"A 19th-century Dutch marquetry inlaid games table at $800-1,200 -- the dearer of the pair with 2369. Dutch marquetry is typically more elaborate than French.","problems":"Only just inside the band. Same marquetry condition issues, and Dutch pieces were also heavily re-veneered in the 19th century over plain 18th-century carcasses. Five photographs.","target":550,"ceiling":950,"patience":"High.","star":false},
-{"lot":2298,"verdict":"BUY IF CHEAP","criteria":["antique"],"date":"19th c.","status":"border","evidence":"Unverified","category":"furniture","period":"victorian","market":[400,800],"resale":[280,580],
- "analysis":"An English sideboard at $600-800 with seven photographs -- good disclosure. Sideboards are the epitome of the collapsed brown-furniture market: large, well-made, and worth a fraction of what they were.","problems":"No date at all. Size is the real problem -- a sideboard is a serious commitment of wall and floor. This is a buy only if you specifically need one.","target":400,"ceiling":720,"patience":"Very high. Sideboards are effectively unsaleable and prices reflect it.","star":false},
-{"lot":2304,"verdict":"BUY IF CHEAP","criteria":["antique"],"date":"c.1901-1915","status":"border","evidence":"Catalogued","category":"furniture","period":"edwardian","market":[550,1000],"resale":[380,730],
- "analysis":"An English Edwardian burl kneehole desk at $800-1,200. Catalogued as Edwardian so it sits right on the antique line, and burl veneer is the decorative appeal.","problems":"Only just inside the band. Burl veneer lifts and blisters, particularly over a kneehole where the carcase moves. Four photographs.","target":550,"ceiling":950,"patience":"High.","star":false},
-{"lot":2278,"verdict":"PASS","criteria":["antique"],"date":"Regency","status":"antique","evidence":"Catalogued","category":"furniture","period":"federal","market":[900,1400],"resale":[650,1100],
- "analysis":"A Regency cane-top bench with leather cushion at $1,200-1,500. Genuinely antique by the catalogue's designation.","problems":"Out of band. Caning perishes and re-caning is expensive; only two photographs for a four-figure lot.","target":0,"ceiling":0,"patience":"Not applicable -- out of band.","star":false},
-{"lot":2272,"verdict":"PASS","criteria":["antique"],"date":"19th c.","status":"antique","evidence":"Catalogued","category":"furniture","period":"victorian","market":[900,1400],"resale":[650,1100],
- "analysis":"A 19th-century English tortoiseshell tea caddy at $1,200-1,600. Tortoiseshell caddies are the top of the caddy market and genuinely fine objects.","problems":"Out of band, and there is a further complication: tortoiseshell is CITES-listed, which restricts interstate and international sale even for antiques. Antique-exemption paperwork exists but will not accompany this lot. Same class of constraint as the ivory.","target":0,"ceiling":0,"patience":"Not applicable -- out of band, and the CITES issue compounds it.","star":true},
-{"lot":2077,"verdict":"PASS","criteria":["antique"],"date":"19th c.","status":"antique","evidence":"Catalogued","category":"furniture","period":"victorian","market":[1500,2600],"resale":[1100,2000],
- "analysis":"A fine 19th-century oak hall bench at $2,000-3,000. Catalogued to the century.","problems":"Out of band. Hall benches are also large and single-purpose -- the market for them is thin even at the best of times.","target":0,"ceiling":0,"patience":"Not applicable.","star":false},
-{"lot":2117,"verdict":"PASS","criteria":["antique"],"date":"19th c.","status":"antique","evidence":"Catalogued","category":"furniture","period":"victorian","market":[900,1500],"resale":[650,1150],
- "analysis":"A 19th-century tiger maple apothecary chest at $1,000-1,500. Apothecary chests are among the strongest furniture forms in the current market -- multi-drawer storage in figured timber, useful and decorative at once.","problems":"Out of band, just. This is the furniture lot I would most like to be in band; if bidding stalled near $900 it would be worth a hard look. Three photographs.","target":0,"ceiling":0,"patience":"Not applicable -- out of band, but apothecary chests hold value better than almost any other period furniture.","star":true},
-{"lot":2126,"verdict":"PASS","criteria":["antique"],"date":"c.1810-1830","status":"antique","evidence":"Catalogued","category":"furniture","period":"federal","market":[1500,2600],"resale":[1100,2000],
- "analysis":"A paint-decorated country Sheraton chest of drawers at $2,000-3,000. Original paint-decorated Federal case furniture is the top of the American country market.","problems":"Out of band at two to three times the ceiling. Four photographs.","target":0,"ceiling":0,"patience":"Not applicable.","star":false},
-{"lot":2146,"verdict":"PASS","criteria":["antique"],"date":"18th c.","status":"antique","evidence":"Catalogued","category":"furniture","period":"georgian","market":[800,1600],"resale":[550,1200],
- "analysis":"An 18th-century New England painted pine chair table at $1,000-2,000. Chair tables are a distinctive early American form -- the top pivots to make a chair back -- and a painted 18th-century example is a proper piece of country furniture.","problems":"Out of band. Chair tables are also extensively reproduced and 'improved'. Three photographs.","target":0,"ceiling":0,"patience":"Not applicable.","star":false},
-{"lot":2171,"verdict":"PASS","criteria":["antique"],"date":"18th c.","status":"antique","evidence":"Catalogued","category":"furniture","period":"georgian","market":[900,1500],"resale":[650,1150],
- "analysis":"An 18th-century tiger maple Chippendale chest at $1,000-1,500. Period case furniture in figured maple.","problems":"Out of band, just. Three photographs. One of several 18th-century chests in Day 2 -- 2174, 2179, 2203 and 2177 as well.","target":0,"ceiling":0,"patience":"Not applicable.","star":false},
-{"lot":2174,"verdict":"PASS","criteria":["antique"],"date":"18th c.","status":"antique","evidence":"Catalogued","category":"furniture","period":"georgian","market":[900,1500],"resale":[650,1150],
- "analysis":"An 18th-century tiger maple Queen Anne chest on frame at $1,000-1,500. Chest-on-frame is a scarcer form than a plain chest.","problems":"Out of band, just. Check the frame is original to the chest -- marriages are common in this form specifically because the two parts separate.","target":0,"ceiling":0,"patience":"Not applicable.","star":false},
-{"lot":2203,"verdict":"PASS","criteria":["antique"],"date":"c.1790-1810","status":"antique","evidence":"Catalogued","category":"furniture","period":"federal","market":[900,1500],"resale":[650,1150],
- "analysis":"An American Hepplewhite chest at $1,000-1,500 with five photographs.","problems":"Out of band, just. Check for replaced feet and brasses, the two usual alterations.","target":0,"ceiling":0,"patience":"Not applicable.","star":false},
-{"lot":2179,"verdict":"PASS","criteria":["antique","named"],"date":"c.1790-1810","status":"antique","evidence":"Unverified","category":"furniture","period":"federal","market":[900,1500],"resale":[650,1150],
- "analysis":"A 'possible Seymour' bowfront Hepplewhite chest at $1,000-1,500. John and Thomas Seymour were the finest Boston cabinetmakers of the Federal period and a documented Seymour piece is a five or six-figure object.","problems":"Out of band, and 'possible' is the weakest attribution word in the catalogue -- weaker than 'attributed'. The estimate tells you the house does not believe it. Price as an anonymous Federal chest.","target":0,"ceiling":0,"patience":"Not applicable.","star":true},
-{"lot":2177,"verdict":"PASS","criteria":["antique"],"date":"18th c.","status":"antique","evidence":"Catalogued","category":"furniture","period":"georgian","market":[8000,14000],"resale":[5500,11000],
- "analysis":"A Chippendale mahogany block-front chest at $10,000-15,000. Block-front case furniture is the high point of American colonial cabinetmaking -- a Newport or Boston block-front is a major object.","problems":"Far out of band at ten to fifteen times the ceiling. The most valuable piece of furniture in the sale.","target":0,"ceiling":0,"patience":"Not applicable.","star":false},
-{"lot":2184,"verdict":"PASS","criteria":["antique"],"date":"18th c.","status":"antique","evidence":"Catalogued","category":"furniture","period":"georgian","market":[12000,18000],"resale":[8000,14000],
- "analysis":"A Queen Anne bonnet top highboy at $15,000-20,000 -- the most expensive furniture lot in the sale and among the dearest lots overall.","problems":"Far out of band. Highboys are also the form most often assembled from period parts; at this price the integrity of the piece is everything.","target":0,"ceiling":0,"patience":"Not applicable.","star":false},
-{"lot":2186,"verdict":"PASS","criteria":["antique"],"date":"c.1790-1815","status":"antique","evidence":"Catalogued","category":"furniture","period":"federal","market":[1200,1800],"resale":[850,1400],
- "analysis":"A Portsmouth Federal period inlaid card table at $1,500-2,000. Portsmouth, New Hampshire was a significant Federal cabinetmaking centre and a regional attribution adds real interest.","problems":"Out of band. Four photographs.","target":0,"ceiling":0,"patience":"Not applicable.","star":false},
-{"lot":2191,"verdict":"PASS","criteria":["antique"],"date":"18th c.","status":"antique","evidence":"Catalogued","category":"furniture","period":"georgian","market":[1500,2600],"resale":[1100,2000],
- "analysis":"A Boston Queen Anne/Chippendale mahogany side chair at $2,000-3,000. A single period Boston chair.","problems":"Out of band, and for a single chair that is a strong estimate -- it implies the house thinks it is a documented Boston example. Three photographs.","target":0,"ceiling":0,"patience":"Not applicable.","star":false},
-{"lot":2205,"verdict":"PASS","criteria":["antique"],"date":"18th c.","status":"antique","evidence":"Catalogued","category":"furniture","period":"georgian","market":[800,1600],"resale":[550,1200],
- "analysis":"An 18th-century Chippendale piecrust tilt-top tea table at $1,000-2,000. The piecrust edge is the desirable feature and a period example is a proper piece.","problems":"Out of band. Only two photographs. Note lot 1072 in Day 1 is a Centennial piecrust tea table at $600-800 -- 'Centennial' meaning a c.1876 revival copy, which is the honest label for what most piecrust tables actually are.","target":0,"ceiling":0,"patience":"Not applicable.","star":true},
-{"lot":2232,"verdict":"PASS","criteria":["antique"],"date":"mid-19th c.","status":"antique","evidence":"Catalogued","category":"furniture","period":"victorian","market":[1500,2600],"resale":[1100,2000],
- "analysis":"A mid-19th-century solid alder Shaker chest, probably Vermont, at $2,000-3,000. Shaker furniture has a devoted following and commands a premium over comparable worldly country pieces.","problems":"Out of band. 'Probably Vermont' is a guess at community. Shaker attribution is also contested territory -- a great deal of plain country furniture is optimistically called Shaker.","target":0,"ceiling":0,"patience":"Not applicable.","star":false},
-{"lot":2208,"verdict":"BUY IF CHEAP","criteria":["antique"],"date":"c.1800-1830","status":"antique","evidence":"Catalogued","category":"furniture","period":"federal","market":[400,800],"resale":[280,580],
- "analysis":"A Sheraton mahogany framed sofa at $600-800. Genuinely period by the catalogue's designation, and remarkably cheap for an 18th or early 19th-century sofa.","problems":"The brief names upholstered Victorian furniture as a weak market and period upholstered furniture is weaker still -- reupholstery costs more than the frame is worth, and the existing covering is almost certainly wrong. Only two photographs. Buy only if you like the frame and can live with the cover.","target":400,"ceiling":720,"patience":"Very high. Period sofas routinely fail to sell.","star":false},
-{"lot":2329,"verdict":"PASS","criteria":["antique"],"date":"17th to 18th c.","status":"border","evidence":"Unverified","category":"furniture","period":"pre1700","market":[800,1400],"resale":[550,1050],
- "analysis":"Early chip-carved walnut dining chairs at $1,000-1,500 with eight photographs -- the best-documented furniture lot in Day 2.","problems":"Out of band, just. 'Early' with no date and no count of chairs is unhelpful -- eight photographs suggests a set. Chip-carved early oak and walnut seating is also among the most reproduced furniture there is, made in quantity in the late 19th century.","target":0,"ceiling":0,"patience":"Not applicable.","star":false},
-{"lot":2306,"verdict":"PASS","criteria":["antique"],"date":"18th c.","status":"antique","evidence":"Catalogued","category":"furniture","period":"georgian","market":[800,1400],"resale":[550,1050],
- "analysis":"A Chippendale carved mirror at $1,000-1,500. Period looking glasses are handsome and the carved and gilt cresting is the value.","problems":"Out of band, just, and only one photograph for a four-figure lot -- inadequate. Original glass and original gilding are the two things that matter and neither can be judged from a single image.","target":0,"ceiling":0,"patience":"Not applicable.","star":false},
-{"lot":2352,"verdict":"PASS","criteria":["antique"],"date":"18th to 19th c.","status":"border","evidence":"Unverified","category":"furniture","period":"georgian","market":[800,1400],"resale":[550,1050],
- "analysis":"A large French Louis XVI giltwork mirror at $1,000-1,500.","problems":"Out of band. No date -- 'Louis XVI' here is a style designation, and the overwhelming majority of such mirrors are 19th-century revival rather than 18th-century. Regilding is near-universal.","target":0,"ceiling":0,"patience":"Not applicable.","star":false},
-{"lot":2378,"verdict":"PASS","criteria":["antique"],"date":"19th c.","status":"antique","evidence":"Catalogued","category":"furniture","period":"victorian","market":[800,1400],"resale":[550,1050],
- "analysis":"A 19th-century Italian Empire double inkwell desk stand at $1,000-1,500.","problems":"Out of band, just, and only two photographs. Desk furniture is a soft market.","target":0,"ceiling":0,"patience":"Not applicable.","star":false},
-{"lot":2381,"verdict":"PASS","criteria":["antique"],"date":"undated","status":"border","evidence":"Unverified","category":"furniture","period":"undetermined","market":[800,1400],"resale":[550,1050],
- "analysis":"An 'Italian cabinet' at $1,000-1,500 with six photographs. The catalogue gives literally nothing beyond nationality and form -- no date, no period, no timber.","problems":"Out of band, and an entry this bare is a warning in itself. Italian cabinets span five centuries and the price range spans four orders of magnitude.","target":0,"ceiling":0,"patience":"Not applicable.","star":false},
-{"lot":2426,"verdict":"PASS","criteria":[],"date":"undated","status":"border","evidence":"Unverified","category":"furniture","period":"undetermined","market":[700,1300],"resale":[480,950],
- "analysis":"An Italian black marble display pedestal at $1,000-1,500, with a green marble companion at 2428.","problems":"Out of band. One photograph each for four-figure lots. Marble pedestals are decorator's stock; no date, no maker, and they are extremely heavy.","target":0,"ceiling":0,"patience":"Not applicable.","star":false},
-{"lot":2428,"verdict":"PASS","criteria":[],"date":"undated","status":"border","evidence":"Unverified","category":"furniture","period":"undetermined","market":[700,1300],"resale":[480,950],
- "analysis":"The green marble pedestal companion to 2426 at $1,000-1,500.","problems":"Same as 2426.","target":0,"ceiling":0,"patience":"Not applicable.","star":false},
-{"lot":1001,"verdict":"BUY IF CHEAP","criteria":["antique"],"date":"late 19th to early 20th c.","status":"border","evidence":"Unverified","category":"furniture","period":"edwardian","market":[400,800],"resale":[280,580],
- "analysis":"A French 'Aux Etats Unis' hat trunk with labels at $600-800, with sixteen photographs -- the most heavily documented lot in Day 1. The retailer labels are the interesting part: they date and localise the trunk and are exactly what collectors of luggage want.","problems":"No date given. Trunks are bulky and the market for them is decorative rather than serious. Check the interior fittings and hat forms survive -- an empty trunk is much less interesting. Sixteen photographs means condition should be judgeable before travelling.","target":400,"ceiling":720,"patience":"Moderate.","star":false},
-{"lot":1042,"verdict":"BUY IF CHEAP","criteria":[],"date":"late 19th to 20th c.","status":"modern","evidence":"Catalogued","category":"furniture","period":"victorian","market":[220,450],"resale":[150,320],
- "analysis":"A William and Mary 'style' japanned chest at $300-500. The catalogue's word is 'style', which per the standing principles means the cataloguer is declining to commit to a period -- so this is a revival piece, not a 17th-century one.","problems":"Japanned decoration on revival furniture is usually 20th century and often decorative rather than fine. Five photographs. Priced as a decorative chest it is fine; priced as period it would be a serious mistake.","target":220,"ceiling":400,"patience":"High.","star":false},
-{"lot":1072,"verdict":"BUY IF CHEAP","criteria":["antique"],"date":"c.1876","status":"antique","evidence":"Catalogued","category":"furniture","period":"victorian","market":[400,800],"resale":[280,580],
- "analysis":"A Centennial Chippendale piecrust tea table at $600-800. 'Centennial' is the honest and useful term -- it means a c.1876 revival made for the American centennial, so the object is now itself antique at roughly 150 years old, while being a copy of an 18th-century form.","problems":"A good example of why the evidence class matters: this clears the hundred-year line comfortably but is a revival copy, not period Chippendale. Priced correctly at $600-800. Compare with 2205, the genuine 18th-century piecrust at $1,000-2,000.","target":400,"ceiling":720,"patience":"High.","star":true},
-{"lot":1014,"verdict":"PASS","criteria":["antique"],"date":"c.1870-1890","status":"antique","evidence":"Catalogued","category":"furniture","period":"victorian","market":[150,350],"resale":[100,250],
- "analysis":"A Victorian Eastlake walnut plant or display stand at $400-600. Genuinely antique by date.","problems":"The brief names Eastlake specifically as a weak market, and it is -- Eastlake furniture is among the least wanted of all antique furniture. My market read is well below the estimate. Two photographs.","target":0,"ceiling":300,"patience":"Very high.","star":false},
-{"lot":1105,"verdict":"BUY IF CHEAP","criteria":["antique"],"date":"19th c.","status":"antique","evidence":"Unverified","category":"furniture","period":"victorian","market":[300,650],"resale":[200,470],
- "analysis":"A mother-of-pearl inlaid rosewood lap desk at $600-800, with a bone-inlaid companion at 1107 for $500-700. Victorian lap desks are finely made objects with good inlay.","problems":"The brief names lap desks specifically as a weak market, and two in one sale confirms the supply. Check the interior fittings, inkwells and any secret drawers are present, and that the writing surface has not been re-covered. Four photographs.","target":300,"ceiling":560,"patience":"Very high.","star":false},
-{"lot":1107,"verdict":"BUY IF CHEAP","criteria":["antique"],"date":"19th c.","status":"antique","evidence":"Catalogued","category":"furniture","period":"victorian","market":[280,600],"resale":[190,430],
- "analysis":"A 19th-century bone-inlaid rosewood lap desk at $500-700 -- the cheaper of the two lap desks and catalogued to the century.","problems":"Same weak market. Bone inlay lifts and chips. Note bone rather than ivory here, which avoids the usual constraint.","target":280,"ceiling":520,"patience":"Very high.","star":false},
-{"lot":1039,"verdict":"BUY IF CHEAP","criteria":["antique"],"date":"19th c.","status":"border","evidence":"Unverified","category":"furniture","period":"victorian","market":[150,350],"resale":[100,250],
- "analysis":"A brass-bound rosewood writing box at $200-300 -- the cheapest of the three writing boxes in Day 1 and the plainest.","problems":"No date. Same weak lap-desk market. Check the interior and any hidden compartments.","target":150,"ceiling":270,"patience":"Very high.","star":false},
-{"lot":1078,"verdict":"BUY","criteria":["antique"],"date":"19th c.","status":"antique","evidence":"Catalogued","category":"furniture","period":"victorian","market":[280,600],"resale":[190,430],
- "analysis":"A 19th-century Scottish burr root and penwork snuff box at $300-500. Scottish snuff and Mauchline ware boxes are a distinct collecting category, penwork decoration is labour-intensive, and burr root gives the figure. Catalogued to the century.","problems":"Check the hinge -- Scottish snuff boxes use an integral wooden hinge which is the point of the craft and the thing that breaks. A repaired or replaced hinge substantially reduces value. Three photographs.","target":280,"ceiling":520,"patience":"Moderate. Scottish treen is a specialist category that appears irregularly.","star":true},
-{"lot":1157,"verdict":"BUY IF CHEAP","criteria":["antique"],"date":"undated","status":"border","evidence":"Unverified","category":"furniture","period":"undetermined","market":[80,220],"resale":[40,150],
- "analysis":"A primitive log bench at $100-200 -- the cheapest furniture lot in the sale. Primitive benches have genuine rustic appeal and this is a trivial amount of money.","problems":"No date whatsoever, and 'primitive' benches are made continuously. One photograph. At $100 the risk is negligible but so is the interest.","target":80,"ceiling":180,"patience":"Very high.","star":false},
-{"lot":1173,"verdict":"BUY","criteria":["antique"],"date":"Victorian","status":"antique","evidence":"Catalogued","category":"decorative","period":"victorian","market":[280,600],"resale":[190,430],
- "analysis":"A Victorian kaleidoscope on stand at $300-500. Catalogued as Victorian so genuinely antique, and optical toys of this kind are a proper collecting category -- a parlour kaleidoscope on its own turned stand is a real object rather than a novelty.","problems":"Check the optics and that the object cell still turns and contains its original glass fragments. Reproduction Victorian-style kaleidoscopes are made in quantity for the gift trade. Two photographs.","target":280,"ceiling":520,"patience":"Moderate.","star":true},
-{"lot":1031,"verdict":"BUY IF CHEAP","criteria":[],"date":"20th c.","status":"modern","evidence":"Unverified","category":"furniture","period":"midcentury","market":[350,650],"resale":[240,470],
- "analysis":"An H-frame artist's studio easel in walnut, described as unused, at $500-700. A serious studio easel is a genuinely useful object if you have any use for one.","problems":"No date, no maker, one photograph. 'Unused' suggests recent manufacture rather than an antique. No criteria fit at all.","target":350,"ceiling":600,"patience":"High.","star":false},
-{"lot":1111,"verdict":"PASS","criteria":[],"date":"modern","status":"modern","evidence":"Catalogued","category":"furniture","period":"contemporary","market":[150,320],"resale":[100,220],
- "analysis":"A modern adjustable string quartet music stand at $300-400. The catalogue says modern.","problems":"No criteria fit whatsoever. One photograph.","target":0,"ceiling":250,"patience":"Irrelevant.","star":false},
-{"lot":1352,"verdict":"PASS","criteria":[],"date":"20th c.","status":"modern","evidence":"Catalogued","category":"furniture","period":"midcentury","market":[150,320],"resale":[100,220],
- "analysis":"A 20th-century Moroccan brass tray tabletop at $300-400. Catalogued as 20th century.","problems":"No criteria fit. Brass trays are decorator's stock and the brief names decorative brass as a weak market. A tabletop without a base is half an object.","target":0,"ceiling":250,"patience":"Irrelevant.","star":false},
-{"lot":1385,"verdict":"BUY IF CHEAP","criteria":["antique"],"date":"19th to early 20th c.","status":"border","evidence":"Unverified","category":"furniture","period":"victorian","market":[150,350],"resale":[100,250],
- "analysis":"A Chinese export leather-clad camphor wood trunk at $200-300, with a larger companion at 2020 for $600-800. Camphor trunks are practical -- the wood repels moths -- and cheap.","problems":"No date. Part of the large Chinese decorative group. Leather cladding cracks and lifts. Four photographs.","target":150,"ceiling":270,"patience":"High -- two in this sale.","star":false},
-{"lot":2020,"verdict":"BUY IF CHEAP","criteria":["antique"],"date":"19th to early 20th c.","status":"border","evidence":"Unverified","category":"furniture","period":"victorian","market":[350,700],"resale":[240,500],
- "analysis":"A Chinese export camphorwood trunk at $600-800 -- the larger and dearer of the two.","problems":"No date. 1385 is the cheap one. Four photographs.","target":350,"ceiling":620,"patience":"High.","star":false},
-{"lot":1389,"verdict":"PASS","criteria":[],"date":"20th c.","status":"modern","evidence":"Catalogued","category":"furniture","period":"midcentury","market":[100,250],"resale":[50,170],
- "analysis":"A Chinese 'style' coffee table at $200-300. 'Style' means the cataloguer is declining to commit, and a coffee table is a 20th-century form regardless.","problems":"No criteria fit. Two photographs.","target":0,"ceiling":200,"patience":"Irrelevant.","star":false},
-{"lot":1411,"verdict":"BUY IF CHEAP","criteria":[],"date":"19th to 20th c.","status":"border","evidence":"Unverified","category":"decorative","period":"victorian","market":[250,500],"resale":[170,360],
- "analysis":"A Chinese table screen with carved jade panels at $400-500. Table screens are attractive scholar's objects and the jade panels are the value.","problems":"Jade quality is the whole question and cannot be judged from three photographs -- the same Type A versus dyed problem as lot 2498. Much of what is sold as jade in Chinese decorative work is serpentine or bowenite. No date.","target":250,"ceiling":450,"patience":"High.","star":false},
-{"lot":1415,"verdict":"BUY IF CHEAP","criteria":[],"date":"19th to 20th c.","status":"border","evidence":"Unverified","category":"decorative","period":"victorian","market":[150,350],"resale":[100,250],
- "analysis":"A Chinese paktong ink box at $200-300. Paktong is a Chinese nickel-silver alloy, and scholar's desk objects are a genuine category.","problems":"No date. Paktong has no precious metal content despite the silvery appearance -- do not read it as silver. Two photographs.","target":150,"ceiling":270,"patience":"High.","star":false},
-{"lot":2467,"verdict":"BUY IF CHEAP","criteria":["antique"],"date":"19th c.","status":"border","evidence":"Unverified","category":"decorative","period":"victorian","market":[300,650],"resale":[200,470],
- "analysis":"A Chinese reverse-painted mirror at $500-700. Reverse painting on glass is a genuine China trade craft and the results are decorative.","problems":"No date. These were made for export from the 18th century through the 20th and are still made now; the technique has not changed, so dating from photographs is impossible. Three photographs.","target":300,"ceiling":560,"patience":"High.","star":false},
-{"lot":2470,"verdict":"BUY IF CHEAP","criteria":[],"date":"late 19th to early 20th c.","status":"border","evidence":"Unverified","category":"decorative","period":"edwardian","market":[350,700],"resale":[240,500],
- "analysis":"A Chinese export cloisonne covered box with a jade butterfly finial at $600-800. Cloisonne with a hardstone finial is a well-made decorative object.","problems":"No date. Cloisonne is still produced in the same forms. Check the enamel for pitting and losses, and the jade finial for what it actually is. Four photographs.","target":350,"ceiling":620,"patience":"High.","star":false},
-{"lot":2482,"verdict":"BUY IF CHEAP","criteria":[],"date":"20th c.","status":"modern","evidence":"Unverified","category":"furniture","period":"midcentury","market":[350,700],"resale":[240,500],
- "analysis":"Four Chinese carved hardwood nesting tables at $600-800. Nesting tables are useful and four is a full set.","problems":"No date. Chinese hardwood nesting tables were made in enormous quantity for export through the 20th century. Three photographs.","target":350,"ceiling":620,"patience":"Very high.","star":false},
-{"lot":2488,"verdict":"BUY IF CHEAP","criteria":[],"date":"late Qing to Republic","status":"border","evidence":"Catalogued","category":"furniture","period":"edwardian","market":[150,350],"resale":[100,250],
- "analysis":"A Chinese red-lacquered storage cabinet, late Qing to Republic, at $200-400. The cheapest Chinese furniture lot in the sale.","problems":"'Late Qing to Republic' spans 1875-1949, straddling the antique line without committing. Lacquer crazes and lifts. Three photographs.","target":150,"ceiling":320,"patience":"High.","star":false},
-{"lot":2494,"verdict":"BUY IF CHEAP","criteria":["antique"],"date":"19th c.","status":"antique","evidence":"Catalogued","category":"furniture","period":"victorian","market":[300,600],"resale":[200,430],
- "analysis":"A 19th-century Chinese lacquered folding game box at $400-600. Catalogued to the century, so genuinely antique, and folding game boxes with their original counters are pleasing objects.","problems":"Check whether the gaming pieces and counters survive -- mother-of-pearl counters are usually missing and are the interesting part. Lacquer condition. Three photographs.","target":300,"ceiling":560,"patience":"Moderate.","star":false},
-{"lot":2490,"verdict":"PASS","criteria":["antique"],"date":"19th to early 20th c.","status":"border","evidence":"Unverified","category":"toys","period":"victorian","market":[250,500],"resale":[170,360],
- "analysis":"A Chinese export carved ivory figural chess set in a board box at $300-500. Export ivory chess sets are finely carved and genuinely skilled work.","problems":"Ivory, so the ESA constraint applies and this joins the set-aside class -- the same reasoning as the Day 1 and Day 2 ivory. Also check the set is complete; a missing piece on a carved set is effectively unreplaceable.","target":0,"ceiling":420,"patience":"High.","star":false},
-{"lot":3213,"verdict":"PASS","criteria":[],"date":"late 20th c.","status":"modern","evidence":"Inferred","category":"furniture","period":"contemporary","market":[600,1100],"resale":[400,800],
- "analysis":"An Eldred Wheeler tiger maple drop-leaf table at $1,000-1,500, with a tall chest at 3214 for $1,500-2,500. Eldred Wheeler was a respected Massachusetts maker of bench-made 18th-century reproductions.","problems":"Out of band, and these are modern reproductions by design -- excellent quality, but they fail the antique criterion completely. Reproduction furniture also has poor resale: the market pays for period or it pays very little.","target":0,"ceiling":0,"patience":"Not applicable.","star":false},
-{"lot":3214,"verdict":"PASS","criteria":[],"date":"late 20th c.","status":"modern","evidence":"Inferred","category":"furniture","period":"contemporary","market":[900,1600],"resale":[650,1200],
- "analysis":"The Eldred Wheeler tiger maple tall chest at $1,500-2,500.","problems":"Out of band and a modern reproduction. Same as 3213.","target":0,"ceiling":0,"patience":"Not applicable.","star":false},
-{"lot":3215,"verdict":"PASS","criteria":[],"date":"late 20th c.","status":"modern","evidence":"Inferred","category":"furniture","period":"contemporary","market":[1200,2000],"resale":[850,1550],
- "analysis":"A set of seven D.R. Dimes Windsor chairs in black paint at $2,000-2,500. Dimes is a New Hampshire maker of high-quality Windsor reproductions and a set of seven is genuinely useful.","problems":"Out of band and modern by design. Compare with 2141, four genuine 18th-century Windsors at $800-1,000 -- the period set is a quarter the price of the reproduction set, which is the clearest illustration in the sale of how far period furniture has fallen.","target":0,"ceiling":0,"patience":"Not applicable.","star":true},
-{"lot":3246,"verdict":"PASS","criteria":["maine","named"],"date":"late 20th to 21st c.","status":"modern","evidence":"Inferred","category":"furniture","period":"contemporary","market":[600,1100],"resale":[400,800],
- "analysis":"A Thos. Moser 'New Gloucester' rocker at $800-1,200. Moser is Maine's most famous furniture maker -- Auburn-based, and the New Gloucester rocker is one of his signature designs. A genuine Maine maker with a national reputation.","problems":"Only just inside the band, and modern by design so no antique claim. Moser's own retail price for a new one is higher, so this is a discount on retail rather than an antique value -- but the resale is more robust than most contemporary furniture because the brand is strong.","target":600,"ceiling":950,"patience":"Moderate. Moser appears regularly in Maine sales.","star":true},
-{"lot":3221,"verdict":"BUY IF CHEAP","criteria":["antique"],"date":"19th c.","status":"border","evidence":"Unverified","category":"furniture","period":"victorian","market":[350,700],"resale":[240,500],
- "analysis":"A carved lion-head mahogany curule stool at $500-700. The curule form and lion-head carving are Regency and Empire vocabulary, so the design is early 19th century in origin.","problems":"No date given, and curule stools were reproduced continuously through the Victorian period and again in the 20th century. Three photographs. Check the carving wear and the underside.","target":350,"ceiling":620,"patience":"High.","star":false},
-{"lot":3318,"verdict":"BUY IF CHEAP","criteria":[],"date":"20th c.","status":"modern","evidence":"Unverified","category":"furniture","period":"midcentury","market":[220,450],"resale":[150,320],
- "analysis":"A set of four verdigris iron garden chairs at $300-500. Useful outdoor seating and a set of four.","problems":"No date, no maker. Garden furniture lives outside and corrodes. Four photographs. No criteria fit.","target":220,"ceiling":400,"patience":"High.","star":false},
-{"lot":3098,"verdict":"PASS","criteria":["antique"],"date":"c.1850-1870","status":"antique","evidence":"Catalogued","category":"furniture","period":"victorian","market":[300,650],"resale":[200,470],
- "analysis":"A Victorian laminated rosewood gent's chair at $600-800. Laminated rosewood seating in the Belter manner is technically remarkable -- steam-bent laminated layers, pierced and carved.","problems":"The brief names upholstered Victorian furniture as a weak market and this is squarely in it. Genuine Belter is a different matter but this is not attributed to him. Reupholstery costs more than the chair. My market read is below the estimate.","target":0,"ceiling":560,"patience":"Very high.","star":false},
-{"lot":3062,"verdict":"PASS","criteria":["antique"],"date":"c.1860-1890","status":"antique","evidence":"Catalogued","category":"furniture","period":"victorian","market":[400,800],"resale":[280,580],
- "analysis":"A Victorian walnut parlour table at $1,000-1,500.","problems":"Out of band, and my market read is well below the estimate -- Victorian parlour tables are among the least wanted furniture there is. Three photographs.","target":0,"ceiling":0,"patience":"Not applicable.","star":false},
-{"lot":3102,"verdict":"PASS","criteria":["antique"],"date":"c.1860-1890","status":"antique","evidence":"Catalogued","category":"furniture","period":"victorian","market":[350,700],"resale":[240,500],
- "analysis":"A Victorian walnut etagere at $800-1,200.","problems":"Only just inside the band at the low end, but my market read is well under it. Etageres are large, fragile and unwanted.","target":0,"ceiling":600,"patience":"Very high.","star":false},
-{"lot":3105,"verdict":"PASS","criteria":["antique"],"date":"c.1860-1890","status":"antique","evidence":"Catalogued","category":"furniture","period":"victorian","market":[300,650],"resale":[200,470],
- "analysis":"A pair of Victorian display pedestals at $600-800.","problems":"Genuinely antique but squarely in the weak Victorian market. Three photographs.","target":0,"ceiling":560,"patience":"Very high.","star":false},
-{"lot":3219,"verdict":"PASS","criteria":["antique"],"date":"c.1860-1890","status":"antique","evidence":"Catalogued","category":"furniture","period":"victorian","market":[400,800],"resale":[280,580],
- "analysis":"A Victorian marble-top centre table at $800-1,000.","problems":"Top of the band and my market read is under it. Marble tops crack and are heavy to move. Three photographs.","target":0,"ceiling":650,"patience":"Very high.","star":false},
-{"lot":3078,"verdict":"PASS","criteria":["antique"],"date":"c.1870-1900","status":"antique","evidence":"Catalogued","category":"furniture","period":"victorian","market":[2000,3200],"resale":[1400,2500],
- "analysis":"A Victorian walnut pool table at $2,500-3,500. Period pool tables have a genuine market among people restoring billiard rooms.","problems":"Out of band, and the practical problem is severe -- a slate-bed pool table weighs half a ton, needs professional dismantling and moving, and requires a dedicated room. Four photographs.","target":0,"ceiling":0,"patience":"Not applicable.","star":false},
-{"lot":3060,"verdict":"PASS","criteria":["antique","named"],"date":"c.1860-1880","status":"antique","evidence":"Unverified","category":"furniture","period":"victorian","market":[2400,3800],"resale":[1700,2900],
- "analysis":"A marquetry table attributed to John Jelliff of Newark at $3,000-4,500. Jelliff was among the best American Victorian cabinetmakers and documented pieces command a premium.","problems":"Out of band, and 'attributed to' per the standing principles. Note 3142 is a pair of Jelliff armchairs at $600-800 in the same sale, which is a much cheaper way to own the name if the attribution holds.","target":0,"ceiling":0,"patience":"Not applicable.","star":true},
-{"lot":3135,"verdict":"PASS","criteria":["antique","named"],"date":"c.1875-1880","status":"antique","evidence":"Catalogued","category":"furniture","period":"victorian","market":[1600,2600],"resale":[1100,2000],
- "analysis":"A Leopold Eidlitz New York State Assembly Chamber desk at $2,000-3,000. Eidlitz was the architect of the Assembly Chamber and furniture designed for a specific documented building is architectural history rather than just furniture.","problems":"Out of band. Six photographs. The documentation is the value here -- verify what ties this desk to the chamber.","target":0,"ceiling":0,"patience":"Not applicable.","star":true},
-{"lot":3157,"verdict":"PASS","criteria":["antique","named"],"date":"c.1860-1890","status":"antique","evidence":"Unverified","category":"furniture","period":"victorian","market":[800,1600],"resale":[550,1200],
- "analysis":"F.W. Krause Gothic Revival side chairs at $1,000-2,000. Gothic Revival seating is a distinctive style with a small dedicated following.","problems":"Out of band. Only two photographs and no count of chairs given.","target":0,"ceiling":0,"patience":"Not applicable.","star":false},
-{"lot":3216,"verdict":"PASS","criteria":[],"date":"20th c.","status":"modern","evidence":"Catalogued","category":"furniture","period":"contemporary","market":[900,1600],"resale":[650,1200],
- "analysis":"A set of twelve Regency 'style' spider web cane chairs at $1,200-1,800. Twelve matching chairs is genuinely useful for a dining room.","problems":"Out of band, and 'style' means these are reproductions rather than Regency. Caning on twelve chairs is twelve things to perish. Four photographs.","target":0,"ceiling":0,"patience":"Not applicable.","star":false},
-{"lot":3250,"verdict":"PASS","criteria":["named"],"date":"mid-20th c.","status":"modern","evidence":"Inferred","category":"furniture","period":"midcentury","market":[1600,2600],"resale":[1100,2000],
- "analysis":"Two K. Rasmussen mid-century reclining lounge chairs at $2,000-3,000. Danish mid-century seating has a strong and durable market.","problems":"Out of band, modern by design. Five photographs.","target":0,"ceiling":0,"patience":"Not applicable.","star":false},
-{"lot":3252,"verdict":"PASS","criteria":["named"],"date":"mid-20th c.","status":"modern","evidence":"Inferred","category":"furniture","period":"midcentury","market":[1600,2200],"resale":[1150,1750],
- "analysis":"A Danish modern rosewood desk by Peter Lovig Nielsen at $2,000-2,500. The 'Lovig' desk is a recognisable design with a solid market.","problems":"Out of band and modern. Rosewood also carries a CITES complication for international sale -- Dalbergia species were listed in 2017, which affects export though not domestic sale. Six photographs.","target":0,"ceiling":0,"patience":"Not applicable.","star":true},
-{"lot":3264,"verdict":"BUY IF CHEAP","criteria":["named"],"date":"mid-20th c.","status":"modern","evidence":"Inferred","category":"furniture","period":"midcentury","market":[450,850],"resale":[300,620],
- "analysis":"A Danish modern teak fall-front desk by Povl Dinesen at $600-800 -- the cheapest of the Danish modern group and inside the band. Teak fall-front desks are compact and genuinely useful.","problems":"Modern, so no antique claim and no criteria fit. Danish modern is a strong market but a well-supplied one. Three photographs.","target":450,"ceiling":760,"patience":"High.","star":false},
-{"lot":3266,"verdict":"PASS","criteria":["named"],"date":"late 20th c.","status":"modern","evidence":"Unverified","category":"furniture","period":"midcentury","market":[400,900],"resale":[280,650],
- "analysis":"A Le Corbusier LC4 chaise at $800-1,200. The LC4 is an icon of modern design.","problems":"Only just inside the band, but the critical question is licensed Cassina production versus unlicensed copy -- LC4s are among the most reproduced designs in existence and the copies are worth a tenth of the licensed article. One photograph is nowhere near enough to tell. Assume copy unless the Cassina stamp and serial are shown.","target":0,"ceiling":700,"patience":"High.","star":true},
-{"lot":3269,"verdict":"PASS","criteria":[],"date":"contemporary","status":"modern","evidence":"Catalogued","category":"furniture","period":"contemporary","market":[600,1100],"resale":[400,800],
- "analysis":"A contemporary granite-top Arts and Crafts 'style' dining table at $1,000-1,500.","problems":"Out of band, and the catalogue says both 'contemporary' and 'style' -- a modern table in a historical idiom. No criteria fit.","target":0,"ceiling":0,"patience":"Not applicable.","star":false},
-{"lot":3275,"verdict":"PASS","criteria":["named"],"date":"c.1930-1960","status":"modern","evidence":"Inferred","category":"furniture","period":"midcentury","market":[6000,9000],"resale":[4200,7000],
- "analysis":"A Thomas Molesworth chair at $7,000-10,000. Molesworth's Cowboy High Style furniture from Cody, Wyoming is the most collected American regional furniture of the 20th century.","problems":"Far out of band. Six photographs. Molesworth is also extensively imitated and 'Molesworth style' is a common trade description -- at this price the attribution needs documenting.","target":0,"ceiling":0,"patience":"Not applicable.","star":false},
-{"lot":3254,"verdict":"BUY IF CHEAP","criteria":[],"date":"contemporary","status":"modern","evidence":"Unverified","category":"furniture","period":"contemporary","market":[350,700],"resale":[240,500],
- "analysis":"A live-edge mahogany spindle-back bench at $600-800 -- one of five live-edge lots in Day 3 (3254, 3257, 3260, 3262 and related).","problems":"Contemporary craft furniture with no maker named. Live-edge slab furniture has been made in volume since the Nakashima revival and unsigned examples have little resale. No criteria fit.","target":350,"ceiling":620,"patience":"Very high -- five in this sale alone.","star":false},
-{"lot":3257,"verdict":"BUY IF CHEAP","criteria":[],"date":"contemporary","status":"modern","evidence":"Unverified","category":"furniture","period":"contemporary","market":[250,500],"resale":[170,360],
- "analysis":"A live-edge redwood burl plank coffee table at $400-600 -- the cheapest of the live-edge group.","problems":"No maker, one photograph. Same as 3254.","target":250,"ceiling":450,"patience":"Very high.","star":false},
-{"lot":3260,"verdict":"BUY IF CHEAP","criteria":[],"date":"contemporary","status":"modern","evidence":"Unverified","category":"furniture","period":"contemporary","market":[300,600],"resale":[200,430],
- "analysis":"A live-edge teak root hall table at $500-700.","problems":"No maker, two photographs. Teak root furniture is imported in volume from Southeast Asia.","target":300,"ceiling":560,"patience":"Very high.","star":false},
-{"lot":3262,"verdict":"BUY IF CHEAP","criteria":[],"date":"contemporary","status":"modern","evidence":"Unverified","category":"furniture","period":"contemporary","market":[300,600],"resale":[200,430],
- "analysis":"A live-edge black walnut coffee table at $500-700. Black walnut is the best of the timbers in this group.","problems":"No maker, two photographs. Same as the rest.","target":300,"ceiling":560,"patience":"Very high.","star":false},
-{"lot":3304,"verdict":"BUY IF CHEAP","criteria":["named"],"date":"contemporary","status":"modern","evidence":"Unverified","category":"furniture","period":"contemporary","market":[450,850],"resale":[300,620],
- "analysis":"A Ray Corbone stone and wood table at $700-1,000, with a companion at 3306. Studio craft furniture combining stone and wood.","problems":"Two photographs, and Corbone has essentially no market record -- the estimate is the house's judgement. Contemporary, no criteria fit. Two lots means no scarcity.","target":450,"ceiling":800,"patience":"Very high.","star":false},
-{"lot":3306,"verdict":"BUY IF CHEAP","criteria":["named"],"date":"contemporary","status":"modern","evidence":"Unverified","category":"furniture","period":"contemporary","market":[450,850],"resale":[300,620],
- "analysis":"The second Ray Corbone stone and wood table at $700-1,000.","problems":"Same as 3304.","target":450,"ceiling":800,"patience":"Very high.","star":false},
-{"lot":3050,"verdict":"PASS","criteria":["nouveau","named"],"date":"c.1900-1920","status":"antique","evidence":"Inferred","category":"decorative","period":"nouveau","market":[1200,2200],"resale":[850,1700],
- "analysis":"A Tiffany Studios 'Pine Needle' pattern jewelry box at $1,500-2,500. Genuine Tiffany Studios desk ware in the Pine Needle pattern -- bronze and caramel glass -- and comfortably antique.","problems":"Out of band. Tiffany desk sets are also the most reproduced part of the Tiffany output and the marks are copied. Four photographs. The cheapest genuine Tiffany Studios object in the sale, and still past the ceiling.","target":0,"ceiling":0,"patience":"Not applicable -- out of band.","star":true}
+ {
+  "lot": 2135,
+  "verdict": "BUY",
+  "criteria": [
+   "antique"
+  ],
+  "date": "17th c.",
+  "status": "antique",
+  "evidence": "Catalogued",
+  "category": "furniture",
+  "period": "pre1700",
+  "market": [
+   500,
+   1000
+  ],
+  "resale": [
+   340,
+   730
+  ],
+  "analysis": "A 17th-century oak tabletop spinning wheel at $600-800. Catalogued to the century, which makes it one of the oldest objects in the sale inside the band, and a tabletop wheel is small enough to live with -- unlike a floor wheel, which is furniture. Turned oak of this age has a hard, dark, unmistakable surface.",
+  "problems": "Spinning wheels are among the most reproduced 'primitive' objects, made for decoration from the 1890s onward. Period ones show heavy wear at the treadle and drive band, shrinkage that has thrown the wheel out of round, and old worm damage that has stopped. Confirm the maidens and flyer are original rather than made up from parts. Three photographs.",
+  "target": 450,
+  "ceiling": 780,
+  "patience": "Low to moderate. Genuine 17th-century objects at this price are rare in this sale.",
+  "star": true
+ },
+ {
+  "lot": 2141,
+  "verdict": "BUY",
+  "criteria": [
+   "antique"
+  ],
+  "date": "18th c.",
+  "status": "antique",
+  "evidence": "Catalogued",
+  "category": "furniture",
+  "period": "georgian",
+  "market": [
+   700,
+   1300
+  ],
+  "resale": [
+   480,
+   950
+  ],
+  "analysis": "Four 18th-century birdcage Windsor side chairs at $800-1,000 -- roughly $220 a chair for genuine period American seating. Windsors are the most characteristic American country furniture form and a set of four is far better than singles, which is where the market usually leaves them.",
+  "problems": "Top of the band and only two photographs for four chairs. Check they are a genuine set rather than a made-up group -- period sets show matching turnings, consistent wear and the same paint history. Windsors are also heavily reproduced; look for the splayed leg angles, the seat saddling and old shrinkage cracks in the plank seat.",
+  "target": 700,
+  "ceiling": 1000,
+  "patience": "Moderate. Period Windsors are common individually, matched sets of four much less so.",
+  "star": true
+ },
+ {
+  "lot": 2152,
+  "verdict": "BUY",
+  "criteria": [
+   "antique"
+  ],
+  "date": "c.1790-1820",
+  "status": "antique",
+  "evidence": "Catalogued",
+  "category": "furniture",
+  "period": "federal",
+  "market": [
+   450,
+   900
+  ],
+  "resale": [
+   300,
+   650
+  ],
+  "analysis": "An American Federal drop-leaf tiger maple stand at $500-700. Catalogued to the period, and tiger maple is the timber that lifts a plain country form into something worth having. Small stands are the practical end of period furniture -- they fit anywhere.",
+  "problems": "Tiger maple is also the timber Colonial Revival makers chose for exactly the same reason. Check the underside for hand-planing, irregular saw marks and old oxidation, and the drawer for hand-cut dovetails. A perfectly flat, uniformly coloured underside is a warning.",
+  "target": 420,
+  "ceiling": 700,
+  "patience": "Moderate.",
+  "star": true
+ },
+ {
+  "lot": 2119,
+  "verdict": "BUY",
+  "criteria": [
+   "antique"
+  ],
+  "date": "c.1790-1820",
+  "status": "antique",
+  "evidence": "Catalogued",
+  "category": "furniture",
+  "period": "federal",
+  "market": [
+   280,
+   600
+  ],
+  "resale": [
+   190,
+   430
+  ],
+  "analysis": "A country Hepplewhite painted stand at $300-500 -- the cheapest period stand in the sale. Painted country furniture in original surface is what the American folk market actually pays for, and a small stand is genuinely useful.",
+  "problems": "Original paint versus later decoration is the whole question, as with all painted country furniture. Period paint has worn through where hands and objects went, sits in the grain rather than on it, and has crazed with the wood. Check the top is original to the base.",
+  "target": 280,
+  "ceiling": 520,
+  "patience": "Moderate.",
+  "star": true
+ },
+ {
+  "lot": 2222,
+  "verdict": "BUY",
+  "criteria": [
+   "antique"
+  ],
+  "date": "c.1790-1820",
+  "status": "antique",
+  "evidence": "Catalogued",
+  "category": "furniture",
+  "period": "federal",
+  "market": [
+   450,
+   900
+  ],
+  "resale": [
+   300,
+   650
+  ],
+  "analysis": "A Federal cherry cookie-corner stand at $600-800. The cookie or ovolo corner is a specific Federal detail that collectors look for, and cherry is the New England country timber. Catalogued to the period.",
+  "problems": "Check the top is original and has not been replaced or re-shaped -- the corners are exactly where a damaged top gets recut. Three photographs. Look at the drawer construction and the underside for period tool marks.",
+  "target": 420,
+  "ceiling": 760,
+  "patience": "Moderate.",
+  "star": true
+ },
+ {
+  "lot": 2195,
+  "verdict": "BUY",
+  "criteria": [
+   "antique"
+  ],
+  "date": "18th c.",
+  "status": "antique",
+  "evidence": "Catalogued",
+  "category": "furniture",
+  "period": "georgian",
+  "market": [
+   500,
+   1000
+  ],
+  "resale": [
+   340,
+   730
+  ],
+  "analysis": "An 18th-century Queen Anne oval drop-leaf table at $600-800. Catalogued to the century, and a period Queen Anne table at this money is genuinely cheap -- the form has been out of fashion for twenty years, which is precisely the condition-discount opportunity the brief says to look for.",
+  "problems": "Brown furniture is a weak market and will stay weak; buy it because you want it, not for appreciation. Check the leaves are original and match the top in colour and shrinkage, and that the swing legs and hinges are period. Four photographs.",
+  "target": 450,
+  "ceiling": 780,
+  "patience": "High. Period drop-leaf tables are abundant and cheap, which is the opportunity.",
+  "star": true
+ },
+ {
+  "lot": 2217,
+  "verdict": "BUY",
+  "criteria": [
+   "antique"
+  ],
+  "date": "18th c.",
+  "status": "antique",
+  "evidence": "Catalogued",
+  "category": "furniture",
+  "period": "georgian",
+  "market": [
+   650,
+   1200
+  ],
+  "resale": [
+   450,
+   880
+  ],
+  "analysis": "A period New England Chippendale slant-lid desk at $800-1,000. The catalogue says 'period', which is the house committing rather than hedging with 'style'. A genuine 18th-century New England desk at this price is a striking illustration of how far brown furniture has fallen -- these were $4,000-6,000 objects twenty-five years ago.",
+  "problems": "Top of the band. Check the interior fitting is original, the feet have not been replaced (bracket feet are the first thing to go), and the lid supports work. Five photographs. Note 2230 is a second 18th-century Chippendale slant-front desk at $800-1,200 -- compare both.",
+  "target": 700,
+  "ceiling": 1000,
+  "patience": "High. Period desks are plentiful and falling; there is no urgency at all, which is exactly why the price is good.",
+  "star": true
+ },
+ {
+  "lot": 2230,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [
+   "antique"
+  ],
+  "date": "18th c.",
+  "status": "antique",
+  "evidence": "Catalogued",
+  "category": "furniture",
+  "period": "georgian",
+  "market": [
+   650,
+   1200
+  ],
+  "resale": [
+   450,
+   880
+  ],
+  "analysis": "An 18th-century cherry Chippendale slant-front desk at $800-1,200 -- the companion to 2217. Cherry rather than mahogany, which is the New England country timber and arguably the more sympathetic one.",
+  "problems": "Only just inside the band at the low end. Same construction checks. Two comparable desks in one sale means you can be selective and let the room decide which it wants.",
+  "target": 700,
+  "ceiling": 1000,
+  "patience": "High -- two chances at essentially the same object.",
+  "star": false
+ },
+ {
+  "lot": 2084,
+  "verdict": "BUY",
+  "criteria": [
+   "antique"
+  ],
+  "date": "early 19th c.",
+  "status": "antique",
+  "evidence": "Catalogued",
+  "category": "furniture",
+  "period": "federal",
+  "market": [
+   350,
+   750
+  ],
+  "resale": [
+   240,
+   540
+  ],
+  "analysis": "An early 19th-century mahogany bottle case on stand at $400-600. Catalogued to the period, and a bottle or cellarette case is an unusual and useful form -- more interesting than another table.",
+  "problems": "Check the interior divisions survive; they are usually missing or replaced, and an empty case is a much plainer object. Confirm the stand belongs to the case rather than being a marriage. Three photographs.",
+  "target": 350,
+  "ceiling": 620,
+  "patience": "Moderate.",
+  "star": true
+ },
+ {
+  "lot": 2147,
+  "verdict": "BUY",
+  "criteria": [
+   "antique"
+  ],
+  "date": "19th c.",
+  "status": "antique",
+  "evidence": "Unverified",
+  "category": "furniture",
+  "period": "victorian",
+  "market": [
+   500,
+   1000
+  ],
+  "resale": [
+   340,
+   730
+  ],
+  "analysis": "An antique painted pine twelve-drawer country store cabinet at $600-800. Multi-drawer store and apothecary cabinets are one of the few furniture forms whose market has held up, because they are genuinely useful and read as decorative objects rather than as brown furniture.",
+  "problems": "'Antique' with no date. Check the paint is original -- these are routinely repainted, and a fresh paint job halves the value. Confirm all twelve drawers are present and run, and look for old labels or stencilled contents, which add real interest. Three photographs.",
+  "target": 450,
+  "ceiling": 780,
+  "patience": "Moderate. Store cabinets are sought after and hold value better than most period furniture.",
+  "star": true
+ },
+ {
+  "lot": 2317,
+  "verdict": "BUY",
+  "criteria": [
+   "antique"
+  ],
+  "date": "18th to early 19th c.",
+  "status": "antique",
+  "evidence": "Unverified",
+  "category": "furniture",
+  "period": "georgian",
+  "market": [
+   550,
+   1000
+  ],
+  "resale": [
+   380,
+   730
+  ],
+  "analysis": "An English Chippendale miniature chest at $700-900. Miniature and apprentice furniture is a distinct collecting category with a following quite separate from full-size brown furniture -- and unlike a full chest, a miniature one needs no floor space, which matters for a collection.",
+  "problems": "No date given. Miniatures are also faked, often by cutting down damaged full-size pieces or by modern makers. Period miniatures show proportionally correct dovetails (not scaled-down chunky ones) and consistent shrinkage. Four photographs.",
+  "target": 500,
+  "ceiling": 880,
+  "patience": "Moderate. Miniature furniture is genuinely less common than full-size.",
+  "star": true
+ },
+ {
+  "lot": 2314,
+  "verdict": "BUY",
+  "criteria": [
+   "antique"
+  ],
+  "date": "18th to 19th c.",
+  "status": "antique",
+  "evidence": "Unverified",
+  "category": "furniture",
+  "period": "georgian",
+  "market": [
+   280,
+   600
+  ],
+  "resale": [
+   190,
+   430
+  ],
+  "analysis": "An English mahogany Chippendale wall corner cabinet at $300-500. Hanging corner cupboards are practical, take no floor space, and this is at the cheap end of period furniture.",
+  "problems": "No date. Corner cupboards are frequently made up from architectural fragments or cut down from larger pieces. Check the back boards and the shelf construction for consistency. Three photographs.",
+  "target": 280,
+  "ceiling": 520,
+  "patience": "High.",
+  "star": false
+ },
+ {
+  "lot": 2319,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [
+   "antique"
+  ],
+  "date": "Victorian",
+  "status": "antique",
+  "evidence": "Catalogued",
+  "category": "furniture",
+  "period": "victorian",
+  "market": [
+   350,
+   700
+  ],
+  "resale": [
+   240,
+   500
+  ],
+  "analysis": "A Victorian English oak tambour-top writing box at $500-700. Catalogued as Victorian so genuinely antique, and a tambour mechanism is a pleasing bit of cabinetmaking.",
+  "problems": "Tambour slats crack and the canvas backing perishes -- check it runs smoothly, because repair is specialist work. Writing boxes generally are a soft market. Three photographs.",
+  "target": 350,
+  "ceiling": 620,
+  "patience": "High.",
+  "star": false
+ },
+ {
+  "lot": 2310,
+  "verdict": "BUY",
+  "criteria": [
+   "antique"
+  ],
+  "date": "c.1790-1820",
+  "status": "antique",
+  "evidence": "Unverified",
+  "category": "furniture",
+  "period": "federal",
+  "market": [
+   300,
+   650
+  ],
+  "resale": [
+   200,
+   470
+  ],
+  "analysis": "A paterae-inlaid octagonal tea caddy at $400-600. The paterae inlay and octagonal form place it firmly in the Georgian and Federal period, and tea caddies are small, well-made and collectable in their own right.",
+  "problems": "No date stated. Check the interior lids and any mixing bowl are present -- missing interior fittings are the standard fault and materially reduce value. Veneer lifting at the corners is common. Four photographs.",
+  "target": 300,
+  "ceiling": 560,
+  "patience": "Moderate. Tea caddies run regularly; complete ones with good inlay less so.",
+  "star": true
+ },
+ {
+  "lot": 2417,
+  "verdict": "BUY",
+  "criteria": [
+   "antique"
+  ],
+  "date": "1828",
+  "status": "antique",
+  "evidence": "Catalogued",
+  "category": "furniture",
+  "period": "federal",
+  "market": [
+   550,
+   1000
+  ],
+  "resale": [
+   380,
+   730
+  ],
+  "analysis": "An 1828 paint-decorated marriage chest at $700-900. Dated to the year, which is unusual and valuable -- painted marriage or dower chests carry the date as part of the decoration, so the object documents itself. Continental rather than American in all likelihood.",
+  "problems": "The date is painted on, so it dates the decoration rather than proving the chest -- though on genuine examples they are the same event. Later 'improvement' of plain chests with painted dates is a known trade. Check the paint has aged and worn with the wood. Four photographs.",
+  "target": 500,
+  "ceiling": 880,
+  "patience": "Moderate. Dated painted chests are genuinely uncommon.",
+  "star": true
+ },
+ {
+  "lot": 2395,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [
+   "antique"
+  ],
+  "date": "early 19th c.",
+  "status": "antique",
+  "evidence": "Catalogued",
+  "category": "furniture",
+  "period": "federal",
+  "market": [
+   300,
+   650
+  ],
+  "resale": [
+   200,
+   470
+  ],
+  "analysis": "An early 19th-century Italian walnut commode at $400-600. Catalogued to the period, and Continental walnut commodes are handsome pieces that have fallen as far as English brown furniture.",
+  "problems": "Italian provincial furniture is extensively 'improved' and reconstructed -- marriages of old timber into saleable forms are endemic. Check the drawer construction and the back boards. Four photographs.",
+  "target": 300,
+  "ceiling": 560,
+  "patience": "High.",
+  "star": false
+ },
+ {
+  "lot": 2386,
+  "verdict": "BUY",
+  "criteria": [
+   "antique"
+  ],
+  "date": "19th c.",
+  "status": "antique",
+  "evidence": "Unverified",
+  "category": "furniture",
+  "period": "victorian",
+  "market": [
+   450,
+   850
+  ],
+  "resale": [
+   300,
+   620
+  ],
+  "analysis": "A miniature Italian parquetry three-drawer chest at $600-800. Miniature furniture again -- small, finely made, no floor space, and parquetry work is labour-intensive enough that it was never cheap to produce.",
+  "problems": "No date. Sorrento and Florentine parquetry work continued into the 20th century for the tourist trade, so establish the age from the timber shrinkage and the drawer construction rather than the decoration. Five photographs.",
+  "target": 450,
+  "ceiling": 760,
+  "patience": "Moderate.",
+  "star": false
+ },
+ {
+  "lot": 2369,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [
+   "antique"
+  ],
+  "date": "19th c.",
+  "status": "antique",
+  "evidence": "Catalogued",
+  "category": "furniture",
+  "period": "victorian",
+  "market": [
+   450,
+   850
+  ],
+  "resale": [
+   300,
+   620
+  ],
+  "analysis": "A 19th-century French marquetry inlaid games table at $700-900, with a Dutch equivalent at 2409 for $800-1,200. Catalogued to the century.",
+  "problems": "Top of the band. Marquetry lifts and loses pieces, and replacement is expensive and rarely invisible -- check the surface carefully in raking light. Two comparable games tables in the sale means no scarcity. Five photographs.",
+  "target": 450,
+  "ceiling": 800,
+  "patience": "High -- two in this sale.",
+  "star": false
+ },
+ {
+  "lot": 2409,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [
+   "antique"
+  ],
+  "date": "19th c.",
+  "status": "antique",
+  "evidence": "Catalogued",
+  "category": "furniture",
+  "period": "victorian",
+  "market": [
+   550,
+   1000
+  ],
+  "resale": [
+   380,
+   730
+  ],
+  "analysis": "A 19th-century Dutch marquetry inlaid games table at $800-1,200 -- the dearer of the pair with 2369. Dutch marquetry is typically more elaborate than French.",
+  "problems": "Only just inside the band. Same marquetry condition issues, and Dutch pieces were also heavily re-veneered in the 19th century over plain 18th-century carcasses. Five photographs.",
+  "target": 550,
+  "ceiling": 950,
+  "patience": "High.",
+  "star": false
+ },
+ {
+  "lot": 2298,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [
+   "antique"
+  ],
+  "date": "19th c.",
+  "status": "border",
+  "evidence": "Unverified",
+  "category": "furniture",
+  "period": "victorian",
+  "market": [
+   400,
+   800
+  ],
+  "resale": [
+   280,
+   580
+  ],
+  "analysis": "An English sideboard at $600-800 with seven photographs -- good disclosure. Sideboards are the epitome of the collapsed brown-furniture market: large, well-made, and worth a fraction of what they were.",
+  "problems": "No date at all. Size is the real problem -- a sideboard is a serious commitment of wall and floor. This is a buy only if you specifically need one.",
+  "target": 400,
+  "ceiling": 720,
+  "patience": "Very high. Sideboards are effectively unsaleable and prices reflect it.",
+  "star": false
+ },
+ {
+  "lot": 2304,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [
+   "antique"
+  ],
+  "date": "c.1901-1915",
+  "status": "border",
+  "evidence": "Catalogued",
+  "category": "furniture",
+  "period": "edwardian",
+  "market": [
+   550,
+   1000
+  ],
+  "resale": [
+   380,
+   730
+  ],
+  "analysis": "An English Edwardian burl kneehole desk at $800-1,200. Catalogued as Edwardian so it sits right on the antique line, and burl veneer is the decorative appeal.",
+  "problems": "Only just inside the band. Burl veneer lifts and blisters, particularly over a kneehole where the carcase moves. Four photographs.",
+  "target": 550,
+  "ceiling": 950,
+  "patience": "High.",
+  "star": false
+ },
+ {
+  "lot": 2278,
+  "verdict": "PASS",
+  "criteria": [
+   "antique"
+  ],
+  "date": "Regency",
+  "status": "antique",
+  "evidence": "Catalogued",
+  "category": "furniture",
+  "period": "federal",
+  "market": [
+   900,
+   1400
+  ],
+  "resale": [
+   650,
+   1100
+  ],
+  "analysis": "A Regency cane-top bench with leather cushion at $1,200-1,500. Genuinely antique by the catalogue's designation.",
+  "problems": "Out of band. Caning perishes and re-caning is expensive; only two photographs for a four-figure lot.",
+  "target": 0,
+  "ceiling": 0,
+  "patience": "Not applicable -- out of band.",
+  "star": false
+ },
+ {
+  "lot": 2272,
+  "verdict": "PASS",
+  "criteria": [
+   "antique"
+  ],
+  "date": "19th c.",
+  "status": "antique",
+  "evidence": "Catalogued",
+  "category": "furniture",
+  "period": "victorian",
+  "market": [
+   900,
+   1400
+  ],
+  "resale": [
+   650,
+   1100
+  ],
+  "analysis": "A 19th-century English tortoiseshell tea caddy at $1,200-1,600. Tortoiseshell caddies are the top of the caddy market and genuinely fine objects.",
+  "problems": "Out of band, and there is a further complication: tortoiseshell is CITES-listed, which restricts interstate and international sale even for antiques. Antique-exemption paperwork exists but will not accompany this lot. Same class of constraint as the ivory.",
+  "target": 0,
+  "ceiling": 0,
+  "patience": "Not applicable -- out of band, and the CITES issue compounds it.",
+  "star": true
+ },
+ {
+  "lot": 2077,
+  "verdict": "PASS",
+  "criteria": [
+   "antique"
+  ],
+  "date": "19th c.",
+  "status": "antique",
+  "evidence": "Catalogued",
+  "category": "furniture",
+  "period": "victorian",
+  "market": [
+   1500,
+   2600
+  ],
+  "resale": [
+   1100,
+   2000
+  ],
+  "analysis": "A fine 19th-century oak hall bench at $2,000-3,000. Catalogued to the century.",
+  "problems": "Out of band. Hall benches are also large and single-purpose -- the market for them is thin even at the best of times.",
+  "target": 0,
+  "ceiling": 0,
+  "patience": "Not applicable.",
+  "star": false
+ },
+ {
+  "lot": 2117,
+  "verdict": "PASS",
+  "criteria": [
+   "antique"
+  ],
+  "date": "19th c.",
+  "status": "antique",
+  "evidence": "Catalogued",
+  "category": "furniture",
+  "period": "victorian",
+  "market": [
+   900,
+   1500
+  ],
+  "resale": [
+   650,
+   1150
+  ],
+  "analysis": "A 19th-century tiger maple apothecary chest at $1,000-1,500. Apothecary chests are among the strongest furniture forms in the current market -- multi-drawer storage in figured timber, useful and decorative at once.",
+  "problems": "Out of band, just. This is the furniture lot I would most like to be in band; if bidding stalled near $900 it would be worth a hard look. Three photographs.",
+  "target": 0,
+  "ceiling": 0,
+  "patience": "Not applicable -- out of band, but apothecary chests hold value better than almost any other period furniture.",
+  "star": true
+ },
+ {
+  "lot": 2126,
+  "verdict": "PASS",
+  "criteria": [
+   "antique"
+  ],
+  "date": "c.1810-1830",
+  "status": "antique",
+  "evidence": "Catalogued",
+  "category": "furniture",
+  "period": "federal",
+  "market": [
+   1500,
+   2600
+  ],
+  "resale": [
+   1100,
+   2000
+  ],
+  "analysis": "A paint-decorated country Sheraton chest of drawers at $2,000-3,000. Original paint-decorated Federal case furniture is the top of the American country market.",
+  "problems": "Out of band at two to three times the ceiling. Four photographs.",
+  "target": 0,
+  "ceiling": 0,
+  "patience": "Not applicable.",
+  "star": false
+ },
+ {
+  "lot": 2146,
+  "verdict": "PASS",
+  "criteria": [
+   "antique"
+  ],
+  "date": "18th c.",
+  "status": "antique",
+  "evidence": "Catalogued",
+  "category": "furniture",
+  "period": "georgian",
+  "market": [
+   800,
+   1600
+  ],
+  "resale": [
+   550,
+   1200
+  ],
+  "analysis": "An 18th-century New England painted pine chair table at $1,000-2,000. Chair tables are a distinctive early American form -- the top pivots to make a chair back -- and a painted 18th-century example is a proper piece of country furniture.",
+  "problems": "Out of band. Chair tables are also extensively reproduced and 'improved'. Three photographs.",
+  "target": 0,
+  "ceiling": 0,
+  "patience": "Not applicable.",
+  "star": false
+ },
+ {
+  "lot": 2171,
+  "verdict": "PASS",
+  "criteria": [
+   "antique"
+  ],
+  "date": "18th c.",
+  "status": "antique",
+  "evidence": "Catalogued",
+  "category": "furniture",
+  "period": "georgian",
+  "market": [
+   900,
+   1500
+  ],
+  "resale": [
+   650,
+   1150
+  ],
+  "analysis": "An 18th-century tiger maple Chippendale chest at $1,000-1,500. Period case furniture in figured maple.",
+  "problems": "Out of band, just. Three photographs. One of several 18th-century chests in Day 2 -- 2174, 2179, 2203 and 2177 as well.",
+  "target": 0,
+  "ceiling": 0,
+  "patience": "Not applicable.",
+  "star": false
+ },
+ {
+  "lot": 2174,
+  "verdict": "PASS",
+  "criteria": [
+   "antique"
+  ],
+  "date": "18th c.",
+  "status": "antique",
+  "evidence": "Catalogued",
+  "category": "furniture",
+  "period": "georgian",
+  "market": [
+   900,
+   1500
+  ],
+  "resale": [
+   650,
+   1150
+  ],
+  "analysis": "An 18th-century tiger maple Queen Anne chest on frame at $1,000-1,500. Chest-on-frame is a scarcer form than a plain chest.",
+  "problems": "Out of band, just. Check the frame is original to the chest -- marriages are common in this form specifically because the two parts separate.",
+  "target": 0,
+  "ceiling": 0,
+  "patience": "Not applicable.",
+  "star": false
+ },
+ {
+  "lot": 2203,
+  "verdict": "PASS",
+  "criteria": [
+   "antique"
+  ],
+  "date": "c.1790-1810",
+  "status": "antique",
+  "evidence": "Catalogued",
+  "category": "furniture",
+  "period": "federal",
+  "market": [
+   900,
+   1500
+  ],
+  "resale": [
+   650,
+   1150
+  ],
+  "analysis": "An American Hepplewhite chest at $1,000-1,500 with five photographs.",
+  "problems": "Out of band, just. Check for replaced feet and brasses, the two usual alterations.",
+  "target": 0,
+  "ceiling": 0,
+  "patience": "Not applicable.",
+  "star": false
+ },
+ {
+  "lot": 2179,
+  "verdict": "PASS",
+  "criteria": [
+   "antique",
+   "named"
+  ],
+  "date": "c.1790-1810",
+  "status": "antique",
+  "evidence": "Unverified",
+  "category": "furniture",
+  "period": "federal",
+  "market": [
+   900,
+   1500
+  ],
+  "resale": [
+   650,
+   1150
+  ],
+  "analysis": "A 'possible Seymour' bowfront Hepplewhite chest at $1,000-1,500. John and Thomas Seymour were the finest Boston cabinetmakers of the Federal period and a documented Seymour piece is a five or six-figure object.",
+  "problems": "Out of band, and 'possible' is the weakest attribution word in the catalogue -- weaker than 'attributed'. The estimate tells you the house does not believe it. Price as an anonymous Federal chest.",
+  "target": 0,
+  "ceiling": 0,
+  "patience": "Not applicable.",
+  "star": true
+ },
+ {
+  "lot": 2177,
+  "verdict": "PASS",
+  "criteria": [
+   "antique"
+  ],
+  "date": "18th c.",
+  "status": "antique",
+  "evidence": "Catalogued",
+  "category": "furniture",
+  "period": "georgian",
+  "market": [
+   8000,
+   14000
+  ],
+  "resale": [
+   5500,
+   11000
+  ],
+  "analysis": "A Chippendale mahogany block-front chest at $10,000-15,000. Block-front case furniture is the high point of American colonial cabinetmaking -- a Newport or Boston block-front is a major object.",
+  "problems": "Far out of band at ten to fifteen times the ceiling. The most valuable piece of furniture in the sale.",
+  "target": 0,
+  "ceiling": 0,
+  "patience": "Not applicable.",
+  "star": false
+ },
+ {
+  "lot": 2184,
+  "verdict": "PASS",
+  "criteria": [
+   "antique"
+  ],
+  "date": "18th c.",
+  "status": "antique",
+  "evidence": "Catalogued",
+  "category": "furniture",
+  "period": "georgian",
+  "market": [
+   12000,
+   18000
+  ],
+  "resale": [
+   8000,
+   14000
+  ],
+  "analysis": "A Queen Anne bonnet top highboy at $15,000-20,000 -- the most expensive furniture lot in the sale and among the dearest lots overall.",
+  "problems": "Far out of band. Highboys are also the form most often assembled from period parts; at this price the integrity of the piece is everything.",
+  "target": 0,
+  "ceiling": 0,
+  "patience": "Not applicable.",
+  "star": false
+ },
+ {
+  "lot": 2186,
+  "verdict": "PASS",
+  "criteria": [
+   "antique"
+  ],
+  "date": "c.1790-1815",
+  "status": "antique",
+  "evidence": "Catalogued",
+  "category": "furniture",
+  "period": "federal",
+  "market": [
+   1200,
+   1800
+  ],
+  "resale": [
+   850,
+   1400
+  ],
+  "analysis": "A Portsmouth Federal period inlaid card table at $1,500-2,000. Portsmouth, New Hampshire was a significant Federal cabinetmaking centre and a regional attribution adds real interest.",
+  "problems": "Out of band. Four photographs.",
+  "target": 0,
+  "ceiling": 0,
+  "patience": "Not applicable.",
+  "star": false
+ },
+ {
+  "lot": 2191,
+  "verdict": "PASS",
+  "criteria": [
+   "antique"
+  ],
+  "date": "18th c.",
+  "status": "antique",
+  "evidence": "Catalogued",
+  "category": "furniture",
+  "period": "georgian",
+  "market": [
+   1500,
+   2600
+  ],
+  "resale": [
+   1100,
+   2000
+  ],
+  "analysis": "A Boston Queen Anne/Chippendale mahogany side chair at $2,000-3,000. A single period Boston chair.",
+  "problems": "Out of band, and for a single chair that is a strong estimate -- it implies the house thinks it is a documented Boston example. Three photographs.",
+  "target": 0,
+  "ceiling": 0,
+  "patience": "Not applicable.",
+  "star": false
+ },
+ {
+  "lot": 2205,
+  "verdict": "PASS",
+  "criteria": [
+   "antique"
+  ],
+  "date": "18th c.",
+  "status": "antique",
+  "evidence": "Catalogued",
+  "category": "furniture",
+  "period": "georgian",
+  "market": [
+   800,
+   1600
+  ],
+  "resale": [
+   550,
+   1200
+  ],
+  "analysis": "An 18th-century Chippendale piecrust tilt-top tea table at $1,000-2,000. The piecrust edge is the desirable feature and a period example is a proper piece.",
+  "problems": "Out of band. Only two photographs. Note lot 1072 in Day 1 is a Centennial piecrust tea table at $600-800 -- 'Centennial' meaning a c.1876 revival copy, which is the honest label for what most piecrust tables actually are.",
+  "target": 0,
+  "ceiling": 0,
+  "patience": "Not applicable.",
+  "star": true
+ },
+ {
+  "lot": 2232,
+  "verdict": "PASS",
+  "criteria": [
+   "antique"
+  ],
+  "date": "mid-19th c.",
+  "status": "antique",
+  "evidence": "Catalogued",
+  "category": "furniture",
+  "period": "victorian",
+  "market": [
+   1500,
+   2600
+  ],
+  "resale": [
+   1100,
+   2000
+  ],
+  "analysis": "A mid-19th-century solid alder Shaker chest, probably Vermont, at $2,000-3,000. Shaker furniture has a devoted following and commands a premium over comparable worldly country pieces.",
+  "problems": "Out of band. 'Probably Vermont' is a guess at community. Shaker attribution is also contested territory -- a great deal of plain country furniture is optimistically called Shaker.",
+  "target": 0,
+  "ceiling": 0,
+  "patience": "Not applicable.",
+  "star": false
+ },
+ {
+  "lot": 2208,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [
+   "antique"
+  ],
+  "date": "c.1800-1830",
+  "status": "antique",
+  "evidence": "Catalogued",
+  "category": "furniture",
+  "period": "federal",
+  "market": [
+   400,
+   800
+  ],
+  "resale": [
+   280,
+   580
+  ],
+  "analysis": "A Sheraton mahogany framed sofa at $600-800. Genuinely period by the catalogue's designation, and remarkably cheap for an 18th or early 19th-century sofa.",
+  "problems": "The brief names upholstered Victorian furniture as a weak market and period upholstered furniture is weaker still -- reupholstery costs more than the frame is worth, and the existing covering is almost certainly wrong. Only two photographs. Buy only if you like the frame and can live with the cover.",
+  "target": 400,
+  "ceiling": 720,
+  "patience": "Very high. Period sofas routinely fail to sell.",
+  "star": false
+ },
+ {
+  "lot": 2329,
+  "verdict": "PASS",
+  "criteria": [
+   "antique"
+  ],
+  "date": "17th to 18th c.",
+  "status": "border",
+  "evidence": "Unverified",
+  "category": "furniture",
+  "period": "pre1700",
+  "market": [
+   800,
+   1400
+  ],
+  "resale": [
+   550,
+   1050
+  ],
+  "analysis": "Early chip-carved walnut dining chairs at $1,000-1,500 with eight photographs -- the best-documented furniture lot in Day 2.",
+  "problems": "Out of band, just. 'Early' with no date and no count of chairs is unhelpful -- eight photographs suggests a set. Chip-carved early oak and walnut seating is also among the most reproduced furniture there is, made in quantity in the late 19th century.",
+  "target": 0,
+  "ceiling": 0,
+  "patience": "Not applicable.",
+  "star": false
+ },
+ {
+  "lot": 2306,
+  "verdict": "PASS",
+  "criteria": [
+   "antique"
+  ],
+  "date": "18th c.",
+  "status": "antique",
+  "evidence": "Catalogued",
+  "category": "furniture",
+  "period": "georgian",
+  "market": [
+   800,
+   1400
+  ],
+  "resale": [
+   550,
+   1050
+  ],
+  "analysis": "A Chippendale carved mirror at $1,000-1,500. Period looking glasses are handsome and the carved and gilt cresting is the value.",
+  "problems": "Out of band, just, and only one photograph for a four-figure lot -- inadequate. Original glass and original gilding are the two things that matter and neither can be judged from a single image.",
+  "target": 0,
+  "ceiling": 0,
+  "patience": "Not applicable.",
+  "star": false
+ },
+ {
+  "lot": 2352,
+  "verdict": "PASS",
+  "criteria": [
+   "antique"
+  ],
+  "date": "18th to 19th c.",
+  "status": "border",
+  "evidence": "Unverified",
+  "category": "furniture",
+  "period": "georgian",
+  "market": [
+   800,
+   1400
+  ],
+  "resale": [
+   550,
+   1050
+  ],
+  "analysis": "A large French Louis XVI giltwork mirror at $1,000-1,500.",
+  "problems": "Out of band. No date -- 'Louis XVI' here is a style designation, and the overwhelming majority of such mirrors are 19th-century revival rather than 18th-century. Regilding is near-universal.",
+  "target": 0,
+  "ceiling": 0,
+  "patience": "Not applicable.",
+  "star": false
+ },
+ {
+  "lot": 2378,
+  "verdict": "PASS",
+  "criteria": [
+   "antique"
+  ],
+  "date": "19th c.",
+  "status": "antique",
+  "evidence": "Catalogued",
+  "category": "furniture",
+  "period": "victorian",
+  "market": [
+   800,
+   1400
+  ],
+  "resale": [
+   550,
+   1050
+  ],
+  "analysis": "A 19th-century Italian Empire double inkwell desk stand at $1,000-1,500.",
+  "problems": "Out of band, just, and only two photographs. Desk furniture is a soft market.",
+  "target": 0,
+  "ceiling": 0,
+  "patience": "Not applicable.",
+  "star": false
+ },
+ {
+  "lot": 2381,
+  "verdict": "PASS",
+  "criteria": [
+   "antique"
+  ],
+  "date": "undated",
+  "status": "border",
+  "evidence": "Unverified",
+  "category": "furniture",
+  "period": "undetermined",
+  "market": [
+   800,
+   1400
+  ],
+  "resale": [
+   550,
+   1050
+  ],
+  "analysis": "An 'Italian cabinet' at $1,000-1,500 with six photographs. The catalogue gives literally nothing beyond nationality and form -- no date, no period, no timber.",
+  "problems": "Out of band, and an entry this bare is a warning in itself. Italian cabinets span five centuries and the price range spans four orders of magnitude.",
+  "target": 0,
+  "ceiling": 0,
+  "patience": "Not applicable.",
+  "star": false
+ },
+ {
+  "lot": 2426,
+  "verdict": "PASS",
+  "criteria": [],
+  "date": "undated",
+  "status": "border",
+  "evidence": "Unverified",
+  "category": "furniture",
+  "period": "undetermined",
+  "market": [
+   700,
+   1300
+  ],
+  "resale": [
+   480,
+   950
+  ],
+  "analysis": "An Italian black marble display pedestal at $1,000-1,500, with a green marble companion at 2428.",
+  "problems": "Out of band. One photograph each for four-figure lots. Marble pedestals are decorator's stock; no date, no maker, and they are extremely heavy.",
+  "target": 0,
+  "ceiling": 0,
+  "patience": "Not applicable.",
+  "star": false
+ },
+ {
+  "lot": 2428,
+  "verdict": "PASS",
+  "criteria": [],
+  "date": "undated",
+  "status": "border",
+  "evidence": "Unverified",
+  "category": "furniture",
+  "period": "undetermined",
+  "market": [
+   700,
+   1300
+  ],
+  "resale": [
+   480,
+   950
+  ],
+  "analysis": "The green marble pedestal companion to 2426 at $1,000-1,500.",
+  "problems": "Same as 2426.",
+  "target": 0,
+  "ceiling": 0,
+  "patience": "Not applicable.",
+  "star": false
+ },
+ {
+  "lot": 1001,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [
+   "antique"
+  ],
+  "date": "late 19th to early 20th c.",
+  "status": "border",
+  "evidence": "Unverified",
+  "category": "furniture",
+  "period": "edwardian",
+  "market": [
+   400,
+   800
+  ],
+  "resale": [
+   280,
+   580
+  ],
+  "analysis": "A French 'Aux Etats Unis' hat trunk with labels at $600-800, with sixteen photographs -- the most heavily documented lot in Day 1. The retailer labels are the interesting part: they date and localise the trunk and are exactly what collectors of luggage want.",
+  "problems": "No date given. Trunks are bulky and the market for them is decorative rather than serious. Check the interior fittings and hat forms survive -- an empty trunk is much less interesting. Sixteen photographs means condition should be judgeable before travelling.",
+  "target": 400,
+  "ceiling": 720,
+  "patience": "Moderate.",
+  "star": false
+ },
+ {
+  "lot": 1042,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [],
+  "date": "late 19th to 20th c.",
+  "status": "modern",
+  "evidence": "Catalogued",
+  "category": "furniture",
+  "period": "victorian",
+  "market": [
+   220,
+   450
+  ],
+  "resale": [
+   150,
+   320
+  ],
+  "analysis": "A William and Mary 'style' japanned chest at $300-500. The catalogue's word is 'style', which per the standing principles means the cataloguer is declining to commit to a period -- so this is a revival piece, not a 17th-century one.",
+  "problems": "Japanned decoration on revival furniture is usually 20th century and often decorative rather than fine. Five photographs. Priced as a decorative chest it is fine; priced as period it would be a serious mistake.",
+  "target": 220,
+  "ceiling": 400,
+  "patience": "High.",
+  "star": false
+ },
+ {
+  "lot": 1072,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [
+   "antique"
+  ],
+  "date": "c.1876",
+  "status": "antique",
+  "evidence": "Catalogued",
+  "category": "furniture",
+  "period": "victorian",
+  "market": [
+   400,
+   800
+  ],
+  "resale": [
+   280,
+   580
+  ],
+  "analysis": "A Centennial Chippendale piecrust tea table at $600-800. 'Centennial' is the honest and useful term -- it means a c.1876 revival made for the American centennial, so the object is now itself antique at roughly 150 years old, while being a copy of an 18th-century form.",
+  "problems": "A good example of why the evidence class matters: this clears the hundred-year line comfortably but is a revival copy, not period Chippendale. Priced correctly at $600-800. Compare with 2205, the genuine 18th-century piecrust at $1,000-2,000.",
+  "target": 400,
+  "ceiling": 720,
+  "patience": "High.",
+  "star": true
+ },
+ {
+  "lot": 1014,
+  "verdict": "PASS",
+  "criteria": [
+   "antique"
+  ],
+  "date": "c.1870-1890",
+  "status": "antique",
+  "evidence": "Catalogued",
+  "category": "furniture",
+  "period": "victorian",
+  "market": [
+   150,
+   350
+  ],
+  "resale": [
+   100,
+   250
+  ],
+  "analysis": "A Victorian Eastlake walnut plant or display stand at $400-600. Genuinely antique by date.",
+  "problems": "The brief names Eastlake specifically as a weak market, and it is -- Eastlake furniture is among the least wanted of all antique furniture. My market read is well below the estimate. Two photographs.",
+  "target": 0,
+  "ceiling": 300,
+  "patience": "Very high.",
+  "star": false
+ },
+ {
+  "lot": 1105,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [
+   "antique"
+  ],
+  "date": "19th c.",
+  "status": "antique",
+  "evidence": "Unverified",
+  "category": "furniture",
+  "period": "victorian",
+  "market": [
+   300,
+   650
+  ],
+  "resale": [
+   200,
+   470
+  ],
+  "analysis": "A mother-of-pearl inlaid rosewood lap desk at $600-800, with a bone-inlaid companion at 1107 for $500-700. Victorian lap desks are finely made objects with good inlay.",
+  "problems": "The brief names lap desks specifically as a weak market, and two in one sale confirms the supply. Check the interior fittings, inkwells and any secret drawers are present, and that the writing surface has not been re-covered. Four photographs.",
+  "target": 300,
+  "ceiling": 560,
+  "patience": "Very high.",
+  "star": false
+ },
+ {
+  "lot": 1107,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [
+   "antique"
+  ],
+  "date": "19th c.",
+  "status": "antique",
+  "evidence": "Catalogued",
+  "category": "furniture",
+  "period": "victorian",
+  "market": [
+   280,
+   600
+  ],
+  "resale": [
+   190,
+   430
+  ],
+  "analysis": "A 19th-century bone-inlaid rosewood lap desk at $500-700 -- the cheaper of the two lap desks and catalogued to the century.",
+  "problems": "Same weak market. Bone inlay lifts and chips. Note bone rather than ivory here, which avoids the usual constraint.",
+  "target": 280,
+  "ceiling": 520,
+  "patience": "Very high.",
+  "star": false
+ },
+ {
+  "lot": 1039,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [
+   "antique"
+  ],
+  "date": "19th c.",
+  "status": "border",
+  "evidence": "Unverified",
+  "category": "furniture",
+  "period": "victorian",
+  "market": [
+   150,
+   350
+  ],
+  "resale": [
+   100,
+   250
+  ],
+  "analysis": "A brass-bound rosewood writing box at $200-300 -- the cheapest of the three writing boxes in Day 1 and the plainest.",
+  "problems": "No date. Same weak lap-desk market. Check the interior and any hidden compartments.",
+  "target": 150,
+  "ceiling": 270,
+  "patience": "Very high.",
+  "star": false
+ },
+ {
+  "lot": 1078,
+  "verdict": "BUY",
+  "criteria": [
+   "antique"
+  ],
+  "date": "19th c.",
+  "status": "antique",
+  "evidence": "Catalogued",
+  "category": "furniture",
+  "period": "victorian",
+  "market": [
+   280,
+   600
+  ],
+  "resale": [
+   190,
+   430
+  ],
+  "analysis": "A 19th-century Scottish burr root and penwork snuff box at $300-500. Scottish snuff and Mauchline ware boxes are a distinct collecting category, penwork decoration is labour-intensive, and burr root gives the figure. Catalogued to the century.",
+  "problems": "Check the hinge -- Scottish snuff boxes use an integral wooden hinge which is the point of the craft and the thing that breaks. A repaired or replaced hinge substantially reduces value. Three photographs.",
+  "target": 280,
+  "ceiling": 520,
+  "patience": "Moderate. Scottish treen is a specialist category that appears irregularly.",
+  "star": true
+ },
+ {
+  "lot": 1157,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [
+   "antique"
+  ],
+  "date": "undated",
+  "status": "border",
+  "evidence": "Unverified",
+  "category": "furniture",
+  "period": "undetermined",
+  "market": [
+   80,
+   220
+  ],
+  "resale": [
+   40,
+   150
+  ],
+  "analysis": "A primitive log bench at $100-200 -- the cheapest furniture lot in the sale. Primitive benches have genuine rustic appeal and this is a trivial amount of money.",
+  "problems": "No date whatsoever, and 'primitive' benches are made continuously. One photograph. At $100 the risk is negligible but so is the interest.",
+  "target": 80,
+  "ceiling": 180,
+  "patience": "Very high.",
+  "star": false
+ },
+ {
+  "lot": 1173,
+  "verdict": "BUY",
+  "criteria": [
+   "antique"
+  ],
+  "date": "Victorian",
+  "status": "antique",
+  "evidence": "Catalogued",
+  "category": "decorative",
+  "period": "victorian",
+  "market": [
+   280,
+   600
+  ],
+  "resale": [
+   190,
+   430
+  ],
+  "analysis": "A Victorian kaleidoscope on stand at $300-500. Catalogued as Victorian so genuinely antique, and optical toys of this kind are a proper collecting category -- a parlour kaleidoscope on its own turned stand is a real object rather than a novelty.",
+  "problems": "Check the optics and that the object cell still turns and contains its original glass fragments. Reproduction Victorian-style kaleidoscopes are made in quantity for the gift trade. Two photographs.",
+  "target": 280,
+  "ceiling": 520,
+  "patience": "Moderate.",
+  "star": true
+ },
+ {
+  "lot": 1031,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [],
+  "date": "20th c.",
+  "status": "modern",
+  "evidence": "Unverified",
+  "category": "furniture",
+  "period": "midcentury",
+  "market": [
+   350,
+   650
+  ],
+  "resale": [
+   240,
+   470
+  ],
+  "analysis": "An H-frame artist's studio easel in walnut, described as unused, at $500-700. A serious studio easel is a genuinely useful object if you have any use for one.",
+  "problems": "No date, no maker, one photograph. 'Unused' suggests recent manufacture rather than an antique. No criteria fit at all.",
+  "target": 350,
+  "ceiling": 600,
+  "patience": "High.",
+  "star": false
+ },
+ {
+  "lot": 1111,
+  "verdict": "PASS",
+  "criteria": [],
+  "date": "modern",
+  "status": "modern",
+  "evidence": "Catalogued",
+  "category": "furniture",
+  "period": "contemporary",
+  "market": [
+   150,
+   320
+  ],
+  "resale": [
+   100,
+   220
+  ],
+  "analysis": "A modern adjustable string quartet music stand at $300-400. The catalogue says modern.",
+  "problems": "No criteria fit whatsoever. One photograph.",
+  "target": 0,
+  "ceiling": 250,
+  "patience": "Irrelevant.",
+  "star": false
+ },
+ {
+  "lot": 1352,
+  "verdict": "PASS",
+  "criteria": [],
+  "date": "20th c.",
+  "status": "modern",
+  "evidence": "Catalogued",
+  "category": "furniture",
+  "period": "midcentury",
+  "market": [
+   150,
+   320
+  ],
+  "resale": [
+   100,
+   220
+  ],
+  "analysis": "A 20th-century Moroccan brass tray tabletop at $300-400. Catalogued as 20th century.",
+  "problems": "No criteria fit. Brass trays are decorator's stock and the brief names decorative brass as a weak market. A tabletop without a base is half an object.",
+  "target": 0,
+  "ceiling": 250,
+  "patience": "Irrelevant.",
+  "star": false
+ },
+ {
+  "lot": 1385,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [
+   "antique"
+  ],
+  "date": "19th to early 20th c.",
+  "status": "border",
+  "evidence": "Unverified",
+  "category": "furniture",
+  "period": "victorian",
+  "market": [
+   150,
+   350
+  ],
+  "resale": [
+   100,
+   250
+  ],
+  "analysis": "A Chinese export leather-clad camphor wood trunk at $200-300, with a larger companion at 2020 for $600-800. Camphor trunks are practical -- the wood repels moths -- and cheap.",
+  "problems": "No date. Part of the large Chinese decorative group. Leather cladding cracks and lifts. Four photographs.",
+  "target": 150,
+  "ceiling": 270,
+  "patience": "High -- two in this sale.",
+  "star": false
+ },
+ {
+  "lot": 2020,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [
+   "antique"
+  ],
+  "date": "19th to early 20th c.",
+  "status": "border",
+  "evidence": "Unverified",
+  "category": "furniture",
+  "period": "victorian",
+  "market": [
+   350,
+   700
+  ],
+  "resale": [
+   240,
+   500
+  ],
+  "analysis": "A Chinese export camphorwood trunk at $600-800 -- the larger and dearer of the two.",
+  "problems": "No date. 1385 is the cheap one. Four photographs.",
+  "target": 350,
+  "ceiling": 620,
+  "patience": "High.",
+  "star": false
+ },
+ {
+  "lot": 1389,
+  "verdict": "PASS",
+  "criteria": [],
+  "date": "20th c.",
+  "status": "modern",
+  "evidence": "Catalogued",
+  "category": "furniture",
+  "period": "midcentury",
+  "market": [
+   100,
+   250
+  ],
+  "resale": [
+   50,
+   170
+  ],
+  "analysis": "A Chinese 'style' coffee table at $200-300. 'Style' means the cataloguer is declining to commit, and a coffee table is a 20th-century form regardless.",
+  "problems": "No criteria fit. Two photographs.",
+  "target": 0,
+  "ceiling": 200,
+  "patience": "Irrelevant.",
+  "star": false
+ },
+ {
+  "lot": 1411,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [],
+  "date": "19th to 20th c.",
+  "status": "border",
+  "evidence": "Unverified",
+  "category": "decorative",
+  "period": "victorian",
+  "market": [
+   250,
+   500
+  ],
+  "resale": [
+   170,
+   360
+  ],
+  "analysis": "A Chinese table screen with carved jade panels at $400-500. Table screens are attractive scholar's objects and the jade panels are the value.",
+  "problems": "Jade quality is the whole question and cannot be judged from three photographs -- the same Type A versus dyed problem as lot 2498. Much of what is sold as jade in Chinese decorative work is serpentine or bowenite. No date.",
+  "target": 250,
+  "ceiling": 450,
+  "patience": "High.",
+  "star": false
+ },
+ {
+  "lot": 1415,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [],
+  "date": "19th to 20th c.",
+  "status": "border",
+  "evidence": "Unverified",
+  "category": "decorative",
+  "period": "victorian",
+  "market": [
+   150,
+   350
+  ],
+  "resale": [
+   100,
+   250
+  ],
+  "analysis": "A Chinese paktong ink box at $200-300. Paktong is a Chinese nickel-silver alloy, and scholar's desk objects are a genuine category.",
+  "problems": "No date. Paktong has no precious metal content despite the silvery appearance -- do not read it as silver. Two photographs.",
+  "target": 150,
+  "ceiling": 270,
+  "patience": "High.",
+  "star": false
+ },
+ {
+  "lot": 2467,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [
+   "antique"
+  ],
+  "date": "19th c.",
+  "status": "border",
+  "evidence": "Unverified",
+  "category": "decorative",
+  "period": "victorian",
+  "market": [
+   300,
+   650
+  ],
+  "resale": [
+   200,
+   470
+  ],
+  "analysis": "A Chinese reverse-painted mirror at $500-700. Reverse painting on glass is a genuine China trade craft and the results are decorative.",
+  "problems": "No date. These were made for export from the 18th century through the 20th and are still made now; the technique has not changed, so dating from photographs is impossible. Three photographs.",
+  "target": 300,
+  "ceiling": 560,
+  "patience": "High.",
+  "star": false
+ },
+ {
+  "lot": 2470,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [],
+  "date": "late 19th to early 20th c.",
+  "status": "border",
+  "evidence": "Unverified",
+  "category": "decorative",
+  "period": "edwardian",
+  "market": [
+   350,
+   700
+  ],
+  "resale": [
+   240,
+   500
+  ],
+  "analysis": "A Chinese export cloisonne covered box with a jade butterfly finial at $600-800. Cloisonne with a hardstone finial is a well-made decorative object.",
+  "problems": "No date. Cloisonne is still produced in the same forms. Check the enamel for pitting and losses, and the jade finial for what it actually is. Four photographs.",
+  "target": 350,
+  "ceiling": 620,
+  "patience": "High.",
+  "star": false
+ },
+ {
+  "lot": 2482,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [],
+  "date": "20th c.",
+  "status": "modern",
+  "evidence": "Unverified",
+  "category": "furniture",
+  "period": "midcentury",
+  "market": [
+   350,
+   700
+  ],
+  "resale": [
+   240,
+   500
+  ],
+  "analysis": "Four Chinese carved hardwood nesting tables at $600-800. Nesting tables are useful and four is a full set.",
+  "problems": "No date. Chinese hardwood nesting tables were made in enormous quantity for export through the 20th century. Three photographs.",
+  "target": 350,
+  "ceiling": 620,
+  "patience": "Very high.",
+  "star": false
+ },
+ {
+  "lot": 2488,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [],
+  "date": "late Qing to Republic",
+  "status": "border",
+  "evidence": "Catalogued",
+  "category": "furniture",
+  "period": "edwardian",
+  "market": [
+   150,
+   350
+  ],
+  "resale": [
+   100,
+   250
+  ],
+  "analysis": "A Chinese red-lacquered storage cabinet, late Qing to Republic, at $200-400. The cheapest Chinese furniture lot in the sale.",
+  "problems": "'Late Qing to Republic' spans 1875-1949, straddling the antique line without committing. Lacquer crazes and lifts. Three photographs.",
+  "target": 150,
+  "ceiling": 320,
+  "patience": "High.",
+  "star": false
+ },
+ {
+  "lot": 2494,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [
+   "antique"
+  ],
+  "date": "19th c.",
+  "status": "antique",
+  "evidence": "Catalogued",
+  "category": "furniture",
+  "period": "victorian",
+  "market": [
+   300,
+   600
+  ],
+  "resale": [
+   200,
+   430
+  ],
+  "analysis": "A 19th-century Chinese lacquered folding game box at $400-600. Catalogued to the century, so genuinely antique, and folding game boxes with their original counters are pleasing objects.",
+  "problems": "Check whether the gaming pieces and counters survive -- mother-of-pearl counters are usually missing and are the interesting part. Lacquer condition. Three photographs.",
+  "target": 300,
+  "ceiling": 560,
+  "patience": "Moderate.",
+  "star": false
+ },
+ {
+  "lot": 2490,
+  "verdict": "PASS",
+  "criteria": [
+   "antique"
+  ],
+  "date": "19th to early 20th c.",
+  "status": "border",
+  "evidence": "Unverified",
+  "category": "toys",
+  "period": "victorian",
+  "market": [
+   250,
+   500
+  ],
+  "resale": [
+   0,
+   0
+  ],
+  "analysis": "A complete carved ivory chess set, Chinese figures and architectural forms, opposing light and stained sides, in a fitted board-form box. The description confirms both the material and that the set 'appears complete', which on a chess set is the whole question -- a set missing a piece is worth a fraction. Finely carved and genuinely skilled work, and entirely unbuyable for this collection.",
+  "problems": "Elephant ivory, undocumented. Resale zero. I had flagged the constraint but left a resale figure standing; corrected for consistency with the other ivory lots.",
+  "target": 0,
+  "ceiling": 420,
+  "patience": "High.",
+  "star": false
+ },
+ {
+  "lot": 3213,
+  "verdict": "PASS",
+  "criteria": [],
+  "date": "late 20th c.",
+  "status": "modern",
+  "evidence": "Inferred",
+  "category": "furniture",
+  "period": "contemporary",
+  "market": [
+   600,
+   1100
+  ],
+  "resale": [
+   400,
+   800
+  ],
+  "analysis": "An Eldred Wheeler tiger maple drop-leaf table at $1,000-1,500, with a tall chest at 3214 for $1,500-2,500. Eldred Wheeler was a respected Massachusetts maker of bench-made 18th-century reproductions.",
+  "problems": "Out of band, and these are modern reproductions by design -- excellent quality, but they fail the antique criterion completely. Reproduction furniture also has poor resale: the market pays for period or it pays very little.",
+  "target": 0,
+  "ceiling": 0,
+  "patience": "Not applicable.",
+  "star": false
+ },
+ {
+  "lot": 3214,
+  "verdict": "PASS",
+  "criteria": [],
+  "date": "late 20th c.",
+  "status": "modern",
+  "evidence": "Inferred",
+  "category": "furniture",
+  "period": "contemporary",
+  "market": [
+   900,
+   1600
+  ],
+  "resale": [
+   650,
+   1200
+  ],
+  "analysis": "The Eldred Wheeler tiger maple tall chest at $1,500-2,500.",
+  "problems": "Out of band and a modern reproduction. Same as 3213.",
+  "target": 0,
+  "ceiling": 0,
+  "patience": "Not applicable.",
+  "star": false
+ },
+ {
+  "lot": 3215,
+  "verdict": "PASS",
+  "criteria": [],
+  "date": "late 20th c.",
+  "status": "modern",
+  "evidence": "Inferred",
+  "category": "furniture",
+  "period": "contemporary",
+  "market": [
+   1200,
+   2000
+  ],
+  "resale": [
+   850,
+   1550
+  ],
+  "analysis": "A set of seven D.R. Dimes Windsor chairs in black paint at $2,000-2,500. Dimes is a New Hampshire maker of high-quality Windsor reproductions and a set of seven is genuinely useful.",
+  "problems": "Out of band and modern by design. Compare with 2141, four genuine 18th-century Windsors at $800-1,000 -- the period set is a quarter the price of the reproduction set, which is the clearest illustration in the sale of how far period furniture has fallen.",
+  "target": 0,
+  "ceiling": 0,
+  "patience": "Not applicable.",
+  "star": true
+ },
+ {
+  "lot": 3246,
+  "verdict": "PASS",
+  "criteria": [
+   "maine",
+   "named"
+  ],
+  "date": "late 20th to 21st c.",
+  "status": "modern",
+  "evidence": "Inferred",
+  "category": "furniture",
+  "period": "contemporary",
+  "market": [
+   600,
+   1100
+  ],
+  "resale": [
+   400,
+   800
+  ],
+  "analysis": "A Thos. Moser 'New Gloucester' rocker at $800-1,200. Moser is Maine's most famous furniture maker -- Auburn-based, and the New Gloucester rocker is one of his signature designs. A genuine Maine maker with a national reputation.",
+  "problems": "Only just inside the band, and modern by design so no antique claim. Moser's own retail price for a new one is higher, so this is a discount on retail rather than an antique value -- but the resale is more robust than most contemporary furniture because the brand is strong.",
+  "target": 600,
+  "ceiling": 950,
+  "patience": "Moderate. Moser appears regularly in Maine sales.",
+  "star": true
+ },
+ {
+  "lot": 3221,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [
+   "antique"
+  ],
+  "date": "19th c.",
+  "status": "border",
+  "evidence": "Unverified",
+  "category": "furniture",
+  "period": "victorian",
+  "market": [
+   350,
+   700
+  ],
+  "resale": [
+   240,
+   500
+  ],
+  "analysis": "A carved lion-head mahogany curule stool at $500-700. The curule form and lion-head carving are Regency and Empire vocabulary, so the design is early 19th century in origin.",
+  "problems": "No date given, and curule stools were reproduced continuously through the Victorian period and again in the 20th century. Three photographs. Check the carving wear and the underside.",
+  "target": 350,
+  "ceiling": 620,
+  "patience": "High.",
+  "star": false
+ },
+ {
+  "lot": 3318,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [],
+  "date": "20th c.",
+  "status": "modern",
+  "evidence": "Unverified",
+  "category": "furniture",
+  "period": "midcentury",
+  "market": [
+   220,
+   450
+  ],
+  "resale": [
+   150,
+   320
+  ],
+  "analysis": "A set of four verdigris iron garden chairs at $300-500. Useful outdoor seating and a set of four.",
+  "problems": "No date, no maker. Garden furniture lives outside and corrodes. Four photographs. No criteria fit.",
+  "target": 220,
+  "ceiling": 400,
+  "patience": "High.",
+  "star": false
+ },
+ {
+  "lot": 3098,
+  "verdict": "PASS",
+  "criteria": [
+   "antique"
+  ],
+  "date": "c.1850-1870",
+  "status": "antique",
+  "evidence": "Catalogued",
+  "category": "furniture",
+  "period": "victorian",
+  "market": [
+   300,
+   650
+  ],
+  "resale": [
+   200,
+   470
+  ],
+  "analysis": "A Victorian laminated rosewood gent's chair at $600-800. Laminated rosewood seating in the Belter manner is technically remarkable -- steam-bent laminated layers, pierced and carved.",
+  "problems": "The brief names upholstered Victorian furniture as a weak market and this is squarely in it. Genuine Belter is a different matter but this is not attributed to him. Reupholstery costs more than the chair. My market read is below the estimate.",
+  "target": 0,
+  "ceiling": 560,
+  "patience": "Very high.",
+  "star": false
+ },
+ {
+  "lot": 3062,
+  "verdict": "PASS",
+  "criteria": [
+   "antique"
+  ],
+  "date": "c.1860-1890",
+  "status": "antique",
+  "evidence": "Catalogued",
+  "category": "furniture",
+  "period": "victorian",
+  "market": [
+   400,
+   800
+  ],
+  "resale": [
+   280,
+   580
+  ],
+  "analysis": "A Victorian walnut parlour table at $1,000-1,500.",
+  "problems": "Out of band, and my market read is well below the estimate -- Victorian parlour tables are among the least wanted furniture there is. Three photographs.",
+  "target": 0,
+  "ceiling": 0,
+  "patience": "Not applicable.",
+  "star": false
+ },
+ {
+  "lot": 3102,
+  "verdict": "PASS",
+  "criteria": [
+   "antique"
+  ],
+  "date": "c.1860-1890",
+  "status": "antique",
+  "evidence": "Catalogued",
+  "category": "furniture",
+  "period": "victorian",
+  "market": [
+   350,
+   700
+  ],
+  "resale": [
+   240,
+   500
+  ],
+  "analysis": "A Victorian walnut etagere at $800-1,200.",
+  "problems": "Only just inside the band at the low end, but my market read is well under it. Etageres are large, fragile and unwanted.",
+  "target": 0,
+  "ceiling": 600,
+  "patience": "Very high.",
+  "star": false
+ },
+ {
+  "lot": 3105,
+  "verdict": "PASS",
+  "criteria": [
+   "antique"
+  ],
+  "date": "c.1860-1890",
+  "status": "antique",
+  "evidence": "Catalogued",
+  "category": "furniture",
+  "period": "victorian",
+  "market": [
+   300,
+   650
+  ],
+  "resale": [
+   200,
+   470
+  ],
+  "analysis": "A pair of Victorian display pedestals at $600-800.",
+  "problems": "Genuinely antique but squarely in the weak Victorian market. Three photographs.",
+  "target": 0,
+  "ceiling": 560,
+  "patience": "Very high.",
+  "star": false
+ },
+ {
+  "lot": 3219,
+  "verdict": "PASS",
+  "criteria": [
+   "antique"
+  ],
+  "date": "c.1860-1890",
+  "status": "antique",
+  "evidence": "Catalogued",
+  "category": "furniture",
+  "period": "victorian",
+  "market": [
+   400,
+   800
+  ],
+  "resale": [
+   280,
+   580
+  ],
+  "analysis": "A Victorian marble-top centre table at $800-1,000.",
+  "problems": "Top of the band and my market read is under it. Marble tops crack and are heavy to move. Three photographs.",
+  "target": 0,
+  "ceiling": 650,
+  "patience": "Very high.",
+  "star": false
+ },
+ {
+  "lot": 3078,
+  "verdict": "PASS",
+  "criteria": [
+   "antique"
+  ],
+  "date": "c.1870-1900",
+  "status": "antique",
+  "evidence": "Catalogued",
+  "category": "furniture",
+  "period": "victorian",
+  "market": [
+   2000,
+   3200
+  ],
+  "resale": [
+   1400,
+   2500
+  ],
+  "analysis": "A Victorian walnut pool table at $2,500-3,500. Period pool tables have a genuine market among people restoring billiard rooms.",
+  "problems": "Out of band, and the practical problem is severe -- a slate-bed pool table weighs half a ton, needs professional dismantling and moving, and requires a dedicated room. Four photographs.",
+  "target": 0,
+  "ceiling": 0,
+  "patience": "Not applicable.",
+  "star": false
+ },
+ {
+  "lot": 3060,
+  "verdict": "PASS",
+  "criteria": [
+   "antique",
+   "named"
+  ],
+  "date": "c.1860-1880",
+  "status": "antique",
+  "evidence": "Unverified",
+  "category": "furniture",
+  "period": "victorian",
+  "market": [
+   2400,
+   3800
+  ],
+  "resale": [
+   1700,
+   2900
+  ],
+  "analysis": "A marquetry table attributed to John Jelliff of Newark at $3,000-4,500. Jelliff was among the best American Victorian cabinetmakers and documented pieces command a premium.",
+  "problems": "Out of band, and 'attributed to' per the standing principles. Note 3142 is a pair of Jelliff armchairs at $600-800 in the same sale, which is a much cheaper way to own the name if the attribution holds.",
+  "target": 0,
+  "ceiling": 0,
+  "patience": "Not applicable.",
+  "star": true
+ },
+ {
+  "lot": 3135,
+  "verdict": "PASS",
+  "criteria": [
+   "antique",
+   "named"
+  ],
+  "date": "c.1875-1880",
+  "status": "antique",
+  "evidence": "Catalogued",
+  "category": "furniture",
+  "period": "victorian",
+  "market": [
+   1600,
+   2600
+  ],
+  "resale": [
+   1100,
+   2000
+  ],
+  "analysis": "A Leopold Eidlitz New York State Assembly Chamber desk at $2,000-3,000. Eidlitz was the architect of the Assembly Chamber and furniture designed for a specific documented building is architectural history rather than just furniture.",
+  "problems": "Out of band. Six photographs. The documentation is the value here -- verify what ties this desk to the chamber.",
+  "target": 0,
+  "ceiling": 0,
+  "patience": "Not applicable.",
+  "star": true
+ },
+ {
+  "lot": 3157,
+  "verdict": "PASS",
+  "criteria": [
+   "antique",
+   "named"
+  ],
+  "date": "c.1860-1890",
+  "status": "antique",
+  "evidence": "Unverified",
+  "category": "furniture",
+  "period": "victorian",
+  "market": [
+   800,
+   1600
+  ],
+  "resale": [
+   550,
+   1200
+  ],
+  "analysis": "F.W. Krause Gothic Revival side chairs at $1,000-2,000. Gothic Revival seating is a distinctive style with a small dedicated following.",
+  "problems": "Out of band. Only two photographs and no count of chairs given.",
+  "target": 0,
+  "ceiling": 0,
+  "patience": "Not applicable.",
+  "star": false
+ },
+ {
+  "lot": 3216,
+  "verdict": "PASS",
+  "criteria": [],
+  "date": "20th c.",
+  "status": "modern",
+  "evidence": "Catalogued",
+  "category": "furniture",
+  "period": "contemporary",
+  "market": [
+   900,
+   1600
+  ],
+  "resale": [
+   650,
+   1200
+  ],
+  "analysis": "A set of twelve Regency 'style' spider web cane chairs at $1,200-1,800. Twelve matching chairs is genuinely useful for a dining room.",
+  "problems": "Out of band, and 'style' means these are reproductions rather than Regency. Caning on twelve chairs is twelve things to perish. Four photographs.",
+  "target": 0,
+  "ceiling": 0,
+  "patience": "Not applicable.",
+  "star": false
+ },
+ {
+  "lot": 3250,
+  "verdict": "PASS",
+  "criteria": [
+   "named"
+  ],
+  "date": "mid-20th c.",
+  "status": "modern",
+  "evidence": "Inferred",
+  "category": "furniture",
+  "period": "midcentury",
+  "market": [
+   1600,
+   2600
+  ],
+  "resale": [
+   1100,
+   2000
+  ],
+  "analysis": "Two K. Rasmussen mid-century reclining lounge chairs at $2,000-3,000. Danish mid-century seating has a strong and durable market.",
+  "problems": "Out of band, modern by design. Five photographs.",
+  "target": 0,
+  "ceiling": 0,
+  "patience": "Not applicable.",
+  "star": false
+ },
+ {
+  "lot": 3252,
+  "verdict": "PASS",
+  "criteria": [
+   "named"
+  ],
+  "date": "mid-20th c.",
+  "status": "modern",
+  "evidence": "Inferred",
+  "category": "furniture",
+  "period": "midcentury",
+  "market": [
+   1600,
+   2200
+  ],
+  "resale": [
+   1150,
+   1750
+  ],
+  "analysis": "A Danish modern rosewood desk by Peter Lovig Nielsen at $2,000-2,500. The 'Lovig' desk is a recognisable design with a solid market.",
+  "problems": "Out of band and modern. Rosewood also carries a CITES complication for international sale -- Dalbergia species were listed in 2017, which affects export though not domestic sale. Six photographs.",
+  "target": 0,
+  "ceiling": 0,
+  "patience": "Not applicable.",
+  "star": true
+ },
+ {
+  "lot": 3264,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [
+   "named"
+  ],
+  "date": "mid-20th c.",
+  "status": "modern",
+  "evidence": "Inferred",
+  "category": "furniture",
+  "period": "midcentury",
+  "market": [
+   450,
+   850
+  ],
+  "resale": [
+   300,
+   620
+  ],
+  "analysis": "A Danish modern teak fall-front desk by Povl Dinesen at $600-800 -- the cheapest of the Danish modern group and inside the band. Teak fall-front desks are compact and genuinely useful.",
+  "problems": "Modern, so no antique claim and no criteria fit. Danish modern is a strong market but a well-supplied one. Three photographs.",
+  "target": 450,
+  "ceiling": 760,
+  "patience": "High.",
+  "star": false
+ },
+ {
+  "lot": 3266,
+  "verdict": "PASS",
+  "criteria": [
+   "named"
+  ],
+  "date": "late 20th c.",
+  "status": "modern",
+  "evidence": "Unverified",
+  "category": "furniture",
+  "period": "midcentury",
+  "market": [
+   400,
+   900
+  ],
+  "resale": [
+   280,
+   650
+  ],
+  "analysis": "A Le Corbusier LC4 chaise at $800-1,200. The LC4 is an icon of modern design.",
+  "problems": "Only just inside the band, but the critical question is licensed Cassina production versus unlicensed copy -- LC4s are among the most reproduced designs in existence and the copies are worth a tenth of the licensed article. One photograph is nowhere near enough to tell. Assume copy unless the Cassina stamp and serial are shown.",
+  "target": 0,
+  "ceiling": 700,
+  "patience": "High.",
+  "star": true
+ },
+ {
+  "lot": 3269,
+  "verdict": "PASS",
+  "criteria": [],
+  "date": "contemporary",
+  "status": "modern",
+  "evidence": "Catalogued",
+  "category": "furniture",
+  "period": "contemporary",
+  "market": [
+   600,
+   1100
+  ],
+  "resale": [
+   400,
+   800
+  ],
+  "analysis": "A contemporary granite-top Arts and Crafts 'style' dining table at $1,000-1,500.",
+  "problems": "Out of band, and the catalogue says both 'contemporary' and 'style' -- a modern table in a historical idiom. No criteria fit.",
+  "target": 0,
+  "ceiling": 0,
+  "patience": "Not applicable.",
+  "star": false
+ },
+ {
+  "lot": 3275,
+  "verdict": "PASS",
+  "criteria": [
+   "named"
+  ],
+  "date": "c.1930-1960",
+  "status": "modern",
+  "evidence": "Inferred",
+  "category": "furniture",
+  "period": "midcentury",
+  "market": [
+   6000,
+   9000
+  ],
+  "resale": [
+   4200,
+   7000
+  ],
+  "analysis": "A Thomas Molesworth chair at $7,000-10,000. Molesworth's Cowboy High Style furniture from Cody, Wyoming is the most collected American regional furniture of the 20th century.",
+  "problems": "Far out of band. Six photographs. Molesworth is also extensively imitated and 'Molesworth style' is a common trade description -- at this price the attribution needs documenting.",
+  "target": 0,
+  "ceiling": 0,
+  "patience": "Not applicable.",
+  "star": false
+ },
+ {
+  "lot": 3254,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [],
+  "date": "contemporary",
+  "status": "modern",
+  "evidence": "Unverified",
+  "category": "furniture",
+  "period": "contemporary",
+  "market": [
+   350,
+   700
+  ],
+  "resale": [
+   240,
+   500
+  ],
+  "analysis": "A live-edge mahogany spindle-back bench at $600-800 -- one of five live-edge lots in Day 3 (3254, 3257, 3260, 3262 and related).",
+  "problems": "Contemporary craft furniture with no maker named. Live-edge slab furniture has been made in volume since the Nakashima revival and unsigned examples have little resale. No criteria fit.",
+  "target": 350,
+  "ceiling": 620,
+  "patience": "Very high -- five in this sale alone.",
+  "star": false
+ },
+ {
+  "lot": 3257,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [],
+  "date": "contemporary",
+  "status": "modern",
+  "evidence": "Unverified",
+  "category": "furniture",
+  "period": "contemporary",
+  "market": [
+   250,
+   500
+  ],
+  "resale": [
+   170,
+   360
+  ],
+  "analysis": "A live-edge redwood burl plank coffee table at $400-600 -- the cheapest of the live-edge group.",
+  "problems": "No maker, one photograph. Same as 3254.",
+  "target": 250,
+  "ceiling": 450,
+  "patience": "Very high.",
+  "star": false
+ },
+ {
+  "lot": 3260,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [],
+  "date": "contemporary",
+  "status": "modern",
+  "evidence": "Unverified",
+  "category": "furniture",
+  "period": "contemporary",
+  "market": [
+   300,
+   600
+  ],
+  "resale": [
+   200,
+   430
+  ],
+  "analysis": "A live-edge teak root hall table at $500-700.",
+  "problems": "No maker, two photographs. Teak root furniture is imported in volume from Southeast Asia.",
+  "target": 300,
+  "ceiling": 560,
+  "patience": "Very high.",
+  "star": false
+ },
+ {
+  "lot": 3262,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [],
+  "date": "contemporary",
+  "status": "modern",
+  "evidence": "Unverified",
+  "category": "furniture",
+  "period": "contemporary",
+  "market": [
+   300,
+   600
+  ],
+  "resale": [
+   200,
+   430
+  ],
+  "analysis": "A live-edge black walnut coffee table at $500-700. Black walnut is the best of the timbers in this group.",
+  "problems": "No maker, two photographs. Same as the rest.",
+  "target": 300,
+  "ceiling": 560,
+  "patience": "Very high.",
+  "star": false
+ },
+ {
+  "lot": 3304,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [
+   "named"
+  ],
+  "date": "contemporary",
+  "status": "modern",
+  "evidence": "Unverified",
+  "category": "furniture",
+  "period": "contemporary",
+  "market": [
+   450,
+   850
+  ],
+  "resale": [
+   300,
+   620
+  ],
+  "analysis": "A Ray Corbone stone and wood table at $700-1,000, with a companion at 3306. Studio craft furniture combining stone and wood.",
+  "problems": "Two photographs, and Corbone has essentially no market record -- the estimate is the house's judgement. Contemporary, no criteria fit. Two lots means no scarcity.",
+  "target": 450,
+  "ceiling": 800,
+  "patience": "Very high.",
+  "star": false
+ },
+ {
+  "lot": 3306,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [
+   "named"
+  ],
+  "date": "contemporary",
+  "status": "modern",
+  "evidence": "Unverified",
+  "category": "furniture",
+  "period": "contemporary",
+  "market": [
+   450,
+   850
+  ],
+  "resale": [
+   300,
+   620
+  ],
+  "analysis": "The second Ray Corbone stone and wood table at $700-1,000.",
+  "problems": "Same as 3304.",
+  "target": 450,
+  "ceiling": 800,
+  "patience": "Very high.",
+  "star": false
+ },
+ {
+  "lot": 3050,
+  "verdict": "PASS",
+  "criteria": [
+   "nouveau",
+   "named"
+  ],
+  "date": "c.1900-1920",
+  "status": "antique",
+  "evidence": "Inferred",
+  "category": "decorative",
+  "period": "nouveau",
+  "market": [
+   1200,
+   2200
+  ],
+  "resale": [
+   850,
+   1700
+  ],
+  "analysis": "A Tiffany Studios 'Pine Needle' pattern jewelry box at $1,500-2,500. Genuine Tiffany Studios desk ware in the Pine Needle pattern -- bronze and caramel glass -- and comfortably antique.",
+  "problems": "Out of band. Tiffany desk sets are also the most reproduced part of the Tiffany output and the marks are copied. Four photographs. The cheapest genuine Tiffany Studios object in the sale, and still past the ceiling.",
+  "target": 0,
+  "ceiling": 0,
+  "patience": "Not applicable -- out of band.",
+  "star": true
+ }
 ]

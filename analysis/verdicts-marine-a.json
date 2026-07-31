@@ -1,149 +1,1292 @@
 [
-{"lot":1197,"verdict":"BUY IF CHEAP","criteria":["marine","named"],"date":"late 19th to early 20th c.","status":"border","evidence":"Unverified","category":"marine","period":"edwardian","market":[250,500],"resale":[160,360],
- "analysis":"A W.G. Puddefoot marine watercolour with six photographs. Puddefoot is an obscure name with a thin auction record, so this is priced as competent anonymous marine work rather than as a listed artist.","problems":"No date, no dimensions, no subject named. Watercolours of this vintage are usually light-faded -- compare the image with the strip under the mat. Check for foxing and an acidic backboard.","target":220,"ceiling":420,"patience":"High. Minor marine watercolours are a constant.","star":false},
-
-{"lot":1200,"verdict":"PASS","criteria":[],"date":"late 20th c.","status":"modern","evidence":"Inferred","category":"marine","period":"contemporary","market":[150,350],"resale":[80,230],
- "analysis":"A 32-piece cast stone marine life chess set. A decorative modern novelty -- no age, no maker, no criteria fit.","problems":"Cast stone chips and the pieces are heavy and fragile. Chess sets also need all 32 pieces to have any value; count them.","target":0,"ceiling":280,"patience":"Irrelevant.","star":false},
-
-{"lot":1279,"verdict":"BUY IF CHEAP","criteria":["marine"],"date":"c.1939-1945","status":"modern","evidence":"Unverified","category":"marine","period":"midcentury","market":[500,1100],"resale":[350,800],
- "analysis":"A WWII German U-boat Kriegsmarine barometer. Genuine Kriegsmarine instruments have a strong militaria following and U-boat provenance is the most desirable of all, which is exactly why this category is heavily faked.","problems":"Reproduction Kriegsmarine instruments with correct-looking eagle-and-swastika markings are manufactured in quantity. Period examples show honest brass wear, a maker's name (Lufft, Wempe) and correct German dial lettering. Ask what the U-boat attribution rests on -- almost certainly nothing. Also be clear you want a Third Reich-marked object in the house.","target":400,"ceiling":800,"patience":"Moderate. Marked Kriegsmarine instruments appear regularly; genuine ones less so.","star":false},
-
-{"lot":1283,"verdict":"PASS","criteria":[],"date":"mid-1960s","status":"modern","evidence":"Catalogued","category":"marine","period":"midcentury","market":[80,200],"resale":[40,130],
- "analysis":"A mid-1960s Nantucket scrimshaw do-it-yourself kit. A period curiosity -- a commercial kit for making your own faux scrimshaw -- and genuinely interesting as an artefact of the tourist trade, but it is a 1960s novelty and the catalogue says so.","problems":"Worth knowing this exists, because kits like this are the source of a great deal of 'antique' scrimshaw now circulating. Educational rather than collectable.","target":0,"ceiling":170,"patience":"Irrelevant.","star":false},
-
-{"lot":1285,"verdict":"PASS","criteria":["marine","antique"],"date":"19th c. claimed","status":"border","evidence":"Unverified","category":"marine","period":"victorian","market":[200,450],"resale":[120,300],
- "analysis":"A scrimshawed whale's tooth with whaling subject -- one of five whale's teeth in Day 1 (1285, 1287, 1289, 1296 plus 1292). Genuine period scrimshaw is desirable, but this whole group carries the same two problems.","problems":"First, authenticity: modern polymer resin fakes and 1960s kit-scrimshaw (see lot 1283 in this very sale) are endemic, and the tells -- too-white material, no dentine grain, engraving that sits on rather than in the surface -- need a loupe. Second, the legal constraint: sperm whale teeth are Marine Mammal Protection Act material, and while a pre-Act piece bought in-state at a Maine sale is the simplest case, it restricts everything afterwards. Not worth the friction at this price.","target":0,"ceiling":330,"patience":"High. Whale's teeth are a Thomaston staple.","star":false},
-
-{"lot":1287,"verdict":"PASS","criteria":["marine","antique"],"date":"19th c. claimed","status":"border","evidence":"Unverified","category":"marine","period":"victorian","market":[150,320],"resale":[90,220],
- "analysis":"A second scrimshawed whale's tooth at $200-300, cheaper than 1285 and on identical reasoning.","problems":"Same authenticity and MMPA constraints as the whole whale's tooth group. Four near-identical lots in sequence is a consignment.","target":0,"ceiling":250,"patience":"High.","star":false},
-
-{"lot":1289,"verdict":"PASS","criteria":["marine","antique"],"date":"19th c. claimed","status":"border","evidence":"Unverified","category":"marine","period":"victorian","market":[150,320],"resale":[90,220],
- "analysis":"The third scrimshawed whale's tooth in the run. Same object, same price, same reasoning.","problems":"Same as 1285 and 1287.","target":0,"ceiling":250,"patience":"High.","star":false},
-
-{"lot":1291,"verdict":"BUY IF CHEAP","criteria":["marine"],"date":"mid-20th c.","status":"modern","evidence":"Inferred","category":"marine","period":"midcentury","market":[150,320],"resale":[90,220],
- "analysis":"Two Althea Macy whale species wall plaques. Macy (1901-1997) was a Nantucket carver whose work has a small dedicated following, and plaques rather than ivory carvings means no legal complication -- which makes this the cleanest way to own Macy's work of the three Macy lots in the sale.","problems":"Only one photograph for two plaques. Macy is a regional name with a thin market outside Nantucket. Check for cracking and whether both plaques are signed.","target":140,"ceiling":270,"patience":"Moderate.","star":false},
-
-{"lot":1292,"verdict":"PASS","criteria":["marine"],"date":"19th c. claimed","status":"border","evidence":"Unverified","category":"marine","period":"victorian","market":[150,350],"resale":[90,240],
- "analysis":"Four sailor-made ivory objects and a small whale's tooth. Sailor-made ivory -- fids, seam rubbers, bodkins -- is genuine whaling material culture when right.","problems":"Both the authenticity and the legal constraints apply, and here doubled: whale ivory plus a tooth. One photograph for five objects is inadequate. Set aside as a class along with the rest of the sale's substantial ivory content.","target":0,"ceiling":280,"patience":"High.","star":false},
-
-{"lot":1296,"verdict":"PASS","criteria":["marine"],"date":"19th c. or later","status":"border","evidence":"Unverified","category":"marine","period":"victorian","market":[150,320],"resale":[90,220],
- "analysis":"A whale's tooth engraved with the USS Constitution. A patriotic subject that was popular with genuine 19th-century scrimshanders and equally popular with 20th-century fakers, precisely because it sells.","problems":"Constitution subjects should raise rather than lower suspicion. Same MMPA constraint as the rest of the group.","target":0,"ceiling":250,"patience":"High.","star":false},
-
-{"lot":1298,"verdict":"PASS","criteria":[],"date":"20th c.","status":"modern","evidence":"Catalogued","category":"marine","period":"victorian","market":[100,250],"resale":[50,170],
- "analysis":"A hand-painted replica of a 19th-century sailing ship. The catalogue's own word is 'replica', which settles it -- this is a modern decorative picture of an old ship, not an old picture.","problems":"Three of these run consecutively (1298, 1303, 1305), which tells you they are a decorative production. No age, no maker, no criteria fit.","target":0,"ceiling":200,"patience":"Irrelevant.","star":false},
-
-{"lot":1300,"verdict":"PASS","criteria":["marine"],"date":"19th c. claimed","status":"border","evidence":"Unverified","category":"marine","period":"victorian","market":[120,300],"resale":[70,200],
- "analysis":"Three sailor-made carved bone figures. Bone rather than ivory, which removes the MMPA problem -- whale bone is still regulated but plain bovine or other bone is not, and the catalogue does not specify.","problems":"One photograph for three figures. 'Sailor made' is an attribution nobody can verify and is applied liberally to any crude carving. Establish the material, because whale bone reintroduces the legal constraint.","target":0,"ceiling":250,"patience":"High.","star":false},
-
-{"lot":1302,"verdict":"BUY IF CHEAP","criteria":[],"date":"20th c.","status":"modern","evidence":"Inferred","category":"books","period":"midcentury","market":[80,180],"resale":[40,120],
- "analysis":"Six books on scrimshaw at $100-150. Reference books are the cheapest useful thing in this sale: if you are going to look at whale's teeth at preview, the standard references on identifying genuine versus faked scrimshaw are worth more than any single tooth in the room.","problems":"Reference books have almost no resale value. Buy them to use, not to own -- which given the number of scrimshaw lots here is a defensible $130.","target":80,"ceiling":150,"patience":"High.","star":false},
-
-{"lot":1303,"verdict":"PASS","criteria":[],"date":"20th c.","status":"modern","evidence":"Catalogued","category":"marine","period":"victorian","market":[100,250],"resale":[50,170],
- "analysis":"The second of three hand-painted ship replicas. Same as 1298.","problems":"Catalogued as a replica.","target":0,"ceiling":200,"patience":"Irrelevant.","star":false},
-
-{"lot":1305,"verdict":"PASS","criteria":[],"date":"20th c.","status":"modern","evidence":"Catalogued","category":"marine","period":"victorian","market":[130,300],"resale":[70,200],
- "analysis":"The third and dearest of the ship replicas at $300-400. Being the most expensive of three identical decorative pictures is not a recommendation.","problems":"Catalogued as a replica.","target":0,"ceiling":240,"patience":"Irrelevant.","star":false},
-
-{"lot":1306,"verdict":"BUY IF CHEAP","criteria":["marine"],"date":"early-to-mid 20th c.","status":"modern","evidence":"Unverified","category":"marine","period":"midcentury","market":[150,320],"resale":[100,220],
- "analysis":"Two cased gimballed marine compasses at $200-300 -- two working instruments for the price of one, and gimballed mounts are the proper seagoing type rather than a desk ornament.","problems":"No maker, no date. Compass cards fade and the fluid in liquid-damped types leaks and yellows. Check both cards rotate freely and that the gimbals are not seized.","target":150,"ceiling":270,"patience":"High. Ship's compasses are abundant.","star":false},
-
-{"lot":2002,"verdict":"BUY IF CHEAP","criteria":["marine","antique"],"date":"19th c.","status":"antique","evidence":"Catalogued","category":"marine","period":"victorian","market":[150,320],"resale":[90,220],
- "melt":{"metal":"none","note":"Copper. No melt floor worth calculating, and the brief names decorative copper as a weak market."},
- "analysis":"A 19th-century square copper ship's kettle at $200-300. Catalogued to the century, genuinely a shipboard object, and the square form is unusual -- made to sit stably in a galley. Cheapest antique marine lot in Day 2.","problems":"Decorative copper has been soft for twenty years. Check the seams and the base for splits and old tinning repairs; a kettle that leaks is purely ornamental. Handles are often replaced.","target":150,"ceiling":270,"patience":"High.","star":false},
-
-{"lot":2003,"verdict":"BUY","criteria":["marine","antique"],"date":"19th c.","status":"antique","evidence":"Unverified","category":"marine","period":"victorian","market":[450,900],"resale":[300,650],
- "analysis":"A chart of New Bedford whaler's ship flags. This is a genuinely interesting document -- a printed identification chart of the private signal flags used by the New Bedford whaling fleet, which ties directly to the whaling material running through Day 2 and is a research object rather than a decorative one.","problems":"No date claim, and these charts were reprinted for the tourist and museum trade through the 20th century. Check the paper and the printing process: period examples are lithographed on wove paper with plate tone, reproductions are offset and too crisp. Two photographs only.","target":400,"ceiling":720,"patience":"Low to moderate. Whaling fleet flag charts are genuinely uncommon.","star":true},
-
-{"lot":2005,"verdict":"PASS","criteria":["marine","antique"],"date":"19th c.","status":"antique","evidence":"Catalogued","category":"marine","period":"victorian","market":[900,1600],"resale":[600,1150],
- "analysis":"A 19th-century portrait of a sailing ship, unsigned. This is exactly the category the brief singles out as satisfying the hundred-year criterion with no maker premium to pay -- an anonymous period ship portrait.","problems":"Out of band at $1,000-1,500 with a $500 opening. Frustrating, because on criteria this is precisely the right kind of lot; it simply starts above the ceiling. If bidding stalled near $800 it would be worth a look.","target":0,"ceiling":0,"patience":"Moderate. Anonymous 19th-century ship portraits recur, and cheaper ones will.","star":true},
-
-{"lot":2006,"verdict":"PASS","criteria":["marine","named"],"date":"mid-20th c.","status":"modern","evidence":"Inferred","category":"marine","period":"midcentury","market":[800,1500],"resale":[550,1100],
- "analysis":"Five Althea Macy ivory relief carvings of whales. The best of the three Macy lots in terms of quantity and quality, and Macy is a documented Nantucket carver.","problems":"Out of band at $1,000-1,500, and it is ivory -- so both constraints apply at once. Lot 1291, Macy's wall plaques at $200-300, is the sensible way to own her work.","target":0,"ceiling":0,"patience":"Not applicable -- out of band.","star":false},
-
-{"lot":2007,"verdict":"PASS","criteria":["marine","antique"],"date":"19th c.","status":"antique","evidence":"Catalogued","category":"marine","period":"victorian","market":[800,1400],"resale":[550,1000],
- "analysis":"A 19th-century five-foot laminated half hull. Builder's half models are the most genuinely maritime objects in any sale -- they were the working design tool from which vessels were lofted -- and a five-foot example is a substantial thing.","problems":"Out of band at $1,000-1,200. One photograph for a five-foot object. Note there are six half hulls in Day 2 (2007, 2013, 2023, 2034, 2047, 2112) ranging from $200 to $1,200; the cheaper ones are the accessible route.","target":0,"ceiling":0,"patience":"Not applicable -- out of band.","star":false},
-
-{"lot":2008,"verdict":"PASS","criteria":["marine","antique"],"date":"1824-1826","status":"antique","evidence":"Catalogued","category":"books","period":"federal","market":[2000,3500],"resale":[1400,2600],
- "analysis":"An 1824-1826 logbook of the New Bedford whaling ship Frances. This is the single most historically significant document in the sale -- a named vessel, a dated voyage, and a primary record of the American whale fishery at its height. Whaling logbooks are actively collected by institutions.","problems":"Comprehensively out of band at $2,000-3,000. Worth seeing at preview for what it is. If you ever wanted one document from this sale, this is it -- but it is three times the ceiling.","target":0,"ceiling":0,"patience":"Not applicable -- out of band. Named-vessel whaling logbooks are genuinely rare.","star":true},
-
-{"lot":2009,"verdict":"PASS","criteria":["marine","antique"],"date":"early-to-mid 19th c.","status":"antique","evidence":"Unverified","category":"painting","period":"federal","market":[1800,3200],"resale":[1200,2400],
- "analysis":"A pair of portraits identified as Captain Folger and wife of Nantucket. Folger is one of the great Nantucket whaling names and an identified captain's pair is a documented object rather than an anonymous one.","problems":"Out of band at $2,000-3,000. 'Identified as' is doing the work -- ask what the identification rests on, because a family tradition is not provenance. Check both canvases for relining and the frames for originality.","target":0,"ceiling":0,"patience":"Not applicable -- out of band.","star":false},
-
-{"lot":2010,"verdict":"BUY","criteria":["marine","antique"],"date":"19th c.","status":"antique","evidence":"Catalogued","category":"marine","period":"victorian","market":[550,1000],"resale":[380,720],
- "analysis":"A ship's wheel from the 19th-century British schooner Sunbeam. A named vessel attribution on a working ship's fitting is unusual and lifts this above the generic decorative wheels that fill nautical shops. Catalogued to the century, and a wheel is an unambiguously maritime object.","problems":"At the top of the band -- $700-900 estimate means $924-1,188 all-in, so only the low end works. Establish what the Sunbeam attribution rests on. Check for replaced spokes and whether the hub and rim are original to each other; wheels are commonly rebuilt from parts.","target":600,"ceiling":900,"patience":"Moderate. Named-vessel wheels are less common than anonymous ones.","star":true},
-
-{"lot":2011,"verdict":"PASS","criteria":["marine","antique"],"date":"c.1850","status":"antique","evidence":"Catalogued","category":"painting","period":"victorian","market":[900,1600],"resale":[600,1150],
- "analysis":"A China trade ship portrait circa 1850. China trade ship portraits were painted in Canton and Hong Kong for Western captains and are a well-defined, well-collected category, catalogued here to a specific decade.","problems":"Out of band at $1,000-1,500. Note lot 1286 in Day 1 is a second China trade schooner painting at $2,000-3,000, so there are two in the sale and both are above the ceiling. Check for the characteristic thin oil on canvas and for overpaint in the sky.","target":0,"ceiling":0,"patience":"Not applicable -- out of band.","star":false},
-
-{"lot":2012,"verdict":"PASS","criteria":["marine","antique"],"date":"19th c.","status":"antique","evidence":"Catalogued","category":"marine","period":"victorian","market":[250,500],"resale":[160,360],
- "analysis":"Four 19th-century whaling longboats carved in whale bone. Genuinely of the period by the catalogue's claim and a charming subject -- miniature whaleboats made by the men who crewed them.","problems":"Whale bone brings the MMPA constraint, which is why this is a PASS despite being in band and genuinely antique. Set aside as part of the sale's ivory and marine-mammal class. If the material constraint did not apply this would be a BUY at $350.","target":0,"ceiling":420,"patience":"High.","star":false},
-
-{"lot":2013,"verdict":"PASS","criteria":["marine"],"date":"19th to early 20th c.","status":"border","evidence":"Unverified","category":"marine","period":"edwardian","market":[600,1100],"resale":[400,800],
- "analysis":"A large early laminated half hull. 'Early' with no date is the vaguest claim in the half-hull group.","problems":"Out of band at $800-1,200. One photograph. With six half hulls in the sale, an undated one at this money is the weakest proposition of the set.","target":0,"ceiling":0,"patience":"Not applicable -- out of band.","star":false},
-
-{"lot":2015,"verdict":"PASS","criteria":["marine","antique"],"date":"early 20th c.","status":"border","evidence":"Catalogued","category":"folkart","period":"edwardian","market":[900,1600],"resale":[600,1150],
- "analysis":"An early 20th-century whaling ship weathervane. Weathervanes are one of the strongest folk art categories and a whaleship subject is genuinely uncommon -- most vanes are horses, cows and roosters.","problems":"Out of band at $1,000-1,500. Weathervanes are also among the most reproduced folk objects; period examples show honest weathering, bullet damage, and a verdigris or worn-gilt surface that cannot be convincingly faked. Sits on the 1926 line, so the age claim is border.","target":0,"ceiling":0,"patience":"Not applicable -- out of band.","star":true},
-
-{"lot":2017,"verdict":"PASS","criteria":["marine","named"],"date":"mid-20th c.","status":"modern","evidence":"Inferred","category":"marine","period":"midcentury","market":[800,1500],"resale":[550,1100],
- "analysis":"A Paul F. Whitten Nantucket basket purse. Nantucket lightship baskets are a serious collecting category and Whitten is a recognised maker; the purse form with a carved ivory or bone plaque is the classic.","problems":"Out of band at $1,000-1,500. Also check whether the decorative plaque is ivory, which would add the usual constraint. Nantucket baskets are widely copied in the Far East, so maker marks matter.","target":0,"ceiling":0,"patience":"Not applicable -- out of band.","star":false},
-
-{"lot":2018,"verdict":"PASS","criteria":["marine","antique"],"date":"19th c.","status":"antique","evidence":"Catalogued","category":"marine","period":"victorian","market":[600,1200],"resale":[400,850],
- "analysis":"A 19th-century scrimshaw whale's tooth depicting a woman. The better end of the sale's scrimshaw -- figural subjects on a substantial tooth, catalogued to the century.","problems":"Out of band at $800-1,200, and it is MMPA material. Both constraints. Four scrimshaw teeth in Day 2 (2018, 2037, 2039, 2065) plus five in Day 1.","target":0,"ceiling":0,"patience":"Not applicable -- out of band.","star":false},
-
-{"lot":2019,"verdict":"PASS","criteria":["marine","named"],"date":"1988","status":"modern","evidence":"Catalogued","category":"marine","period":"contemporary","market":[800,1400],"resale":[550,1000],
- "analysis":"A Michael Kane Nantucket friendship basket, dated 1988. Kane is among the most collected modern Nantucket basket makers and a dated, signed example is properly documented.","problems":"Out of band at $1,000-1,500, and 1988 puts it firmly outside the antique criterion. Bought purely on maker and regional desirability.","target":0,"ceiling":0,"patience":"Not applicable -- out of band.","star":false},
-
-{"lot":2021,"verdict":"PASS","criteria":["marine","antique"],"date":"19th c.","status":"antique","evidence":"Catalogued","category":"marine","period":"victorian","market":[5000,9000],"resale":[3500,7000],
- "analysis":"A 19th-century carved Viking Odin figurehead. Figureheads are the most dramatic marine objects there are and this is the headline marine lot of the sale at $6,000-8,000.","problems":"Far out of band -- six to eight times the ceiling. Also worth noting the subject is suspicious: 'Viking Odin' figureheads are a Victorian romantic-revival conceit rather than anything a working vessel carried, and the category attracts 20th-century decorative carvings. Worth seeing, not bidding.","target":0,"ceiling":0,"patience":"Not applicable -- far out of band.","star":false},
-
-{"lot":2022,"verdict":"PASS","criteria":["marine","antique"],"date":"1886-1887","status":"antique","evidence":"Catalogued","category":"books","period":"victorian","market":[900,1800],"resale":[600,1300],
- "analysis":"An 1886-1887 logbook of HMS Temeraire and Monarch. Royal Navy logbooks of named ironclads, dated to the year -- a genuine primary document and the second-best manuscript in the sale after the whaling logbook at 2008.","problems":"Out of band at $1,000-2,000. Check how much is actually written and how legible the hand is; naval logs are often terse weather-and-position records rather than narrative.","target":0,"ceiling":0,"patience":"Not applicable -- out of band.","star":false},
-
-{"lot":2023,"verdict":"PASS","criteria":["marine"],"date":"c.1900","status":"border","evidence":"Unverified","category":"marine","period":"edwardian","market":[600,1100],"resale":[400,800],
- "analysis":"A circa-1900 laminated half hull, possibly of a coastal schooner -- the catalogue's own question mark is honest about the uncertainty. Coastal schooners are the Maine vessel type, so a confirmed one would be on-brief.","problems":"Out of band at $800-1,200. One photograph. The question mark means the vessel type is a guess, which removes the only thing that would make this better than the other five half hulls.","target":0,"ceiling":0,"patience":"Not applicable -- out of band.","star":false},
-
-{"lot":2025,"verdict":"BUY IF CHEAP","criteria":["marine","antique"],"date":"19th c.","status":"border","evidence":"Unverified","category":"marine","period":"victorian","market":[350,700],"resale":[240,500],
- "analysis":"A large single-draw brass and wood telescope. Single-draw ships' glasses with a mahogany or rosewood barrel are the classic form and a large one is more impressive than the pocket types. One of seven telescopes in Day 2.","problems":"No maker and no date, which is what separates this from lot 2042 (the signed J.P. Cutts at a similar price -- buy that one instead). Check the optics resolve and the draw slides without binding.","target":300,"ceiling":600,"patience":"High. Seven telescopes in one sale means you can be selective.","star":false},
-
-{"lot":2028,"verdict":"PASS","criteria":["marine","antique"],"date":"1833-1879","status":"antique","evidence":"Catalogued","category":"books","period":"victorian","market":[900,1500],"resale":[600,1100],
- "analysis":"Two volumes of New Bedford whaler's chandler house accounts, 1833-1879. Chandlery ledgers record what the whaling fleet actually bought and are a genuinely useful economic record spanning nearly fifty years.","problems":"Out of band at $1,000-1,500. Note lot 2055, the 1820-1830 trying house ledger at $500-700, is the affordable version of the same kind of document and I have rated it a BUY.","target":0,"ceiling":0,"patience":"Not applicable -- out of band.","star":false},
-
-{"lot":2030,"verdict":"PASS","criteria":["marine","antique"],"date":"19th c.","status":"antique","evidence":"Catalogued","category":"marine","period":"victorian","market":[250,500],"resale":[160,360],
- "analysis":"Two 19th-century sailor-made ivory sewing clamps. Genuinely of the period by the catalogue's claim, and sewing clamps are among the most characteristic objects a whaleman made for his wife -- real material culture.","problems":"Ivory, so the MMPA and ESA constraints apply and this joins the set-aside class despite being in band and genuinely antique. One photograph for two objects.","target":0,"ceiling":420,"patience":"High.","star":false},
-
-{"lot":2031,"verdict":"PASS","criteria":["marine","antique"],"date":"19th c.","status":"border","evidence":"Unverified","category":"marine","period":"victorian","market":[700,1300],"resale":[480,950],
- "analysis":"A sea chest with a carved and painted sailing ship. A decorated sea chest is more desirable than a plain one, and the ship decoration is what the folk art market pays for.","problems":"Out of band at $800-1,200. And this is precisely the category where later decoration is added to plain period chests to multiply the value -- a well-established trade. Compare with lots 2068 and 2081, plain period chests at $300-500 which I have rated BUY: the plain ones are honest and affordable.","target":0,"ceiling":0,"patience":"Not applicable -- out of band.","star":false},
-
-{"lot":2033,"verdict":"PASS","criteria":["marine","antique"],"date":"19th c.","status":"antique","evidence":"Catalogued","category":"marine","period":"victorian","market":[1800,3200],"resale":[1200,2400],
- "analysis":"A 19th-century whale bone prisoner-of-war ship model. Napoleonic POW bone models are among the most admired objects in maritime collecting -- made by French prisoners from ration bones, with astonishing detail.","problems":"Out of band at $2,000-3,000, and whale bone brings the material constraint. Also: genuine Napoleonic POW models are rare and valuable enough that reproductions and later composites are common. The catalogue says 19th century, which is compatible with a genuine POW model but also with a later souvenir.","target":0,"ceiling":0,"patience":"Not applicable -- out of band.","star":false},
-
-{"lot":2034,"verdict":"BUY IF CHEAP","criteria":["marine"],"date":"19th to early 20th c.","status":"border","evidence":"Unverified","category":"marine","period":"edwardian","market":[450,800],"resale":[300,580],
- "analysis":"A large laminated half hull at $600-800 -- the mid-priced member of the six-strong half hull group and just inside the band at the low end. Builder's half models are honest maritime objects and this is the cheapest large one.","problems":"No date, no vessel, no builder -- which is true of most of the group and is why they are affordable. One photograph. Check the laminations have not separated and that the backboard is original rather than a modern remount.","target":450,"ceiling":760,"patience":"High. Six in this sale alone.","star":false},
-
-{"lot":2037,"verdict":"PASS","criteria":["marine","antique"],"date":"19th c.","status":"antique","evidence":"Catalogued","category":"marine","period":"victorian","market":[600,1200],"resale":[400,850],
- "analysis":"A 19th-century scrimshaw whale's tooth depicting Washington. A patriotic subject on a period tooth, catalogued to the century.","problems":"Out of band at $800-1,200 and MMPA material. As with the Constitution tooth at 1296, a famous patriotic subject is the commonest thing for a faker to engrave.","target":0,"ceiling":0,"patience":"Not applicable -- out of band.","star":false},
-
-{"lot":2039,"verdict":"PASS","criteria":["marine","antique"],"date":"19th c.","status":"antique","evidence":"Catalogued","category":"marine","period":"victorian","market":[450,900],"resale":[300,650],
- "analysis":"A third 19th-century scrimshaw tooth with a female figure, the cheapest of the Day 2 group at $600-800.","problems":"MMPA material, and at the top of the band. Same authenticity checks. Nine scrimshawed teeth across the sale is a lot of one thing.","target":0,"ceiling":650,"patience":"High.","star":false},
-
-{"lot":2040,"verdict":"BUY IF CHEAP","criteria":["marine"],"date":"early-to-mid 20th c.","status":"modern","evidence":"Unverified","category":"marine","period":"midcentury","market":[700,1300],"resale":[480,950],
- "analysis":"A ship's tin drug safe from the Rawalpindi, marked 'Cocaine'. A genuinely interesting object -- ships carried controlled drugs in locked safes and the labelling is startling to modern eyes, which is most of the appeal. The Rawalpindi was an armed merchant cruiser sunk in 1939, so a named-vessel attribution has real weight if it holds.","problems":"Out of band at $1,000-1,500. Establish what the Rawalpindi attribution rests on. Note 2062 is a second ship's medical safe from the Mauretania at the same estimate -- two in one sale from a single consignment, and neither is in band.","target":0,"ceiling":0,"patience":"Not applicable -- out of band.","star":false},
-
-{"lot":2041,"verdict":"PASS","criteria":["marine"],"date":"20th c.","status":"modern","evidence":"Catalogued","category":"books","period":"midcentury","market":[2000,3500],"resale":[1400,2600],
- "analysis":"A complete set of 26 titles in 27 volumes of first-edition Marine Research Society books, described as near mint. The Marine Research Society published the standard American maritime reference works of the 1920s and 30s and a complete run in first edition is genuinely hard to assemble.","problems":"Out of band at $2,500-3,500. Also 20th-century, so no antique claim. Complete sets are worth more than the sum of parts but only to the one buyer who wants the whole run.","target":0,"ceiling":0,"patience":"Not applicable -- out of band.","star":false},
-
-{"lot":2043,"verdict":"PASS","criteria":["marine","antique"],"date":"19th c.","status":"antique","evidence":"Catalogued","category":"marine","period":"victorian","market":[2800,5000],"resale":[2000,3800],
- "analysis":"A cased 19th-century whale bone prisoner-of-war miniature ship model -- the better of the two POW models, with its original case. The most valuable marine object in the sale after the figurehead.","problems":"Far out of band at $3,000-5,000, and whale bone. Same authenticity caution as 2033.","target":0,"ceiling":0,"patience":"Not applicable -- far out of band.","star":false},
-
-{"lot":2045,"verdict":"BUY IF CHEAP","criteria":["marine"],"date":"mid-20th c.","status":"modern","evidence":"Unverified","category":"marine","period":"midcentury","market":[220,450],"resale":[150,320],
- "analysis":"A steel masthead Pattern 25A ship lantern at $300-500. Pattern numbers mean this is genuine Admiralty or merchant-service equipment rather than a decorative copy, and a masthead lantern is a substantial, honest object.","problems":"'Vintage' with no date; Pattern 25A lanterns were made for decades. Steel rather than brass or copper, so less decorative and more prone to rust -- check the interior and the burner. Many have been converted to electric, which purists dislike.","target":220,"ceiling":400,"patience":"High. Ship lanterns are abundant.","star":false},
-
-{"lot":2046,"verdict":"PASS","criteria":[],"date":"1950s","status":"modern","evidence":"Catalogued","category":"marine","period":"midcentury","market":[500,900],"resale":[350,650],
- "analysis":"A 1950s sternboard. Catalogued to the decade, so no antique claim. Sternboards -- the carved and gilded name boards from a vessel's stern -- are a strong folk art category when period.","problems":"Out of band at $800-1,000. And 1950s is the wrong end: compare lot 2026, the Simmons eagle sternboard from Rockland at $3,000-5,000, which is the real thing and equally unaffordable. The affordable sternboards in this sale are the modern ones.","target":0,"ceiling":0,"patience":"Not applicable -- out of band.","star":false},
-
-{"lot":2047,"verdict":"PASS","criteria":[],"date":"late 20th c.","status":"modern","evidence":"Catalogued","category":"marine","period":"contemporary","market":[250,500],"resale":[150,350],
- "analysis":"A modern half hull. The catalogue says 'modern', which is refreshingly honest and also disqualifying -- this is a decorative object made to look like a builder's model.","problems":"At $500-700 it is priced close to the genuinely old half hulls in the same sale (2034 at $600-800, 2112 at $200-300). Buy an old one instead.","target":0,"ceiling":380,"patience":"Irrelevant.","star":false},
-
-{"lot":2048,"verdict":"PASS","criteria":["marine"],"date":"19th to early 20th c.","status":"border","evidence":"Unverified","category":"painting","period":"edwardian","market":[800,1500],"resale":[550,1100],
- "analysis":"A portrait of the US sailing ship Tamerlane II. A named-vessel ship portrait, which is the documented end of the category.","problems":"Out of band at $1,000-1,500. No date, no artist, so the age is unverified -- and ship portraits were painted continuously into the 20th century for owners and captains. Establish the date before treating it as antique.","target":0,"ceiling":0,"patience":"Not applicable -- out of band.","star":false}
+ {
+  "lot": 1197,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [
+   "marine",
+   "named"
+  ],
+  "date": "late 19th to early 20th c.",
+  "status": "border",
+  "evidence": "Unverified",
+  "category": "marine",
+  "period": "edwardian",
+  "market": [
+   250,
+   500
+  ],
+  "resale": [
+   160,
+   360
+  ],
+  "analysis": "A W.G. Puddefoot marine watercolour with six photographs. Puddefoot is an obscure name with a thin auction record, so this is priced as competent anonymous marine work rather than as a listed artist.",
+  "problems": "No date, no dimensions, no subject named. Watercolours of this vintage are usually light-faded -- compare the image with the strip under the mat. Check for foxing and an acidic backboard.",
+  "target": 220,
+  "ceiling": 420,
+  "patience": "High. Minor marine watercolours are a constant.",
+  "star": false
+ },
+ {
+  "lot": 1200,
+  "verdict": "PASS",
+  "criteria": [],
+  "date": "late 20th c.",
+  "status": "modern",
+  "evidence": "Inferred",
+  "category": "marine",
+  "period": "contemporary",
+  "market": [
+   150,
+   350
+  ],
+  "resale": [
+   80,
+   230
+  ],
+  "analysis": "A 32-piece cast stone marine life chess set. A decorative modern novelty -- no age, no maker, no criteria fit.",
+  "problems": "Cast stone chips and the pieces are heavy and fragile. Chess sets also need all 32 pieces to have any value; count them.",
+  "target": 0,
+  "ceiling": 280,
+  "patience": "Irrelevant.",
+  "star": false
+ },
+ {
+  "lot": 1279,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [
+   "marine"
+  ],
+  "date": "c.1939-1945",
+  "status": "modern",
+  "evidence": "Unverified",
+  "category": "marine",
+  "period": "midcentury",
+  "market": [
+   500,
+   1100
+  ],
+  "resale": [
+   350,
+   800
+  ],
+  "analysis": "A WWII German U-boat Kriegsmarine barometer. Genuine Kriegsmarine instruments have a strong militaria following and U-boat provenance is the most desirable of all, which is exactly why this category is heavily faked.",
+  "problems": "Reproduction Kriegsmarine instruments with correct-looking eagle-and-swastika markings are manufactured in quantity. Period examples show honest brass wear, a maker's name (Lufft, Wempe) and correct German dial lettering. Ask what the U-boat attribution rests on -- almost certainly nothing. Also be clear you want a Third Reich-marked object in the house.",
+  "target": 400,
+  "ceiling": 800,
+  "patience": "Moderate. Marked Kriegsmarine instruments appear regularly; genuine ones less so.",
+  "star": false
+ },
+ {
+  "lot": 1283,
+  "verdict": "PASS",
+  "criteria": [],
+  "date": "mid-1960s",
+  "status": "modern",
+  "evidence": "Catalogued",
+  "category": "marine",
+  "period": "midcentury",
+  "market": [
+   80,
+   200
+  ],
+  "resale": [
+   40,
+   130
+  ],
+  "analysis": "A mid-1960s Nantucket scrimshaw do-it-yourself kit. A period curiosity -- a commercial kit for making your own faux scrimshaw -- and genuinely interesting as an artefact of the tourist trade, but it is a 1960s novelty and the catalogue says so.",
+  "problems": "Worth knowing this exists, because kits like this are the source of a great deal of 'antique' scrimshaw now circulating. Educational rather than collectable.",
+  "target": 0,
+  "ceiling": 170,
+  "patience": "Irrelevant.",
+  "star": false
+ },
+ {
+  "lot": 1285,
+  "verdict": "PASS",
+  "criteria": [
+   "marine",
+   "antique"
+  ],
+  "date": "19th c. claimed",
+  "status": "border",
+  "evidence": "Unverified",
+  "category": "marine",
+  "period": "victorian",
+  "market": [
+   200,
+   450
+  ],
+  "resale": [
+   120,
+   300
+  ],
+  "analysis": "A scrimshawed whale's tooth with whaling subject -- one of five whale's teeth in Day 1 (1285, 1287, 1289, 1296 plus 1292). Genuine period scrimshaw is desirable, but this whole group carries the same two problems.",
+  "problems": "First, authenticity: modern polymer resin fakes and 1960s kit-scrimshaw (see lot 1283 in this very sale) are endemic, and the tells -- too-white material, no dentine grain, engraving that sits on rather than in the surface -- need a loupe. Second, the legal constraint: sperm whale teeth are Marine Mammal Protection Act material, and while a pre-Act piece bought in-state at a Maine sale is the simplest case, it restricts everything afterwards. Not worth the friction at this price.",
+  "target": 0,
+  "ceiling": 330,
+  "patience": "High. Whale's teeth are a Thomaston staple.",
+  "star": false
+ },
+ {
+  "lot": 1287,
+  "verdict": "PASS",
+  "criteria": [
+   "marine",
+   "antique"
+  ],
+  "date": "19th c. claimed",
+  "status": "border",
+  "evidence": "Unverified",
+  "category": "marine",
+  "period": "victorian",
+  "market": [
+   150,
+   320
+  ],
+  "resale": [
+   90,
+   220
+  ],
+  "analysis": "A second scrimshawed whale's tooth at $200-300, cheaper than 1285 and on identical reasoning.",
+  "problems": "Same authenticity and MMPA constraints as the whole whale's tooth group. Four near-identical lots in sequence is a consignment.",
+  "target": 0,
+  "ceiling": 250,
+  "patience": "High.",
+  "star": false
+ },
+ {
+  "lot": 1289,
+  "verdict": "PASS",
+  "criteria": [
+   "marine",
+   "antique"
+  ],
+  "date": "19th c. claimed",
+  "status": "border",
+  "evidence": "Unverified",
+  "category": "marine",
+  "period": "victorian",
+  "market": [
+   150,
+   320
+  ],
+  "resale": [
+   90,
+   220
+  ],
+  "analysis": "The third scrimshawed whale's tooth in the run. Same object, same price, same reasoning.",
+  "problems": "Same as 1285 and 1287.",
+  "target": 0,
+  "ceiling": 250,
+  "patience": "High.",
+  "star": false
+ },
+ {
+  "lot": 1291,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [
+   "marine"
+  ],
+  "date": "mid-20th c.",
+  "status": "modern",
+  "evidence": "Inferred",
+  "category": "marine",
+  "period": "midcentury",
+  "market": [
+   150,
+   320
+  ],
+  "resale": [
+   90,
+   220
+  ],
+  "analysis": "Two Althea Macy whale species wall plaques. Macy (1901-1997) was a Nantucket carver whose work has a small dedicated following, and plaques rather than ivory carvings means no legal complication -- which makes this the cleanest way to own Macy's work of the three Macy lots in the sale.",
+  "problems": "Only one photograph for two plaques. Macy is a regional name with a thin market outside Nantucket. Check for cracking and whether both plaques are signed.",
+  "target": 140,
+  "ceiling": 270,
+  "patience": "Moderate.",
+  "star": false
+ },
+ {
+  "lot": 1292,
+  "verdict": "PASS",
+  "criteria": [
+   "marine"
+  ],
+  "date": "19th c. claimed",
+  "status": "border",
+  "evidence": "Unverified",
+  "category": "marine",
+  "period": "victorian",
+  "market": [
+   150,
+   350
+  ],
+  "resale": [
+   90,
+   240
+  ],
+  "analysis": "Four sailor-made ivory objects and a small whale's tooth. Sailor-made ivory -- fids, seam rubbers, bodkins -- is genuine whaling material culture when right.",
+  "problems": "Both the authenticity and the legal constraints apply, and here doubled: whale ivory plus a tooth. One photograph for five objects is inadequate. Set aside as a class along with the rest of the sale's substantial ivory content.",
+  "target": 0,
+  "ceiling": 280,
+  "patience": "High.",
+  "star": false
+ },
+ {
+  "lot": 1296,
+  "verdict": "PASS",
+  "criteria": [
+   "marine"
+  ],
+  "date": "19th c. or later",
+  "status": "border",
+  "evidence": "Unverified",
+  "category": "marine",
+  "period": "victorian",
+  "market": [
+   150,
+   320
+  ],
+  "resale": [
+   90,
+   220
+  ],
+  "analysis": "A whale's tooth engraved with the USS Constitution. A patriotic subject that was popular with genuine 19th-century scrimshanders and equally popular with 20th-century fakers, precisely because it sells.",
+  "problems": "Constitution subjects should raise rather than lower suspicion. Same MMPA constraint as the rest of the group.",
+  "target": 0,
+  "ceiling": 250,
+  "patience": "High.",
+  "star": false
+ },
+ {
+  "lot": 1298,
+  "verdict": "PASS",
+  "criteria": [],
+  "date": "20th c.",
+  "status": "modern",
+  "evidence": "Catalogued",
+  "category": "marine",
+  "period": "victorian",
+  "market": [
+   100,
+   250
+  ],
+  "resale": [
+   50,
+   170
+  ],
+  "analysis": "A hand-painted replica of a 19th-century sailing ship. The catalogue's own word is 'replica', which settles it -- this is a modern decorative picture of an old ship, not an old picture.",
+  "problems": "Three of these run consecutively (1298, 1303, 1305), which tells you they are a decorative production. No age, no maker, no criteria fit.",
+  "target": 0,
+  "ceiling": 200,
+  "patience": "Irrelevant.",
+  "star": false
+ },
+ {
+  "lot": 1300,
+  "verdict": "PASS",
+  "criteria": [
+   "marine"
+  ],
+  "date": "19th c. claimed",
+  "status": "border",
+  "evidence": "Unverified",
+  "category": "marine",
+  "period": "victorian",
+  "market": [
+   120,
+   300
+  ],
+  "resale": [
+   60,
+   160
+  ],
+  "analysis": "The description resolves the material and it resolves it favourably, which is the opposite of the rest of this group. The three carvings are: a 'FOSSIL WALRUS Relief Tablet of a Mermaid'; an American Eagle clasping a Mexican snake; and a Winged Pig ('When Pigs Fly'). Fossil walrus ivory -- ancient, mineralised material recovered from the ground rather than taken from an animal -- sits outside the Marine Mammal Protection Act's prohibition in a way that modern walrus does not, so this is the one lot in the group that is not legally dead. The carvings themselves are folk pieces with wit.",
+  "problems": "'Fossil' is the load-bearing word and the burden of showing it would fall on you: mineralised ivory looks different from fresh -- deeper colour, crazed surface, often stained brown or blue-green from the ground -- but a photograph will not prove it and a buyer downstream will want more than the catalogue's word. Only the mermaid tablet is described as fossil walrus; the other two are unspecified. Establish the material of all three at preview before treating any of them as freely saleable. Resale is left standing but discounted for that uncertainty.",
+  "target": 0,
+  "ceiling": 250,
+  "patience": "High.",
+  "star": false
+ },
+ {
+  "lot": 1302,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [],
+  "date": "20th c.",
+  "status": "modern",
+  "evidence": "Inferred",
+  "category": "books",
+  "period": "midcentury",
+  "market": [
+   80,
+   180
+  ],
+  "resale": [
+   40,
+   120
+  ],
+  "analysis": "Six books on scrimshaw at $100-150. Reference books are the cheapest useful thing in this sale: if you are going to look at whale's teeth at preview, the standard references on identifying genuine versus faked scrimshaw are worth more than any single tooth in the room.",
+  "problems": "Reference books have almost no resale value. Buy them to use, not to own -- which given the number of scrimshaw lots here is a defensible $130.",
+  "target": 80,
+  "ceiling": 150,
+  "patience": "High.",
+  "star": false
+ },
+ {
+  "lot": 1303,
+  "verdict": "PASS",
+  "criteria": [],
+  "date": "20th c.",
+  "status": "modern",
+  "evidence": "Catalogued",
+  "category": "marine",
+  "period": "victorian",
+  "market": [
+   100,
+   250
+  ],
+  "resale": [
+   50,
+   170
+  ],
+  "analysis": "The second of three hand-painted ship replicas. Same as 1298.",
+  "problems": "Catalogued as a replica.",
+  "target": 0,
+  "ceiling": 200,
+  "patience": "Irrelevant.",
+  "star": false
+ },
+ {
+  "lot": 1305,
+  "verdict": "PASS",
+  "criteria": [],
+  "date": "20th c.",
+  "status": "modern",
+  "evidence": "Catalogued",
+  "category": "marine",
+  "period": "victorian",
+  "market": [
+   130,
+   300
+  ],
+  "resale": [
+   70,
+   200
+  ],
+  "analysis": "The third and dearest of the ship replicas at $300-400. Being the most expensive of three identical decorative pictures is not a recommendation.",
+  "problems": "Catalogued as a replica.",
+  "target": 0,
+  "ceiling": 240,
+  "patience": "Irrelevant.",
+  "star": false
+ },
+ {
+  "lot": 1306,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [
+   "marine"
+  ],
+  "date": "early-to-mid 20th c.",
+  "status": "modern",
+  "evidence": "Unverified",
+  "category": "marine",
+  "period": "midcentury",
+  "market": [
+   150,
+   320
+  ],
+  "resale": [
+   100,
+   220
+  ],
+  "analysis": "Two cased gimballed marine compasses at $200-300 -- two working instruments for the price of one, and gimballed mounts are the proper seagoing type rather than a desk ornament.",
+  "problems": "No maker, no date. Compass cards fade and the fluid in liquid-damped types leaks and yellows. Check both cards rotate freely and that the gimbals are not seized.",
+  "target": 150,
+  "ceiling": 270,
+  "patience": "High. Ship's compasses are abundant.",
+  "star": false
+ },
+ {
+  "lot": 2002,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [
+   "marine",
+   "antique"
+  ],
+  "date": "19th c.",
+  "status": "antique",
+  "evidence": "Catalogued",
+  "category": "marine",
+  "period": "victorian",
+  "market": [
+   150,
+   320
+  ],
+  "resale": [
+   90,
+   220
+  ],
+  "melt": {
+   "metal": "none",
+   "note": "Copper. No melt floor worth calculating, and the brief names decorative copper as a weak market."
+  },
+  "analysis": "A 19th-century square copper ship's kettle at $200-300. Catalogued to the century, genuinely a shipboard object, and the square form is unusual -- made to sit stably in a galley. Cheapest antique marine lot in Day 2.",
+  "problems": "Decorative copper has been soft for twenty years. Check the seams and the base for splits and old tinning repairs; a kettle that leaks is purely ornamental. Handles are often replaced.",
+  "target": 150,
+  "ceiling": 270,
+  "patience": "High.",
+  "star": false
+ },
+ {
+  "lot": 2003,
+  "verdict": "BUY",
+  "criteria": [
+   "marine",
+   "antique"
+  ],
+  "date": "19th c.",
+  "status": "antique",
+  "evidence": "Unverified",
+  "category": "marine",
+  "period": "victorian",
+  "market": [
+   450,
+   900
+  ],
+  "resale": [
+   300,
+   650
+  ],
+  "analysis": "A chart of New Bedford whaler's ship flags. This is a genuinely interesting document -- a printed identification chart of the private signal flags used by the New Bedford whaling fleet, which ties directly to the whaling material running through Day 2 and is a research object rather than a decorative one.",
+  "problems": "No date claim, and these charts were reprinted for the tourist and museum trade through the 20th century. Check the paper and the printing process: period examples are lithographed on wove paper with plate tone, reproductions are offset and too crisp. Two photographs only.",
+  "target": 400,
+  "ceiling": 720,
+  "patience": "Low to moderate. Whaling fleet flag charts are genuinely uncommon.",
+  "star": true
+ },
+ {
+  "lot": 2005,
+  "verdict": "PASS",
+  "criteria": [
+   "marine",
+   "antique"
+  ],
+  "date": "19th c.",
+  "status": "antique",
+  "evidence": "Catalogued",
+  "category": "marine",
+  "period": "victorian",
+  "market": [
+   900,
+   1600
+  ],
+  "resale": [
+   600,
+   1150
+  ],
+  "analysis": "A 19th-century portrait of a sailing ship, unsigned. This is exactly the category the brief singles out as satisfying the hundred-year criterion with no maker premium to pay -- an anonymous period ship portrait.",
+  "problems": "Out of band at $1,000-1,500 with a $500 opening. Frustrating, because on criteria this is precisely the right kind of lot; it simply starts above the ceiling. If bidding stalled near $800 it would be worth a look.",
+  "target": 0,
+  "ceiling": 0,
+  "patience": "Moderate. Anonymous 19th-century ship portraits recur, and cheaper ones will.",
+  "star": true
+ },
+ {
+  "lot": 2006,
+  "verdict": "PASS",
+  "criteria": [
+   "marine",
+   "named"
+  ],
+  "date": "mid-20th c.",
+  "status": "modern",
+  "evidence": "Inferred",
+  "category": "marine",
+  "period": "midcentury",
+  "market": [
+   800,
+   1500
+  ],
+  "resale": [
+   550,
+   1100
+  ],
+  "analysis": "Five Althea Macy ivory relief carvings of whales. The best of the three Macy lots in terms of quantity and quality, and Macy is a documented Nantucket carver.",
+  "problems": "Out of band at $1,000-1,500, and it is ivory -- so both constraints apply at once. Lot 1291, Macy's wall plaques at $200-300, is the sensible way to own her work.",
+  "target": 0,
+  "ceiling": 0,
+  "patience": "Not applicable -- out of band.",
+  "star": false
+ },
+ {
+  "lot": 2007,
+  "verdict": "PASS",
+  "criteria": [
+   "marine",
+   "antique"
+  ],
+  "date": "19th c.",
+  "status": "antique",
+  "evidence": "Catalogued",
+  "category": "marine",
+  "period": "victorian",
+  "market": [
+   800,
+   1400
+  ],
+  "resale": [
+   550,
+   1000
+  ],
+  "analysis": "A 19th-century five-foot laminated half hull. Builder's half models are the most genuinely maritime objects in any sale -- they were the working design tool from which vessels were lofted -- and a five-foot example is a substantial thing.",
+  "problems": "Out of band at $1,000-1,200. One photograph for a five-foot object. Note there are six half hulls in Day 2 (2007, 2013, 2023, 2034, 2047, 2112) ranging from $200 to $1,200; the cheaper ones are the accessible route.",
+  "target": 0,
+  "ceiling": 0,
+  "patience": "Not applicable -- out of band.",
+  "star": false
+ },
+ {
+  "lot": 2008,
+  "verdict": "PASS",
+  "criteria": [
+   "marine",
+   "antique"
+  ],
+  "date": "1824-1826",
+  "status": "antique",
+  "evidence": "Catalogued",
+  "category": "books",
+  "period": "federal",
+  "market": [
+   2000,
+   3500
+  ],
+  "resale": [
+   1400,
+   2600
+  ],
+  "analysis": "An 1824-1826 logbook of the New Bedford whaling ship Frances. This is the single most historically significant document in the sale -- a named vessel, a dated voyage, and a primary record of the American whale fishery at its height. Whaling logbooks are actively collected by institutions.",
+  "problems": "Comprehensively out of band at $2,000-3,000. Worth seeing at preview for what it is. If you ever wanted one document from this sale, this is it -- but it is three times the ceiling.",
+  "target": 0,
+  "ceiling": 0,
+  "patience": "Not applicable -- out of band. Named-vessel whaling logbooks are genuinely rare.",
+  "star": true
+ },
+ {
+  "lot": 2009,
+  "verdict": "PASS",
+  "criteria": [
+   "marine",
+   "antique"
+  ],
+  "date": "early-to-mid 19th c.",
+  "status": "antique",
+  "evidence": "Unverified",
+  "category": "painting",
+  "period": "federal",
+  "market": [
+   1800,
+   3200
+  ],
+  "resale": [
+   1200,
+   2400
+  ],
+  "analysis": "A pair of portraits identified as Captain Folger and wife of Nantucket. Folger is one of the great Nantucket whaling names and an identified captain's pair is a documented object rather than an anonymous one.",
+  "problems": "Out of band at $2,000-3,000. 'Identified as' is doing the work -- ask what the identification rests on, because a family tradition is not provenance. Check both canvases for relining and the frames for originality.",
+  "target": 0,
+  "ceiling": 0,
+  "patience": "Not applicable -- out of band.",
+  "star": false
+ },
+ {
+  "lot": 2010,
+  "verdict": "BUY",
+  "criteria": [
+   "marine",
+   "antique"
+  ],
+  "date": "19th c.",
+  "status": "antique",
+  "evidence": "Catalogued",
+  "category": "marine",
+  "period": "victorian",
+  "market": [
+   550,
+   1000
+  ],
+  "resale": [
+   380,
+   720
+  ],
+  "analysis": "A ship's wheel from the 19th-century British schooner Sunbeam. A named vessel attribution on a working ship's fitting is unusual and lifts this above the generic decorative wheels that fill nautical shops. Catalogued to the century, and a wheel is an unambiguously maritime object.",
+  "problems": "At the top of the band -- $700-900 estimate means $924-1,188 all-in, so only the low end works. Establish what the Sunbeam attribution rests on. Check for replaced spokes and whether the hub and rim are original to each other; wheels are commonly rebuilt from parts.",
+  "target": 600,
+  "ceiling": 900,
+  "patience": "Moderate. Named-vessel wheels are less common than anonymous ones.",
+  "star": true
+ },
+ {
+  "lot": 2011,
+  "verdict": "PASS",
+  "criteria": [
+   "marine",
+   "antique"
+  ],
+  "date": "c.1850",
+  "status": "antique",
+  "evidence": "Catalogued",
+  "category": "painting",
+  "period": "victorian",
+  "market": [
+   900,
+   1600
+  ],
+  "resale": [
+   600,
+   1150
+  ],
+  "analysis": "A China trade ship portrait circa 1850. China trade ship portraits were painted in Canton and Hong Kong for Western captains and are a well-defined, well-collected category, catalogued here to a specific decade.",
+  "problems": "Out of band at $1,000-1,500. Note lot 1286 in Day 1 is a second China trade schooner painting at $2,000-3,000, so there are two in the sale and both are above the ceiling. Check for the characteristic thin oil on canvas and for overpaint in the sky.",
+  "target": 0,
+  "ceiling": 0,
+  "patience": "Not applicable -- out of band.",
+  "star": false
+ },
+ {
+  "lot": 2012,
+  "verdict": "PASS",
+  "criteria": [
+   "marine",
+   "antique"
+  ],
+  "date": "19th c.",
+  "status": "antique",
+  "evidence": "Catalogued",
+  "category": "marine",
+  "period": "victorian",
+  "market": [
+   250,
+   500
+  ],
+  "resale": [
+   160,
+   360
+  ],
+  "analysis": "Four 19th-century whaling longboats carved in whale bone. Genuinely of the period by the catalogue's claim and a charming subject -- miniature whaleboats made by the men who crewed them.",
+  "problems": "Whale bone brings the MMPA constraint, which is why this is a PASS despite being in band and genuinely antique. Set aside as part of the sale's ivory and marine-mammal class. If the material constraint did not apply this would be a BUY at $350.",
+  "target": 0,
+  "ceiling": 420,
+  "patience": "High.",
+  "star": false
+ },
+ {
+  "lot": 2013,
+  "verdict": "PASS",
+  "criteria": [
+   "marine"
+  ],
+  "date": "19th to early 20th c.",
+  "status": "border",
+  "evidence": "Unverified",
+  "category": "marine",
+  "period": "edwardian",
+  "market": [
+   600,
+   1100
+  ],
+  "resale": [
+   400,
+   800
+  ],
+  "analysis": "A large early laminated half hull. 'Early' with no date is the vaguest claim in the half-hull group.",
+  "problems": "Out of band at $800-1,200. One photograph. With six half hulls in the sale, an undated one at this money is the weakest proposition of the set.",
+  "target": 0,
+  "ceiling": 0,
+  "patience": "Not applicable -- out of band.",
+  "star": false
+ },
+ {
+  "lot": 2015,
+  "verdict": "PASS",
+  "criteria": [
+   "marine",
+   "antique"
+  ],
+  "date": "early 20th c.",
+  "status": "border",
+  "evidence": "Catalogued",
+  "category": "folkart",
+  "period": "edwardian",
+  "market": [
+   900,
+   1600
+  ],
+  "resale": [
+   600,
+   1150
+  ],
+  "analysis": "An early 20th-century whaling ship weathervane. Weathervanes are one of the strongest folk art categories and a whaleship subject is genuinely uncommon -- most vanes are horses, cows and roosters.",
+  "problems": "Out of band at $1,000-1,500. Weathervanes are also among the most reproduced folk objects; period examples show honest weathering, bullet damage, and a verdigris or worn-gilt surface that cannot be convincingly faked. Sits on the 1926 line, so the age claim is border.",
+  "target": 0,
+  "ceiling": 0,
+  "patience": "Not applicable -- out of band.",
+  "star": true
+ },
+ {
+  "lot": 2017,
+  "verdict": "PASS",
+  "criteria": [
+   "marine",
+   "named"
+  ],
+  "date": "mid-20th c.",
+  "status": "modern",
+  "evidence": "Inferred",
+  "category": "marine",
+  "period": "midcentury",
+  "market": [
+   800,
+   1500
+  ],
+  "resale": [
+   550,
+   1100
+  ],
+  "analysis": "A Paul F. Whitten Nantucket basket purse. Nantucket lightship baskets are a serious collecting category and Whitten is a recognised maker; the purse form with a carved ivory or bone plaque is the classic.",
+  "problems": "Out of band at $1,000-1,500. Also check whether the decorative plaque is ivory, which would add the usual constraint. Nantucket baskets are widely copied in the Far East, so maker marks matter.",
+  "target": 0,
+  "ceiling": 0,
+  "patience": "Not applicable -- out of band.",
+  "star": false
+ },
+ {
+  "lot": 2018,
+  "verdict": "PASS",
+  "criteria": [
+   "marine",
+   "antique"
+  ],
+  "date": "19th c.",
+  "status": "antique",
+  "evidence": "Catalogued",
+  "category": "marine",
+  "period": "victorian",
+  "market": [
+   600,
+   1200
+  ],
+  "resale": [
+   400,
+   850
+  ],
+  "analysis": "A 19th-century scrimshaw whale's tooth depicting a woman. The better end of the sale's scrimshaw -- figural subjects on a substantial tooth, catalogued to the century.",
+  "problems": "Out of band at $800-1,200, and it is MMPA material. Both constraints. Four scrimshaw teeth in Day 2 (2018, 2037, 2039, 2065) plus five in Day 1.",
+  "target": 0,
+  "ceiling": 0,
+  "patience": "Not applicable -- out of band.",
+  "star": false
+ },
+ {
+  "lot": 2019,
+  "verdict": "PASS",
+  "criteria": [
+   "marine",
+   "named"
+  ],
+  "date": "1988",
+  "status": "modern",
+  "evidence": "Catalogued",
+  "category": "marine",
+  "period": "contemporary",
+  "market": [
+   800,
+   1400
+  ],
+  "resale": [
+   550,
+   1000
+  ],
+  "analysis": "A Michael Kane Nantucket friendship basket, dated 1988. Kane is among the most collected modern Nantucket basket makers and a dated, signed example is properly documented.",
+  "problems": "Out of band at $1,000-1,500, and 1988 puts it firmly outside the antique criterion. Bought purely on maker and regional desirability.",
+  "target": 0,
+  "ceiling": 0,
+  "patience": "Not applicable -- out of band.",
+  "star": false
+ },
+ {
+  "lot": 2021,
+  "verdict": "PASS",
+  "criteria": [
+   "marine",
+   "antique"
+  ],
+  "date": "19th c.",
+  "status": "antique",
+  "evidence": "Catalogued",
+  "category": "marine",
+  "period": "victorian",
+  "market": [
+   5000,
+   9000
+  ],
+  "resale": [
+   3500,
+   7000
+  ],
+  "analysis": "A 19th-century carved Viking Odin figurehead. Figureheads are the most dramatic marine objects there are and this is the headline marine lot of the sale at $6,000-8,000.",
+  "problems": "Far out of band -- six to eight times the ceiling. Also worth noting the subject is suspicious: 'Viking Odin' figureheads are a Victorian romantic-revival conceit rather than anything a working vessel carried, and the category attracts 20th-century decorative carvings. Worth seeing, not bidding.",
+  "target": 0,
+  "ceiling": 0,
+  "patience": "Not applicable -- far out of band.",
+  "star": false
+ },
+ {
+  "lot": 2022,
+  "verdict": "PASS",
+  "criteria": [
+   "marine",
+   "antique"
+  ],
+  "date": "1886-1887",
+  "status": "antique",
+  "evidence": "Catalogued",
+  "category": "books",
+  "period": "victorian",
+  "market": [
+   900,
+   1800
+  ],
+  "resale": [
+   600,
+   1300
+  ],
+  "analysis": "An 1886-1887 logbook of HMS Temeraire and Monarch. Royal Navy logbooks of named ironclads, dated to the year -- a genuine primary document and the second-best manuscript in the sale after the whaling logbook at 2008.",
+  "problems": "Out of band at $1,000-2,000. Check how much is actually written and how legible the hand is; naval logs are often terse weather-and-position records rather than narrative.",
+  "target": 0,
+  "ceiling": 0,
+  "patience": "Not applicable -- out of band.",
+  "star": false
+ },
+ {
+  "lot": 2023,
+  "verdict": "PASS",
+  "criteria": [
+   "marine"
+  ],
+  "date": "c.1900",
+  "status": "border",
+  "evidence": "Unverified",
+  "category": "marine",
+  "period": "edwardian",
+  "market": [
+   600,
+   1100
+  ],
+  "resale": [
+   400,
+   800
+  ],
+  "analysis": "A circa-1900 laminated half hull, possibly of a coastal schooner -- the catalogue's own question mark is honest about the uncertainty. Coastal schooners are the Maine vessel type, so a confirmed one would be on-brief.",
+  "problems": "Out of band at $800-1,200. One photograph. The question mark means the vessel type is a guess, which removes the only thing that would make this better than the other five half hulls.",
+  "target": 0,
+  "ceiling": 0,
+  "patience": "Not applicable -- out of band.",
+  "star": false
+ },
+ {
+  "lot": 2025,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [
+   "marine",
+   "antique"
+  ],
+  "date": "19th c.",
+  "status": "border",
+  "evidence": "Unverified",
+  "category": "marine",
+  "period": "victorian",
+  "market": [
+   350,
+   700
+  ],
+  "resale": [
+   240,
+   500
+  ],
+  "analysis": "A large single-draw brass and wood telescope. Single-draw ships' glasses with a mahogany or rosewood barrel are the classic form and a large one is more impressive than the pocket types. One of seven telescopes in Day 2.",
+  "problems": "No maker and no date, which is what separates this from lot 2042 (the signed J.P. Cutts at a similar price -- buy that one instead). Check the optics resolve and the draw slides without binding.",
+  "target": 300,
+  "ceiling": 600,
+  "patience": "High. Seven telescopes in one sale means you can be selective.",
+  "star": false
+ },
+ {
+  "lot": 2028,
+  "verdict": "PASS",
+  "criteria": [
+   "marine",
+   "antique"
+  ],
+  "date": "1833-1879",
+  "status": "antique",
+  "evidence": "Catalogued",
+  "category": "books",
+  "period": "victorian",
+  "market": [
+   900,
+   1500
+  ],
+  "resale": [
+   600,
+   1100
+  ],
+  "analysis": "Two volumes of New Bedford whaler's chandler house accounts, 1833-1879. Chandlery ledgers record what the whaling fleet actually bought and are a genuinely useful economic record spanning nearly fifty years.",
+  "problems": "Out of band at $1,000-1,500. Note lot 2055, the 1820-1830 trying house ledger at $500-700, is the affordable version of the same kind of document and I have rated it a BUY.",
+  "target": 0,
+  "ceiling": 0,
+  "patience": "Not applicable -- out of band.",
+  "star": false
+ },
+ {
+  "lot": 2030,
+  "verdict": "PASS",
+  "criteria": [
+   "marine",
+   "antique"
+  ],
+  "date": "19th c.",
+  "status": "antique",
+  "evidence": "Catalogued",
+  "category": "marine",
+  "period": "victorian",
+  "market": [
+   250,
+   500
+  ],
+  "resale": [
+   160,
+   360
+  ],
+  "analysis": "Two 19th-century sailor-made ivory sewing clamps. Genuinely of the period by the catalogue's claim, and sewing clamps are among the most characteristic objects a whaleman made for his wife -- real material culture.",
+  "problems": "Ivory, so the MMPA and ESA constraints apply and this joins the set-aside class despite being in band and genuinely antique. One photograph for two objects.",
+  "target": 0,
+  "ceiling": 420,
+  "patience": "High.",
+  "star": false
+ },
+ {
+  "lot": 2031,
+  "verdict": "PASS",
+  "criteria": [
+   "marine",
+   "antique"
+  ],
+  "date": "19th c.",
+  "status": "border",
+  "evidence": "Unverified",
+  "category": "marine",
+  "period": "victorian",
+  "market": [
+   700,
+   1300
+  ],
+  "resale": [
+   480,
+   950
+  ],
+  "analysis": "A sea chest with a carved and painted sailing ship. A decorated sea chest is more desirable than a plain one, and the ship decoration is what the folk art market pays for.",
+  "problems": "Out of band at $800-1,200. And this is precisely the category where later decoration is added to plain period chests to multiply the value -- a well-established trade. Compare with lots 2068 and 2081, plain period chests at $300-500 which I have rated BUY: the plain ones are honest and affordable.",
+  "target": 0,
+  "ceiling": 0,
+  "patience": "Not applicable -- out of band.",
+  "star": false
+ },
+ {
+  "lot": 2033,
+  "verdict": "PASS",
+  "criteria": [
+   "marine",
+   "antique"
+  ],
+  "date": "19th c.",
+  "status": "antique",
+  "evidence": "Catalogued",
+  "category": "marine",
+  "period": "victorian",
+  "market": [
+   1800,
+   3200
+  ],
+  "resale": [
+   1200,
+   2400
+  ],
+  "analysis": "A 19th-century whale bone prisoner-of-war ship model. Napoleonic POW bone models are among the most admired objects in maritime collecting -- made by French prisoners from ration bones, with astonishing detail.",
+  "problems": "Out of band at $2,000-3,000, and whale bone brings the material constraint. Also: genuine Napoleonic POW models are rare and valuable enough that reproductions and later composites are common. The catalogue says 19th century, which is compatible with a genuine POW model but also with a later souvenir.",
+  "target": 0,
+  "ceiling": 0,
+  "patience": "Not applicable -- out of band.",
+  "star": false
+ },
+ {
+  "lot": 2034,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [
+   "marine"
+  ],
+  "date": "19th to early 20th c.",
+  "status": "border",
+  "evidence": "Unverified",
+  "category": "marine",
+  "period": "edwardian",
+  "market": [
+   450,
+   800
+  ],
+  "resale": [
+   300,
+   580
+  ],
+  "analysis": "A large laminated half hull at $600-800 -- the mid-priced member of the six-strong half hull group and just inside the band at the low end. Builder's half models are honest maritime objects and this is the cheapest large one.",
+  "problems": "No date, no vessel, no builder -- which is true of most of the group and is why they are affordable. One photograph. Check the laminations have not separated and that the backboard is original rather than a modern remount.",
+  "target": 450,
+  "ceiling": 760,
+  "patience": "High. Six in this sale alone.",
+  "star": false
+ },
+ {
+  "lot": 2037,
+  "verdict": "PASS",
+  "criteria": [
+   "marine",
+   "antique"
+  ],
+  "date": "19th c.",
+  "status": "antique",
+  "evidence": "Catalogued",
+  "category": "marine",
+  "period": "victorian",
+  "market": [
+   600,
+   1200
+  ],
+  "resale": [
+   400,
+   850
+  ],
+  "analysis": "A 19th-century scrimshaw whale's tooth depicting Washington. A patriotic subject on a period tooth, catalogued to the century.",
+  "problems": "Out of band at $800-1,200 and MMPA material. As with the Constitution tooth at 1296, a famous patriotic subject is the commonest thing for a faker to engrave.",
+  "target": 0,
+  "ceiling": 0,
+  "patience": "Not applicable -- out of band.",
+  "star": false
+ },
+ {
+  "lot": 2039,
+  "verdict": "PASS",
+  "criteria": [
+   "marine",
+   "antique"
+  ],
+  "date": "19th c.",
+  "status": "antique",
+  "evidence": "Catalogued",
+  "category": "marine",
+  "period": "victorian",
+  "market": [
+   450,
+   900
+  ],
+  "resale": [
+   300,
+   650
+  ],
+  "analysis": "A third 19th-century scrimshaw tooth with a female figure, the cheapest of the Day 2 group at $600-800.",
+  "problems": "MMPA material, and at the top of the band. Same authenticity checks. Nine scrimshawed teeth across the sale is a lot of one thing.",
+  "target": 0,
+  "ceiling": 650,
+  "patience": "High.",
+  "star": false
+ },
+ {
+  "lot": 2040,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [
+   "marine"
+  ],
+  "date": "early-to-mid 20th c.",
+  "status": "modern",
+  "evidence": "Unverified",
+  "category": "marine",
+  "period": "midcentury",
+  "market": [
+   700,
+   1300
+  ],
+  "resale": [
+   480,
+   950
+  ],
+  "analysis": "A ship's tin drug safe from the Rawalpindi, marked 'Cocaine'. A genuinely interesting object -- ships carried controlled drugs in locked safes and the labelling is startling to modern eyes, which is most of the appeal. The Rawalpindi was an armed merchant cruiser sunk in 1939, so a named-vessel attribution has real weight if it holds.",
+  "problems": "Out of band at $1,000-1,500. Establish what the Rawalpindi attribution rests on. Note 2062 is a second ship's medical safe from the Mauretania at the same estimate -- two in one sale from a single consignment, and neither is in band.",
+  "target": 0,
+  "ceiling": 0,
+  "patience": "Not applicable -- out of band.",
+  "star": false
+ },
+ {
+  "lot": 2041,
+  "verdict": "PASS",
+  "criteria": [
+   "marine"
+  ],
+  "date": "20th c.",
+  "status": "modern",
+  "evidence": "Catalogued",
+  "category": "books",
+  "period": "midcentury",
+  "market": [
+   2000,
+   3500
+  ],
+  "resale": [
+   1400,
+   2600
+  ],
+  "analysis": "A complete set of 26 titles in 27 volumes of first-edition Marine Research Society books, described as near mint. The Marine Research Society published the standard American maritime reference works of the 1920s and 30s and a complete run in first edition is genuinely hard to assemble.",
+  "problems": "Out of band at $2,500-3,500. Also 20th-century, so no antique claim. Complete sets are worth more than the sum of parts but only to the one buyer who wants the whole run.",
+  "target": 0,
+  "ceiling": 0,
+  "patience": "Not applicable -- out of band.",
+  "star": false
+ },
+ {
+  "lot": 2043,
+  "verdict": "PASS",
+  "criteria": [
+   "marine",
+   "antique"
+  ],
+  "date": "19th c.",
+  "status": "antique",
+  "evidence": "Catalogued",
+  "category": "marine",
+  "period": "victorian",
+  "market": [
+   2800,
+   5000
+  ],
+  "resale": [
+   2000,
+   3800
+  ],
+  "analysis": "A cased 19th-century whale bone prisoner-of-war miniature ship model -- the better of the two POW models, with its original case. The most valuable marine object in the sale after the figurehead.",
+  "problems": "Far out of band at $3,000-5,000, and whale bone. Same authenticity caution as 2033.",
+  "target": 0,
+  "ceiling": 0,
+  "patience": "Not applicable -- far out of band.",
+  "star": false
+ },
+ {
+  "lot": 2045,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [
+   "marine"
+  ],
+  "date": "mid-20th c.",
+  "status": "modern",
+  "evidence": "Unverified",
+  "category": "marine",
+  "period": "midcentury",
+  "market": [
+   220,
+   450
+  ],
+  "resale": [
+   150,
+   320
+  ],
+  "analysis": "A steel masthead Pattern 25A ship lantern at $300-500. Pattern numbers mean this is genuine Admiralty or merchant-service equipment rather than a decorative copy, and a masthead lantern is a substantial, honest object.",
+  "problems": "'Vintage' with no date; Pattern 25A lanterns were made for decades. Steel rather than brass or copper, so less decorative and more prone to rust -- check the interior and the burner. Many have been converted to electric, which purists dislike.",
+  "target": 220,
+  "ceiling": 400,
+  "patience": "High. Ship lanterns are abundant.",
+  "star": false
+ },
+ {
+  "lot": 2046,
+  "verdict": "PASS",
+  "criteria": [],
+  "date": "1950s",
+  "status": "modern",
+  "evidence": "Catalogued",
+  "category": "marine",
+  "period": "midcentury",
+  "market": [
+   500,
+   900
+  ],
+  "resale": [
+   350,
+   650
+  ],
+  "analysis": "A 1950s sternboard. Catalogued to the decade, so no antique claim. Sternboards -- the carved and gilded name boards from a vessel's stern -- are a strong folk art category when period.",
+  "problems": "Out of band at $800-1,000. And 1950s is the wrong end: compare lot 2026, the Simmons eagle sternboard from Rockland at $3,000-5,000, which is the real thing and equally unaffordable. The affordable sternboards in this sale are the modern ones.",
+  "target": 0,
+  "ceiling": 0,
+  "patience": "Not applicable -- out of band.",
+  "star": false
+ },
+ {
+  "lot": 2047,
+  "verdict": "PASS",
+  "criteria": [],
+  "date": "late 20th c.",
+  "status": "modern",
+  "evidence": "Catalogued",
+  "category": "marine",
+  "period": "contemporary",
+  "market": [
+   250,
+   500
+  ],
+  "resale": [
+   150,
+   350
+  ],
+  "analysis": "A modern half hull. The catalogue says 'modern', which is refreshingly honest and also disqualifying -- this is a decorative object made to look like a builder's model.",
+  "problems": "At $500-700 it is priced close to the genuinely old half hulls in the same sale (2034 at $600-800, 2112 at $200-300). Buy an old one instead.",
+  "target": 0,
+  "ceiling": 380,
+  "patience": "Irrelevant.",
+  "star": false
+ },
+ {
+  "lot": 2048,
+  "verdict": "PASS",
+  "criteria": [
+   "marine"
+  ],
+  "date": "19th to early 20th c.",
+  "status": "border",
+  "evidence": "Unverified",
+  "category": "painting",
+  "period": "edwardian",
+  "market": [
+   800,
+   1500
+  ],
+  "resale": [
+   550,
+   1100
+  ],
+  "analysis": "A portrait of the US sailing ship Tamerlane II. A named-vessel ship portrait, which is the documented end of the category.",
+  "problems": "Out of band at $1,000-1,500. No date, no artist, so the age is unverified -- and ship portraits were painted continuously into the 20th century for owners and captains. Establish the date before treating it as antique.",
+  "target": 0,
+  "ceiling": 0,
+  "patience": "Not applicable -- out of band.",
+  "star": false
+ }
 ]

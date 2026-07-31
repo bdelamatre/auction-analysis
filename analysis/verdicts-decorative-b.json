@@ -107,7 +107,7 @@
  },
  {
   "lot": 2001,
-  "verdict": "BUY IF CHEAP",
+  "verdict": "PASS",
   "criteria": [
    "antique"
   ],
@@ -121,13 +121,13 @@
    900
   ],
   "resale": [
-   280,
-   620
+   0,
+   0
   ],
-  "analysis": "A late-18th-century memento mori: a carved bone skeleton in a wooden coffin, $600-800. Catalogued to the period, genuinely antique, and memento mori objects -- coffin models, skull rosary terminals, articulated skeletons -- are a real and long-established collecting field. Bone rather than ivory, so no restriction applies. A genuinely uncommon object type.",
-  "problems": "At $792-1,056 all-in the estimate is at the top of the band. Memento mori are also faked, and have been for a very long time, because the market is enthusiastic and the materials are simple; the tells are the tool marks, the way the bone has yellowed differentially where it was handled, and the coffin's construction. Small bone figures lose limbs; check completeness. And it is a carved skeleton in a coffin, which is a decision about what you want to look at.",
-  "target": 450,
-  "ceiling": 700,
+  "analysis": "A correction to my own earlier reading. I wrote that this was bone rather than ivory and that 'none of the marine-mammal or elephant restrictions apply'. The description says otherwise: it is a 'Miniature Semi-articulated Carved WHALE BONE Skeleton'. Whale bone is marine mammal material and squarely within the Marine Mammal Protection Act -- the distinction I drew between bone and ivory is the wrong distinction; the one that matters is whether the animal was a marine mammal. Everything else about the lot is as good as I said, and better: it sits in a carved walnut coffin on a bed of an 1808 farmer's ledger inscribed 'Public Burdens' and 'James Frier, Farmer at Brotherston', which is a genuinely charming piece of documentation.",
+  "problems": "Whale bone, undocumented. Resale is zero for the same reason as every other marine-mammal lot in this sale: it cannot lawfully be sold on without proof of age and origin that does not accompany it. Also worth noting the catalogue's own note misspells the place -- it gives 'Brotherston' in the inscription and 'Brotherton' in the gloss.",
+  "target": 0,
+  "ceiling": 0,
   "patience": "Low to moderate. Genuinely uncommon.",
   "star": false
  },
@@ -365,7 +365,7 @@
  },
  {
   "lot": 2050,
-  "verdict": "BUY IF CHEAP",
+  "verdict": "PASS",
   "criteria": [
    "antique"
   ],
@@ -379,13 +379,13 @@
    500
   ],
   "resale": [
-   140,
-   350
+   0,
+   0
   ],
-  "analysis": "Two 19th-century carved walking sticks, $300-500. Catalogued to the century, genuinely antique, and carved folk canes -- snakes, hands, faces, entwined motifs -- are a real folk-art category where the carving carries the value rather than the material. Third cane lot in the sale alongside 1025 and 1027, and the cheapest.",
-  "problems": "No description of what is carved, which is the entire question on folk canes. Carved sticks are also faked, and aged convincingly. Check the shaft-to-handle joint and for old shrinkage. If either has an ivory or marine-mammal element it inherits the problems set out at 1304 and 2355.",
-  "target": 250,
-  "ceiling": 425,
+  "analysis": "The description answers the material question and it goes against the lot. Two sticks: 'Sailor made cane, with a WHALE'S TOOTH handle and tapered WHALE BONE shaft, 32 1/4\" long; and Walking stick with an angled carved bone top decorated with a potted flower, wooden shaft'. The first is marine mammal twice over -- tooth and bone -- and it is the better of the two, a genuine sailor-made piece of exactly the kind this collection is drawn to. The second, plain carved bone on a wooden shaft, is unrestricted but ordinary.",
+  "problems": "The sailor-made cane is whale's tooth and whale bone, undocumented, so the lot cannot be resold as offered and resale is recorded as zero. This reverses my earlier BUY IF CHEAP, which was written before the description was available and assumed unspecified carving.",
+  "target": 0,
+  "ceiling": 0,
   "patience": "High. Cane lots run regularly at Thomaston.",
   "star": false
  },
@@ -647,7 +647,7 @@
  },
  {
   "lot": 2337,
-  "verdict": "BUY IF CHEAP",
+  "verdict": "PASS",
   "criteria": [
    "antique"
   ],
@@ -661,13 +661,13 @@
    500
   ],
   "resale": [
-   140,
-   350
+   0,
+   0
   ],
-  "analysis": "An 18th-century miniature French genre scene after Chardin, $300-400. Catalogued to the century, so genuinely antique -- and 18th-century paintings inside this budget are very rare. 'After Chardin' means, per the standing principle, a copy, but an 18th-century copy of a Chardin is still an 18th-century painting.",
-  "problems": "'After' does the work: this is a period copyist's picture, not a Chardin. No support, no dimensions, no artist. Miniature genre scenes on copper or panel of this date are frequently relined, cradled or over-restored. The 18th-century dating is the house's claim.",
-  "target": 225,
-  "ceiling": 375,
+  "analysis": "'The House of Cards', OIL ON IVORY, unsigned, after the full-sized original by Jean-Baptiste-Simeon Chardin (1699-1779), in an original walnut bullseye panel frame with convex glass. The original bullseye frame is a genuinely good survival and the subject is a fine one. But 'after Chardin' means a copyist's picture by the standing principle, and the support is ivory. Federal ESA rules do allow a narrow de minimis exemption for a small, fixed, pre-1975 ivory component, and a painted wafer is a far better candidate for it than a solid carved figure -- but the exemption needs documentation of age and origin that this lot does not supply, and state law varies on top of it. Resale is recorded as zero on that basis, consistent with lot 2342. Paperwork could restore it; nothing in the catalogue is paperwork.",
+  "problems": "Elephant ivory support, undocumented, resale zero. And 'after' does its usual work: this is a period copy of a Chardin, not a Chardin.",
+  "target": 0,
+  "ceiling": 0,
   "patience": "Moderate.",
   "star": false
  },

@@ -1,107 +1,1349 @@
 [
-{"lot":1067,"verdict":"BUY IF CHEAP","criteria":["antique"],"date":"c.1845-1856","status":"antique","evidence":"Inferred","category":"prints","period":"victorian","market":[175,375],"resale":[120,260],"analysis":"A hand-coloured lithograph, 'WASHINGTON. First in Valor, Wisdom and Virtue', small folio, with publisher's imprint lines flanking the title and a period gilt frame. The photograph is encouraging on every point that matters: the sheet is evenly toned with scattered foxing in the margins, the colour is flat and unmodulated and runs slightly outside the outlines in the way hand-applied watercolour does, and the frame is a period moulded gilt with genuine flaking and rubbing. This is a mid-19th-c. N. Currier small folio and it satisfies the age criterion outright. Note the standing open question on lots 1069/1070 -- the same consignment -- about originals versus later facsimiles; on the evidence of this sheet the consignment is period.","problems":"Foxing and margin staining are visible and will not come out without professional washing, which costs more than the print. Washington portraits are among the most common Currier subjects and the small folio is the low end of the format. The imprint lines are too small to read at photograph resolution, so the exact publisher state -- N. Currier versus Currier & Ives -- is unconfirmed. Estimate at $300-400 is at the top of what small folios make; the frame is doing part of the work.","target":180,"ceiling":280,"patience":"Very high. Small folio Currier prints are the most available 19th-c. American print there is.","star":false},
-
-{"lot":1071,"verdict":"BUY IF CHEAP","criteria":["antique"],"date":"c.1855-1885","status":"antique","evidence":"Inferred","category":"prints","period":"victorian","market":[150,350],"resale":[100,240],"analysis":"A Currier & Ives harness racing print, $300-400 -- the trotting-horse subjects are the firm's most reproduced and most collected category at once. Same consignment as 1067, 1069 and 1070, and the same judgement applies: assess the sheet, not the name.","problems":"Trotting scenes are also the most facsimiled Currier subjects, because they sell -- the 1930s and 1940s Calendar and Travelers Insurance reproductions of racing prints are everywhere and fool people constantly. This is the lot in the group where the loupe matters most: a period stone lithograph has continuous granular tone with no dot structure, a photomechanical facsimile shows a rosette. Only two photographs and neither resolves it.","target":160,"ceiling":275,"patience":"Very high.","star":false},
-
-{"lot":1068,"verdict":"PASS","criteria":["antique"],"date":"19th c.","status":"antique","evidence":"Unverified","category":"prints","period":"victorian","market":[600,1800],"resale":[420,1250],"analysis":"'Rare monumental George Washington Valley Forge print', $1,500-2,000 -- $1,980-2,640 all-in, well above the band. Large-format American historical prints in good condition are a real market and 'monumental' large folios do bring four figures, so the estimate is not absurd; it is simply out of reach.","problems":"Above budget. 'Rare' and 'monumental' with no publisher, no date and no process named is auction copywriting rather than description. Large folios of this subject are also the most reproduced.","target":0,"ceiling":0,"patience":"Moderate.","star":false},
-
-{"lot":1288,"verdict":"PASS","criteria":["antique"],"date":"1878","status":"antique","evidence":"Catalogued","category":"prints","period":"victorian","market":[900,2500],"resale":[620,1730],"analysis":"A monumental 1878 Currier & Ives double steamboat print, $2,000-3,000. The date is catalogued and the large folio Mississippi steamboat subjects -- 'A Midnight Race on the Mississippi' and its relatives -- are the top of the Currier & Ives market, so the estimate reflects a real thing. $2,640-3,960 all-in puts it two to three times over the band.","problems":"Above budget by a wide margin. Large folio steamboat prints are also the most valuable and therefore the most facsimiled Currier subjects; at this price level condition, margins and state need expert examination. Only one photograph on the highest-value print in the sale.","target":0,"ceiling":0,"patience":"Low. Large folio steamboats are genuinely scarce -- but not at this budget.","star":false},
-
-{"lot":1166,"verdict":"PASS","criteria":["maker","maine"],"date":"post-1990 reproduction","status":"modern","evidence":"Inferred","category":"prints","period":"contemporary","market":[60,150],"resale":[40,100],"analysis":"Andrew Wyeth, 'Blue Door, Olson House' -- and the subject is the Olson house in Cushing, twenty minutes down the road, which is exactly why the room will bid it. The photographs settle what the catalogue will not. The sheet is matted tight to the image edge with no margin showing on any side. A signed and numbered impression is never matted that way: the pencil signature and the edition number live in the bottom margin and are the entire reason anyone pays for the print, so framers show them. Cropping the margin away means there is nothing in the margin. This is a commercial reproduction of a Wyeth watercolour.","problems":"This is the §9 Wyeth block behaving exactly as predicted -- eleven consecutive lots, one consignor, the most famous name in Maine painting, and a catalogue that says only 'print'. All five of the remaining unresolved Wyeth lots in this block (1166, 1167, 1168, 1170, 1171) are matted the same way. Estimate $300-400 for a $60-150 reproduction. The Maine subject is real and the object is not.","target":0,"ceiling":0,"patience":"Very high. There are 37 Wyeth lots across this sale.","star":false},
-
-{"lot":1167,"verdict":"PASS","criteria":["maker"],"date":"post-1970 reproduction","status":"modern","evidence":"Inferred","category":"prints","period":"contemporary","market":[60,150],"resale":[40,100],"analysis":"Andrew Wyeth, 'The Patriot' -- the 1964 portrait of Ralph Cline in his WWI uniform, and Cline was a Maine sawmill owner from Spruce Head, so this is the second Maine-subject lot in the block. The reproduction is a good one: continuous tone, no visible dot structure at this resolution, sympathetic colour. But it is matted flush to the image with no margin, no signature, no edition -- the same presentation as every other lot in the consignment. That uniformity is the answer.","problems":"Same block, same estimate, same absence of a named process. $300-400 for a reproduction that trades at $60-150. If you want a Cline portrait on the wall, the object is fine; do not pay print prices for it.","target":0,"ceiling":0,"patience":"Very high.","star":false},
-
-{"lot":1168,"verdict":"PASS","criteria":["maker"],"date":"post-1970 reproduction","status":"modern","evidence":"Inferred","category":"prints","period":"contemporary","market":[60,150],"resale":[40,100],"analysis":"Andrew Wyeth, 'Cold Spring', $300-400, catalogued only as 'print'. Third of the five unresolved lots in the block and matted identically to the others.","problems":"See 1166. The silence about process is the catalogue declining to commit, and the mat is doing the rest of the work.","target":0,"ceiling":0,"patience":"Very high.","star":false},
-
-{"lot":1170,"verdict":"PASS","criteria":["maker"],"date":"post-1970 reproduction","status":"modern","evidence":"Inferred","category":"prints","period":"contemporary","market":[50,125],"resale":[35,85],"analysis":"Andrew Wyeth, 'Wolf River', $200-300 -- the cheaper end of the block, and the estimate drop is the one honest signal in it. Same mat, same absence of margin, same absence of a named process.","problems":"See 1166.","target":0,"ceiling":0,"patience":"Very high.","star":false},
-
-{"lot":1171,"verdict":"PASS","criteria":["maker"],"date":"post-1970 reproduction","status":"modern","evidence":"Inferred","category":"prints","period":"contemporary","market":[50,125],"resale":[35,85],"analysis":"Andrew Wyeth, 'Albert's Son', $200-300. This is the clearest of the five: the sheet is a smooth bright white with none of the warm, slightly textured surface of a collotype, and it is matted flush to the image. Offset lithography on coated stock. Last of the block.","problems":"See 1166. With 1163 confirmed a giclee, 1164 confirmed a 1993 Aaron Ashley commercial 'COLLOGRAPH' reproduction, and 1169 confirmed as three Helga portfolios, the whole eleven-lot Wyeth consignment is now accounted for and none of it is a signed edition print.","target":0,"ceiling":0,"patience":"Very high.","star":false},
-
-{"lot":1430,"verdict":"PASS","criteria":["maker"],"date":"1982","status":"modern","evidence":"Catalogued","category":"prints","period":"contemporary","market":[25,75],"resale":[15,50],"analysis":"A 1982 N.C. Wyeth poster, $100-150. Catalogued to the year, so at least the house is straight about it. A poster is a poster: 1980s exhibition posters after N.C. Wyeth trade at $25-75 framed, and this one is estimated at twice that.","problems":"Post-1926 by a wide margin, no edition, no signature, no criteria fit beyond the family name. Posters of this vintage are usually on acidic stock and have started to brown.","target":0,"ceiling":0,"patience":"Very high.","star":false},
-
-{"lot":1322,"verdict":"PASS","criteria":[],"date":"c.1967-1970","status":"modern","evidence":"Inferred","category":"prints","period":"modern","market":[75,250],"resale":[50,170],"analysis":"An Op Art poster for the band Cream, $200-300. Genuine first-printing psychedelic rock posters are a real and rising market -- but it is a specialist one with heavily documented printings, and reprints outnumber originals many times over. Nothing here fits the collection.","problems":"No printer, no date, no first-versus-later-printing discussion, which on rock posters is the whole valuation. Post-1926 by four decades.","target":0,"ceiling":0,"patience":"Very high.","star":false},
-
-{"lot":1473,"verdict":"PASS","criteria":["maker"],"date":"c.1910-1950","status":"border","evidence":"Inferred","category":"prints","period":"deco","market":[75,200],"resale":[50,140],"analysis":"Marguerite MacKain-Langlois (1886-1979), a 'literary print', $200-300. Dated by artist lifespan only, so the work could fall either side of 1926. MacKain-Langlois has essentially no auction record; the boilerplate dates attached to the lot are indexing, not provenance.","problems":"'Literary print' names neither a process nor a title. An artist with no market and no date. Estimate assumes the name means something.","target":0,"ceiling":0,"patience":"Very high.","star":false},
-
-{"lot":2164,"verdict":"PASS","criteria":[],"date":"c.1876-1930","status":"border","evidence":"Unverified","category":"prints","period":"victorian","market":[100,300],"resale":[70,210],"analysis":"A framed fabric print of William Penn, $600-800. Printed textiles of American historical subjects were produced for the 1876 Centennial and again in quantity through the early 20th century; without a date this could be either, and neither is worth $600-800.","problems":"No date, no maker, no process. Printed cottons fade and the framing usually hides the tack edges where the colour survives. Estimate is triple the market for a decorative printed textile.","target":0,"ceiling":0,"patience":"Very high.","star":false},
-
-{"lot":2248,"verdict":"BUY IF CHEAP","criteria":["antique","maker"],"date":"c.1845-1870","status":"antique","evidence":"Inferred","category":"prints","period":"victorian","market":[250,600],"resale":[170,410],"analysis":"A lithograph after William Sidney Mount (US, 1807-1868), $500-700. Mount was a genuinely significant American genre painter and lithographs after his rural and musical subjects were published by Goupil and others in the 1840s-50s. A period impression is a real 19th-century American print by a documented hand -- it satisfies the age criterion and the maker criterion, which most of the prints here do not.","problems":"'Lithograph' after Mount means Mount painted it and somebody else drew the stone; the standing principle on 'after [maker]' applies to the value if not to the authenticity. No publisher, no date, no state. Mount subjects have been reproduced continuously, including as photogravures around 1900. At $660-924 all-in the estimate is at the top of the band for something unverified.","target":300,"ceiling":475,"patience":"Moderate. Mount lithographs surface a few times a year in American sales.","star":false},
-
-{"lot":2275,"verdict":"PASS","criteria":[],"date":"unclear","status":"unverified","evidence":"Unverified","category":"prints","period":"modern","market":[50,175],"resale":[35,120],"analysis":"'Seal of the Duke of Rochester with print of Philip Powel', $200-300. There has never been a Duke of Rochester -- the title has been an earldom and a viscountcy, never a dukedom -- so the description is wrong on its face. Philip Powel was a 17th-century English Catholic martyr. Whatever this is, the cataloguing does not know.","problems":"A described object that does not exist as described. No date, no process, no material. This is the kind of lot where the estimate is generated by the framing.","target":0,"ceiling":0,"patience":"Very high.","star":false},
-
-{"lot":2328,"verdict":"BUY IF CHEAP","criteria":["antique"],"date":"c.1830-1860","status":"antique","evidence":"Inferred","category":"prints","period":"victorian","market":[300,700],"resale":[210,480],"analysis":"Four panoramic prints of early English railway events, $500-700. Early railway prints -- the Liverpool & Manchester opening, Bury and Ackermann panoramas, aquatints and lithographs of the 1830s-40s -- are a well-established collecting field with a devoted transport-history audience. Four of them, if period, is $75-200 each and genuinely antique.","problems":"Ackermann railway panoramas are among the most reproduced English prints of the 20th century, and the standard 1930s and 1960s facsimiles are convincing framed and behind glass. Get a loupe on all four. No publisher, date or process named for any of them. Framing and glass mean the margins and any plate marks are hidden.","target":350,"ceiling":550,"patience":"Moderate. English topographical and transport prints run steadily but four panoramas together is a less common offering.","star":false},
-
-{"lot":2333,"verdict":"PASS","criteria":["antique"],"date":"c.1850-1880","status":"antique","evidence":"Inferred","category":"prints","period":"victorian","market":[200,500],"resale":[140,350],"analysis":"A monumental Scottish engraving after Jacob Thompson, $600-800. Thompson (1806-1879) was a Lake District painter; large steel engravings after his and similar Victorian narrative pictures were published in the tens of thousands and are the definition of a soft market. 'After' means, as always, that this is a reproductive print.","problems":"Estimate is two to four times the market. Large Victorian engravings are worth less than their frames in most sales and are usually foxed and light-struck. 'Monumental' is a shipping problem.","target":0,"ceiling":0,"patience":"Very high.","star":false},
-
-{"lot":2374,"verdict":"BUY IF CHEAP","criteria":["antique","maker"],"date":"c.1740-1760","status":"antique","evidence":"Inferred","category":"prints","period":"georgian","market":[250,600],"resale":[170,410],"analysis":"Five Johann Georg Sauter Swiss military engravings of the 1740s, $300-500. This is the oldest print lot in the sale by a century and one of very few objects here that predates 1800. Five 18th-century engravings at $60-100 each is honest pricing, and 'antique' is not in doubt -- these are older than the United States.","problems":"18th-century Swiss military costume plates are a narrow field with a thin market; scarcity does not translate to price when nobody collects the subject. Check for trimmed margins, backing and old tape repairs, which is what has usually happened to loose 18th-c. plates. Sauter's dates are given no more precisely than 'the 1740s'.","target":275,"ceiling":425,"patience":"Low on the material, high on the demand -- nobody else in the room will chase these, which is exactly why they can be cheap.","star":false},
-
-{"lot":2419,"verdict":"BUY IF CHEAP","criteria":["antique"],"date":"19th c.","status":"antique","evidence":"Catalogued","category":"prints","period":"victorian","market":[150,400],"resale":[100,280],"analysis":"A 19th-century drawing of Zurich, $300-500. Catalogued to the century and catalogued as a drawing rather than a print, which -- if true -- makes it a unique work on paper rather than an edition, and that is a different and better proposition than most of this section.","problems":"'Drawing' with no medium, no artist and no date beyond the century. Nineteenth-century topographical views of Swiss cities exist in enormous numbers as both original pencil-and-wash sketches and as hand-coloured lithographs that look like drawings under glass. Establishing which needs the sheet out of the frame. No maker means no maker premium and no criteria fit beyond age.","target":175,"ceiling":300,"patience":"High. Anonymous 19th-c. topographical views are deep supply.","star":false},
-
-{"lot":2483,"verdict":"PASS","criteria":["maker"],"date":"1962","status":"modern","evidence":"Catalogued","category":"prints","period":"midcentury","market":[150,400],"resale":[100,280],"analysis":"Huang Xuanzhi (Chinese, 1924-2016), 'Summer Day', woodcut, 1962. This is the best-catalogued print in the sale -- named artist, named process, named title, dated to the year -- and it is the one where all that information tells you it does not fit. A 1962 Chinese woodcut is thirty-six years the wrong side of the antique line and belongs to a collecting field with no overlap with this collection.","problems":"Post-1926 by the catalogue's own dating. Chinese modern print prices are volatile and largely made in Asian salerooms; a Maine estimate of $300-500 is a guess.","target":0,"ceiling":0,"patience":"Moderate.","star":false},
-
-{"lot":3272,"verdict":"PASS","criteria":["maker"],"date":"1956 or later","status":"modern","evidence":"Catalogued","category":"prints","period":"midcentury","market":[600,1500],"resale":[420,1040],"analysis":"An art book of Picasso lithographs 1949-56 with two original prints, $1,000-1,500. The Mourlot-published Picasso lithograph catalogues with original lithographs bound or laid in are legitimate and collected -- but $1,320-1,980 all-in is well above the band, and Picasso is exactly the headline name the brief warns about. Here the estimate is at least honest about which end of Picasso this is.","problems":"Above budget. 'Original prints' in a book context usually means unsigned book lithographs, not signed impressions -- the distinction is worth thousands and the catalogue does not make it. Post-1926.","target":0,"ceiling":0,"patience":"Moderate. Mourlot Picasso volumes run regularly.","star":false},
-
-{"lot":3293,"verdict":"PASS","criteria":["maker"],"date":"c.1950-1980","status":"modern","evidence":"Inferred","category":"prints","period":"midcentury","market":[200,600],"resale":[140,410],"analysis":"A Marino Marini portfolio, $300-500. Marini is a major 20th-century Italian sculptor and printmaker with a real market, but a 'portfolio' with no title, no date, no edition and no count of sheets is unassessable, and post-war Italian print portfolios include a lot of unsigned book editions and later reproductions.","problems":"No edition, no signature discussion, no sheet count. Post-1926. Marini's market is European and does not price well in a Maine general sale, in either direction.","target":0,"ceiling":0,"patience":"Moderate.","star":false},
-
-{"lot":1074,"verdict":"BUY","criteria":["antique"],"date":"c.1850-1900","status":"antique","evidence":"Inferred","category":"tools","period":"victorian","market":[175,400],"resale":[120,280],"analysis":"Brass-bound log-measuring calipers, $200-300. These are timber scaling calipers -- a working forestry instrument for measuring log diameter and reading off board feet -- and in Maine that is local industrial history rather than generic tool-shop stock. Brass-bound boxwood or beech examples with legible scales are genuinely 19th century and honestly priced here.","problems":"Only the title to go on: no maker, no scale type, no length. The value is in the maker's stamp and the legibility of the graduations, both of which need the piece in hand. Scaling rules and calipers were made well into the 20th century in the same pattern, so 'antique' rests on construction and wear rather than a date. Brass fittings on a wooden arm loosen; check the sliding jaw is not sloppy.","target":180,"ceiling":275,"patience":"Moderate. Maine timber tools appear regularly but usually as anonymous rules; a brass-bound caliper is a step up.","star":true},
-
-{"lot":1076,"verdict":"BUY IF CHEAP","criteria":["antique","maker"],"date":"c.1925","status":"border","evidence":"Catalogued","category":"tools","period":"deco","market":[200,450],"resale":[140,310],"analysis":"A circa 1925 gallery hygrometer by Friez -- Julien P. Friez & Sons of Baltimore, a documented and well-regarded American meteorological instrument maker whose barographs and hygrometers are collected. Catalogued to c.1925, which lands the piece exactly on the 1926 line: 'border', and honestly so. A named American instrument maker in a case, at $300-400, is one of the better scientific-instrument propositions in the sale.","problems":"Recording hygrometers depend on a hair or paper element and a clock drum, all of which perish; assume it does not work and value it as an object. Check the drum, the pen arm and whether the original chart paper is present. Friez instruments were also made in quantity for institutional use, so 'gallery' here describes the size, not a special model.","target":250,"ceiling":375,"patience":"Moderate. Friez barographs run a few times a year; hygrometers less often.","star":false},
-
-{"lot":1227,"verdict":"PASS","criteria":["antique"],"date":"c.1900","status":"antique","evidence":"Catalogued","category":"tools","period":"artnouveau","market":[150,400],"resale":[100,280],"analysis":"A German folk art musical instrument, ca. 1900, $400-600. Catalogued to the turn of the century, so genuinely antique, but 'musical instrument' unnamed is doing a lot of hiding -- zithers, hurdy-gurdies and decorated cases all live under that description and they are worth wildly different amounts. German decorated zithers of 1900 are extremely common and sell for under $150.","problems":"The instrument is not named. Estimate assumes a good answer to a question the catalogue does not ask. Antique instruments are almost always unplayable and the repair economics are terrible.","target":0,"ceiling":0,"patience":"High.","star":false},
-
-{"lot":1233,"verdict":"BUY IF CHEAP","criteria":["antique"],"date":"18th-19th c.","status":"antique","evidence":"Catalogued","category":"tools","period":"georgian","market":[250,550],"resale":[170,380],"analysis":"Three 18th-19th-century naval artillery iron tools -- rammers, worms, ladles or linstocks. Catalogued to the period, genuinely antique, and it sits at the intersection of the marine interest and the age criterion. Naval gunnery implements are handsome objects and read well on a wall. $400-600 for three.","problems":"Wrought iron of this type is impossible to date from a photograph and is reproduced for reenactment and film use in exactly these forms. The tells are hand-forged weld lines, irregular hammer marks and deep pitted mill scale rather than clean modern stock. Confirm all three are period and that none is a made-up replacement. At $528-792 all-in it is mid-band for objects whose date rests entirely on the cataloguer's word.","target":300,"ceiling":475,"patience":"Moderate. Naval iron surfaces regularly in marine sales; period examples are the smaller share.","star":false},
-
-{"lot":1294,"verdict":"BUY IF CHEAP","criteria":["antique"],"date":"19th-early 20th c.","status":"border","evidence":"Unverified","category":"tools","period":"victorian","market":[150,350],"resale":[100,240],"analysis":"An eleven-piece antique tool collection, $200-300 -- roughly $20-27 a tool, which is box-lot pricing and honest for it. Tool box lots are one of the few places at auction where you can occasionally find a maker's stamp nobody read, and eleven pieces is enough for that to be worth a look.","problems":"'Antique tool collection' names nothing. Eleven unspecified tools could be eleven Stanley planes or eleven rusted screwdrivers. This is a preview lot, not a bidding-from-the-photograph lot -- go and read the stamps.","target":175,"ceiling":275,"patience":"Very high. Tool box lots are in every sale.","star":false},
-
-{"lot":2078,"verdict":"BUY","criteria":["antique","maine"],"date":"19th-early 20th c.","status":"border","evidence":"Unverified","category":"tools","period":"victorian","market":[200,450],"resale":[140,310],"analysis":"Wood-cased sailmaker's tools, $200-300 -- fids, seam rubbers, sail needles, a serving mallet, a palm, in their original case. This is exactly the material the marine and Maine criteria are for: a coastal working trade, an object that belongs on the midcoast, and a cased set that reads as a collection rather than a pile. Sailmakers' kits with their original box are considerably better than loose tools and are increasingly hard to find complete.","problems":"Completeness is the whole question and it is the standing rule for cased sets: count the tools against the fitted recesses in the case, because empty slots are money off. Whalebone or ivory seam rubbers and fids are common in these kits and would bring the marine-mammal-material restrictions into play -- check what the handles are before bidding, since that affects both legality of resale and shipping. Only the title to work from.","target":225,"ceiling":350,"patience":"Moderate. Sailmakers' tools run through Thomaston regularly; complete cased sets less so.","star":true},
-
-{"lot":2505,"verdict":"PASS","criteria":[],"date":"20th c.","status":"unverified","evidence":"Unverified","category":"tools","period":"modern","market":[75,200],"resale":[0,0],"analysis":"Two Chinese carved ivory desk tools, $200-300. Elephant ivory, undated. Federal law and Maine state law both restrict ivory sales, and undated carved ivory with no documentation is effectively unsaleable and legally exposed to buy -- there is no antique exemption without documentary proof of age, and none is offered here.","problems":"Ivory with no age documentation. The resale figure is zero not because the object has no aesthetic value but because it cannot lawfully be resold across state lines without proof this lot does not provide. Do not bid.","target":0,"ceiling":0,"patience":"Not applicable -- this is a category to avoid, not to wait for.","star":false},
-
-{"lot":1123,"verdict":"PASS","criteria":[],"date":"c.1935-1965","status":"modern","evidence":"Inferred","category":"folkart","period":"midcentury","market":[200,500],"resale":[140,350],"analysis":"A vintage Ruppert Knickerbocker beer merchandising sign, $600-800. Breweriana is a real and active collecting field and Ruppert is a well-known New York brand, but the material is mid-20th-century advertising -- 'vintage' in the title is the cataloguer avoiding a date. Post-1926 in any reading.","problems":"Above the comfortable band at $792-1,056 all-in for advertising. No date, no material named (tin, cardboard, reverse-glass and neon all exist for this brand and differ tenfold in value). Breweriana is heavily reproduced.","target":0,"ceiling":0,"patience":"High. Brewery advertising runs constantly.","star":false},
-
-{"lot":1187,"verdict":"BUY","criteria":["antique"],"date":"19th c.","status":"antique","evidence":"Catalogued","category":"folkart","period":"victorian","market":[300,700],"resale":[210,480],"analysis":"Nineteenth-century Mexican santos, $300-500. Catalogued to the century, so the age criterion is met on a claim the house can be held to. Colonial and post-colonial Mexican santos -- carved and polychromed devotional figures -- are genuine folk sculpture with an established market, and the surviving original paint surface is what carries the value. This is the kind of unfashionable-but-real object the collecting brief is built to find.","problems":"Santos are among the most convincingly faked folk objects, because artificially aged polychrome on new carving is cheap to make and the market rewards a distressed surface. The tells are shrinkage cracks that run with the grain and through the paint, dirt sitting in the crevices rather than on the high points, and old glue repairs at the joints. Missing hands and attributes are normal for the type and only a modest discount; a repainted surface is a total one. Plural in the title, so establish how many figures and their condition individually.","target":325,"ceiling":475,"patience":"Moderate. Santos come through American sales regularly; 19th-century ones with original surface are the minority.","star":true},
-
-{"lot":1244,"verdict":"PASS","criteria":["maker"],"date":"c.1960-2009","status":"modern","evidence":"Inferred","category":"folkart","period":"midcentury","market":[800,2000],"resale":[550,1380],"analysis":"Dave Plewes (Liverpool, NY 1928-2009), three pairs of miniature duck decoys, $2,000-3,000. Plewes is a documented and genuinely collected miniature carver and six of his birds is a real lot -- the estimate reflects the market rather than inflating it. But $2,640-3,960 all-in is three to four times the band, and the material is post-war New York carving rather than anything Maine or antique.","problems":"Above budget by a wide margin. First lot of a seven-lot decoy consignment (1244-1281); the cheaper ones are the ones to look at.","target":0,"ceiling":0,"patience":"Moderate. Plewes miniatures appear in decoy sales regularly.","star":false},
-
-{"lot":1250,"verdict":"BUY IF CHEAP","criteria":[],"date":"c.1920-1960","status":"border","evidence":"Unverified","category":"folkart","period":"deco","market":[150,400],"resale":[100,280],"analysis":"A carved and painted mallard decoy, $300-500. 'Vintage' with no maker and no date -- so an anonymous working decoy, which is not a bad thing to be. Original paint and honest gunning wear are what the decoy market actually pays for; a maker's name multiplies it, but an anonymous bird with a good surface is a real object at a fair price.","problems":"No maker, no region, no date. The decoy field is deeply faked and 'aged' repaints are the standard trick -- look for shot scars, wear patterns that follow how a bird was actually handled, and paint that has crazed rather than been distressed. Estimate is at the top of what anonymous mallards make.","target":175,"ceiling":300,"patience":"Very high. Anonymous decoys run in quantity at every New England sale.","star":false},
-
-{"lot":1254,"verdict":"BUY IF CHEAP","criteria":["maker"],"date":"c.1950-2000","status":"modern","evidence":"Inferred","category":"folkart","period":"midcentury","market":[200,450],"resale":[140,310],"analysis":"A Charlie Joiner (Maryland, 1921-2015) duck decoy, $300-500. Joiner was a well-known Chesapeake Bay carver with a real and liquid secondary market, and a signed Joiner bird is a documented named-maker object -- which is more than most decoys offer. Dated by lifespan, so modern; this earns nothing on age.","problems":"Post-1926 by any reading. Chesapeake rather than New England, so no regional fit for a Maine collection. Joiner carved prolifically over sixty years and prices vary enormously by period and species -- his early working birds are worth several times his late decoratives. No date, no species detail, no brand or signature discussed.","target":225,"ceiling":375,"patience":"High. Joiner birds are regularly available in decoy sales.","star":false},
-
-{"lot":1258,"verdict":"PASS","criteria":[],"date":"c.1950-1990","status":"modern","evidence":"Inferred","category":"folkart","period":"midcentury","market":[75,200],"resale":[50,140],"analysis":"A Decoys Unlimited Canada goose decoy, $300-400. Decoys Unlimited was a commercial manufacturer, not a carver -- these are factory or semi-production birds, and the market prices them accordingly.","problems":"Factory production, post-war, estimated at two to four times what these make. Nothing here is folk art in any meaningful sense.","target":0,"ceiling":0,"patience":"Very high.","star":false},
-
-{"lot":1264,"verdict":"BUY IF CHEAP","criteria":[],"date":"c.1900-1960","status":"border","evidence":"Unverified","category":"folkart","period":"deco","market":[150,375],"resale":[100,260],"analysis":"A swimming-position Canada goose decoy, $300-400. Anonymous, undated. Swimmers are a less common and generally more desirable posture than standard floaters, and full-size goose decoys have presence that duck decoys do not.","problems":"No maker, no date, no region. Large goose decoys are also made decoratively in quantity for the Ralph Lauren end of the market and those are worth $40. Judge it entirely on surface and construction at preview: a working bird shows a weight or keel scar on the bottom, an anchor line tie, and paint worn at the contact points.","target":175,"ceiling":300,"patience":"Very high.","star":false},
-
-{"lot":1281,"verdict":"BUY IF CHEAP","criteria":[],"date":"c.1920-1970","status":"border","evidence":"Unverified","category":"folkart","period":"deco","market":[100,300],"resale":[70,210],"analysis":"Three folk art fish decoys, $200-300 -- ice-spearing decoys, a Great Lakes and northern-Michigan tradition with a devoted collecting base. Three for $200-300 is $65-100 each, which is where anonymous working fish decoys actually trade. The cheapest lot in the decoy consignment and the one where the estimate is closest to right.","problems":"Fish decoys are the most faked object in American folk art after weathervanes -- they are small, quick to carve and easy to age, and the fakes have been in the market since the 1980s. Period ones have lead-weighted bellies, sheet-metal fins set into saw kerfs, and line-tie wear. No maker, no region, no date.","target":150,"ceiling":250,"patience":"Very high.","star":false},
-
-{"lot":2170,"verdict":"PASS","criteria":[],"date":"20th c.","status":"modern","evidence":"Inferred","category":"folkart","period":"modern","market":[200,450],"resale":[140,310],"analysis":"A carved and gilt eagle, 'possibly Masonic', $600-800. The photograph does not support age. The carving is competent but mechanical -- feathers laid in even, regular incised rows rather than the varied, hand-found rhythm of a period carver -- and the gilding is bright, unbroken and evenly laid, with no craquelure, no gesso loss at the high points and no rubbing where a century of dusting would have taken it. A little white gesso shows at one wing edge, which reads as a recent chip rather than age. This is a 20th-century decorative or lodge eagle, not a Bellamy-school ship carving.","problems":"'Possibly Masonic' is the cataloguer guessing at a provenance that would explain the price. The estimate is the real evidence: a genuine 19th-century American carved eagle of this scale is a $2,000-15,000 object, and the house has put $600-800 on it. Believe the estimate.","target":0,"ceiling":0,"patience":"Very high. Carved eagles, most of them 20th century, are in every sale.","star":false},
-
-{"lot":3005,"verdict":"PASS","criteria":[],"date":"20th c.","status":"unverified","evidence":"Unverified","category":"folkart","period":"modern","market":[600,1800],"resale":[420,1250],"analysis":"A fish sign with inset slate, $1,500-2,500 -- the opening lot of the Day 3 trade-sign consignment (3005, 3013, 3017, 3022, 3026, 3027). Trade signs are the headline of Day 3 and they are the category where the gap between a period sign and a decorator's reproduction is largest, both visually and in price. All six are above the band.","problems":"Above budget at $1,980-3,300 all-in. No date anywhere in the title, which on a category this heavily reproduced is the whole question. Trade signs made for the antique trade since the 1970s are numerous, well aged and specifically designed to photograph like this.","target":0,"ceiling":0,"patience":"Moderate. Trade signs run at Thomaston regularly -- this consignment is why Day 3 exists.","star":false},
-
-{"lot":3013,"verdict":"PASS","criteria":[],"date":"20th c.","status":"unverified","evidence":"Unverified","category":"folkart","period":"modern","market":[400,1400],"resale":[280,970],"analysis":"A coffee pot trade sign, $1,000-2,000. Figural trade signs -- the giant coffee pot, boot, key, spectacles -- are the most desirable form of the category and, for the same reason, the most reproduced. Above the band.","problems":"Above budget at $1,320-2,640 all-in. No date, no material, no region. A period tin coffee-pot sign shows soldered seams, layered repaint history and rust originating at the seams and fixings; a reproduction is aged from the outside in. Nothing in the catalogue engages with any of that.","target":0,"ceiling":0,"patience":"Moderate.","star":false},
-
-{"lot":3017,"verdict":"PASS","criteria":[],"date":"20th c.","status":"unverified","evidence":"Unverified","category":"folkart","period":"modern","market":[400,1200],"resale":[280,830],"analysis":"A painted wood pig trade sign, $1,000-1,500 -- a butcher's sign, the single most-copied figural trade sign there is. Above the band.","problems":"Above budget. Undated. Pig signs are produced new for the decorator trade in quantity and distressed convincingly; the period ones have a paint stratigraphy you can see in the losses and iron fixings that have bled into the wood. No date offered.","target":0,"ceiling":0,"patience":"Moderate.","star":false},
-
-{"lot":3022,"verdict":"PASS","criteria":[],"date":"20th c.","status":"unverified","evidence":"Unverified","category":"folkart","period":"modern","market":[300,900],"resale":[210,620],"analysis":"A large painted tin basin made into a Guinness and lobster sign, $1,000-2,000. The description is itself the problem: this is a repurposed object, painted at some point with a commercial subject, and 'as a sign' means somebody made it into one. The lobster gives it Maine appeal, which is presumably the point.","problems":"Above budget at $1,320-2,640 all-in. Repurposed and repainted, so neither the tin nor the painting can be dated by the other. Guinness advertising is a specific and heavily faked collecting field. This reads as decorator work.","target":0,"ceiling":0,"patience":"Very high.","star":false},
-
-{"lot":3026,"verdict":"PASS","criteria":[],"date":"20th c.","status":"unverified","evidence":"Unverified","category":"folkart","period":"modern","market":[300,800],"resale":[210,550],"analysis":"A Powers Whiskey reverse-painted pub sign, $800-1,200. Irish pub mirrors and reverse-painted whiskey signs are made continuously for the theme-pub trade and have been since the 1970s; genuine Victorian ones exist but are documented and expensive. Above the band at $1,056-1,584 all-in.","problems":"Above budget. No date. Reverse-painted glass advertising is the single easiest category to reproduce convincingly, and the Irish whiskey brands are the most reproduced within it. Nothing in the title claims age.","target":0,"ceiling":0,"patience":"Very high.","star":false},
-
-{"lot":3027,"verdict":"PASS","criteria":[],"date":"20th c.","status":"modern","evidence":"Catalogued","category":"folkart","period":"modern","market":[300,700],"resale":[210,480],"analysis":"A carved and painted REPLICA cigar store Indian, $500-700. The catalogue says replica, which is the most honest word in the Day 3 sign consignment and settles the question completely. A decorative modern carving.","problems":"Catalogued as a replica and estimated at $500-700, which is $660-924 all-in for an object the house has told you is not old. Nothing fits any criterion.","target":0,"ceiling":0,"patience":"Very high.","star":false},
-
-{"lot":1241,"verdict":"PASS","criteria":["maker"],"date":"1976","status":"modern","evidence":"Inferred","category":"glass","period":"modern","market":[4000,9000],"resale":[2800,6200],"analysis":"A pair of Centennial Colt Peacemakers in the original glass case, $8,000-12,000 -- by far the highest estimate in this group and eight to twelve times the band. Cased commemorative Colt pairs are a real firearms-collector market and the estimate is in the right neighbourhood. It is also 1976 production, which is modern by fifty years.","problems":"Massively above budget. Firearms also carry transfer requirements that an out-of-state online buyer has to route through an FFL, which the budget analysis here does not attempt to price. Not remotely a fit.","target":0,"ceiling":0,"patience":"Moderate. Commemorative Colt pairs are regularly available.","star":false},
-
-{"lot":1402,"verdict":"PASS","criteria":[],"date":"c.1970-2010","status":"modern","evidence":"Inferred","category":"glass","period":"modern","market":[100,275],"resale":[70,190],"analysis":"A Chinese elm and glass-top coffee table, $300-400. Modern furniture in the Chinese decorative idiom; a glass top is itself a modern-manufacture signal. No age, no maker, no criteria fit.","problems":"Estimate is above the market for an import coffee table. Undated.","target":0,"ceiling":0,"patience":"Very high.","star":false},
-
-{"lot":1417,"verdict":"PASS","criteria":[],"date":"20th c.","status":"unverified","evidence":"Unverified","category":"glass","period":"modern","market":[100,250],"resale":[70,170],"analysis":"A Chinese Peking glass bowl, $300-400 -- undated, in contrast to its immediate neighbour 1419, which the same cataloguer describes as 'early'. When one of two adjacent lots of the same material gets an age word and the other does not, read the omission.","problems":"No date. Peking overlay glass has been made continuously since the 18th century and modern production is excellent and cheap. Estimate is a block default.","target":0,"ceiling":0,"patience":"Very high.","star":false},
-
-{"lot":1419,"verdict":"BUY IF CHEAP","criteria":["antique"],"date":"19th c. or earlier if right","status":"border","evidence":"Unverified","category":"glass","period":"victorian","market":[150,500],"resale":[100,350],"analysis":"Two 'early' Peking glass bowls, $300-400, with eight photographs -- the most documented lot in this group, which itself suggests the house thinks there is something here. Peking glass is a genuine Qing imperial and workshop tradition and good 18th-19th-century monochrome and overlay bowls are collected. Two bowls at $150-200 each is not an unreasonable place to take a chance.","problems":"'Early' is the vaguest possible age word and the standing rule about unverified dating applies. Peking glass is copied continuously and modern Chinese production is technically excellent -- the distinguishing features are wheel-polished pontil areas, slight asymmetry, and a body colour with the faint smokiness of period batch glass, none of which resolve in a photograph. Eight images are an opportunity: look at them all at preview alongside the pieces.","target":200,"ceiling":325,"patience":"High. Peking glass runs regularly and almost all of it raises this question.","star":false},
-
-{"lot":3051,"verdict":"PASS","criteria":["maker","artnouveau"],"date":"c.1900-1928 if right","status":"unverified","evidence":"Unverified","category":"glass","period":"artnouveau","market":[2000,6000],"resale":[1400,4100],"analysis":"A Tiffany Studios 'Acorn' pattern leaded glass lamp shade, $3,000-5,000. This is exactly the case the brief anticipates -- the headline name, the authentic Art Nouveau criterion, and a price four to six times the band. $3,960-6,600 all-in. Acorn is Tiffany's most common leaded pattern and a genuine one in good condition does trade in this range, so the estimate is not itself a red flag; it is simply out of reach.","problems":"Above budget by a factor of four. Tiffany shades are the most reproduced object in American decorative arts and the fakes carry convincing stamped tags; authentication rests on glass character, lead line profile and the tag's font and mounting, all of which need the shade in hand and preferably a specialist. Nothing in the catalogue addresses any of it.","target":0,"ceiling":0,"patience":"Low on real Tiffany, but irrelevant -- this budget does not buy one, and the brief already says so.","star":false},
-
-{"lot":3059,"verdict":"BUY IF CHEAP","criteria":["antique"],"date":"c.1920","status":"border","evidence":"Catalogued","category":"glass","period":"deco","market":[200,500],"resale":[140,350],"analysis":"A circa 1920 table lamp with a reverse-painted glass shade, $500-700. Catalogued to c.1920, which puts it just inside the antique line -- 'border', because a c.1920 attribution with no maker is soft. Reverse-painted shade lamps by Handel, Pittsburgh, Moe Bridges and their many imitators are a real category, and an unsigned one is a fraction of a signed one.","problems":"No maker named, which on reverse-painted lamps is most of the value. Check the interior of the shade rim for a signature and the base for a maker's mark. Reverse-painted shades flake from the inside and the damage is invisible when lit and obvious when not -- inspect unlit. Estimate at $660-924 all-in is at the top of the band for an unsigned lamp.","target":250,"ceiling":425,"patience":"High. Reverse-painted lamps run constantly; unsigned ones are the bulk of the supply.","star":false},
-
-{"lot":3106,"verdict":"PASS","criteria":["maker"],"date":"c.1920-1932","status":"border","evidence":"Inferred","category":"glass","period":"deco","market":[400,1000],"resale":[280,690],"analysis":"A Frederick Carder for Steuben 'Strawberry Mansion' glass urn, $800-1,200. Carder-period Steuben is genuinely collected and the attribution is specific enough to be checkable, which is more than most decorative glass here offers. But $1,056-1,584 all-in is above the band, and the brief already flags Steuben as a market whose estimates run ahead of results and which corrected hard without recovering.","problems":"Above budget, in a market the standing brief names as weak. Carder Steuben is also extensively faked and misattributed -- the acid Steuben fleur-de-lis mark is easy to add. 'Strawberry Mansion' is a specific pattern name; verify it against the Carder shape numbers rather than taking the catalogue's word.","target":0,"ceiling":0,"patience":"Moderate to high. Carder Steuben appears in most decorative-arts sales.","star":false},
-
-{"lot":1286,"verdict":"PASS","criteria":["antique","marine"],"date":"19th c.","status":"antique","evidence":"Unverified","category":"marine","period":"victorian","market":[1200,3000],"resale":[830,2070],"analysis":"A China Trade painting of a US schooner entering port, $2,000-3,000. This is the most criteria-aligned expensive lot in the group -- anonymous 19th-century marine work is precisely what the brief calls out as satisfying both the age criterion and the coastal interest without a maker premium. China Trade harbour views of American vessels are a documented genre with a strong market. It is also $2,640-3,960 all-in, three times the band.","problems":"Above budget by a wide margin. No date, no port identified, no vessel named, no medium confirmed -- 'China Trade painting' covers period oils on canvas, later copies, and 20th-century decorative work in the same idiom. At this estimate the attribution needs to be right and nothing here establishes it.","target":0,"ceiling":0,"patience":"Moderate. China Trade ship portraits appear in most marine sales; this budget does not reach the good ones.","star":false},
-
-{"lot":2198,"verdict":"PASS","criteria":[],"date":"circa 1920","status":"modern","evidence":"Catalogued","category":"furniture","period":"deco","market":[300,800],"resale":[210,550],"analysis":"A New York Empire mahogany settee, circa 1920 -- so a Colonial Revival reproduction of an 1820s form, catalogued honestly to 1920. The house has done the work here: 'Empire' names the style and 'circa 1920' names the date, and the two together mean revival. $1,000-1,500 is above the band regardless.","problems":"Above budget at $1,320-1,980 all-in for revival furniture. Upholstered Victorian and Empire seating is one of the weakest furniture markets there is -- large settees regularly fail to sell at all. Reupholstery on a piece this size costs more than the piece.","target":0,"ceiling":0,"patience":"Very high.","star":false}
+ {
+  "lot": 1067,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [
+   "antique"
+  ],
+  "date": "c.1845-1856",
+  "status": "antique",
+  "evidence": "Inferred",
+  "category": "prints",
+  "period": "victorian",
+  "market": [
+   175,
+   375
+  ],
+  "resale": [
+   120,
+   260
+  ],
+  "analysis": "A hand-coloured lithograph, 'WASHINGTON. First in Valor, Wisdom and Virtue', small folio, with publisher's imprint lines flanking the title and a period gilt frame. The photograph is encouraging on every point that matters: the sheet is evenly toned with scattered foxing in the margins, the colour is flat and unmodulated and runs slightly outside the outlines in the way hand-applied watercolour does, and the frame is a period moulded gilt with genuine flaking and rubbing. This is a mid-19th-c. N. Currier small folio and it satisfies the age criterion outright. Note the standing open question on lots 1069/1070 -- the same consignment -- about originals versus later facsimiles; on the evidence of this sheet the consignment is period.",
+  "problems": "Foxing and margin staining are visible and will not come out without professional washing, which costs more than the print. Washington portraits are among the most common Currier subjects and the small folio is the low end of the format. The imprint lines are too small to read at photograph resolution, so the exact publisher state -- N. Currier versus Currier & Ives -- is unconfirmed. Estimate at $300-400 is at the top of what small folios make; the frame is doing part of the work.",
+  "target": 180,
+  "ceiling": 280,
+  "patience": "Very high. Small folio Currier prints are the most available 19th-c. American print there is.",
+  "star": false
+ },
+ {
+  "lot": 1071,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [
+   "antique"
+  ],
+  "date": "c.1855-1885",
+  "status": "antique",
+  "evidence": "Inferred",
+  "category": "prints",
+  "period": "victorian",
+  "market": [
+   150,
+   350
+  ],
+  "resale": [
+   100,
+   240
+  ],
+  "analysis": "A Currier & Ives harness racing print, $300-400 -- the trotting-horse subjects are the firm's most reproduced and most collected category at once. Same consignment as 1067, 1069 and 1070, and the same judgement applies: assess the sheet, not the name.",
+  "problems": "Trotting scenes are also the most facsimiled Currier subjects, because they sell -- the 1930s and 1940s Calendar and Travelers Insurance reproductions of racing prints are everywhere and fool people constantly. This is the lot in the group where the loupe matters most: a period stone lithograph has continuous granular tone with no dot structure, a photomechanical facsimile shows a rosette. Only two photographs and neither resolves it.",
+  "target": 160,
+  "ceiling": 275,
+  "patience": "Very high.",
+  "star": false
+ },
+ {
+  "lot": 1068,
+  "verdict": "PASS",
+  "criteria": [
+   "antique"
+  ],
+  "date": "19th c.",
+  "status": "antique",
+  "evidence": "Unverified",
+  "category": "prints",
+  "period": "victorian",
+  "market": [
+   600,
+   1800
+  ],
+  "resale": [
+   420,
+   1250
+  ],
+  "analysis": "'Rare monumental George Washington Valley Forge print', $1,500-2,000 -- $1,980-2,640 all-in, well above the band. Large-format American historical prints in good condition are a real market and 'monumental' large folios do bring four figures, so the estimate is not absurd; it is simply out of reach.",
+  "problems": "Above budget. 'Rare' and 'monumental' with no publisher, no date and no process named is auction copywriting rather than description. Large folios of this subject are also the most reproduced.",
+  "target": 0,
+  "ceiling": 0,
+  "patience": "Moderate.",
+  "star": false
+ },
+ {
+  "lot": 1288,
+  "verdict": "PASS",
+  "criteria": [
+   "antique"
+  ],
+  "date": "1878",
+  "status": "antique",
+  "evidence": "Catalogued",
+  "category": "prints",
+  "period": "victorian",
+  "market": [
+   900,
+   2500
+  ],
+  "resale": [
+   620,
+   1730
+  ],
+  "analysis": "A monumental 1878 Currier & Ives double steamboat print, $2,000-3,000. The date is catalogued and the large folio Mississippi steamboat subjects -- 'A Midnight Race on the Mississippi' and its relatives -- are the top of the Currier & Ives market, so the estimate reflects a real thing. $2,640-3,960 all-in puts it two to three times over the band.",
+  "problems": "Above budget by a wide margin. Large folio steamboat prints are also the most valuable and therefore the most facsimiled Currier subjects; at this price level condition, margins and state need expert examination. Only one photograph on the highest-value print in the sale.",
+  "target": 0,
+  "ceiling": 0,
+  "patience": "Low. Large folio steamboats are genuinely scarce -- but not at this budget.",
+  "star": false
+ },
+ {
+  "lot": 1166,
+  "verdict": "PASS",
+  "criteria": [
+   "maker",
+   "maine"
+  ],
+  "date": "post-1990 reproduction",
+  "status": "modern",
+  "evidence": "Inferred",
+  "category": "prints",
+  "period": "contemporary",
+  "market": [
+   60,
+   150
+  ],
+  "resale": [
+   40,
+   100
+  ],
+  "analysis": "Andrew Wyeth, 'Blue Door, Olson House' -- and the subject is the Olson house in Cushing, twenty minutes down the road, which is exactly why the room will bid it. The photographs settle what the catalogue will not. The sheet is matted tight to the image edge with no margin showing on any side. A signed and numbered impression is never matted that way: the pencil signature and the edition number live in the bottom margin and are the entire reason anyone pays for the print, so framers show them. Cropping the margin away means there is nothing in the margin. This is a commercial reproduction of a Wyeth watercolour.",
+  "problems": "This is the §9 Wyeth block behaving exactly as predicted -- eleven consecutive lots, one consignor, the most famous name in Maine painting, and a catalogue that says only 'print'. All five of the remaining unresolved Wyeth lots in this block (1166, 1167, 1168, 1170, 1171) are matted the same way. Estimate $300-400 for a $60-150 reproduction. The Maine subject is real and the object is not.",
+  "target": 0,
+  "ceiling": 0,
+  "patience": "Very high. There are 37 Wyeth lots across this sale.",
+  "star": false
+ },
+ {
+  "lot": 1167,
+  "verdict": "PASS",
+  "criteria": [
+   "maker"
+  ],
+  "date": "post-1970 reproduction",
+  "status": "modern",
+  "evidence": "Inferred",
+  "category": "prints",
+  "period": "contemporary",
+  "market": [
+   60,
+   150
+  ],
+  "resale": [
+   40,
+   100
+  ],
+  "analysis": "Andrew Wyeth, 'The Patriot' -- the 1964 portrait of Ralph Cline in his WWI uniform, and Cline was a Maine sawmill owner from Spruce Head, so this is the second Maine-subject lot in the block. The reproduction is a good one: continuous tone, no visible dot structure at this resolution, sympathetic colour. But it is matted flush to the image with no margin, no signature, no edition -- the same presentation as every other lot in the consignment. That uniformity is the answer.",
+  "problems": "Same block, same estimate, same absence of a named process. $300-400 for a reproduction that trades at $60-150. If you want a Cline portrait on the wall, the object is fine; do not pay print prices for it.",
+  "target": 0,
+  "ceiling": 0,
+  "patience": "Very high.",
+  "star": false
+ },
+ {
+  "lot": 1168,
+  "verdict": "PASS",
+  "criteria": [
+   "maker"
+  ],
+  "date": "post-1970 reproduction",
+  "status": "modern",
+  "evidence": "Inferred",
+  "category": "prints",
+  "period": "contemporary",
+  "market": [
+   60,
+   150
+  ],
+  "resale": [
+   40,
+   100
+  ],
+  "analysis": "Andrew Wyeth, 'Cold Spring', $300-400, catalogued only as 'print'. Third of the five unresolved lots in the block and matted identically to the others.",
+  "problems": "See 1166. The silence about process is the catalogue declining to commit, and the mat is doing the rest of the work.",
+  "target": 0,
+  "ceiling": 0,
+  "patience": "Very high.",
+  "star": false
+ },
+ {
+  "lot": 1170,
+  "verdict": "PASS",
+  "criteria": [
+   "maker"
+  ],
+  "date": "post-1970 reproduction",
+  "status": "modern",
+  "evidence": "Inferred",
+  "category": "prints",
+  "period": "contemporary",
+  "market": [
+   50,
+   125
+  ],
+  "resale": [
+   35,
+   85
+  ],
+  "analysis": "Andrew Wyeth, 'Wolf River', $200-300 -- the cheaper end of the block, and the estimate drop is the one honest signal in it. Same mat, same absence of margin, same absence of a named process.",
+  "problems": "See 1166.",
+  "target": 0,
+  "ceiling": 0,
+  "patience": "Very high.",
+  "star": false
+ },
+ {
+  "lot": 1171,
+  "verdict": "PASS",
+  "criteria": [
+   "maker"
+  ],
+  "date": "post-1970 reproduction",
+  "status": "modern",
+  "evidence": "Inferred",
+  "category": "prints",
+  "period": "contemporary",
+  "market": [
+   50,
+   125
+  ],
+  "resale": [
+   35,
+   85
+  ],
+  "analysis": "Andrew Wyeth, 'Albert's Son', $200-300. This is the clearest of the five: the sheet is a smooth bright white with none of the warm, slightly textured surface of a collotype, and it is matted flush to the image. Offset lithography on coated stock. Last of the block.",
+  "problems": "See 1166. With 1163 confirmed a giclee, 1164 confirmed a 1993 Aaron Ashley commercial 'COLLOGRAPH' reproduction, and 1169 confirmed as three Helga portfolios, the whole eleven-lot Wyeth consignment is now accounted for and none of it is a signed edition print.",
+  "target": 0,
+  "ceiling": 0,
+  "patience": "Very high.",
+  "star": false
+ },
+ {
+  "lot": 1430,
+  "verdict": "PASS",
+  "criteria": [
+   "maker"
+  ],
+  "date": "1982",
+  "status": "modern",
+  "evidence": "Catalogued",
+  "category": "prints",
+  "period": "contemporary",
+  "market": [
+   25,
+   75
+  ],
+  "resale": [
+   15,
+   50
+  ],
+  "analysis": "A 1982 N.C. Wyeth poster, $100-150. Catalogued to the year, so at least the house is straight about it. A poster is a poster: 1980s exhibition posters after N.C. Wyeth trade at $25-75 framed, and this one is estimated at twice that.",
+  "problems": "Post-1926 by a wide margin, no edition, no signature, no criteria fit beyond the family name. Posters of this vintage are usually on acidic stock and have started to brown.",
+  "target": 0,
+  "ceiling": 0,
+  "patience": "Very high.",
+  "star": false
+ },
+ {
+  "lot": 1322,
+  "verdict": "PASS",
+  "criteria": [],
+  "date": "c.1967-1970",
+  "status": "modern",
+  "evidence": "Inferred",
+  "category": "prints",
+  "period": "modern",
+  "market": [
+   75,
+   250
+  ],
+  "resale": [
+   50,
+   170
+  ],
+  "analysis": "An Op Art poster for the band Cream, $200-300. Genuine first-printing psychedelic rock posters are a real and rising market -- but it is a specialist one with heavily documented printings, and reprints outnumber originals many times over. Nothing here fits the collection.",
+  "problems": "No printer, no date, no first-versus-later-printing discussion, which on rock posters is the whole valuation. Post-1926 by four decades.",
+  "target": 0,
+  "ceiling": 0,
+  "patience": "Very high.",
+  "star": false
+ },
+ {
+  "lot": 1473,
+  "verdict": "PASS",
+  "criteria": [
+   "maker"
+  ],
+  "date": "c.1910-1950",
+  "status": "border",
+  "evidence": "Inferred",
+  "category": "prints",
+  "period": "deco",
+  "market": [
+   75,
+   200
+  ],
+  "resale": [
+   50,
+   140
+  ],
+  "analysis": "Marguerite MacKain-Langlois (1886-1979), a 'literary print', $200-300. Dated by artist lifespan only, so the work could fall either side of 1926. MacKain-Langlois has essentially no auction record; the boilerplate dates attached to the lot are indexing, not provenance.",
+  "problems": "'Literary print' names neither a process nor a title. An artist with no market and no date. Estimate assumes the name means something.",
+  "target": 0,
+  "ceiling": 0,
+  "patience": "Very high.",
+  "star": false
+ },
+ {
+  "lot": 2164,
+  "verdict": "PASS",
+  "criteria": [],
+  "date": "c.1876-1930",
+  "status": "border",
+  "evidence": "Unverified",
+  "category": "prints",
+  "period": "victorian",
+  "market": [
+   100,
+   300
+  ],
+  "resale": [
+   70,
+   210
+  ],
+  "analysis": "A framed fabric print of William Penn, $600-800. Printed textiles of American historical subjects were produced for the 1876 Centennial and again in quantity through the early 20th century; without a date this could be either, and neither is worth $600-800.",
+  "problems": "No date, no maker, no process. Printed cottons fade and the framing usually hides the tack edges where the colour survives. Estimate is triple the market for a decorative printed textile.",
+  "target": 0,
+  "ceiling": 0,
+  "patience": "Very high.",
+  "star": false
+ },
+ {
+  "lot": 2248,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [
+   "antique",
+   "maker"
+  ],
+  "date": "c.1845-1870",
+  "status": "antique",
+  "evidence": "Inferred",
+  "category": "prints",
+  "period": "victorian",
+  "market": [
+   250,
+   600
+  ],
+  "resale": [
+   170,
+   410
+  ],
+  "analysis": "A lithograph after William Sidney Mount (US, 1807-1868), $500-700. Mount was a genuinely significant American genre painter and lithographs after his rural and musical subjects were published by Goupil and others in the 1840s-50s. A period impression is a real 19th-century American print by a documented hand -- it satisfies the age criterion and the maker criterion, which most of the prints here do not.",
+  "problems": "'Lithograph' after Mount means Mount painted it and somebody else drew the stone; the standing principle on 'after [maker]' applies to the value if not to the authenticity. No publisher, no date, no state. Mount subjects have been reproduced continuously, including as photogravures around 1900. At $660-924 all-in the estimate is at the top of the band for something unverified.",
+  "target": 300,
+  "ceiling": 475,
+  "patience": "Moderate. Mount lithographs surface a few times a year in American sales.",
+  "star": false
+ },
+ {
+  "lot": 2275,
+  "verdict": "PASS",
+  "criteria": [],
+  "date": "unclear",
+  "status": "unverified",
+  "evidence": "Unverified",
+  "category": "prints",
+  "period": "modern",
+  "market": [
+   50,
+   175
+  ],
+  "resale": [
+   35,
+   120
+  ],
+  "analysis": "'Seal of the Duke of Rochester with print of Philip Powel', $200-300. There has never been a Duke of Rochester -- the title has been an earldom and a viscountcy, never a dukedom -- so the description is wrong on its face. Philip Powel was a 17th-century English Catholic martyr. Whatever this is, the cataloguing does not know.",
+  "problems": "A described object that does not exist as described. No date, no process, no material. This is the kind of lot where the estimate is generated by the framing.",
+  "target": 0,
+  "ceiling": 0,
+  "patience": "Very high.",
+  "star": false
+ },
+ {
+  "lot": 2328,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [
+   "antique"
+  ],
+  "date": "c.1830-1860",
+  "status": "antique",
+  "evidence": "Inferred",
+  "category": "prints",
+  "period": "victorian",
+  "market": [
+   300,
+   700
+  ],
+  "resale": [
+   210,
+   480
+  ],
+  "analysis": "Four panoramic prints of early English railway events, $500-700. Early railway prints -- the Liverpool & Manchester opening, Bury and Ackermann panoramas, aquatints and lithographs of the 1830s-40s -- are a well-established collecting field with a devoted transport-history audience. Four of them, if period, is $75-200 each and genuinely antique.",
+  "problems": "Ackermann railway panoramas are among the most reproduced English prints of the 20th century, and the standard 1930s and 1960s facsimiles are convincing framed and behind glass. Get a loupe on all four. No publisher, date or process named for any of them. Framing and glass mean the margins and any plate marks are hidden.",
+  "target": 350,
+  "ceiling": 550,
+  "patience": "Moderate. English topographical and transport prints run steadily but four panoramas together is a less common offering.",
+  "star": false
+ },
+ {
+  "lot": 2333,
+  "verdict": "PASS",
+  "criteria": [
+   "antique"
+  ],
+  "date": "c.1850-1880",
+  "status": "antique",
+  "evidence": "Inferred",
+  "category": "prints",
+  "period": "victorian",
+  "market": [
+   200,
+   500
+  ],
+  "resale": [
+   140,
+   350
+  ],
+  "analysis": "A monumental Scottish engraving after Jacob Thompson, $600-800. Thompson (1806-1879) was a Lake District painter; large steel engravings after his and similar Victorian narrative pictures were published in the tens of thousands and are the definition of a soft market. 'After' means, as always, that this is a reproductive print.",
+  "problems": "Estimate is two to four times the market. Large Victorian engravings are worth less than their frames in most sales and are usually foxed and light-struck. 'Monumental' is a shipping problem.",
+  "target": 0,
+  "ceiling": 0,
+  "patience": "Very high.",
+  "star": false
+ },
+ {
+  "lot": 2374,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [
+   "antique",
+   "maker"
+  ],
+  "date": "c.1740-1760",
+  "status": "antique",
+  "evidence": "Inferred",
+  "category": "prints",
+  "period": "georgian",
+  "market": [
+   250,
+   600
+  ],
+  "resale": [
+   170,
+   410
+  ],
+  "analysis": "Five Johann Georg Sauter Swiss military engravings of the 1740s, $300-500. This is the oldest print lot in the sale by a century and one of very few objects here that predates 1800. Five 18th-century engravings at $60-100 each is honest pricing, and 'antique' is not in doubt -- these are older than the United States.",
+  "problems": "18th-century Swiss military costume plates are a narrow field with a thin market; scarcity does not translate to price when nobody collects the subject. Check for trimmed margins, backing and old tape repairs, which is what has usually happened to loose 18th-c. plates. Sauter's dates are given no more precisely than 'the 1740s'.",
+  "target": 275,
+  "ceiling": 425,
+  "patience": "Low on the material, high on the demand -- nobody else in the room will chase these, which is exactly why they can be cheap.",
+  "star": false
+ },
+ {
+  "lot": 2419,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [
+   "antique"
+  ],
+  "date": "19th c.",
+  "status": "antique",
+  "evidence": "Catalogued",
+  "category": "prints",
+  "period": "victorian",
+  "market": [
+   150,
+   400
+  ],
+  "resale": [
+   100,
+   280
+  ],
+  "analysis": "A 19th-century drawing of Zurich, $300-500. Catalogued to the century and catalogued as a drawing rather than a print, which -- if true -- makes it a unique work on paper rather than an edition, and that is a different and better proposition than most of this section.",
+  "problems": "'Drawing' with no medium, no artist and no date beyond the century. Nineteenth-century topographical views of Swiss cities exist in enormous numbers as both original pencil-and-wash sketches and as hand-coloured lithographs that look like drawings under glass. Establishing which needs the sheet out of the frame. No maker means no maker premium and no criteria fit beyond age.",
+  "target": 175,
+  "ceiling": 300,
+  "patience": "High. Anonymous 19th-c. topographical views are deep supply.",
+  "star": false
+ },
+ {
+  "lot": 2483,
+  "verdict": "PASS",
+  "criteria": [
+   "maker"
+  ],
+  "date": "1962",
+  "status": "modern",
+  "evidence": "Catalogued",
+  "category": "prints",
+  "period": "midcentury",
+  "market": [
+   150,
+   400
+  ],
+  "resale": [
+   100,
+   280
+  ],
+  "analysis": "Huang Xuanzhi (Chinese, 1924-2016), 'Summer Day', woodcut, 1962. This is the best-catalogued print in the sale -- named artist, named process, named title, dated to the year -- and it is the one where all that information tells you it does not fit. A 1962 Chinese woodcut is thirty-six years the wrong side of the antique line and belongs to a collecting field with no overlap with this collection.",
+  "problems": "Post-1926 by the catalogue's own dating. Chinese modern print prices are volatile and largely made in Asian salerooms; a Maine estimate of $300-500 is a guess.",
+  "target": 0,
+  "ceiling": 0,
+  "patience": "Moderate.",
+  "star": false
+ },
+ {
+  "lot": 3272,
+  "verdict": "PASS",
+  "criteria": [
+   "maker"
+  ],
+  "date": "1956 or later",
+  "status": "modern",
+  "evidence": "Catalogued",
+  "category": "prints",
+  "period": "midcentury",
+  "market": [
+   600,
+   1500
+  ],
+  "resale": [
+   420,
+   1040
+  ],
+  "analysis": "An art book of Picasso lithographs 1949-56 with two original prints, $1,000-1,500. The Mourlot-published Picasso lithograph catalogues with original lithographs bound or laid in are legitimate and collected -- but $1,320-1,980 all-in is well above the band, and Picasso is exactly the headline name the brief warns about. Here the estimate is at least honest about which end of Picasso this is.",
+  "problems": "Above budget. 'Original prints' in a book context usually means unsigned book lithographs, not signed impressions -- the distinction is worth thousands and the catalogue does not make it. Post-1926.",
+  "target": 0,
+  "ceiling": 0,
+  "patience": "Moderate. Mourlot Picasso volumes run regularly.",
+  "star": false
+ },
+ {
+  "lot": 3293,
+  "verdict": "PASS",
+  "criteria": [
+   "maker"
+  ],
+  "date": "c.1950-1980",
+  "status": "modern",
+  "evidence": "Inferred",
+  "category": "prints",
+  "period": "midcentury",
+  "market": [
+   200,
+   600
+  ],
+  "resale": [
+   140,
+   410
+  ],
+  "analysis": "A Marino Marini portfolio, $300-500. Marini is a major 20th-century Italian sculptor and printmaker with a real market, but a 'portfolio' with no title, no date, no edition and no count of sheets is unassessable, and post-war Italian print portfolios include a lot of unsigned book editions and later reproductions.",
+  "problems": "No edition, no signature discussion, no sheet count. Post-1926. Marini's market is European and does not price well in a Maine general sale, in either direction.",
+  "target": 0,
+  "ceiling": 0,
+  "patience": "Moderate.",
+  "star": false
+ },
+ {
+  "lot": 1074,
+  "verdict": "BUY",
+  "criteria": [
+   "antique"
+  ],
+  "date": "c.1850-1900",
+  "status": "antique",
+  "evidence": "Inferred",
+  "category": "tools",
+  "period": "victorian",
+  "market": [
+   175,
+   400
+  ],
+  "resale": [
+   120,
+   280
+  ],
+  "analysis": "Brass-bound log-measuring calipers, $200-300. These are timber scaling calipers -- a working forestry instrument for measuring log diameter and reading off board feet -- and in Maine that is local industrial history rather than generic tool-shop stock. Brass-bound boxwood or beech examples with legible scales are genuinely 19th century and honestly priced here.",
+  "problems": "Only the title to go on: no maker, no scale type, no length. The value is in the maker's stamp and the legibility of the graduations, both of which need the piece in hand. Scaling rules and calipers were made well into the 20th century in the same pattern, so 'antique' rests on construction and wear rather than a date. Brass fittings on a wooden arm loosen; check the sliding jaw is not sloppy.",
+  "target": 180,
+  "ceiling": 275,
+  "patience": "Moderate. Maine timber tools appear regularly but usually as anonymous rules; a brass-bound caliper is a step up.",
+  "star": true
+ },
+ {
+  "lot": 1076,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [
+   "antique",
+   "maker"
+  ],
+  "date": "c.1925",
+  "status": "border",
+  "evidence": "Catalogued",
+  "category": "tools",
+  "period": "deco",
+  "market": [
+   200,
+   450
+  ],
+  "resale": [
+   140,
+   310
+  ],
+  "analysis": "A circa 1925 gallery hygrometer by Friez -- Julien P. Friez & Sons of Baltimore, a documented and well-regarded American meteorological instrument maker whose barographs and hygrometers are collected. Catalogued to c.1925, which lands the piece exactly on the 1926 line: 'border', and honestly so. A named American instrument maker in a case, at $300-400, is one of the better scientific-instrument propositions in the sale.",
+  "problems": "Recording hygrometers depend on a hair or paper element and a clock drum, all of which perish; assume it does not work and value it as an object. Check the drum, the pen arm and whether the original chart paper is present. Friez instruments were also made in quantity for institutional use, so 'gallery' here describes the size, not a special model.",
+  "target": 250,
+  "ceiling": 375,
+  "patience": "Moderate. Friez barographs run a few times a year; hygrometers less often.",
+  "star": false
+ },
+ {
+  "lot": 1227,
+  "verdict": "PASS",
+  "criteria": [
+   "antique"
+  ],
+  "date": "c.1900",
+  "status": "antique",
+  "evidence": "Catalogued",
+  "category": "tools",
+  "period": "artnouveau",
+  "market": [
+   150,
+   400
+  ],
+  "resale": [
+   100,
+   280
+  ],
+  "analysis": "A German folk art musical instrument, ca. 1900, $400-600. Catalogued to the turn of the century, so genuinely antique, but 'musical instrument' unnamed is doing a lot of hiding -- zithers, hurdy-gurdies and decorated cases all live under that description and they are worth wildly different amounts. German decorated zithers of 1900 are extremely common and sell for under $150.",
+  "problems": "The instrument is not named. Estimate assumes a good answer to a question the catalogue does not ask. Antique instruments are almost always unplayable and the repair economics are terrible.",
+  "target": 0,
+  "ceiling": 0,
+  "patience": "High.",
+  "star": false
+ },
+ {
+  "lot": 1233,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [
+   "antique"
+  ],
+  "date": "18th-19th c.",
+  "status": "antique",
+  "evidence": "Catalogued",
+  "category": "tools",
+  "period": "georgian",
+  "market": [
+   250,
+   550
+  ],
+  "resale": [
+   170,
+   380
+  ],
+  "analysis": "Three 18th-19th-century naval artillery iron tools -- rammers, worms, ladles or linstocks. Catalogued to the period, genuinely antique, and it sits at the intersection of the marine interest and the age criterion. Naval gunnery implements are handsome objects and read well on a wall. $400-600 for three.",
+  "problems": "Wrought iron of this type is impossible to date from a photograph and is reproduced for reenactment and film use in exactly these forms. The tells are hand-forged weld lines, irregular hammer marks and deep pitted mill scale rather than clean modern stock. Confirm all three are period and that none is a made-up replacement. At $528-792 all-in it is mid-band for objects whose date rests entirely on the cataloguer's word.",
+  "target": 300,
+  "ceiling": 475,
+  "patience": "Moderate. Naval iron surfaces regularly in marine sales; period examples are the smaller share.",
+  "star": false
+ },
+ {
+  "lot": 1294,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [
+   "antique"
+  ],
+  "date": "19th-early 20th c.",
+  "status": "border",
+  "evidence": "Unverified",
+  "category": "tools",
+  "period": "victorian",
+  "market": [
+   150,
+   350
+  ],
+  "resale": [
+   100,
+   240
+  ],
+  "analysis": "An eleven-piece antique tool collection, $200-300 -- roughly $20-27 a tool, which is box-lot pricing and honest for it. Tool box lots are one of the few places at auction where you can occasionally find a maker's stamp nobody read, and eleven pieces is enough for that to be worth a look.",
+  "problems": "'Antique tool collection' names nothing. Eleven unspecified tools could be eleven Stanley planes or eleven rusted screwdrivers. This is a preview lot, not a bidding-from-the-photograph lot -- go and read the stamps.",
+  "target": 175,
+  "ceiling": 275,
+  "patience": "Very high. Tool box lots are in every sale.",
+  "star": false
+ },
+ {
+  "lot": 2078,
+  "verdict": "PASS",
+  "criteria": [
+   "antique",
+   "maine"
+  ],
+  "date": "19th-early 20th c.",
+  "status": "border",
+  "evidence": "Unverified",
+  "category": "tools",
+  "period": "victorian",
+  "market": [
+   200,
+   450
+  ],
+  "resale": [
+   0,
+   0
+  ],
+  "analysis": "This was one of my starred buys and the description takes it away. I had flagged exactly the right question -- 'check the handles for marine-mammal material' -- and the catalogue answers it: the case contains 'five sail repair tools, including (2) turned WHALEBONE bodkins, 2 3/4\" to 3\" long, and (3) metal sewing needles'. So two of the five tools are marine mammal. It also answers the completeness question: five tools, and the case is a primitive hand-carved wooden one with a stopper, which is a good honest object.",
+  "problems": "Two whalebone bodkins with no documentation of age or origin. That takes the lot's resale to zero even though the case and the three steel needles are unencumbered, because it is sold as one lot. A genuine loss -- this was the right kind of object at the right money, and the material is the only thing wrong with it.",
+  "target": 0,
+  "ceiling": 0,
+  "patience": "Moderate. Sailmakers' tools run through Thomaston regularly; complete cased sets less so.",
+  "star": false
+ },
+ {
+  "lot": 2505,
+  "verdict": "PASS",
+  "criteria": [],
+  "date": "20th c.",
+  "status": "unverified",
+  "evidence": "Unverified",
+  "category": "tools",
+  "period": "modern",
+  "market": [
+   75,
+   200
+  ],
+  "resale": [
+   0,
+   0
+  ],
+  "analysis": "Two Chinese carved ivory desk tools, $200-300. Elephant ivory, undated. Federal law and Maine state law both restrict ivory sales, and undated carved ivory with no documentation is effectively unsaleable and legally exposed to buy -- there is no antique exemption without documentary proof of age, and none is offered here.",
+  "problems": "Ivory with no age documentation. The resale figure is zero not because the object has no aesthetic value but because it cannot lawfully be resold across state lines without proof this lot does not provide. Do not bid.",
+  "target": 0,
+  "ceiling": 0,
+  "patience": "Not applicable -- this is a category to avoid, not to wait for.",
+  "star": false
+ },
+ {
+  "lot": 1123,
+  "verdict": "PASS",
+  "criteria": [],
+  "date": "c.1935-1965",
+  "status": "modern",
+  "evidence": "Inferred",
+  "category": "folkart",
+  "period": "midcentury",
+  "market": [
+   200,
+   500
+  ],
+  "resale": [
+   140,
+   350
+  ],
+  "analysis": "A vintage Ruppert Knickerbocker beer merchandising sign, $600-800. Breweriana is a real and active collecting field and Ruppert is a well-known New York brand, but the material is mid-20th-century advertising -- 'vintage' in the title is the cataloguer avoiding a date. Post-1926 in any reading.",
+  "problems": "Above the comfortable band at $792-1,056 all-in for advertising. No date, no material named (tin, cardboard, reverse-glass and neon all exist for this brand and differ tenfold in value). Breweriana is heavily reproduced.",
+  "target": 0,
+  "ceiling": 0,
+  "patience": "High. Brewery advertising runs constantly.",
+  "star": false
+ },
+ {
+  "lot": 1187,
+  "verdict": "BUY",
+  "criteria": [
+   "antique"
+  ],
+  "date": "19th c.",
+  "status": "antique",
+  "evidence": "Catalogued",
+  "category": "folkart",
+  "period": "victorian",
+  "market": [
+   300,
+   700
+  ],
+  "resale": [
+   210,
+   480
+  ],
+  "analysis": "Nineteenth-century Mexican santos, $300-500. Catalogued to the century, so the age criterion is met on a claim the house can be held to. Colonial and post-colonial Mexican santos -- carved and polychromed devotional figures -- are genuine folk sculpture with an established market, and the surviving original paint surface is what carries the value. This is the kind of unfashionable-but-real object the collecting brief is built to find.",
+  "problems": "Santos are among the most convincingly faked folk objects, because artificially aged polychrome on new carving is cheap to make and the market rewards a distressed surface. The tells are shrinkage cracks that run with the grain and through the paint, dirt sitting in the crevices rather than on the high points, and old glue repairs at the joints. Missing hands and attributes are normal for the type and only a modest discount; a repainted surface is a total one. Plural in the title, so establish how many figures and their condition individually.",
+  "target": 325,
+  "ceiling": 475,
+  "patience": "Moderate. Santos come through American sales regularly; 19th-century ones with original surface are the minority.",
+  "star": true
+ },
+ {
+  "lot": 1244,
+  "verdict": "PASS",
+  "criteria": [
+   "maker"
+  ],
+  "date": "c.1960-2009",
+  "status": "modern",
+  "evidence": "Inferred",
+  "category": "folkart",
+  "period": "midcentury",
+  "market": [
+   800,
+   2000
+  ],
+  "resale": [
+   550,
+   1380
+  ],
+  "analysis": "Dave Plewes (Liverpool, NY 1928-2009), three pairs of miniature duck decoys, $2,000-3,000. Plewes is a documented and genuinely collected miniature carver and six of his birds is a real lot -- the estimate reflects the market rather than inflating it. But $2,640-3,960 all-in is three to four times the band, and the material is post-war New York carving rather than anything Maine or antique.",
+  "problems": "Above budget by a wide margin. First lot of a seven-lot decoy consignment (1244-1281); the cheaper ones are the ones to look at.",
+  "target": 0,
+  "ceiling": 0,
+  "patience": "Moderate. Plewes miniatures appear in decoy sales regularly.",
+  "star": false
+ },
+ {
+  "lot": 1250,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [],
+  "date": "c.1920-1960",
+  "status": "border",
+  "evidence": "Unverified",
+  "category": "folkart",
+  "period": "deco",
+  "market": [
+   150,
+   400
+  ],
+  "resale": [
+   100,
+   280
+  ],
+  "analysis": "A carved and painted mallard decoy, $300-500. 'Vintage' with no maker and no date -- so an anonymous working decoy, which is not a bad thing to be. Original paint and honest gunning wear are what the decoy market actually pays for; a maker's name multiplies it, but an anonymous bird with a good surface is a real object at a fair price.",
+  "problems": "No maker, no region, no date. The decoy field is deeply faked and 'aged' repaints are the standard trick -- look for shot scars, wear patterns that follow how a bird was actually handled, and paint that has crazed rather than been distressed. Estimate is at the top of what anonymous mallards make.",
+  "target": 175,
+  "ceiling": 300,
+  "patience": "Very high. Anonymous decoys run in quantity at every New England sale.",
+  "star": false
+ },
+ {
+  "lot": 1254,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [
+   "maker"
+  ],
+  "date": "c.1950-2000",
+  "status": "modern",
+  "evidence": "Inferred",
+  "category": "folkart",
+  "period": "midcentury",
+  "market": [
+   200,
+   450
+  ],
+  "resale": [
+   140,
+   310
+  ],
+  "analysis": "A Charlie Joiner (Maryland, 1921-2015) duck decoy, $300-500. Joiner was a well-known Chesapeake Bay carver with a real and liquid secondary market, and a signed Joiner bird is a documented named-maker object -- which is more than most decoys offer. Dated by lifespan, so modern; this earns nothing on age.",
+  "problems": "Post-1926 by any reading. Chesapeake rather than New England, so no regional fit for a Maine collection. Joiner carved prolifically over sixty years and prices vary enormously by period and species -- his early working birds are worth several times his late decoratives. No date, no species detail, no brand or signature discussed.",
+  "target": 225,
+  "ceiling": 375,
+  "patience": "High. Joiner birds are regularly available in decoy sales.",
+  "star": false
+ },
+ {
+  "lot": 1258,
+  "verdict": "PASS",
+  "criteria": [],
+  "date": "c.1950-1990",
+  "status": "modern",
+  "evidence": "Inferred",
+  "category": "folkart",
+  "period": "midcentury",
+  "market": [
+   75,
+   200
+  ],
+  "resale": [
+   50,
+   140
+  ],
+  "analysis": "A Decoys Unlimited Canada goose decoy, $300-400. Decoys Unlimited was a commercial manufacturer, not a carver -- these are factory or semi-production birds, and the market prices them accordingly.",
+  "problems": "Factory production, post-war, estimated at two to four times what these make. Nothing here is folk art in any meaningful sense.",
+  "target": 0,
+  "ceiling": 0,
+  "patience": "Very high.",
+  "star": false
+ },
+ {
+  "lot": 1264,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [],
+  "date": "c.1900-1960",
+  "status": "border",
+  "evidence": "Unverified",
+  "category": "folkart",
+  "period": "deco",
+  "market": [
+   150,
+   375
+  ],
+  "resale": [
+   100,
+   260
+  ],
+  "analysis": "A swimming-position Canada goose decoy, $300-400. Anonymous, undated. Swimmers are a less common and generally more desirable posture than standard floaters, and full-size goose decoys have presence that duck decoys do not.",
+  "problems": "No maker, no date, no region. Large goose decoys are also made decoratively in quantity for the Ralph Lauren end of the market and those are worth $40. Judge it entirely on surface and construction at preview: a working bird shows a weight or keel scar on the bottom, an anchor line tie, and paint worn at the contact points.",
+  "target": 175,
+  "ceiling": 300,
+  "patience": "Very high.",
+  "star": false
+ },
+ {
+  "lot": 1281,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [],
+  "date": "c.1920-1970",
+  "status": "border",
+  "evidence": "Unverified",
+  "category": "folkart",
+  "period": "deco",
+  "market": [
+   100,
+   300
+  ],
+  "resale": [
+   70,
+   210
+  ],
+  "analysis": "Three folk art fish decoys, $200-300 -- ice-spearing decoys, a Great Lakes and northern-Michigan tradition with a devoted collecting base. Three for $200-300 is $65-100 each, which is where anonymous working fish decoys actually trade. The cheapest lot in the decoy consignment and the one where the estimate is closest to right.",
+  "problems": "Fish decoys are the most faked object in American folk art after weathervanes -- they are small, quick to carve and easy to age, and the fakes have been in the market since the 1980s. Period ones have lead-weighted bellies, sheet-metal fins set into saw kerfs, and line-tie wear. No maker, no region, no date.",
+  "target": 150,
+  "ceiling": 250,
+  "patience": "Very high.",
+  "star": false
+ },
+ {
+  "lot": 2170,
+  "verdict": "PASS",
+  "criteria": [],
+  "date": "20th c.",
+  "status": "modern",
+  "evidence": "Inferred",
+  "category": "folkart",
+  "period": "modern",
+  "market": [
+   200,
+   450
+  ],
+  "resale": [
+   140,
+   310
+  ],
+  "analysis": "A carved and gilt eagle, 'possibly Masonic', $600-800. The photograph does not support age. The carving is competent but mechanical -- feathers laid in even, regular incised rows rather than the varied, hand-found rhythm of a period carver -- and the gilding is bright, unbroken and evenly laid, with no craquelure, no gesso loss at the high points and no rubbing where a century of dusting would have taken it. A little white gesso shows at one wing edge, which reads as a recent chip rather than age. This is a 20th-century decorative or lodge eagle, not a Bellamy-school ship carving.",
+  "problems": "'Possibly Masonic' is the cataloguer guessing at a provenance that would explain the price. The estimate is the real evidence: a genuine 19th-century American carved eagle of this scale is a $2,000-15,000 object, and the house has put $600-800 on it. Believe the estimate.",
+  "target": 0,
+  "ceiling": 0,
+  "patience": "Very high. Carved eagles, most of them 20th century, are in every sale.",
+  "star": false
+ },
+ {
+  "lot": 3005,
+  "verdict": "PASS",
+  "criteria": [],
+  "date": "20th c.",
+  "status": "unverified",
+  "evidence": "Unverified",
+  "category": "folkart",
+  "period": "modern",
+  "market": [
+   600,
+   1800
+  ],
+  "resale": [
+   420,
+   1250
+  ],
+  "analysis": "A fish sign with inset slate, $1,500-2,500 -- the opening lot of the Day 3 trade-sign consignment (3005, 3013, 3017, 3022, 3026, 3027). Trade signs are the headline of Day 3 and they are the category where the gap between a period sign and a decorator's reproduction is largest, both visually and in price. All six are above the band.",
+  "problems": "Above budget at $1,980-3,300 all-in. No date anywhere in the title, which on a category this heavily reproduced is the whole question. Trade signs made for the antique trade since the 1970s are numerous, well aged and specifically designed to photograph like this.",
+  "target": 0,
+  "ceiling": 0,
+  "patience": "Moderate. Trade signs run at Thomaston regularly -- this consignment is why Day 3 exists.",
+  "star": false
+ },
+ {
+  "lot": 3013,
+  "verdict": "PASS",
+  "criteria": [],
+  "date": "20th c.",
+  "status": "unverified",
+  "evidence": "Unverified",
+  "category": "folkart",
+  "period": "modern",
+  "market": [
+   400,
+   1400
+  ],
+  "resale": [
+   280,
+   970
+  ],
+  "analysis": "A coffee pot trade sign, $1,000-2,000. Figural trade signs -- the giant coffee pot, boot, key, spectacles -- are the most desirable form of the category and, for the same reason, the most reproduced. Above the band.",
+  "problems": "Above budget at $1,320-2,640 all-in. No date, no material, no region. A period tin coffee-pot sign shows soldered seams, layered repaint history and rust originating at the seams and fixings; a reproduction is aged from the outside in. Nothing in the catalogue engages with any of that.",
+  "target": 0,
+  "ceiling": 0,
+  "patience": "Moderate.",
+  "star": false
+ },
+ {
+  "lot": 3017,
+  "verdict": "PASS",
+  "criteria": [],
+  "date": "20th c.",
+  "status": "unverified",
+  "evidence": "Unverified",
+  "category": "folkart",
+  "period": "modern",
+  "market": [
+   400,
+   1200
+  ],
+  "resale": [
+   280,
+   830
+  ],
+  "analysis": "A painted wood pig trade sign, $1,000-1,500 -- a butcher's sign, the single most-copied figural trade sign there is. Above the band.",
+  "problems": "Above budget. Undated. Pig signs are produced new for the decorator trade in quantity and distressed convincingly; the period ones have a paint stratigraphy you can see in the losses and iron fixings that have bled into the wood. No date offered.",
+  "target": 0,
+  "ceiling": 0,
+  "patience": "Moderate.",
+  "star": false
+ },
+ {
+  "lot": 3022,
+  "verdict": "PASS",
+  "criteria": [],
+  "date": "20th c.",
+  "status": "unverified",
+  "evidence": "Unverified",
+  "category": "folkart",
+  "period": "modern",
+  "market": [
+   300,
+   900
+  ],
+  "resale": [
+   210,
+   620
+  ],
+  "analysis": "A large painted tin basin made into a Guinness and lobster sign, $1,000-2,000. The description is itself the problem: this is a repurposed object, painted at some point with a commercial subject, and 'as a sign' means somebody made it into one. The lobster gives it Maine appeal, which is presumably the point.",
+  "problems": "Above budget at $1,320-2,640 all-in. Repurposed and repainted, so neither the tin nor the painting can be dated by the other. Guinness advertising is a specific and heavily faked collecting field. This reads as decorator work.",
+  "target": 0,
+  "ceiling": 0,
+  "patience": "Very high.",
+  "star": false
+ },
+ {
+  "lot": 3026,
+  "verdict": "PASS",
+  "criteria": [],
+  "date": "20th c.",
+  "status": "unverified",
+  "evidence": "Unverified",
+  "category": "folkart",
+  "period": "modern",
+  "market": [
+   300,
+   800
+  ],
+  "resale": [
+   210,
+   550
+  ],
+  "analysis": "A Powers Whiskey reverse-painted pub sign, $800-1,200. Irish pub mirrors and reverse-painted whiskey signs are made continuously for the theme-pub trade and have been since the 1970s; genuine Victorian ones exist but are documented and expensive. Above the band at $1,056-1,584 all-in.",
+  "problems": "Above budget. No date. Reverse-painted glass advertising is the single easiest category to reproduce convincingly, and the Irish whiskey brands are the most reproduced within it. Nothing in the title claims age.",
+  "target": 0,
+  "ceiling": 0,
+  "patience": "Very high.",
+  "star": false
+ },
+ {
+  "lot": 3027,
+  "verdict": "PASS",
+  "criteria": [],
+  "date": "20th c.",
+  "status": "modern",
+  "evidence": "Catalogued",
+  "category": "folkart",
+  "period": "modern",
+  "market": [
+   300,
+   700
+  ],
+  "resale": [
+   210,
+   480
+  ],
+  "analysis": "A carved and painted REPLICA cigar store Indian, $500-700. The catalogue says replica, which is the most honest word in the Day 3 sign consignment and settles the question completely. A decorative modern carving.",
+  "problems": "Catalogued as a replica and estimated at $500-700, which is $660-924 all-in for an object the house has told you is not old. Nothing fits any criterion.",
+  "target": 0,
+  "ceiling": 0,
+  "patience": "Very high.",
+  "star": false
+ },
+ {
+  "lot": 1241,
+  "verdict": "PASS",
+  "criteria": [
+   "maker"
+  ],
+  "date": "1976",
+  "status": "modern",
+  "evidence": "Inferred",
+  "category": "glass",
+  "period": "modern",
+  "market": [
+   4000,
+   9000
+  ],
+  "resale": [
+   2800,
+   6200
+  ],
+  "analysis": "A pair of Centennial Colt Peacemakers in the original glass case, $8,000-12,000 -- by far the highest estimate in this group and eight to twelve times the band. Cased commemorative Colt pairs are a real firearms-collector market and the estimate is in the right neighbourhood. It is also 1976 production, which is modern by fifty years.",
+  "problems": "Massively above budget. Firearms also carry transfer requirements that an out-of-state online buyer has to route through an FFL, which the budget analysis here does not attempt to price. Not remotely a fit.",
+  "target": 0,
+  "ceiling": 0,
+  "patience": "Moderate. Commemorative Colt pairs are regularly available.",
+  "star": false
+ },
+ {
+  "lot": 1402,
+  "verdict": "PASS",
+  "criteria": [],
+  "date": "c.1970-2010",
+  "status": "modern",
+  "evidence": "Inferred",
+  "category": "glass",
+  "period": "modern",
+  "market": [
+   100,
+   275
+  ],
+  "resale": [
+   70,
+   190
+  ],
+  "analysis": "A Chinese elm and glass-top coffee table, $300-400. Modern furniture in the Chinese decorative idiom; a glass top is itself a modern-manufacture signal. No age, no maker, no criteria fit.",
+  "problems": "Estimate is above the market for an import coffee table. Undated.",
+  "target": 0,
+  "ceiling": 0,
+  "patience": "Very high.",
+  "star": false
+ },
+ {
+  "lot": 1417,
+  "verdict": "PASS",
+  "criteria": [],
+  "date": "20th c.",
+  "status": "unverified",
+  "evidence": "Unverified",
+  "category": "glass",
+  "period": "modern",
+  "market": [
+   100,
+   250
+  ],
+  "resale": [
+   70,
+   170
+  ],
+  "analysis": "A Chinese Peking glass bowl, $300-400 -- undated, in contrast to its immediate neighbour 1419, which the same cataloguer describes as 'early'. When one of two adjacent lots of the same material gets an age word and the other does not, read the omission.",
+  "problems": "No date. Peking overlay glass has been made continuously since the 18th century and modern production is excellent and cheap. Estimate is a block default.",
+  "target": 0,
+  "ceiling": 0,
+  "patience": "Very high.",
+  "star": false
+ },
+ {
+  "lot": 1419,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [
+   "antique"
+  ],
+  "date": "19th c. or earlier if right",
+  "status": "border",
+  "evidence": "Unverified",
+  "category": "glass",
+  "period": "victorian",
+  "market": [
+   150,
+   500
+  ],
+  "resale": [
+   100,
+   350
+  ],
+  "analysis": "Two 'early' Peking glass bowls, $300-400, with eight photographs -- the most documented lot in this group, which itself suggests the house thinks there is something here. Peking glass is a genuine Qing imperial and workshop tradition and good 18th-19th-century monochrome and overlay bowls are collected. Two bowls at $150-200 each is not an unreasonable place to take a chance.",
+  "problems": "'Early' is the vaguest possible age word and the standing rule about unverified dating applies. Peking glass is copied continuously and modern Chinese production is technically excellent -- the distinguishing features are wheel-polished pontil areas, slight asymmetry, and a body colour with the faint smokiness of period batch glass, none of which resolve in a photograph. Eight images are an opportunity: look at them all at preview alongside the pieces.",
+  "target": 200,
+  "ceiling": 325,
+  "patience": "High. Peking glass runs regularly and almost all of it raises this question.",
+  "star": false
+ },
+ {
+  "lot": 3051,
+  "verdict": "PASS",
+  "criteria": [
+   "maker",
+   "artnouveau"
+  ],
+  "date": "c.1900-1928 if right",
+  "status": "unverified",
+  "evidence": "Unverified",
+  "category": "glass",
+  "period": "artnouveau",
+  "market": [
+   2000,
+   6000
+  ],
+  "resale": [
+   1400,
+   4100
+  ],
+  "analysis": "A Tiffany Studios 'Acorn' pattern leaded glass lamp shade, $3,000-5,000. This is exactly the case the brief anticipates -- the headline name, the authentic Art Nouveau criterion, and a price four to six times the band. $3,960-6,600 all-in. Acorn is Tiffany's most common leaded pattern and a genuine one in good condition does trade in this range, so the estimate is not itself a red flag; it is simply out of reach.",
+  "problems": "Above budget by a factor of four. Tiffany shades are the most reproduced object in American decorative arts and the fakes carry convincing stamped tags; authentication rests on glass character, lead line profile and the tag's font and mounting, all of which need the shade in hand and preferably a specialist. Nothing in the catalogue addresses any of it.",
+  "target": 0,
+  "ceiling": 0,
+  "patience": "Low on real Tiffany, but irrelevant -- this budget does not buy one, and the brief already says so.",
+  "star": false
+ },
+ {
+  "lot": 3059,
+  "verdict": "BUY IF CHEAP",
+  "criteria": [
+   "antique"
+  ],
+  "date": "c.1920",
+  "status": "border",
+  "evidence": "Catalogued",
+  "category": "glass",
+  "period": "deco",
+  "market": [
+   200,
+   500
+  ],
+  "resale": [
+   140,
+   350
+  ],
+  "analysis": "A circa 1920 table lamp with a reverse-painted glass shade, $500-700. Catalogued to c.1920, which puts it just inside the antique line -- 'border', because a c.1920 attribution with no maker is soft. Reverse-painted shade lamps by Handel, Pittsburgh, Moe Bridges and their many imitators are a real category, and an unsigned one is a fraction of a signed one.",
+  "problems": "No maker named, which on reverse-painted lamps is most of the value. Check the interior of the shade rim for a signature and the base for a maker's mark. Reverse-painted shades flake from the inside and the damage is invisible when lit and obvious when not -- inspect unlit. Estimate at $660-924 all-in is at the top of the band for an unsigned lamp.",
+  "target": 250,
+  "ceiling": 425,
+  "patience": "High. Reverse-painted lamps run constantly; unsigned ones are the bulk of the supply.",
+  "star": false
+ },
+ {
+  "lot": 3106,
+  "verdict": "PASS",
+  "criteria": [
+   "maker"
+  ],
+  "date": "c.1920-1932",
+  "status": "border",
+  "evidence": "Inferred",
+  "category": "glass",
+  "period": "deco",
+  "market": [
+   400,
+   1000
+  ],
+  "resale": [
+   280,
+   690
+  ],
+  "analysis": "A Frederick Carder for Steuben 'Strawberry Mansion' glass urn, $800-1,200. Carder-period Steuben is genuinely collected and the attribution is specific enough to be checkable, which is more than most decorative glass here offers. But $1,056-1,584 all-in is above the band, and the brief already flags Steuben as a market whose estimates run ahead of results and which corrected hard without recovering.",
+  "problems": "Above budget, in a market the standing brief names as weak. Carder Steuben is also extensively faked and misattributed -- the acid Steuben fleur-de-lis mark is easy to add. 'Strawberry Mansion' is a specific pattern name; verify it against the Carder shape numbers rather than taking the catalogue's word.",
+  "target": 0,
+  "ceiling": 0,
+  "patience": "Moderate to high. Carder Steuben appears in most decorative-arts sales.",
+  "star": false
+ },
+ {
+  "lot": 1286,
+  "verdict": "PASS",
+  "criteria": [
+   "antique",
+   "marine"
+  ],
+  "date": "19th c.",
+  "status": "antique",
+  "evidence": "Unverified",
+  "category": "marine",
+  "period": "victorian",
+  "market": [
+   1200,
+   3000
+  ],
+  "resale": [
+   830,
+   2070
+  ],
+  "analysis": "A China Trade painting of a US schooner entering port, $2,000-3,000. This is the most criteria-aligned expensive lot in the group -- anonymous 19th-century marine work is precisely what the brief calls out as satisfying both the age criterion and the coastal interest without a maker premium. China Trade harbour views of American vessels are a documented genre with a strong market. It is also $2,640-3,960 all-in, three times the band.",
+  "problems": "Above budget by a wide margin. No date, no port identified, no vessel named, no medium confirmed -- 'China Trade painting' covers period oils on canvas, later copies, and 20th-century decorative work in the same idiom. At this estimate the attribution needs to be right and nothing here establishes it.",
+  "target": 0,
+  "ceiling": 0,
+  "patience": "Moderate. China Trade ship portraits appear in most marine sales; this budget does not reach the good ones.",
+  "star": false
+ },
+ {
+  "lot": 2198,
+  "verdict": "PASS",
+  "criteria": [],
+  "date": "circa 1920",
+  "status": "modern",
+  "evidence": "Catalogued",
+  "category": "furniture",
+  "period": "deco",
+  "market": [
+   300,
+   800
+  ],
+  "resale": [
+   210,
+   550
+  ],
+  "analysis": "A New York Empire mahogany settee, circa 1920 -- so a Colonial Revival reproduction of an 1820s form, catalogued honestly to 1920. The house has done the work here: 'Empire' names the style and 'circa 1920' names the date, and the two together mean revival. $1,000-1,500 is above the band regardless.",
+  "problems": "Above budget at $1,320-1,980 all-in for revival furniture. Upholstered Victorian and Empire seating is one of the weakest furniture markets there is -- large settees regularly fail to sell at all. Reupholstery on a piece this size costs more than the piece.",
+  "target": 0,
+  "ceiling": 0,
+  "patience": "Very high.",
+  "star": false
+ }
 ]
