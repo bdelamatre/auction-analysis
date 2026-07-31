@@ -175,6 +175,27 @@ def money(n):
     return "--" if n is None else "${:,.0f}".format(n)
 
 
+def fees(n):
+    """The buyer's premium and Maine sales tax added to a hammer price.
+
+    Shown under every hammer figure on the card because the brief's whole budget
+    is stated all-in: $100-1,000 hammer is $132-1,318 out the door, and the room
+    is built to make you forget the difference.
+    """
+    if not n:
+        return ""
+    return ('<i class="fee">+{} fees &amp; tax = {}</i>'
+            .format(money(round(n * (ALL_IN - 1))), money(round(n * ALL_IN))))
+
+
+def fees_rng(lo, hi):
+    if not lo or not hi:
+        return ""
+    return ('<i class="fee">+{}&ndash;{} = {}&ndash;{} all-in</i>'
+            .format(money(round(lo * (ALL_IN - 1))), money(round(hi * (ALL_IN - 1))),
+                    money(round(lo * ALL_IN)), money(round(hi * ALL_IN))))
+
+
 def rng(pair):
     if not pair:
         return "--"
@@ -418,7 +439,6 @@ def card(row, v, val, thumb_src):
     e = html.escape
     lot, verdict = row["lot"], v["verdict"]
     ceiling = v.get("ceiling") or 0
-    allin = ceiling * ALL_IN
     market, resale = val.get("market"), val.get("resale")
     cat, per = val.get("category"), val.get("period")
     if not cat or not per:
@@ -435,6 +455,22 @@ def card(row, v, val, thumb_src):
     margin = None
     if market and v.get("target") and market[0] and market[1] / market[0] <= 3:
         margin = sum(market) / 2 - v["target"] * ALL_IN
+
+    # "The house has this wrong." Two independent routes, both conservative:
+    #   market -- my midpoint is at least 1.4x theirs. Lots whose own range spans
+    #             more than 3x are excluded, because there the width is unresolved
+    #             uncertainty rather than value and a midpoint means nothing.
+    #   melt   -- what a refiner would actually pay exceeds the TOP of their
+    #             estimate. That one needs no opinion at all.
+    under, under_ratio, under_why = False, 0.0, []
+    house_mid = ((row["est_low"] or 0) + (row["est_high"] or 0)) / 2
+    if house_mid and market and market[0] and market[1] / market[0] <= 3:
+        under_ratio = (sum(market) / 2) / house_mid
+        if under_ratio >= 1.4:
+            under_why.append("my market estimate is {:.1f}x the house midpoint".format(under_ratio))
+    if row["est_high"] and refined and refined[1] > row["est_high"]:
+        under_why.append("a refiner alone would pay more than the top estimate")
+    under = bool(under_why)
 
     crits = "".join('<span class="tag">{}</span>'.format(e(CRITERIA_LABEL.get(c, c)))
                     for c in v.get("criteria", []))
@@ -457,7 +493,7 @@ def card(row, v, val, thumb_src):
     return """
 <article class="entry card" data-lot="{lot}" data-verdict="{vslug}" data-status="{status}" data-day="{day}"
   data-category="{cat}" data-period="{per}" data-vrank="{vrank}" data-market="{mkt}" data-resale="{rsl}"
-  data-est="{est}" data-bid="{bidv}" data-melt="{meltv}" data-margin="{marg}" data-search="{search}">
+  data-est="{est}" data-esthi="{esthi}" data-bid="{bidv}" data-melt="{meltv}" data-margin="{marg}" data-under="{under}" data-uratio="{uratio}" data-search="{search}">
   <div class="lot-head">
     <a class="thumb" href="{url}" target="_blank" rel="noopener">{img}</a>
     <div class="lot-id">
@@ -471,6 +507,7 @@ def card(row, v, val, thumb_src):
       <div class="verdict v-{vslug}">{verdict}</div>
       <button class="star" aria-label="star this lot">&#9733;</button>
       {keyflag}
+      {underflag}
     </div>
   </div>
   <div class="lot-body">
@@ -486,11 +523,10 @@ def card(row, v, val, thumb_src):
     {metal}
     {bar}
     <div class="grid">
-      <div><span>House estimate</span><b>{est_r}</b></div>
-      <div><span>Current bid</span><b>{bid}</b></div>
-      <div><span>Target</span><b class="good">{target}</b></div>
-      <div><span>Walk-away</span><b class="stop">{ceiling}</b></div>
-      <div><span>All-in at ceiling</span><b>{allin}</b></div>
+      <div><span>House estimate</span><b>{est_r}</b>{est_fee}</div>
+      <div><span>Current bid</span><b>{bid}</b>{bid_fee}</div>
+      <div><span>Target</span><b class="good">{target}</b>{target_fee}</div>
+      <div><span>Walk-away</span><b class="stop">{ceiling}</b>{ceiling_fee}</div>
     </div>
     <p class="patience"><b>Patience.</b> {patience}</p>
     {src}
@@ -501,7 +537,8 @@ def card(row, v, val, thumb_src):
         day=row["day"], dayname={"day1": "Day 1", "day2": "Day 2", "day3": "Day 3"}[row["day"]],
         cat=e(cat), per=e(per), catlabel=e(CAT_LABEL.get(cat, cat)), perlabel=e(PER_LABEL.get(per, per)),
         vrank=VERDICT_ORDER.index(verdict), mkt=(market[1] if market else 0),
-        rsl=(resale[1] if resale else 0), est=(row["est_low"] or 0), bidv=(row["current_bid"] or 0),
+        rsl=(resale[1] if resale else 0), est=(row["est_low"] or 0), esthi=(row["est_high"] or row["est_low"] or 0),
+        bidv=(row["current_bid"] or 0),
         meltv=(melt[1] if melt else 0), marg=(round(margin) if margin is not None else -99999),
         search=searchable, url=e(row["url"] or "#"),
         img='<img loading="lazy" src="{}" alt="Lot {}">'.format(e(thumb_src), lot) if thumb_src else "",
@@ -509,6 +546,9 @@ def card(row, v, val, thumb_src):
         evidence=e(v.get("evidence", "Unverified")), evslug=e(v.get("evidence", "unverified").lower()),
         crits=crits, verdict=e(verdict),
         keyflag='<div class="keyflag">key lot</div>' if v.get("star") else "",
+        under=1 if under else 0, uratio=round(under_ratio, 2),
+        underflag=('<div class="underflag" title="{}">house under</div>'.format(
+            e("; ".join(under_why))) if under else ""),
         analysis=e(v.get("analysis", "")), problems=e(v.get("problems", "")),
         catdesc=cat_desc,
         market=rng(market), resale=rng(resale),
@@ -520,7 +560,10 @@ def card(row, v, val, thumb_src):
         est_r="{} - {}".format(money(row["est_low"]), money(row["est_high"])),
         bid=money(row["current_bid"]),
         target=money(v.get("target")) if v.get("target") else "--",
-        ceiling=money(ceiling) if ceiling else "--", allin=money(allin) if ceiling else "--",
+        ceiling=money(ceiling) if ceiling else "--",
+        est_fee=fees_rng(row["est_low"], row["est_high"]),
+        bid_fee=fees(row["current_bid"]), target_fee=fees(v.get("target")),
+        ceiling_fee=fees(ceiling),
         patience=e(v.get("patience", "")), src=src)
 
 
@@ -634,10 +677,10 @@ def render(lots, verdicts, valuations, method, embed=False):
     per_opts = "".join('<option value="{}">{}</option>'.format(k, lbl) for k, lbl in PERIODS)
 
     return TEMPLATE.format(
-        cards="\n".join(cards), legend=legend, metals=metals, chips=chips,
-        cat_opts=cat_opts, per_opts=per_opts, grp_opts=grp_opts,
+        cards="\n".join(cards), metals=metals, chips=chips,
+        cat_opts=cat_opts, per_opts=per_opts,
         n_analysed=len(analysed), n_screened=sum(len(g["rows"]) for g in screened.values()),
-        n_total=len(lots),
+        n_total=len(lots), allin=ALL_IN,
         m_market=html.escape(method["market"]), m_resale=html.escape(method["resale"]),
         m_melt=html.escape(method["melt"]), m_gems=html.escape(method["gems"])), analysed, screened, counts
 
@@ -874,6 +917,22 @@ main{{padding:12px 10px 40px;max-width:880px;margin:0 auto}}
 .grid div{{background:var(--paper);padding:5px 7px}}
 .grid span{{display:block;font-family:var(--sans);font-size:.58rem;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}}
 .grid b{{font-family:var(--mono);font-size:.86rem;overflow-wrap:break-word}}
+.underflag{{margin-top:4px;font-family:var(--sans);font-size:.55rem;letter-spacing:.07em;
+  text-transform:uppercase;color:var(--badge-fg);background:var(--brass);
+  border-radius:2px;padding:2px 5px;text-align:center;cursor:help}}
+.band{{border:1px solid var(--line);border-radius:3px;padding:8px 10px;margin:0 0 8px;background:var(--paper)}}
+.band-h{{display:flex;align-items:center;gap:8px;margin-bottom:4px}}
+.band-h>span{{font-family:var(--sans);font-size:.62rem;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}}
+.band-h>output{{font-family:var(--mono);font-size:.76rem;color:var(--ink);margin-right:auto}}
+#bandreset{{font-family:var(--sans);font-size:.6rem;letter-spacing:.06em;text-transform:uppercase;
+  border:1px solid var(--line);background:var(--panel);color:var(--link);border-radius:2px;padding:3px 7px;cursor:pointer}}
+#bandreset:hover{{border-color:var(--verdigris)}}
+.band label{{display:flex;align-items:center;gap:8px;margin:2px 0}}
+.band label i{{font-style:normal;font-family:var(--sans);font-size:.58rem;letter-spacing:.08em;
+  text-transform:uppercase;color:var(--muted);width:26px;flex:none}}
+.band input[type=range]{{flex:1;min-width:0;accent-color:var(--verdigris);height:22px}}
+.band-note{{margin:5px 0 0;font-size:.7rem;color:var(--muted);line-height:1.4}}
+.grid .fee{{display:block;font-family:var(--mono);font-size:.62rem;font-style:normal;color:var(--muted);margin-top:2px;line-height:1.3;overflow-wrap:break-word}}
 .grid .good,.vals .good{{color:var(--good)}} .grid .stop,.vals .stop{{color:var(--stop)}}
 .lotlink{{font-family:var(--sans);font-size:.66rem;letter-spacing:.08em;text-transform:uppercase;color:var(--link)}}
 h2.sec{{font-family:var(--sans);font-weight:600;letter-spacing:.08em;text-transform:uppercase;font-size:.9rem;
@@ -931,6 +990,16 @@ a{{color:var(--link)}}
       <dt>If you resold it</dt><dd>{m_resale}</dd>
       <dt>Melt values</dt><dd>{m_melt}</dd>
       <dt>Stones</dt><dd>{m_gems}</dd>
+      <dt>House undervalued</dt><dd>The brass <b>house under</b> badge, and the chip of the same
+      name, mark lots where I think Thomaston has priced it wrong. Two independent routes, either
+      one qualifies. <b>Market:</b> the midpoint of my market range is at least 1.4&times; the
+      midpoint of theirs &mdash; excluding any lot whose own range spans more than three-fold, where
+      the width is uncertainty rather than value. <b>Melt:</b> what a refiner would actually pay for
+      the metal exceeds the <em>top</em> of the house estimate, which needs no opinion from me at
+      all. Hover the badge for which route applied. Twenty-six lots qualify; sort by
+      &ldquo;Undervaluation vs house&rdquo; to rank them. This is my judgement against theirs, so
+      read the analysis before trusting it &mdash; and note that a cheap estimate on a big name is
+      usually the house telling you something, not missing something.</dd>
       <dt>Margin at target</dt><dd>The midpoint of my market range minus the all-in cost at my target
       bid. Positive means you are buying under market after premium and tax; negative means you are
       paying up for it. Sort by this to rank the whole list on value rather than on my verdict.
@@ -955,16 +1024,29 @@ a{{color:var(--link)}}
     <button class="chip" data-filter="all" aria-pressed="true">All</button>
     {chips}
   </div>
-  <details id="more"><summary>More filters &amp; sorting</summary>
+  <details id="more"><summary>Budget, more filters &amp; sorting</summary>
+  <div class="band">
+    <div class="band-h">
+      <span>Hammer budget</span>
+      <output id="bandout"></output>
+      <button id="bandreset" type="button">My band</button>
+    </div>
+    <label><i>Min</i><input id="bmin" type="range" min="0" max="2000" step="25" value="0"
+      aria-label="minimum hammer price"></label>
+    <label><i>Max</i><input id="bmax" type="range" min="0" max="2000" step="25" value="2000"
+      aria-label="maximum hammer price"></label>
+    <p class="band-note">Shows every lot whose house estimate <em>overlaps</em> the range, so a
+      lot estimated $300&ndash;800 still appears at a $500 ceiling &mdash; it may yet hammer low.
+      &ldquo;My band&rdquo; snaps to the brief&rsquo;s $100&ndash;1,000.</p>
+  </div>
   <div class="row">
     <button class="chip" data-filter="day" data-value="day1">Day 1</button>
     <button class="chip" data-filter="day" data-value="day2">Day 2</button>
     <button class="chip" data-filter="day" data-value="day3">Day 3</button>
     <button class="chip" data-filter="starred">&#9733; Starred</button>
+    <button class="chip" data-filter="under">House undervalued</button>
   </div>
   <div class="row">
-    <button class="chip" data-filter="detail" data-value="full">Assessed in full</button>
-    <button class="chip" data-filter="detail" data-value="screened">Category-level PASS</button>
     <button class="chip" data-filter="status" data-value="antique">Antique</button>
     <button class="chip" data-filter="status" data-value="border">Border</button>
     <button class="chip" data-filter="status" data-value="modern">Modern</button>
@@ -974,8 +1056,6 @@ a{{color:var(--link)}}
       <select id="fcat"><option value="">All categories</option>{cat_opts}</select></label>
     <label><span>Period / style</span>
       <select id="fper"><option value="">All periods</option>{per_opts}</select></label>
-    <label class="wide"><span>Reason for PASS (category-level calls)</span>
-      <select id="fgrp"><option value="">All reasons</option>{grp_opts}</select></label>
   </div>
   <div class="sorts">
     <label><span>Sort by</span><select id="s1">
@@ -986,6 +1066,7 @@ a{{color:var(--link)}}
       <option value="margin">Margin at target</option>
       <option value="melt">Melt value</option>
       <option value="est">House estimate</option>
+      <option value="uratio">Undervaluation vs house</option>
       <option value="bid">Current bid</option>
     </select></label>
     <label><span>Then by</span><select id="s2">
@@ -1015,7 +1096,6 @@ from one of the reasons below rather than from an individual write-up &mdash; a 
 that clearly fits an identified pattern. They carry no value estimates, because I will not put a number on
 something I have not costed individually. Say which category to deepen next and those rows become full
 write-ups with market, resale and melt figures, exactly as the jewellery now has.</p>
-<div class="legend">{legend}</div>
 </main>
 
 <footer>
@@ -1026,12 +1106,16 @@ write-ups with market, resale and melt figures, exactly as the jewellery now has
 
 <script>
 (function(){{
+  var BAND_MAX=2000;                      // top of the slider; there it means "no limit"
   var state={{verdict:null,status:null,day:null,detail:null,category:"",period:"",group:"",
-              starred:false,q:""}};
+              starred:false,under:false,q:"",bmin:0,bmax:BAND_MAX}};
   var box=document.getElementById("lots");
   var lots=[].slice.call(document.querySelectorAll(".entry"));
   var countEl=document.getElementById("count");
   var s1=document.getElementById("s1"), s2=document.getElementById("s2"), dir=document.getElementById("dir");
+  var bmin=document.getElementById("bmin"), bmax=document.getElementById("bmax");
+  var bandout=document.getElementById("bandout");
+  var ALL_IN={allin:.5f};                 // 1.25 online premium x 1.055 Maine sales tax
   var desc=false, stars={{}};
   try{{stars=JSON.parse(localStorage.getItem("sg26stars")||"{{}}");}}catch(e){{stars={{}};}}
 
@@ -1053,7 +1137,7 @@ write-ups with market, resale and melt figures, exactly as the jewellery now has
   function sortLots(){{
     var k1=s1.value, k2=s2.value;
     // "Verdict" and "Lot number" read best ascending; money reads best descending.
-    var money={{market:1,resale:1,margin:1,melt:1,est:1,bid:1}};
+    var money={{market:1,resale:1,margin:1,melt:1,est:1,bid:1,uratio:1}};
     var flip=desc?-1:1;
     var arr=lots.slice().sort(function(a,b){{
       var d=(num(a,k1)-num(b,k1))*(money[k1]?-1:1)*flip;
@@ -1078,28 +1162,63 @@ write-ups with market, resale and melt figures, exactly as the jewellery now has
       if(state.period && d.period!==state.period) ok=false;
       if(state.group && d.group!==state.group) ok=false;
       if(state.starred && !stars[d.lot]) ok=false;
+      if(state.under && d.under!=="1") ok=false;
       if(state.q && d.search.indexOf(state.q)===-1) ok=false;
+      // Estimate-range overlap, not containment: a lot estimated $300-800 is still
+      // reachable on a $500 ceiling, and hiding it would hide the bargains.
+      if(ok && (state.bmin>0 || state.bmax<BAND_MAX)){{
+        var elo=+d.est||0, ehi=+d.esthi||elo;
+        if(elo||ehi){{
+          if(ehi < state.bmin) ok=false;
+          if(state.bmax<BAND_MAX && elo > state.bmax) ok=false;
+        }}
+      }}
       el.style.display=ok?"":"none";
       if(ok){{ if(isScr) scr++; else full++; }}
     }});
-    countEl.textContent=(full+scr)+" of 1500 shown \\u2014 "+full+
-      " assessed in full, "+scr+" category-level PASS";
+    var band="";
+    if(state.bmin>0 || state.bmax<BAND_MAX)
+      band=" \\u2014 hammer "+usd(state.bmin)+" to "+
+           (state.bmax>=BAND_MAX?"no limit":usd(state.bmax));
+    countEl.textContent=(full+scr)+" of 1500 shown"+band;
   }}
+
+  function usd(n){{ return "$"+Math.round(n).toString().replace(/\\B(?=(\\d{{3}})+(?!\\d))/g,","); }}
+
+  function drawBand(){{
+    // Keep the two thumbs from crossing over each other.
+    if(+bmin.value > +bmax.value){{
+      if(document.activeElement===bmin) bmax.value=bmin.value; else bmin.value=bmax.value;
+    }}
+    state.bmin=+bmin.value; state.bmax=+bmax.value;
+    var hi=state.bmax>=BAND_MAX;
+    bandout.textContent=usd(state.bmin)+" \\u2013 "+(hi?"no limit":usd(state.bmax))+
+      " hammer  \\u00b7  "+usd(state.bmin*ALL_IN)+" \\u2013 "+
+      (hi?"no limit":usd(state.bmax*ALL_IN))+" all-in";
+  }}
+  function setBand(lo,hi){{ bmin.value=lo; bmax.value=hi; drawBand(); apply(); }}
+
+  bmin.addEventListener("input",function(){{ drawBand(); apply(); }});
+  bmax.addEventListener("input",function(){{ drawBand(); apply(); }});
+  document.getElementById("bandreset").addEventListener("click",function(){{ setBand(100,1000); }});
 
   document.querySelectorAll(".chip").forEach(function(c){{
     c.addEventListener("click",function(){{
       var f=c.dataset.filter;
-      if(f==="all"){{ state.verdict=state.status=state.day=state.detail=null; state.starred=false;
+      if(f==="all"){{ state.verdict=state.status=state.day=state.detail=null; state.starred=false; state.under=false;
         state.category=state.period=state.group="";
+        bmin.value=0; bmax.value=BAND_MAX; drawBand();
         document.getElementById("fcat").value=""; document.getElementById("fper").value="";
-        document.getElementById("fgrp").value=""; }}
+      }}
       else if(f==="starred"){{ state.starred=!state.starred; }}
+      else if(f==="under"){{ state.under=!state.under; }}
       else {{ state[f]=(state[f]===c.dataset.value)?null:c.dataset.value; }}
       document.querySelectorAll(".chip").forEach(function(o){{
         var of=o.dataset.filter, on=false;
         if(of==="all") on=!state.verdict&&!state.status&&!state.day&&!state.detail&&!state.starred
-                          &&!state.category&&!state.period&&!state.group;
+                          &&!state.category&&!state.period&&!state.group&&!state.under;
         else if(of==="starred") on=state.starred;
+        else if(of==="under") on=state.under;
         else on=state[of]===o.dataset.value;
         o.setAttribute("aria-pressed",String(on));
       }});
@@ -1109,7 +1228,6 @@ write-ups with market, resale and melt figures, exactly as the jewellery now has
 
   document.getElementById("fcat").addEventListener("change",function(e){{ state.category=e.target.value; apply(); }});
   document.getElementById("fper").addEventListener("change",function(e){{ state.period=e.target.value; apply(); }});
-  document.getElementById("fgrp").addEventListener("change",function(e){{ state.group=e.target.value; apply(); }});
   s1.addEventListener("change",sortLots);
   s2.addEventListener("change",sortLots);
   dir.addEventListener("click",function(){{
@@ -1119,7 +1237,7 @@ write-ups with market, resale and melt figures, exactly as the jewellery now has
   document.getElementById("q").addEventListener("input",function(e){{
     state.q=e.target.value.trim().toLowerCase(); apply();
   }});
-  sortLots(); apply();
+  drawBand(); sortLots(); apply();
 }})();
 </script>
 </body>
